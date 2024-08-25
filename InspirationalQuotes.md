@@ -1,4 +1,6 @@
-# Inspiration Quotes
+# Inspirational Quotes
+
+I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Perseverance
 
