@@ -2,6 +2,12 @@
 
 I am collecting the Inspirational Quotes / Wisdom from different sources.
 
+## Post it in your WhatsApp Status
+
+> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+---
+
 ## Perseverance
 
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
@@ -162,7 +168,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Purpose and Vision
 
-> 1. "The best way to predict your future is to create it." - Abraham Lincoln
+> 1.
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
@@ -188,7 +194,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success and Achievement
 
-> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
+> 1.
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "The best revenge is massive success." - Frank Sinatra
@@ -278,7 +284,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Success and Achievement
 
-- "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
+-
 - "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 - "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 - "The best revenge is massive success." - Frank Sinatra
@@ -691,5 +697,3 @@ Certainly! Here are some more famous quotes across various themes, from wisdom a
 - "Change is the only constant in life." - Heraclitus
 - "The measure of intelligence is the ability to change." - Albert Einstein
 - "You must be the change you wish to see in the world." - Mahatma Gandhi
-
-Feel free to use these quotes to inspire, reflect, or motivate!
