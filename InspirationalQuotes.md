@@ -4,6 +4,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Post it in your WhatsApp Status
 
+> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+---
+
 ## Perseverance
 
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
@@ -693,5 +697,3 @@ Certainly! Here are some more famous quotes across various themes, from wisdom a
 - "Change is the only constant in life." - Heraclitus
 - "The measure of intelligence is the ability to change." - Albert Einstein
 - "You must be the change you wish to see in the world." - Mahatma Gandhi
-
-Feel free to use these quotes to inspire, reflect, or motivate!
