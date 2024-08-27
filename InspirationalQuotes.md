@@ -4,7 +4,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Post it in your WhatsApp Status
 
-> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 
 ---
 
@@ -41,7 +41,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "The best way to predict your future is to create it." - Abraham Lincoln
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
-> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
+> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky **Here**
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
@@ -171,7 +171,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1.
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+> 1.
 > 1. "If you want to achieve greatness, stop asking for permission."
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
@@ -204,7 +204,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Motivation and Inspiration
 
 > 1.
-> 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+> 1.
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock."
 > 1.
 > 1. "Don’t wait for opportunity. Create it."
@@ -221,7 +221,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Empowerment and Self-Improvement
 
-> 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+> 1.
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
@@ -240,7 +240,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+> 1.
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "Dream big and dare to fail." - Norman Vaughan
 
@@ -259,7 +259,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 ## Purpose and Vision
 
 - "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-- "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+-
 - "If you want to achieve greatness, stop asking for permission." - Anonymous
 - "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 - "Vision without execution is just hallucination." - Henry Ford
@@ -298,7 +298,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
-- "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+-
 
 ## Wisdom and Learning
 
@@ -395,7 +395,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 - "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 - "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 - "Opportunities don't happen. You create them." - Chris Grosser
-- "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
 ## Motivation and Inspiration
 
@@ -433,7 +432,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 
 - "Creativity is intelligence having fun." - Albert Einstein
 - "Innovation distinguishes between a leader and a follower." - Steve Jobs
--
 - "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." - Scott Adams
 - "There is no greater danger than underestimating your opponent." - Sun Tzu
 
@@ -451,9 +449,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 - "Resilience is the capacity to recover quickly from difficulties; toughness." - Unknown
 - "The only way to deal with fear is to face it head on." - Anonymous
 - "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
--
-
-Absolutely! Here’s a selection of wisdom quotes that offer profound insights and reflections on life, learning, and understanding:
 
 ## Wisdom and Insight
 
@@ -492,7 +487,6 @@ Absolutely! Here’s a selection of wisdom quotes that offer profound insights a
 - "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
 - "When we are no longer able to change a situation, we are challenged to change ourselves." - Viktor E. Frankl
 - "He who has a why to live can bear almost any how." - Friedrich Nietzsche
--
 - "Everything has beauty, but not everyone can see it." - Confucius
 
 ## Life Lessons and Truths
@@ -510,8 +504,6 @@ Absolutely! Here’s a selection of wisdom quotes that offer profound insights a
 - "The most difficult thing is the decision to act, the rest is merely tenacity." - Amelia Earhart
 - "You cannot change the direction of the wind, but you can adjust your sails to always reach your destination." - Jimmy Dean
 - "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
-
-Certainly! Here’s an expanded selection of quotes on learning, growth, and education:
 
 ## Learning and Growth
 
@@ -561,20 +553,15 @@ Certainly! Here’s an expanded selection of quotes on learning, growth, and edu
 - "I am always ready to learn although I do not always like being taught." - Winston Churchill
 - "It does not matter how slowly you go as long as you do not stop." - Confucius
 - "We may encounter many defeats but we must not be defeated." - Maya Angelou
--
 - "The expert in anything was once a beginner." - Helen Hayes
 - "There are no failures, only experiences and your reactions to them." - Tom Krause
 
 ## Transformation and Enlightenment
 
 - "The only way to do great work is to love what you do." - Steve Jobs
--
 - "The only person who is educated is the one who has learned how to learn... and change." - Carl Rogers
--
 - "We are all apprentices in a craft where no one ever becomes a master." - Ernest Hemingway
 - "To improve is to change; to be perfect is to change often." - Winston Churchill
-
-Certainly! Here are some more famous quotes across various themes, from wisdom and motivation to life and love:
 
 ## Wisdom and Insight
 
@@ -589,7 +576,6 @@ Certainly! Here are some more famous quotes across various themes, from wisdom a
 ## Motivation and Success
 
 - "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-- "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 - "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 - "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
@@ -631,13 +617,10 @@ Certainly! Here are some more famous quotes across various themes, from wisdom a
 - "Be the change that you wish to see in the world." - Mahatma Gandhi
 - "The only thing constant is change." - Heraclitus
 - "Innovation distinguishes between a leader and a follower." - Steve Jobs
--
 - "Change is the only constant in life." - Heraclitus
 - "The measure of intelligence is the ability to change." - Albert Einstein
 - "You must be the change you wish to see in the world." - Mahatma Gandhi
 
-Certainly! Here are some more famous quotes across various themes, from wisdom and motivation to life and love:
-
 ## Wisdom and Insight
 
 - "The only true wisdom is in knowing you know nothing." - Socrates
@@ -651,7 +634,6 @@ Certainly! Here are some more famous quotes across various themes, from wisdom a
 ## Motivation and Success
 
 - "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-- "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 - "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 - "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
@@ -693,7 +675,6 @@ Certainly! Here are some more famous quotes across various themes, from wisdom a
 - "Be the change that you wish to see in the world." - Mahatma Gandhi
 - "The only thing constant is change." - Heraclitus
 - "Innovation distinguishes between a leader and a follower." - Steve Jobs
--
 - "Change is the only constant in life." - Heraclitus
 - "The measure of intelligence is the ability to change." - Albert Einstein
 - "You must be the change you wish to see in the world." - Mahatma Gandhi
