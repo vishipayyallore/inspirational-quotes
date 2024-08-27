@@ -4,7 +4,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Post it in your WhatsApp Status
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+> 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 
 ---
 
