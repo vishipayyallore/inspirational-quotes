@@ -4,15 +4,16 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Post it in your WhatsApp Status
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
-
----
-
-## Perseverance
+### Perseverance
 
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+
+---
+
+## Perseverance - V1
+
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it’s done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
@@ -678,3 +679,204 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 - "Change is the only constant in life." - Heraclitus
 - "The measure of intelligence is the ability to change." - Albert Einstein
 - "You must be the change you wish to see in the world." - Mahatma Gandhi
+
+---
+
+"Believe you can and you're halfway there." - Theodore Roosevelt
+"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
+"You don't have to be great to start, but you have to start to be great." - Zig Ziglar
+"Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
+"Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
+"Life begins at the end of your comfort zone." - Neale Donald Walsch
+"Focus on what's important and let go of the rest."
+"Stand up for what you believe in, but pick your battles carefully."
+"Don't waste your energy on things that don't deserve it."
+"It's better to be happy than to be right."
+"Choose your battles wisely, and you'll never be defeated."
+"Life is too short to waste it on petty arguments."
+"Be selective in your battles, but when you do fight, fight with everything you've got."
+"Don't let small things ruin your happiness. Choose to be happy instead."
+"Sometimes it's better to let things go than to hold on to them."
+"Life is too precious to spend it on things that don't matter."
+"The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
+"It takes more strength to walk away from a battle than to engage in one."
+"Act as if what you do makes a difference. It does." - William James
+"Sometimes the best way to win a battle is to avoid it altogether."
+"Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
+"You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+"The battles we don't fight are often more important than the ones we do."
+"Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
+"Don't let your emotions control you. Choose your battles with a clear mind and a calm heart."
+"In your life, expect some trouble. But when you worry, you make it double. But don't worry, be happy, be happy now." - Bobby McFerrin
+"Never underestimate the power of a strategic retreat."
+"You can, you should, and if you’re brave enough to start, you will." - Stephen King
+"Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
+"It's not about winning or losing battles; it's about preserving your peace."
+"You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
+"Choose your battles wisely because sometimes the price of victory is too high."
+"Just say yes, and you’ll figure it out afterward." - Tina Fey
+"The greatest weapon in any battle is patience."
+"Choose to be optimistic; it feels better." - Dalai Lama
+"When you find yourself in the midst of a battle, take a step back and assess the situation before you act."
+"A dead end is just a good place to turn around." - Naomi Judd
+"Be selective in your battles, but never compromise your values."
+"Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
+"Try to be a rainbow in someone else’s cloud." - Maya Angelou
+"Real strength lies in walking away from battles that do not serve us."
+"I’d rather regret the things I’ve done than the things I haven’t done." - Lucille Ball
+"Don't let your ego get in the way of your happiness. Choose peace over pride."
+"Do your thing and don't care if they like it." - Tina Fey
+"Be selective in your battles, and you will ultimately win the war."
+"The greatest victory is the one that requires no battle."
+"Nothing is impossible, the word itself says ‘I’m possible.’" - Audrey Hepburn
+"For me, becoming isn't about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn't end." - Michelle Obama
+"If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee
+"I have discovered in life that there are ways of getting almost anywhere you want to go if you really want to go." - Langston Hughes
+"The only way to do great work is to love what you do." - Steve Jobs
+"Do something today that your future self will thank you for."
+"Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
+"The best way to predict your future is to create it." - Abraham Lincoln
+"Keep your eyes on the stars, and your feet on the ground." - Theodore Roosevelt
+"The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
+"Do not let what you cannot do interfere with what you can do." - John Wooden
+"Small steps today, a better tomorrow."
+"The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
+"It does not matter how slowly you go as long as you do not stop." - Confucius
+"Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
+"You don't have to control your thoughts. You just have to stop letting them control you." - Dan Millman
+"The only person you should try to be better than is the person you were yesterday." - Anonymous
+"Hope is the light that guides us through the darkness." - Desmond Tutu
+"You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
+"The best revenge is massive success." - Frank Sinatra
+"You miss 100% of the shots you don't take." - Wayne Gretzky
+"Keep shining, because the right people will be blinded by your light."
+"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+"You don't have to be perfect to start, but you have to start to be perfect."
+"The greatest wealth is health." - Virgil
+"Do something wonderful; people may imitate it." - Albert Schweitzer
+"You are never too young to lead and never too old to learn."
+"The best is yet to come." - Robert Browning
+"You can't go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
+"The future is not something we enter, but something we create." - Leonard Sweet
+"Your life does not get better by chance; it gets better by change." - Jim Rohn
+"Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
+"The best way to get started is to quit talking and begin doing." - Walt Disney
+"You don't need to see the whole staircase, just take the first step." - Martin Luther King Jr.
+"The biggest risk is not taking any risk." - Mark Zuckerberg
+"You are one decision away from a completely different life." - Unknown
+"Happiness is not by chance, but by choice." - Jim Rohn
+"Don't let yesterday take up too much of today." - Will Rogers
+"Invest in yourself; it's the best investment you'll ever make." - Unknown
+"I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
+"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
+"The journey of a thousand miles begins with a single step." - Lao Tzu
+"Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
+"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
+"The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
+"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
+"Resilience is not about overcoming, it's about becoming." - heri Salata
+"It always seems impossible until it’s done." - Nelson Mandela
+"If you're going through hell, keep going." - Winston Churchill
+"Even the darkest night will end and the sun will rise." - Victor Hugo
+"When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Unknown
+"Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
+"Hope is being able to see that there is light despite all of the darkness." - Desmond Tutu
+"Strength grows in the moments when you think you can't go on but you keep going anyway."
+"When you feel like giving up, remember why you started."
+"The harder the battle, the sweeter the victory."
+"Hope is a waking dream." - Aristotle
+"A champion is defined not by their wins but by how they can recover when they fall." - Serena Williams
+"Fall seven times, stand up eight." - Japanese Proverb
+"Out of difficulties grow miracles." - Jean de La Bruyère
+"Hope is the thing with feathers that perches in the soul." - Emily Dickinson
+"When you have a dream, you've got to grab it and never let go." - Carol Burnett
+"Don't let the fear of striking out hold you back." - Babe Ruth
+"The way to get started is to quit talking and begin doing." - Walt Disney
+"Everything you’ve ever wanted is on the other side of fear." - George Addair
+"Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+"The harder you work for something, the greater you’ll feel when you achieve it."
+"What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
+"It is never too late to be what you might have been." - George Eliot
+"You must do the thing you think you cannot do." - Eleanor Roosevelt
+"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+"It's not whether you get knocked down; it's whether you get up." - Vince Lombardi
+"Don’t watch the clock; do what it does. Keep going." - Sam Levenson
+"If you want to lift yourself up, lift up someone else." - Booker T. Washington
+"Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
+"Don’t count the days, make the days count." - Muhammad Ali
+"Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
+"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
+"When the going gets tough, the tough get going."
+"Believe you can, and you're halfway there." - Theodore Roosevelt
+"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
+"Don’t be discouraged. It’s often the last key in the bunch that opens the lock."
+"Your time is limited, don’t waste it living someone else’s life." - Steve Jobs
+"If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
+"What we achieve inwardly will change outer reality." - Plutarch
+"What would you do if you weren’t afraid?" - Sheryl Sandberg
+"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
+"All our dreams can come true if we have the courage to pursue them." - Walt Disney
+"Don’t watch the clock; do what it does. Keep going." - Sam Levenson
+"Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
+"You can’t cross the sea merely by standing and staring at the water." - Rabindranath Tagore
+"Dream big and dare to fail." - Norman Vaughan
+"Your life is your story. Write well. Edit often."
+"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
+"I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
+"The biggest risk is not taking any risk." - Mark Zuckerberg
+"Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+"The best revenge is massive success." - Frank Sinatra
+"Don't wait for opportunity. Create it."
+"Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+"I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
+"It is not the mountain we conquer but ourselves." - Edmund Hillary
+"Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
+"The only way to do great work is to love what you do." - Steve Jobs
+"Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs
+"Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
+"Act as if what you do makes a difference. It does." - William James
+"You miss 100% of the shots you don’t take." - Wayne Gretzky
+"You only live once, but if you do it right, once is enough." - Mae West
+"Strive not to be a success, but rather to be of value." - Albert Einstein
+"Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
+"To achieve greatness, start where you are, use what you have, do what you can."
+"Don’t wait. The time will never be just right." - Napoleon Hill
+"If you can dream it, you can achieve it." - Zig Ziglar
+"You can, you should, and if you’re brave enough to start, you will." - Stephen King
+"Life is what happens when you’re busy making other plans." - John Lennon
+"The best way to predict your future is to create it." - Peter Drucker
+"The only thing standing between you and your goal is the story you keep telling yourself as to why you can’t achieve it." - Jordan Belfort
+"You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
+"Don’t wait for the perfect moment. Take the moment and make it perfect." - Unknown
+"In the middle of every difficulty lies opportunity." - Albert Einstein
+"It always seems impossible until it’s done." - Nelson Mandela
+"Life is what we make it, always has been, always will be." - Grandma Moses
+"We generate fears while we sit. We overcome them by action." - Dr. Henry Link
+"You are enough just as you are." - Meghan Markle
+"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
+"The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+"We know what we are, but know not what we may be." - William Shakespeare
+"Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+"If you want to achieve greatness, stop asking for permission."
+"You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
+"The harder you work for something, the greater you’ll feel when you achieve it."
+"Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+"Opportunities don't happen, you create them." - Chris Grosser
+"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
+"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+"Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+"You miss 100% of the shots you don’t take." - Wayne Gretzky
+"Do what you can, with what you have, where you are." - Theodore Roosevelt
+"The best way to get started is to quit talking and begin doing." - Walt Disney
+"In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
+"If you want to lift yourself up, lift up someone else." - Booker T. Washington
+"Everything you’ve ever wanted is on the other side of fear." - George Addair
+"Life is what happens when you’re busy making other plans." - John Lennon
+"Don’t wait. The time will never be just right." - Napoleon Hill
+"Don’t wait for opportunity. Create it." - Unknown
+"The hardest thing to do is to keep going." - Unknown
