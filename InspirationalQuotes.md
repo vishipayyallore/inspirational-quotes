@@ -9,12 +9,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 
 ---
 
 ## Perseverance - V1
 
-> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it’s done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
@@ -738,7 +738,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 "The best way to predict your future is to create it." - Abraham Lincoln
 "Keep your eyes on the stars, and your feet on the ground." - Theodore Roosevelt
-"The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 "Do not let what you cannot do interfere with what you can do." - John Wooden
 "Small steps today, a better tomorrow."
 "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
