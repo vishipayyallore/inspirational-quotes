@@ -11,12 +11,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it’s done." - Nelson Mandela
+> 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh -- **Here**
 
 ---
 
 ## Perseverance - V1
 
-> 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Unknown
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
@@ -42,7 +42,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "The best way to predict your future is to create it." - Abraham Lincoln
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
-> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky **Here**
+> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
@@ -96,7 +96,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "Hope is a waking dream." - Aristotle
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
-> 1.
 > 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "The greatest victory is the one that requires no battle."
 
@@ -107,7 +106,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You can’t cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Do something today that your future self will thank you for."
 > 1. "Don’t wait. The time will never be just right." - Napoleon Hill
-> 1.
 > 1. "Act as if what you do makes a difference. It does." - William James
 
 ## Mindset and Perspective
@@ -122,7 +120,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Courage and Bravery
 
-> 1.
 > 1. "Don’t let the fear of striking out hold you back." - Babe Ruth
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
 > 1. "Be selective in your battles, but never compromise your values."
@@ -169,25 +166,17 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Purpose and Vision
 
-> 1.
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-> 1.
 > 1. "If you want to achieve greatness, stop asking for permission."
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Persistence and Determination
 
-> 1.
-> 1.
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
-> 1.
-> 1.
-> 1.
 
 ## Mindfulness and Presence
 
-> 1.
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
@@ -195,7 +184,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success and Achievement
 
-> 1.
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "The best revenge is massive success." - Frank Sinatra
@@ -204,10 +192,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Motivation and Inspiration
 
-> 1.
-> 1.
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock."
-> 1.
 > 1. "Don’t wait for opportunity. Create it."
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 
@@ -218,11 +203,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-> 1.
 
 ## Empowerment and Self-Improvement
 
-> 1.
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
@@ -241,7 +224,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-> 1.
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "Dream big and dare to fail." - Norman Vaughan
 
@@ -772,7 +754,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 "The journey of a thousand miles begins with a single step." - Lao Tzu
 "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
-"The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 "Resilience is not about overcoming, it's about becoming." - heri Salata
 "If you're going through hell, keep going." - Winston Churchill
