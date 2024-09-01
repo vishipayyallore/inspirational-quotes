@@ -12,12 +12,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it’s done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh -- **Here**
+> 1. "Fall seven times, stand up eight." - Japanese Proverb
 
 ---
 
 ## Perseverance - V1
 
-> 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Unknown
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "If you’re going through hell, keep going." - Winston Churchill
@@ -766,7 +766,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 "The harder the battle, the sweeter the victory."
 "Hope is a waking dream." - Aristotle
 "A champion is defined not by their wins but by how they can recover when they fall." - Serena Williams
-"Fall seven times, stand up eight." - Japanese Proverb
 "Out of difficulties grow miracles." - Jean de La Bruyère
 "Hope is the thing with feathers that perches in the soul." - Emily Dickinson
 "When you have a dream, you've got to grab it and never let go." - Carol Burnett
