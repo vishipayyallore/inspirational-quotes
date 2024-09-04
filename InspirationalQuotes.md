@@ -14,12 +14,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Unknown
-> 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford -- **Here**
-
----
-
-## Perseverance - Current
-
+> 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
+> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu -- **Here**
 > 1. "If you’re going through hell, keep going." - Winston Churchill
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
@@ -36,6 +32,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Unknown
 > 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
+
+---
 
 ## Success
 
@@ -74,7 +72,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
-> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "If you want to achieve greatness, stop asking for permission."
 
@@ -171,10 +168,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you want to achieve greatness, stop asking for permission."
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
-## Persistence and Determination
-
-> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
-
 ## Mindfulness and Presence
 
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
@@ -247,10 +240,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Vision without execution is just hallucination." - Henry Ford
 - "Find your passion and let it guide you." - Unknown
 
-## Persistence and Determination - V1
-
-- "The journey of a thousand miles begins with a single step." - Lao Tzu
-
 ## Mindfulness and Presence - V
 
 - "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
@@ -260,21 +249,17 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Success and Achievement
 
--
 - "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 - "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 - "The best revenge is massive success." - Frank Sinatra
 - "The greatest weapon in any battle is patience." - Unknown
--
 
 ## Motivation and Inspiration
 
--
 - "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
 - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
--
 
 ## Wisdom and Learning
 
@@ -282,7 +267,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "The only way to do great work is to love what you do." - Steve Jobs
 - "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 - "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
--
 - "Learning never exhausts the mind." - Leonardo da Vinci
 
 ## Empowerment and Self-Improvement
@@ -327,12 +311,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
 - "The only way to deal with fear is to face it head on." - Anonymous
 - "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
--
 - "Out of difficulties grow miracles." - Jean de La Bruyère
-
-I hope these categories and quotes help in organizing and expanding your collection!
-
-Certainly! Here’s a curated list of inspiring quotes across various themes to further enhance your collection:
 
 ## Self-Belief and Confidence
 
@@ -354,8 +333,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 
 - "The secret of getting ahead is getting started." - Mark Twain
 - "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
--
--
 
 ## Mindfulness and Presence
 
@@ -744,9 +721,7 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 "Invest in yourself; it's the best investment you'll ever make." - Unknown
 "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
 "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-"The journey of a thousand miles begins with a single step." - Lao Tzu
 "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
-"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 "Resilience is not about overcoming, it's about becoming." - heri Salata
 "If you're going through hell, keep going." - Winston Churchill
 "Even the darkest night will end and the sun will rise." - Victor Hugo
@@ -772,7 +747,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 "It's not whether you get knocked down; it's whether you get up." - Vince Lombardi
 "Don’t watch the clock; do what it does. Keep going." - Sam Levenson
-"If you want to lift yourself up, lift up someone else." - Booker T. Washington
 "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 "Don’t count the days, make the days count." - Muhammad Ali
 "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
@@ -794,7 +768,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 "You can’t cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 "Dream big and dare to fail." - Norman Vaughan
 "Your life is your story. Write well. Edit often."
-"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
 "The biggest risk is not taking any risk." - Mark Zuckerberg
 "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
@@ -843,7 +816,6 @@ Certainly! Here’s a curated list of inspiring quotes across various themes to 
 "Do what you can, with what you have, where you are." - Theodore Roosevelt
 "The best way to get started is to quit talking and begin doing." - Walt Disney
 "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
-"If you want to lift yourself up, lift up someone else." - Booker T. Washington
 "Everything you’ve ever wanted is on the other side of fear." - George Addair
 "Life is what happens when you’re busy making other plans." - John Lennon
 "Don’t wait. The time will never be just right." - Napoleon Hill
