@@ -38,7 +38,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Success
 
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
-> 1. "The best way to predict your future is to create it." - Abraham Lincoln
+> 1. "The best way to predict your future is to create it." - Abraham Lincoln -- **Review**
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
@@ -755,7 +755,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "When the going gets tough, the tough get going."
 "Believe you can, and you're halfway there." - Theodore Roosevelt
 "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-"Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
 "Don’t be discouraged. It’s often the last key in the bunch that opens the lock."
 "Your time is limited, don’t waste it living someone else’s life." - Steve Jobs
 "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
