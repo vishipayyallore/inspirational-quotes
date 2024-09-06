@@ -16,8 +16,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Unknown
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
-> 1. "If you’re going through hell, keep going." - Winston Churchill -- **Here**
-> 1. "The harder the battle, the sweeter the victory." - Les Brown
+> 1. "If you’re going through hell, keep going." - Winston Churchill
+> 1. "The harder the battle, the sweeter the victory." - Les Brown -- **Here**
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
@@ -38,9 +38,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Success
 
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
-> 1. "The best way to predict your future is to create it." - Abraham Lincoln -- **Review**
+> 1. "The best way to predict your future is to create it." - Abraham Lincoln
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
-> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
+> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky -- **Review**
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
@@ -224,13 +224,13 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Self-Belief and Confidence - V
 
-- "Believe you can and you're halfway there." - Theodore Roosevelt
-- "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
-- "You are enough just as you are." - Meghan Markle
-- "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
-- "The only person you should try to be better than is the person you were yesterday." - Anonymous
-- "The best way to predict the future is to create it." - Abraham Lincoln
-- "Self-belief is the first step to success." - Unknown
+> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
+> 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
+> 1. "You are enough just as you are." - Meghan Markle
+> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
+> 1. "The best way to predict the future is to create it." - Abraham Lincoln
+> 1. "Self-belief is the first step to success." - Unknown
 
 ## Purpose and Vision - V
 
@@ -688,7 +688,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "The only way to do great work is to love what you do." - Steve Jobs
 "Do something today that your future self will thank you for."
 "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
-"The best way to predict your future is to create it." - Abraham Lincoln
 "Keep your eyes on the stars, and your feet on the ground." - Theodore Roosevelt
 "Do not let what you cannot do interfere with what you can do." - John Wooden
 "Small steps today, a better tomorrow."
@@ -702,7 +701,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "The best revenge is massive success." - Frank Sinatra
 "You miss 100% of the shots you don't take." - Wayne Gretzky
 "Keep shining, because the right people will be blinded by your light."
-"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 "You don't have to be perfect to start, but you have to start to be perfect."
 "The greatest wealth is health." - Virgil
 "Do something wonderful; people may imitate it." - Albert Schweitzer
@@ -801,7 +799,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 "We know what we are, but know not what we may be." - William Shakespeare
 "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 "If you want to achieve greatness, stop asking for permission."
 "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 "The harder you work for something, the greater you’ll feel when you achieve it."
