@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you’re going through hell, keep going." - Winston Churchill
-> 1. "The harder the battle, the sweeter the victory." - Les Brown -- **Here**
-> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
+> 1. "The harder the battle, the sweeter the victory." - Les Brown
+> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington -- **Here**
 > 1. "When you feel like giving up, remember why you started." - Anonymous
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
@@ -40,8 +40,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "The best way to predict your future is to create it." - Abraham Lincoln
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
-> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky -- **Review**
-> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
+> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
+> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney -- **Review**
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
@@ -217,7 +217,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "Dream big and dare to fail." - Norman Vaughan
 
 Certainly! I'll review the previous themes, remove duplicates, and add more categories and quotes. Here's the updated list with additional categories and quotes:
@@ -234,11 +233,11 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Purpose and Vision - V
 
-- "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-- "If you want to achieve greatness, stop asking for permission." - Anonymous
-- "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
-- "Vision without execution is just hallucination." - Henry Ford
-- "Find your passion and let it guide you." - Unknown
+> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
+> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
+> 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+> 1. "Vision without execution is just hallucination." - Henry Ford
+> 1. "Find your passion and let it guide you." - Unknown
 
 ## Mindfulness and Presence - V
 
@@ -291,7 +290,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 - "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 - "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-- "You miss 100% of the shots you don’t take." - Wayne Gretzky
 - "Dream big and dare to fail." - Norman Vaughan
 - "Creativity is intelligence having fun." - Albert Einstein
 - "Innovation distinguishes between a leader and a follower." - Steve Jobs
@@ -351,7 +349,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Motivation and Inspiration
 
-- "You miss 100% of the shots you don’t take." - Wayne Gretzky
 - "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 - "The best way to get started is to quit talking and begin doing." - Walt Disney
@@ -532,7 +529,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 - "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-- "You miss 100% of the shots you don’t take." - Wayne Gretzky
 - "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Life and Living
@@ -590,7 +586,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 - "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-- "You miss 100% of the shots you don’t take." - Wayne Gretzky
 - "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Life and Living
@@ -778,7 +773,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs
 "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
 "Act as if what you do makes a difference. It does." - William James
-"You miss 100% of the shots you don’t take." - Wayne Gretzky
 "You only live once, but if you do it right, once is enough." - Mae West
 "Strive not to be a success, but rather to be of value." - Albert Einstein
 "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
@@ -808,7 +802,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
-"You miss 100% of the shots you don’t take." - Wayne Gretzky
 "Do what you can, with what you have, where you are." - Theodore Roosevelt
 "The best way to get started is to quit talking and begin doing." - Walt Disney
 "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
