@@ -18,8 +18,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you’re going through hell, keep going." - Winston Churchill
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
-> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington -- **Here**
-> 1. "When you feel like giving up, remember why you started." - Anonymous
+> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
+> 1. "When you feel like giving up, remember why you started." - Anonymous -- **Here**
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
 > 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
@@ -41,8 +41,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The best way to predict your future is to create it." - Abraham Lincoln
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
-> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney -- **Review**
-> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
+> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau -- **Review**
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
@@ -98,7 +98,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Action and Initiative
 
-> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Unknown
 > 1. "You can’t cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Do something today that your future self will thank you for."
@@ -172,7 +171,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
-> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 
 ## Success and Achievement
@@ -244,7 +242,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
 - "In the middle of every difficulty lies opportunity." - Albert Einstein
 - "Be present in all things and thankful for all things." - Maya Angelou
-- "The best way to get started is to quit talking and begin doing." - Walt Disney
 
 ## Success and Achievement
 
@@ -351,7 +348,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 - "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
-- "The best way to get started is to quit talking and begin doing." - Walt Disney
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 
 ## Wisdom and Learning
@@ -705,7 +701,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "The future is not something we enter, but something we create." - Leonard Sweet
 "Your life does not get better by chance; it gets better by change." - Jim Rohn
 "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
-"The best way to get started is to quit talking and begin doing." - Walt Disney
 "You don't need to see the whole staircase, just take the first step." - Martin Luther King Jr.
 "The biggest risk is not taking any risk." - Mark Zuckerberg
 "You are one decision away from a completely different life." - Unknown
@@ -803,7 +798,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 "Do what you can, with what you have, where you are." - Theodore Roosevelt
-"The best way to get started is to quit talking and begin doing." - Walt Disney
 "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 "Everything you’ve ever wanted is on the other side of fear." - George Addair
 "Life is what happens when you’re busy making other plans." - John Lennon
