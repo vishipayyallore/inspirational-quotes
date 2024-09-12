@@ -20,8 +20,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
-> 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot -- **Here**
-> 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
+> 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
+> 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi -- **Here**
 > 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
 > 1. "The key to success is to focus on goals, not obstacles." - Unknown
@@ -43,8 +43,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
-> 1. "Opportunities don't happen, you create them." - Chris Grosser -- **Review**
-> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+> 1. "Opportunities don't happen, you create them." - Chris Grosser
+> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier -- **Review**
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "Don’t wait for opportunity. Create it." - Unknown
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
@@ -238,9 +238,9 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Mindfulness and Presence - V
 
-- "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
-- "In the middle of every difficulty lies opportunity." - Albert Einstein
-- "Be present in all things and thankful for all things." - Maya Angelou
+> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
+> 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
+> 1. "Be present in all things and thankful for all things." - Maya Angelou
 
 ## Success and Achievement
 
@@ -786,7 +786,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 "The harder you work for something, the greater you’ll feel when you achieve it."
 "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
-"Opportunities don't happen, you create them." - Chris Grosser
 "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
