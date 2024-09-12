@@ -175,7 +175,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success and Achievement
 
-> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "The greatest weapon in any battle is patience."
 > 1. "Do your thing and don't care if they like it." - Tina Fey
@@ -244,7 +243,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Success and Achievement - V1
 
-> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "The greatest weapon in any battle is patience." - Unknown
 
@@ -338,7 +336,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 ## Success and Achievement
 
 - "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-- "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 - "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Motivation and Inspiration
@@ -754,7 +751,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "The biggest risk is not taking any risk." - Mark Zuckerberg
 "The best revenge is massive success." - Frank Sinatra
 "Don't wait for opportunity. Create it."
-"Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 "It is not the mountain we conquer but ourselves." - Edmund Hillary
 "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
@@ -785,7 +781,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "If you want to achieve greatness, stop asking for permission."
 "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 "The harder you work for something, the greater you’ll feel when you achieve it."
-"Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
