@@ -21,8 +21,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
-> 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi -- **Here**
-> 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
+> 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
+> 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Here**
 > 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
 > 1. "The key to success is to focus on goals, not obstacles." - Unknown
 > 1. "In the middle of difficulty lies opportunity." - Albert Einstein
@@ -242,11 +242,11 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
 
-## Success and Achievement
+## Success and Achievement - V1
 
-- "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
-- "The best revenge is massive success." - Frank Sinatra
-- "The greatest weapon in any battle is patience." - Unknown
+> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+> 1. "The best revenge is massive success." - Frank Sinatra
+> 1. "The greatest weapon in any battle is patience." - Unknown
 
 ## Motivation and Inspiration
 
