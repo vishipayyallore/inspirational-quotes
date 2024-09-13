@@ -22,8 +22,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "When you feel like giving up, remember why you started." - Anonymous
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
-> 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Here**
-> 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
+> 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
+> 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher -- **Here**
 > 1. "The key to success is to focus on goals, not obstacles." - Unknown
 > 1. "In the middle of difficulty lies opportunity." - Albert Einstein
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
@@ -45,8 +45,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
-> 1. "The best revenge is massive success." - Frank Sinatra -- **Review**
-> 1. "Don’t wait for opportunity. Create it." - Unknown
+> 1. "The best revenge is massive success." - Frank Sinatra
+> 1. "Don’t wait for opportunity. Create it." - Unknown -- **Review**
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
@@ -175,7 +175,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success and Achievement
 
-> 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "The greatest weapon in any battle is patience."
 > 1. "Do your thing and don't care if they like it." - Tina Fey
 
@@ -243,15 +242,14 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Success and Achievement - V1
 
-> 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "The greatest weapon in any battle is patience." - Unknown
 
-## Motivation and Inspiration
+## Motivation and Inspiration - V1
 
-- "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
-- "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-- "Try to be a rainbow in someone else’s cloud." - Maya Angelou
-- "Start where you are. Use what you have. Do what you can." - Arthur Ashe
+> 1. - "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
+> 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
+> 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning
 
@@ -681,7 +679,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "The only person you should try to be better than is the person you were yesterday." - Anonymous
 "Hope is the light that guides us through the darkness." - Desmond Tutu
 "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
-"The best revenge is massive success." - Frank Sinatra
 "You miss 100% of the shots you don't take." - Wayne Gretzky
 "Keep shining, because the right people will be blinded by your light."
 "You don't have to be perfect to start, but you have to start to be perfect."
@@ -749,7 +746,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Your life is your story. Write well. Edit often."
 "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
 "The biggest risk is not taking any risk." - Mark Zuckerberg
-"The best revenge is massive success." - Frank Sinatra
 "Don't wait for opportunity. Create it."
 "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 "It is not the mountain we conquer but ourselves." - Edmund Hillary
