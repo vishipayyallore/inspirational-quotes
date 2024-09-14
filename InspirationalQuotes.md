@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
 > 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
-> 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher -- **Here**
-> 1. "The key to success is to focus on goals, not obstacles." - Unknown
+> 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
+> 1. "The key to success is to focus on goals, not obstacles." - Unknown -- **Here**
 > 1. "In the middle of difficulty lies opportunity." - Albert Einstein
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
@@ -46,8 +46,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
-> 1. "Don’t wait for opportunity. Create it." - Unknown -- **Review**
-> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
+> 1. "Don’t wait for opportunity. Create it." - Unknown
+> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar -- **Review**
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
@@ -785,5 +785,4 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Everything you’ve ever wanted is on the other side of fear." - George Addair
 "Life is what happens when you’re busy making other plans." - John Lennon
 "Don’t wait. The time will never be just right." - Napoleon Hill
-"Don’t wait for opportunity. Create it." - Unknown
 "The hardest thing to do is to keep going." - Unknown
