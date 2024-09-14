@@ -251,13 +251,13 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 > 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
-## Wisdom and Learning
+## Wisdom and Learning - V1
 
-- "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
-- "The only way to do great work is to love what you do." - Steve Jobs
-- "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-- "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
-- "Learning never exhausts the mind." - Leonardo da Vinci
+> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
+> 1. "The only way to do great work is to love what you do." - Steve Jobs
+> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+> 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
+> 1. "Learning never exhausts the mind." - Leonardo da Vinci
 
 ## Empowerment and Self-Improvement
 
