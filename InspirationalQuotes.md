@@ -24,8 +24,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
 > 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
-> 1. "The key to success is to focus on goals, not obstacles." - Unknown -- **Here**
-> 1. "In the middle of difficulty lies opportunity." - Albert Einstein
+> 1. "The key to success is to focus on goals, not obstacles." - Unknown
+> 1. "In the middle of difficulty lies opportunity." - Albert Einstein -- **Here**
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
 > 1. "Never give up on something that you can’t go a day without thinking about." - Unknown
@@ -126,7 +126,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Leadership and Influence
 
 > 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
-> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "The greatest weapon in any battle is patience."
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
@@ -186,7 +185,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Wisdom and Learning
 
-> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
@@ -253,7 +251,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Wisdom and Learning - V1
 
-> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
@@ -321,7 +318,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 ## Persistence and Determination
 
 - "The secret of getting ahead is getting started." - Mark Twain
-- "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 
 ## Mindfulness and Presence
 
@@ -775,7 +771,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "We know what we are, but know not what we may be." - William Shakespeare
 "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 "If you want to achieve greatness, stop asking for permission."
-"You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 "The harder you work for something, the greater you’ll feel when you achieve it."
 "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
