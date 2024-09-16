@@ -25,8 +25,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
 > 1. "The key to success is to focus on goals, not obstacles." - Unknown
-> 1. "In the middle of difficulty lies opportunity." - Albert Einstein -- **Here**
-> 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
+> 1. "In the middle of difficulty lies opportunity." - Albert Einstein
+> 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius -- **Here**
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
 > 1. "Never give up on something that you can’t go a day without thinking about." - Unknown
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
@@ -47,9 +47,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "Don’t wait for opportunity. Create it." - Unknown
-> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar -- **Review**
+> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt -- **Review**
 
 ## Happiness
 
@@ -188,7 +188,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
-> 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 
 ## Empowerment and Self-Improvement
 
@@ -329,7 +328,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Success and Achievement
 
-- "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 - "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Motivation and Inspiration
@@ -509,7 +507,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Motivation and Success
 
-- "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 - "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 - "Opportunities don't happen. You create them." - Chris Grosser
@@ -565,7 +562,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 ## Motivation and Success
 
-- "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 - "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 - "Opportunities don't happen. You create them." - Chris Grosser
@@ -693,7 +689,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Don't let yesterday take up too much of today." - Will Rogers
 "Invest in yourself; it's the best investment you'll ever make." - Unknown
 "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
-"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 "Resilience is not about overcoming, it's about becoming." - heri Salata
 "If you're going through hell, keep going." - Winston Churchill
@@ -772,7 +767,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 "If you want to achieve greatness, stop asking for permission."
 "The harder you work for something, the greater you’ll feel when you achieve it."
-"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 "Do what you can, with what you have, where you are." - Theodore Roosevelt
