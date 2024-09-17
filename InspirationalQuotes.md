@@ -26,8 +26,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
 > 1. "The key to success is to focus on goals, not obstacles." - Unknown
 > 1. "In the middle of difficulty lies opportunity." - Albert Einstein
-> 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius -- **Here**
-> 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
+> 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
+> 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein -- **Here**
 > 1. "Never give up on something that you can’t go a day without thinking about." - Unknown
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Unknown
@@ -49,11 +49,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don’t wait for opportunity. Create it." - Unknown
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt -- **Review**
+> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
 ## Happiness
 
-> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
+> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV -- **Review**
 > 1. "It’s better to be happy than to be right."
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead."
 > 1. "Sometimes it’s better to let things go than to hold on to them."
@@ -255,14 +255,14 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
 > 1. "Learning never exhausts the mind." - Leonardo da Vinci
 
-## Empowerment and Self-Improvement
+## Empowerment and Self-Improvement - V1
 
-- "You can, you should, and if you’re brave enough to start, you will." - Stephen King
-- "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
-- "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-- "Empower yourself with knowledge and self-belief." - Unknown
-- "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-- "The only limit to your impact is your imagination and commitment." - Tony Robbins
+> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
+> 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
+> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. "Empower yourself with knowledge and self-belief." - Unknown
+> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
+> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 
 ## Gratitude and Positivity
 
@@ -718,7 +718,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 "Don’t count the days, make the days count." - Muhammad Ali
 "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
-"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
 "When the going gets tough, the tough get going."
 "Believe you can, and you're halfway there." - Theodore Roosevelt
@@ -767,7 +766,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 "If you want to achieve greatness, stop asking for permission."
 "The harder you work for something, the greater you’ll feel when you achieve it."
-"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 "Do what you can, with what you have, where you are." - Theodore Roosevelt
 "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
