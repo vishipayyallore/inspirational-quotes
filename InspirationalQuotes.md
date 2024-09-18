@@ -27,8 +27,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The key to success is to focus on goals, not obstacles." - Unknown
 > 1. "In the middle of difficulty lies opportunity." - Albert Einstein
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
-> 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein -- **Here**
-> 1. "Never give up on something that you can’t go a day without thinking about." - Unknown
+> 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
+> 1. "Never give up on something that you can’t go a day without thinking about." - Unknown -- **Here**
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Unknown
 > 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
@@ -198,7 +198,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Gratitude and Positivity
 
-> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
 > 1. "It’s better to be happy than to be right."
 > 1. "Keep shining, because the right people will be blinded by your light."
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
@@ -264,14 +263,13 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 
-## Gratitude and Positivity
+## Gratitude and Positivity - V1
 
-- "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
-- "Keep shining, because the right people will be blinded by your light." - Unknown
-- "Choose to be optimistic; it feels better." - Dalai Lama
-- "The greatest wealth is health." - Virgil
-- "Gratitude turns what we have into enough." - Anonymous
-- "Positive anything is better than negative nothing." - Elbert Hubbard
+> 1. "Keep shining, because the right people will be blinded by your light." - Unknown
+> 1. "Choose to be optimistic; it feels better." - Dalai Lama
+> 1. "The greatest wealth is health." - Virgil
+> 1. "Gratitude turns what we have into enough." - Anonymous
+> 1. "Positive anything is better than negative nothing." - Elbert Hubbard
 
 ## Creativity and Innovation
 
@@ -609,7 +607,6 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 > 1. "Believe you can and you're halfway there." - Theodore Roosevelt
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
 > 1. "You don't have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
 > 1. "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
