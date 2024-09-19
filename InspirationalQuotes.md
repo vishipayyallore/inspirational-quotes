@@ -13,7 +13,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It always seems impossible until it’s done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
-> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Unknown
+> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you’re going through hell, keep going." - Winston Churchill
@@ -24,13 +24,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
 > 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
-> 1. "The key to success is to focus on goals, not obstacles." - Unknown
+> 1. "The key to success is to focus on goals, not obstacles." - Anonymous
 > 1. "In the middle of difficulty lies opportunity." - Albert Einstein
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
-> 1. "Never give up on something that you can’t go a day without thinking about." - Unknown
+> 1. "Never give up on something that you can’t go a day without thinking about." - Anonymous
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo -- **Here**
-> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Unknown
+> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
 > 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 
 ---
@@ -46,7 +46,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
-> 1. "Don’t wait for opportunity. Create it." - Unknown
+> 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
@@ -54,9 +54,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Happiness
 
 > 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
-> 1. "It’s better to be happy than to be right." - Unknown
-> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Unknown -- **Review**
-> 1. "Sometimes it’s better to let things go than to hold on to them." - Unknown
+> 1. "It’s better to be happy than to be right." - Anonymous
+> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous -- **Review**
+> 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
@@ -73,7 +73,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
-> 1. "If you want to achieve greatness, stop asking for permission."
+> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 
 ## Self-Belief
 
@@ -84,7 +84,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-> 1. "You are never too young to lead and never too old to learn."
+> 1. "You are never too young to lead and never too old to learn." - Anonymous
 
 ## Resilience and Overcoming Adversity
 
@@ -92,15 +92,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "Hope is a waking dream." - Aristotle
-> 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
+> 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight." - Anonymous
 > 1. "If you're going through hell, keep going." - Winston Churchill
-> 1. "The greatest victory is the one that requires no battle."
+> 1. "The greatest victory is the one that requires no battle." - Anonymous
 
 ## Action and Initiative
 
-> 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Unknown
+> 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Anonymous
 > 1. "You can’t cross the sea merely by standing and staring at the water." - Rabindranath Tagore
-> 1. "Do something today that your future self will thank you for."
+> 1. "Do something today that your future self will thank you for." - Anonymous
 > 1. "Don’t wait. The time will never be just right." - Napoleon Hill
 > 1. "Act as if what you do makes a difference. It does." - William James
 
@@ -108,7 +108,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Life is what happens when you’re busy making other plans." - John Lennon
 > 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
-> 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act."
+> 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act." - Anonymous
 > 1. "You don’t have to control your thoughts. You just have to stop letting them control you." - Dan Millman
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
@@ -118,7 +118,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Don’t let the fear of striking out hold you back." - Babe Ruth
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
-> 1. "Be selective in your battles, but never compromise your values."
+> 1. "Be selective in your battles, but never compromise your values." - Anonymous
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "Don’t be afraid to give up the good to go for the great." - John D. Rockefeller
@@ -126,10 +126,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Leadership and Influence
 
 > 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
-> 1. "The greatest weapon in any battle is patience."
+> 1. "The greatest weapon in any battle is patience." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
-> 1. "You are never too young to lead and never too old to learn."
+> 1. "You are never too young to lead and never too old to learn." - Anonymous
 
 ## Change and Growth
 
@@ -143,12 +143,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Focus and Clarity
 
-> 1. "Focus on what's important and let go of the rest."
-> 1. "Don’t let your emotions control you. Choose your battles with a clear mind and a calm heart."
-> 1. "Small steps today, a better tomorrow."
+> 1. "Focus on what's important and let go of the rest." - Anonymous
+> 1. "Don’t let your emotions control you. Choose your battles with a clear mind and a calm heart." - Anonymous
+> 1. "Small steps today, a better tomorrow." - Anonymous
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
-> 1. "Choose your battles wisely because sometimes the price of victory is too high."
-> 1. "Life is too short to waste it on petty arguments."
+> 1. "Choose your battles wisely because sometimes the price of victory is too high." - Anonymous
+> 1. "Life is too short to waste it on petty arguments." - Anonymous
 
 ## Self-Belief and Confidence
 
@@ -161,26 +161,26 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Purpose and Vision
 
-> 1. "Your life is your story. Write well. Edit often."
+> 1. "Your life is your story. Write well. Edit often." - Anonymous
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-> 1. "If you want to achieve greatness, stop asking for permission."
+> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Mindfulness and Presence
 
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
-> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
+> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 
 ## Success and Achievement
 
-> 1. "The greatest weapon in any battle is patience."
+> 1. "The greatest weapon in any battle is patience." - Anonymous
 > 1. "Do your thing and don't care if they like it." - Tina Fey
 
 ## Motivation and Inspiration
 
-> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock."
-> 1. "Don’t wait for opportunity. Create it."
+> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
+> 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 
 ## Wisdom and Learning
@@ -198,7 +198,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Gratitude and Positivity
 
-> 1. "Keep shining, because the right people will be blinded by your light."
+> 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "The greatest wealth is health." - Virgil
@@ -209,8 +209,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 > 1. "Dream big and dare to fail." - Norman Vaughan
 
-Certainly! I'll review the previous themes, remove duplicates, and add more categories and quotes. Here's the updated list with additional categories and quotes:
-
 ## Self-Belief and Confidence - V
 
 > 1. "Believe you can and you're halfway there." - Theodore Roosevelt
@@ -219,7 +217,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "The best way to predict the future is to create it." - Abraham Lincoln
-> 1. "Self-belief is the first step to success." - Unknown
+> 1. "Self-belief is the first step to success." - Anonymous
 
 ## Purpose and Vision - V
 
@@ -227,17 +225,17 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "Vision without execution is just hallucination." - Henry Ford
-> 1. "Find your passion and let it guide you." - Unknown
+> 1. "Find your passion and let it guide you." - Anonymous
 
 ## Mindfulness and Presence - V
 
-> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
+> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
 
 ## Success and Achievement - V1
 
-> 1. "The greatest weapon in any battle is patience." - Unknown
+> 1. "The greatest weapon in any battle is patience." - Anonymous
 
 ## Motivation and Inspiration - V1
 
@@ -258,13 +256,13 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. "Empower yourself with knowledge and self-belief." - Unknown
+> 1. "Empower yourself with knowledge and self-belief." - Anonymous
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 
 ## Gratitude and Positivity - V1
 
-> 1. "Keep shining, because the right people will be blinded by your light." - Unknown
+> 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Gratitude turns what we have into enough." - Anonymous
@@ -319,7 +317,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 - "The best way to predict your future is to create it." - Peter Drucker
 - "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
-- "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Unknown
+- "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Anonymous
 - "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
 - "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 
@@ -375,7 +373,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 ## Courage and Resilience
 
 - "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-- "Resilience is the capacity to recover quickly from difficulties; toughness." - Unknown
+- "Resilience is the capacity to recover quickly from difficulties; toughness." - Anonymous
 - "The only way to deal with fear is to face it head on." - Anonymous
 - "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 
@@ -399,7 +397,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 - "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
 - "The only way to do great work is to love what you do." - Steve Jobs
-- "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Unknown
+- "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
 - "What we learn with pleasure we never forget." - Alfred Mercier
 - "Change is the end result of all true learning." - Leo Buscaglia
 
@@ -407,7 +405,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 
 - "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power." - Lao Tzu
 - "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man." - William Shakespeare
-- "Self-awareness is the key to personal growth and success." - Unknown
+- "Self-awareness is the key to personal growth and success." - Anonymous
 - "The mind is everything. What you think you become." - Buddha
 - "It is not the mountain we conquer but ourselves." - Edmund Hillary
 
@@ -461,7 +459,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Curiosity is the wick in the candle of learning." - William Arthur Ward
 - "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
 - "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - Stephen Hawking
-- "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Unknown
+- "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
 - "The more I know, the more I realize I know nothing." - Socrates
 - "A person who never made a mistake never tried anything new." - Albert Einstein
 - "To teach is to learn twice." - Joseph Joubert
@@ -533,7 +531,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
 - "It does not do to dwell on dreams and forget to live." - J.K. Rowling
 - "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
-- "We are not defined by the challenges we face but by how we rise to meet them." - Unknown
+- "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 - "The brave may not live forever, but the cautious do not live at all." - Richard Branson
 - "The only way to do great work is to love what you do." - Steve Jobs
 - "Resilience is not about overcoming, it's about becoming." - Sherri Salata
@@ -588,7 +586,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 - "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
 - "It does not do to dwell on dreams and forget to live." - J.K. Rowling
 - "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
-- "We are not defined by the challenges we face but by how we rise to meet them." - Unknown
+- "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 - "The brave may not live forever, but the cautious do not live at all." - Richard Branson
 - "The only way to do great work is to love what you do." - Steve Jobs
 - "Resilience is not about overcoming, it's about becoming." - Sherri Salata
@@ -677,19 +675,19 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "You can't go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
 > 1. "The future is not something we enter, but something we create." - Leonard Sweet
 > 1. "Your life does not get better by chance; it gets better by change." - Jim Rohn
-> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Unknown
+> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "You don't need to see the whole staircase, just take the first step." - Martin Luther King Jr.
 > 1. "The biggest risk is not taking any risk." - Mark Zuckerberg
-> 1. "You are one decision away from a completely different life." - Unknown
+> 1. "You are one decision away from a completely different life." - Anonymous
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Don't let yesterday take up too much of today." - Will Rogers
-> 1. "Invest in yourself; it's the best investment you'll ever make." - Unknown
+> 1. "Invest in yourself; it's the best investment you'll ever make." - Anonymous
 > 1. "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 > 1. "Resilience is not about overcoming, it's about becoming." - heri Salata
 > 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
-> 1. "When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Unknown
+> 1. "When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Anonymous
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
 > 1. "Hope is being able to see that there is light despite all of the darkness." - Desmond Tutu
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway."
@@ -751,7 +749,7 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can’t achieve it." - Jordan Belfort
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-> 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Unknown
+> 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Life is what we make it, always has been, always will be." - Grandma Moses
 > 1. "We generate fears while we sit. We overcome them by action." - Dr. Henry Link
@@ -768,4 +766,4 @@ Certainly! I'll review the previous themes, remove duplicates, and add more cate
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
 > 1. "Life is what happens when you’re busy making other plans." - John Lennon
 > 1. "Don’t wait. The time will never be just right." - Napoleon Hill
-> 1. "The hardest thing to do is to keep going." - Unknown
+> 1. "The hardest thing to do is to keep going." - Anonymous
