@@ -29,8 +29,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
 > 1. "Never give up on something that you can’t go a day without thinking about." - Anonymous
-> 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo -- **Here**
-> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
+> 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
+> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous -- **Here**
 > 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 
 ---
@@ -55,10 +55,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
 > 1. "It’s better to be happy than to be right." - Anonymous
-> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous -- **Review**
+> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
-> 1. "Happiness is not by chance, but by choice." - Jim Rohn
+> 1. "Happiness is not by chance, but by choice." - Jim Rohn -- **Review**
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are enough just as you are." - Meghan Markle
@@ -201,7 +201,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
-> 1. "The greatest wealth is health." - Virgil
 
 ## Creativity and Innovation
 
@@ -264,17 +263,16 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
-> 1. "The greatest wealth is health." - Virgil
 > 1. "Gratitude turns what we have into enough." - Anonymous
 > 1. "Positive anything is better than negative nothing." - Elbert Hubbard
 
-## Creativity and Innovation
+## Creativity and Innovation - V1
 
-- "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
-- "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-- "Dream big and dare to fail." - Norman Vaughan
-- "Creativity is intelligence having fun." - Albert Einstein
-- "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
+> 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
+> 1. "Dream big and dare to fail." - Norman Vaughan
+> 1. "Creativity is intelligence having fun." - Albert Einstein
+> 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
 ## Leadership and Influence
 
@@ -668,7 +666,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You miss 100% of the shots you don't take." - Wayne Gretzky
 > 1. "Keep shining, because the right people will be blinded by your light."
 > 1. "You don't have to be perfect to start, but you have to start to be perfect."
-> 1. "The greatest wealth is health." - Virgil
 > 1. "Do something wonderful; people may imitate it." - Albert Schweitzer
 > 1. "You are never too young to lead and never too old to learn."
 > 1. "The best is yet to come." - Robert Browning
