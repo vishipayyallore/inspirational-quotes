@@ -30,8 +30,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
 > 1. "Never give up on something that you can’t go a day without thinking about." - Anonymous
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
-> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous -- **Here**
-> 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
+> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
+> 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher -- **Here**
 
 ---
 
@@ -174,7 +174,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success and Achievement
 
-> 1. "The greatest weapon in any battle is patience." - Anonymous
 > 1. "Do your thing and don't care if they like it." - Tina Fey
 
 ## Motivation and Inspiration
@@ -231,10 +230,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
 
-## Success and Achievement - V1
-
-> 1. "The greatest weapon in any battle is patience." - Anonymous
-
 ## Motivation and Inspiration - V1
 
 > 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
@@ -283,19 +278,19 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Courage and Resilience
 
-- "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-- "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
-- "The only way to deal with fear is to face it head on." - Anonymous
-- "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
-- "Out of difficulties grow miracles." - Jean de La Bruyère
+> 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
+> 1. "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
+> 1. "The only way to deal with fear is to face it head on." - Anonymous
+> 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
+> 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 
-## Self-Belief and Confidence
+## Self-Belief and Confidence - V1
 
-- "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
-- "The only limit to your impact is your imagination and commitment." - Tony Robbins
-- "Don’t let what you cannot do interfere with what you can do." - John Wooden
-- "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-- "Be yourself; everyone else is already taken." - Oscar Wilde
+> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
+> 1. "Don’t let what you cannot do interfere with what you can do." - John Wooden
+> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+> 1. "Be yourself; everyone else is already taken." - Oscar Wilde
 
 ## Purpose and Vision
 
@@ -631,7 +626,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
 > 1. "Choose your battles wisely because sometimes the price of victory is too high."
 > 1. "Just say yes, and you’ll figure it out afterward." - Tina Fey
-> 1. "The greatest weapon in any battle is patience."
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act."
 > 1. "A dead end is just a good place to turn around." - Naomi Judd
@@ -641,7 +635,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Real strength lies in walking away from battles that do not serve us."
 > 1. "I’d rather regret the things I’ve done than the things I haven’t done." - Lucille Ball
 > 1. "Don't let your ego get in the way of your happiness. Choose peace over pride."
-> 1. "Do your thing and don't care if they like it." - Tina Fey
 > 1. "Be selective in your battles, and you will ultimately win the war."
 > 1. "The greatest victory is the one that requires no battle."
 > 1. "Nothing is impossible, the word itself says ‘I’m possible.’" - Audrey Hepburn
