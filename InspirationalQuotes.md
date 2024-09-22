@@ -37,7 +37,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success
 
-> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
+> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Review**
 > 1. "The best way to predict your future is to create it." - Abraham Lincoln
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
@@ -59,7 +59,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
-> 1. "Choose to be optimistic; it feels better." - Dalai Lama -- **Review**
+> 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are enough just as you are." - Meghan Markle
 
@@ -707,7 +707,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "When the going gets tough, the tough get going."
 > 1. "Believe you can, and you're halfway there." - Theodore Roosevelt
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock."
 > 1. "Your time is limited, don’t waste it living someone else’s life." - Steve Jobs
 > 1. "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
 > 1. "What we achieve inwardly will change outer reality." - Plutarch
