@@ -179,7 +179,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Motivation and Inspiration
 
-> 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 
@@ -238,7 +237,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Motivation and Inspiration - V1
 
-> 1. - "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
 > 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 > 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
@@ -686,9 +684,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Anonymous
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
 > 1. "Hope is being able to see that there is light despite all of the darkness." - Desmond Tutu
-> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway."
-> 1. "When you feel like giving up, remember why you started."
-> 1. "The harder the battle, the sweeter the victory."
 > 1. "Hope is a waking dream." - Aristotle
 > 1. "A champion is defined not by their wins but by how they can recover when they fall." - Serena Williams
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
