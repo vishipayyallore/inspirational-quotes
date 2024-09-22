@@ -58,8 +58,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
-> 1. "Happiness is not by chance, but by choice." - Jim Rohn -- **Review**
-> 1. "Choose to be optimistic; it feels better." - Dalai Lama
+> 1. "Happiness is not by chance, but by choice." - Jim Rohn
+> 1. "Choose to be optimistic; it feels better." - Dalai Lama -- **Review**
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are enough just as you are." - Meghan Markle
 
@@ -274,14 +274,14 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Creativity is intelligence having fun." - Albert Einstein
 > 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-## Leadership and Influence
+## Leadership and Influence - V1
 
-- "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
-- "Leadership is not about being in charge. It is about taking care of those in your charge." - Simon Sinek
-- "The best way to lead is by example." - Anonymous
-- "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
-- "To handle yourself, use your head; to handle others, use your heart." - Eleanor Roosevelt
-- "Leadership is the capacity to translate vision into reality." - Warren Bennis
+> 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
+> 1. "Leadership is not about being in charge. It is about taking care of those in your charge." - Simon Sinek
+> 1. "The best way to lead is by example." - Anonymous
+> 1. "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
+> 1. "To handle yourself, use your head; to handle others, use your heart." - Eleanor Roosevelt
+> 1. "Leadership is the capacity to translate vision into reality." - Warren Bennis
 
 ## Courage and Resilience
 
@@ -676,7 +676,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You don't need to see the whole staircase, just take the first step." - Martin Luther King Jr.
 > 1. "The biggest risk is not taking any risk." - Mark Zuckerberg
 > 1. "You are one decision away from a completely different life." - Anonymous
-> 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Don't let yesterday take up too much of today." - Will Rogers
 > 1. "Invest in yourself; it's the best investment you'll ever make." - Anonymous
 > 1. "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
