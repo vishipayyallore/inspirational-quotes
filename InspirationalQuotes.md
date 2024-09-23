@@ -31,14 +31,14 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Never give up on something that you can’t go a day without thinking about." - Anonymous
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
-> 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher -- **Here**
+> 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 
 ---
 
 ## Success
 
-> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Review**
-> 1. "The best way to predict your future is to create it." - Abraham Lincoln
+> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Here**
+> 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
@@ -47,7 +47,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
-> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
+> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar -- **Review**
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
@@ -178,7 +178,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Motivation and Inspiration
 
-> 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 
 ## Wisdom and Learning
@@ -306,7 +305,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Mindfulness and Presence
 
-- "The best way to predict your future is to create it." - Peter Drucker
 - "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
 - "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Anonymous
 - "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
@@ -729,7 +727,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "Life is what happens when you’re busy making other plans." - John Lennon
-> 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can’t achieve it." - Jordan Belfort
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Anonymous
