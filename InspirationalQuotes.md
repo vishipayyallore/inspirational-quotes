@@ -153,7 +153,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Self-Belief and Confidence
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "You are enough just as you are." - Meghan Markle
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
@@ -208,7 +207,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Self-Belief and Confidence - V
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "You are enough just as you are." - Meghan Markle
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
@@ -295,7 +293,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Purpose and Vision - V1
 
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
-> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
@@ -491,7 +488,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Motivation and Success
 
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
-- "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 - "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Life and Living
@@ -546,7 +542,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Motivation and Success
 
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
-- "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 - "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Life and Living
@@ -590,8 +585,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ---
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
-> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "You don't have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
 > 1. "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
@@ -696,7 +689,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart."
 > 1. "When the going gets tough, the tough get going."
 > 1. "Believe you can, and you're halfway there." - Theodore Roosevelt
-> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Your time is limited, don’t waste it living someone else’s life." - Steve Jobs
 > 1. "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
 > 1. "What we achieve inwardly will change outer reality." - Plutarch
@@ -722,7 +714,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Strive not to be a success, but rather to be of value." - Albert Einstein
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
-> 1. "Don’t wait. The time will never be just right." - Napoleon Hill
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "Life is what happens when you’re busy making other plans." - John Lennon
@@ -744,5 +735,4 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
 > 1. "Life is what happens when you’re busy making other plans." - John Lennon
-> 1. "Don’t wait. The time will never be just right." - Napoleon Hill
 > 1. "The hardest thing to do is to keep going." - Anonymous
