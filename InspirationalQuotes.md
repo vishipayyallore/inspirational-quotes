@@ -32,12 +32,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
 > 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
+> 1. "The secret of getting ahead is getting started." - Mark Twain -- **Here**
 
 ---
 
 ## Success
 
-> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Here**
+> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
@@ -47,13 +48,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
-> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar -- **Review**
+> 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 
 ## Happiness
 
-> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
+> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV -- **Review**
 > 1. "It’s better to be happy than to be right." - Anonymous
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
@@ -291,17 +292,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Be yourself; everyone else is already taken." - Oscar Wilde
 
-## Purpose and Vision
+## Purpose and Vision - V1
 
-- "The purpose of our lives is to be happy." - Dalai Lama
-- "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-- "Dream big and dare to fail." - Norman Vaughan
-- "Your life does not get better by chance, it gets better by change." - Jim Rohn
-- "Do what you can, with what you have, where you are." - Theodore Roosevelt
+> 1. "The purpose of our lives is to be happy." - Dalai Lama
+> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> 1. "Dream big and dare to fail." - Norman Vaughan
+> 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
+> 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
 
 ## Persistence and Determination
-
-- "The secret of getting ahead is getting started." - Mark Twain
 
 ## Mindfulness and Presence
 
