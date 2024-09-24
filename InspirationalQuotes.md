@@ -54,7 +54,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Happiness
 
-> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV -- **Review**
+> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
 > 1. "It’s better to be happy than to be right." - Anonymous
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
@@ -66,7 +66,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Dreams and Goals
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
+> 1. "Believe you can and you're halfway there." - Theodore Roosevelt -- **Review**
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
@@ -129,7 +129,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
 > 1. "The greatest weapon in any battle is patience." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
-> 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are never too young to lead and never too old to learn." - Anonymous
 
 ## Change and Growth
@@ -154,7 +153,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Self-Belief and Confidence
 
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
-> 1. "You are enough just as you are." - Meghan Markle
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
@@ -182,7 +180,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Wisdom and Learning
 
-> 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
 
@@ -197,7 +194,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
-> 1. "Choose to be optimistic; it feels better." - Dalai Lama
 
 ## Creativity and Innovation
 
@@ -208,7 +204,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Self-Belief and Confidence - V
 
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
-> 1. "You are enough just as you are." - Meghan Markle
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "The best way to predict the future is to create it." - Abraham Lincoln
@@ -236,7 +231,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Wisdom and Learning - V1
 
-> 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
 > 1. "Learning never exhausts the mind." - Leonardo da Vinci
@@ -253,7 +247,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Gratitude and Positivity - V1
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
-> 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "Gratitude turns what we have into enough." - Anonymous
 > 1. "Positive anything is better than negative nothing." - Elbert Hubbard
 
@@ -381,7 +374,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Learning and Growth
 
 - "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
-- "The only way to do great work is to love what you do." - Steve Jobs
 - "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
 - "What we learn with pleasure we never forget." - Alfred Mercier
 - "Change is the end result of all true learning." - Leo Buscaglia
@@ -470,7 +462,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Transformation and Enlightenment
 
-- "The only way to do great work is to love what you do." - Steve Jobs
 - "The only person who is educated is the one who has learned how to learn... and change." - Carl Rogers
 - "We are all apprentices in a craft where no one ever becomes a master." - Ernest Hemingway
 - "To improve is to change; to be perfect is to change often." - Winston Churchill
@@ -517,7 +508,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 - "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 - "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-- "The only way to do great work is to love what you do." - Steve Jobs
 - "Resilience is not about overcoming, it's about becoming." - Sherri Salata
 
 ## Change and Innovation
@@ -571,7 +561,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 - "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 - "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-- "The only way to do great work is to love what you do." - Steve Jobs
 - "Resilience is not about overcoming, it's about becoming." - Sherri Salata
 
 ## Change and Innovation
@@ -616,7 +605,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
 > 1. "Choose your battles wisely because sometimes the price of victory is too high."
 > 1. "Just say yes, and you’ll figure it out afterward." - Tina Fey
-> 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act."
 > 1. "A dead end is just a good place to turn around." - Naomi Judd
 > 1. "Be selective in your battles, but never compromise your values."
@@ -631,7 +619,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "For me, becoming isn't about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn't end." - Michelle Obama
 > 1. "If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee
 > 1. "I have discovered in life that there are ways of getting almost anywhere you want to go if you really want to go." - Langston Hughes
-> 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "Do something today that your future self will thank you for."
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Keep your eyes on the stars, and your feet on the ground." - Theodore Roosevelt
@@ -706,7 +693,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-> 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
 > 1. "Act as if what you do makes a difference. It does." - William James
@@ -723,7 +709,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Life is what we make it, always has been, always will be." - Grandma Moses
 > 1. "We generate fears while we sit. We overcome them by action." - Dr. Henry Link
-> 1. "You are enough just as you are." - Meghan Markle
 > 1. "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "We know what we are, but know not what we may be." - William Shakespeare
