@@ -483,7 +483,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life and Living
 
-- "Life is what happens when you’re busy making other plans." - John Lennon
 - "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
 - "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
 - "Life is either a daring adventure or nothing at all." - Helen Keller
@@ -536,7 +535,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life and Living
 
-- "Life is what happens when you’re busy making other plans." - John Lennon
 - "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
 - "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
 - "Life is either a daring adventure or nothing at all." - Helen Keller
@@ -702,7 +700,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
-> 1. "Life is what happens when you’re busy making other plans." - John Lennon
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can’t achieve it." - Jordan Belfort
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Anonymous
@@ -719,5 +716,4 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
 > 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
-> 1. "Life is what happens when you’re busy making other plans." - John Lennon
 > 1. "The hardest thing to do is to keep going." - Anonymous
