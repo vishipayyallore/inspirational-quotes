@@ -32,13 +32,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success doesn’t come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Don’t be discouraged. It’s often the last key in the bunch that opens the lock." - Anonymous
 > 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
-> 1. "The secret of getting ahead is getting started." - Mark Twain -- **Here**
+> 1. "The secret of getting ahead is getting started." - Mark Twain
 
 ---
 
 ## Success
 
-> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
+> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Here**
 > 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
