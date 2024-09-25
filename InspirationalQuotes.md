@@ -717,3 +717,4 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
 > 1. "The hardest thing to do is to keep going." - Anonymous
+
