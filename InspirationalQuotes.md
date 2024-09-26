@@ -38,8 +38,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success
 
-> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill -- **Here**
-> 1. "The best way to predict your future is to create it." - Peter Drucker
+> 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
+> 1. "The best way to predict your future is to create it." - Peter Drucker -- **Here**
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
@@ -66,10 +66,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Dreams and Goals
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt -- **Review**
+> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
-> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
+> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau -- **Review**
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
@@ -199,7 +199,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-> 1. "Dream big and dare to fail." - Norman Vaughan
 
 ## Self-Belief and Confidence - V
 
@@ -254,7 +253,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-> 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Creativity is intelligence having fun." - Albert Einstein
 > 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
@@ -286,18 +284,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Purpose and Vision - V1
 
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
-> 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
 
-## Persistence and Determination
+## Mindfulness and Presence - V1
 
-## Mindfulness and Presence
-
-- "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
-- "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Anonymous
-- "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
-- "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
+> 1. "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
+> 1. "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Anonymous
+> 1. "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
+> 1. "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 
 ## Success and Achievement
 
@@ -683,7 +678,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don’t watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
 > 1. "You can’t cross the sea merely by standing and staring at the water." - Rabindranath Tagore
-> 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
 > 1. "The biggest risk is not taking any risk." - Mark Zuckerberg
@@ -717,4 +711,3 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
 > 1. "The hardest thing to do is to keep going." - Anonymous
-
