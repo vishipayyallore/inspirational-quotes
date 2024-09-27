@@ -170,13 +170,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 
-## Success and Achievement
-
-
-
 ## Motivation and Inspiration
 
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
+> 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
+> 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning
 
@@ -220,12 +219,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
-
-## Motivation and Inspiration - V1
-
-> 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
-> 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning - V1
 
