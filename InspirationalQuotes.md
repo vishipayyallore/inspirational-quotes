@@ -40,8 +40,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "The best way to predict your future is to create it." - Peter Drucker
-> 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt -- **Here**
-> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
+> 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky -- **Here**
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
@@ -52,6 +52,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 > 1. "Do your thing and don't care if they like it." - Tina Fey
+> 1. "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Happiness
 
@@ -288,8 +289,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Success and Achievement
 
-- "Opportunities don't happen. You create them." - Chris Grosser
-
 ## Motivation and Inspiration
 
 - "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
@@ -466,7 +465,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Motivation and Success
 
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
-- "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Life and Living
 
@@ -518,7 +516,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Motivation and Success
 
 - "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
-- "Opportunities don't happen. You create them." - Chris Grosser
 
 ## Life and Living
 
@@ -683,7 +680,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Strive not to be a success, but rather to be of value." - Albert Einstein
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
-> 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can’t achieve it." - Jordan Belfort
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
