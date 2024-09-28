@@ -39,8 +39,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Success
 
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
-> 1. "The best way to predict your future is to create it." - Peter Drucker -- **Here**
-> 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+> 1. "The best way to predict your future is to create it." - Peter Drucker
+> 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt -- **Here**
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
@@ -51,6 +51,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+> 1. "Do your thing and don't care if they like it." - Tina Fey
 
 ## Happiness
 
@@ -69,8 +70,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Believe you can and you're halfway there." - Theodore Roosevelt
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
-> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau -- **Review**
-> 1. "If you can dream it, you can achieve it." - Zig Ziglar
+> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
+> 1. "If you can dream it, you can achieve it." - Zig Ziglar -- **Review**
 > 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
@@ -160,7 +161,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Purpose and Vision
 
 > 1. "Your life is your story. Write well. Edit often." - Anonymous
-> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
@@ -170,13 +170,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 
-## Success and Achievement
-
-> 1. "Do your thing and don't care if they like it." - Tina Fey
-
 ## Motivation and Inspiration
 
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
+> 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
+> 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning
 
@@ -210,7 +209,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Purpose and Vision - V
 
-> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "Vision without execution is just hallucination." - Henry Ford
@@ -221,12 +219,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
-
-## Motivation and Inspiration - V1
-
-> 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
-> 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning - V1
 
@@ -684,7 +676,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don't wait for opportunity. Create it."
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
-> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
 > 1. "Act as if what you do makes a difference. It does." - William James
