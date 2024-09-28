@@ -2,9 +2,7 @@
 
 I am collecting the Inspirational Quotes / Wisdom from different sources.
 
-## Post it in your WhatsApp Status
-
-### Perseverance
+## Perseverance
 
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
@@ -34,8 +32,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 > 1. "The secret of getting ahead is getting started." - Mark Twain
 
----
-
 ## Success
 
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
@@ -53,6 +49,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 > 1. "Do your thing and don't care if they like it." - Tina Fey
 > 1. "Opportunities don't happen. You create them." - Chris Grosser
+> 1. "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 
 ## Happiness
 
@@ -287,13 +284,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
 > 1. "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 
-## Success and Achievement
+## Motivation and Inspiration - V1
 
-## Motivation and Inspiration
-
-- "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
-- "Start where you are. Use what you have. Do what you can." - Arthur Ashe
-- "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
+> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
+> 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning
 
@@ -462,10 +456,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 - "We do not see things as they are, we see them as we are." - Anaïs Nin
 
-## Motivation and Success
-
-- "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
-
 ## Life and Living
 
 - "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
@@ -512,10 +502,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "Knowledge speaks, but wisdom listens." - Jimi Hendrix
 - "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 - "We do not see things as they are, we see them as we are." - Anaïs Nin
-
-## Motivation and Success
-
-- "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 
 ## Life and Living
 
