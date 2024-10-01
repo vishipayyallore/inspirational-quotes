@@ -155,11 +155,19 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
+> 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
+> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
+> 1. "The best way to predict the future is to create it." - Abraham Lincoln
+> 1. "Self-belief is the first step to success." - Anonymous
+> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
+> 1. "Don’t let what you cannot do interfere with what you can do." - John Wooden
+> 1. "Be yourself; everyone else is already taken." - Oscar Wilde
 
 ## Purpose and Vision
 
 > 1. "Your life is your story. Write well. Edit often." - Anonymous
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Mindfulness and Presence
@@ -210,17 +218,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 
-## Self-Belief and Confidence - V
-
-> 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
-> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
-> 1. "The best way to predict the future is to create it." - Abraham Lincoln
-> 1. "Self-belief is the first step to success." - Anonymous
-
 ## Purpose and Vision - V
 
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "Vision without execution is just hallucination." - Henry Ford
 > 1. "Find your passion and let it guide you." - Anonymous
@@ -261,13 +260,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 
-## Self-Belief and Confidence - V1
-
-> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
-> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
-> 1. "Don’t let what you cannot do interfere with what you can do." - John Wooden
-> 1. "Be yourself; everyone else is already taken." - Oscar Wilde
-
 ## Purpose and Vision - V1
 
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
@@ -283,7 +275,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Motivation and Inspiration - V1
 
-> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Gratitude and Positivity
@@ -571,7 +562,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Keep your eyes on the stars, and your feet on the ground." - Theodore Roosevelt
 > 1. "Do not let what you cannot do interfere with what you can do." - John Wooden
 > 1. "Small steps today, a better tomorrow."
-> 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "It does not matter how slowly you go as long as you do not stop." - Confucius
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 > 1. "You don't have to control your thoughts. You just have to stop letting them control you." - Dan Millman
@@ -611,7 +601,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
 > 1. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 > 1. "The harder you work for something, the greater you’ll feel when you achieve it."
-> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
@@ -655,7 +644,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "We know what we are, but know not what we may be." - William Shakespeare
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. "If you want to achieve greatness, stop asking for permission."
 > 1. "The harder you work for something, the greater you’ll feel when you achieve it."
 > 1. "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
