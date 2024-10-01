@@ -37,8 +37,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is walking from failure to failure with no loss of enthusiasm." - Winston Churchill
 > 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
-> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky -- **Here**
-> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
+> 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
+> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney -- **Here**
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
@@ -69,8 +69,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-> 1. "If you can dream it, you can achieve it." - Zig Ziglar -- **Review**
-> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
+> 1. "If you can dream it, you can achieve it." - Zig Ziglar
+> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King -- **Review**
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
@@ -179,10 +179,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
+> 1. "The only true wisdom is in knowing you know nothing." - Socrates
+> 1. "An investment in knowledge pays the best interest." - Benjamin Franklin
+> 1. "The best teachers are those who show you where to look but don’t tell you what to see." - Alexandra K. Trenfor
+> 1. "Knowledge is power." - Francis Bacon
+> 1. "The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire
+> 1. "Learning never exhausts the mind." - Leonardo da Vinci
 
 ## Empowerment and Self-Improvement
 
-> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
@@ -218,15 +223,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
 
-## Wisdom and Learning - V1
-
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-> 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
-> 1. "Learning never exhausts the mind." - Leonardo da Vinci
-
 ## Empowerment and Self-Improvement - V1
 
-> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "Empower yourself with knowledge and self-belief." - Anonymous
@@ -288,14 +286,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
-
-## Wisdom and Learning
-
-- "The only true wisdom is in knowing you know nothing." - Socrates
-- "An investment in knowledge pays the best interest." - Benjamin Franklin
-- "The best teachers are those who show you where to look but don’t tell you what to see." - Alexandra K. Trenfor
-- "Knowledge is power." - Francis Bacon
-- "The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire
 
 ## Empowerment and Self-Improvement
 
@@ -567,7 +557,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don't let your emotions control you. Choose your battles with a clear mind and a calm heart."
 > 1. "In your life, expect some trouble. But when you worry, you make it double. But don't worry, be happy, be happy now." - Bobby McFerrin
 > 1. "Never underestimate the power of a strategic retreat."
-> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
 > 1. "It's not about winning or losing battles; it's about preserving your peace."
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
@@ -666,7 +655,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Strive not to be a success, but rather to be of value." - Albert Einstein
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
-> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can’t achieve it." - Jordan Belfort
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Don’t wait for the perfect moment. Take the moment and make it perfect." - Anonymous
