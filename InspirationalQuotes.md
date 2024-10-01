@@ -177,7 +177,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Wisdom and Learning
 
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
 > 1. "The only true wisdom is in knowing you know nothing." - Socrates
 > 1. "An investment in knowledge pays the best interest." - Benjamin Franklin
@@ -191,6 +190,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
+> 1. "Empower yourself with knowledge and self-belief." - Anonymous
+> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
+> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
+> 1. "The most common way people give up their power is by thinking they don’t have any." - Alice Walker
+> 1. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
+> 1. "The best way out is always through." - Robert Frost
 
 ## Gratitude and Positivity
 
@@ -222,14 +230,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
-
-## Empowerment and Self-Improvement - V1
-
-> 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
-> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. "Empower yourself with knowledge and self-belief." - Anonymous
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 
 ## Gratitude and Positivity - V1
 
@@ -266,7 +266,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 > 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 > 1. "Don’t let what you cannot do interfere with what you can do." - John Wooden
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Be yourself; everyone else is already taken." - Oscar Wilde
 
 ## Purpose and Vision - V1
@@ -286,14 +285,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
-
-## Empowerment and Self-Improvement
-
-- "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-- "The most common way people give up their power is by thinking they don’t have any." - Alice Walker
-- "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
-- "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-- "The best way out is always through." - Robert Frost
 
 ## Gratitude and Positivity
 
@@ -551,7 +542,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Act as if what you do makes a difference. It does." - William James
 > 1. "Sometimes the best way to win a battle is to avoid it altogether."
 > 1. "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "The battles we don't fight are often more important than the ones we do."
 > 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
 > 1. "Don't let your emotions control you. Choose your battles with a clear mind and a calm heart."
