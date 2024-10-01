@@ -38,8 +38,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
-> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney -- **Here**
-> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
+> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau -- **Here**
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
