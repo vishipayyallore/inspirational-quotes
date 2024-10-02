@@ -38,8 +38,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The best way to predict your future is to create it." - Peter Drucker
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
-> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney -- **Here**
-> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+> 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
+> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau -- **Here**
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
@@ -155,11 +155,19 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
+> 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
+> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
+> 1. "The best way to predict the future is to create it." - Abraham Lincoln
+> 1. "Self-belief is the first step to success." - Anonymous
+> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
+> 1. "Don’t let what you cannot do interfere with what you can do." - John Wooden
+> 1. "Be yourself; everyone else is already taken." - Oscar Wilde
 
 ## Purpose and Vision
 
 > 1. "Your life is your story. Write well. Edit often." - Anonymous
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 
 ## Mindfulness and Presence
@@ -177,7 +185,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Wisdom and Learning
 
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
 > 1. "The only true wisdom is in knowing you know nothing." - Socrates
 > 1. "An investment in knowledge pays the best interest." - Benjamin Franklin
@@ -191,6 +198,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
+> 1. "Empower yourself with knowledge and self-belief." - Anonymous
+> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
+> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
+> 1. "The most common way people give up their power is by thinking they don’t have any." - Alice Walker
+> 1. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
+> 1. "The best way out is always through." - Robert Frost
 
 ## Gratitude and Positivity
 
@@ -202,17 +218,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 
-## Self-Belief and Confidence - V
-
-> 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
-> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
-> 1. "The best way to predict the future is to create it." - Abraham Lincoln
-> 1. "Self-belief is the first step to success." - Anonymous
-
 ## Purpose and Vision - V
 
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "Vision without execution is just hallucination." - Henry Ford
 > 1. "Find your passion and let it guide you." - Anonymous
@@ -222,14 +229,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
-
-## Empowerment and Self-Improvement - V1
-
-> 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
-> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. "Empower yourself with knowledge and self-belief." - Anonymous
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 
 ## Gratitude and Positivity - V1
 
@@ -261,14 +260,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 
-## Self-Belief and Confidence - V1
-
-> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
-> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
-> 1. "Don’t let what you cannot do interfere with what you can do." - John Wooden
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-> 1. "Be yourself; everyone else is already taken." - Oscar Wilde
-
 ## Purpose and Vision - V1
 
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
@@ -284,16 +275,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Motivation and Inspiration - V1
 
-> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
-
-## Empowerment and Self-Improvement
-
-- "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-- "The most common way people give up their power is by thinking they don’t have any." - Alice Walker
-- "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
-- "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-- "The best way out is always through." - Robert Frost
 
 ## Gratitude and Positivity
 
@@ -551,7 +533,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Act as if what you do makes a difference. It does." - William James
 > 1. "Sometimes the best way to win a battle is to avoid it altogether."
 > 1. "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "The battles we don't fight are often more important than the ones we do."
 > 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
 > 1. "Don't let your emotions control you. Choose your battles with a clear mind and a calm heart."
@@ -581,7 +562,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Keep your eyes on the stars, and your feet on the ground." - Theodore Roosevelt
 > 1. "Do not let what you cannot do interfere with what you can do." - John Wooden
 > 1. "Small steps today, a better tomorrow."
-> 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "It does not matter how slowly you go as long as you do not stop." - Confucius
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 > 1. "You don't have to control your thoughts. You just have to stop letting them control you." - Dan Millman
@@ -621,7 +601,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Everything you’ve ever wanted is on the other side of fear." - George Addair
 > 1. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 > 1. "The harder you work for something, the greater you’ll feel when you achieve it."
-> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
@@ -665,7 +644,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "We know what we are, but know not what we may be." - William Shakespeare
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. "If you want to achieve greatness, stop asking for permission."
 > 1. "The harder you work for something, the greater you’ll feel when you achieve it."
 > 1. "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
