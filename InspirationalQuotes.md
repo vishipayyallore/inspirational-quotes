@@ -39,8 +39,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
-> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau -- **Here**
-> 1. "Opportunities don't happen, you create them." - Chris Grosser
+> 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+> 1. "Opportunities don't happen, you create them." - Chris Grosser -- **Here**
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
@@ -70,7 +70,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
-> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King -- **Review**
+> 1. "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
@@ -169,6 +169,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Your life is your story. Write well. Edit often." - Anonymous
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+> 1. "Vision without execution is just hallucination." - Henry Ford
+> 1. "Find your passion and let it guide you." - Anonymous
+> 1. "The purpose of our lives is to be happy." - Dalai Lama
+> 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
+> 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
 
 ## Mindfulness and Presence
 
@@ -179,9 +184,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Motivation and Inspiration
 
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
-> 1. - "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. - "Try to be a rainbow in someone else’s cloud." - Maya Angelou
-> 1. - "Start where you are. Use what you have. Do what you can." - Arthur Ashe
+> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
+> 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning
 
@@ -217,12 +222,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-
-## Purpose and Vision - V
-
-> 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
-> 1. "Vision without execution is just hallucination." - Henry Ford
-> 1. "Find your passion and let it guide you." - Anonymous
 
 ## Mindfulness and Presence - V
 
@@ -260,22 +259,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 
-## Purpose and Vision - V1
-
-> 1. "The purpose of our lives is to be happy." - Dalai Lama
-> 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
-> 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
-
 ## Mindfulness and Presence - V1
 
 > 1. "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
 > 1. "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Anonymous
 > 1. "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
 > 1. "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
-
-## Motivation and Inspiration - V1
-
-> 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Gratitude and Positivity
 
