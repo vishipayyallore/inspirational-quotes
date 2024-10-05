@@ -41,8 +41,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
-> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier -- **Here**
-> 1. "The best revenge is massive success." - Frank Sinatra
+> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+> 1. "The best revenge is massive success." - Frank Sinatra -- **Here**
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
@@ -221,19 +221,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
-
-## Creativity and Innovation
-
-> 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
-> 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-
-## Gratitude and Positivity - V1
-
-> 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
 > 1. "Gratitude turns what we have into enough." - Anonymous
 > 1. "Positive anything is better than negative nothing." - Elbert Hubbard
+> 1. "Gratitude is not only the greatest of virtues but the parent of all the others." - Cicero
+> 1. "The more you praise and celebrate your life, the more there is in life to celebrate." - Oprah Winfrey
+> 1. "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love..." - Marcus Aurelius
 
-## Creativity and Innovation - V1
+## Creativity and Innovation
 
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
@@ -256,14 +250,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only way to deal with fear is to face it head on." - Anonymous
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
-
-## Gratitude and Positivity
-
-- "Gratitude is not only the greatest of virtues but the parent of all the others." - Cicero
-- "The more you praise and celebrate your life, the more there is in life to celebrate." - Oprah Winfrey
-- "Gratitude turns what we have into enough." - Anonymous
-- "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love..." - Marcus Aurelius
-- "Positive anything is better than negative nothing." - Elbert Hubbard
 
 ## Creativity and Innovation
 
