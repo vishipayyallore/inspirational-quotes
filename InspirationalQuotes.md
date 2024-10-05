@@ -40,15 +40,14 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You miss 100% of the shots you don’t take." - Wayne Gretzky
 > 1. "The best way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
-> 1. "Opportunities don't happen, you create them." - Chris Grosser -- **Here**
-> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
+> 1. "Opportunities don't happen, you create them." - Chris Grosser
+> 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier -- **Here**
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 > 1. "Do your thing and don't care if they like it." - Tina Fey
-> 1. "Opportunities don't happen. You create them." - Chris Grosser
 > 1. "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 
 ## Happiness
@@ -180,6 +179,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You can’t make a cloudy day a sunny day, but you can embrace it and decide it’s going to be a good day after all." - Jane Lynch
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
+> 1. "Be present in all things and thankful for all things." - Maya Angelou
+> 1. "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
+> 1. "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Anonymous
+> 1. "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
+> 1. "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 
 ## Motivation and Inspiration
 
@@ -223,12 +227,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 
-## Mindfulness and Presence - V
-
-> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
-> 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
-> 1. "Be present in all things and thankful for all things." - Maya Angelou
-
 ## Gratitude and Positivity - V1
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
@@ -258,13 +256,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only way to deal with fear is to face it head on." - Anonymous
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
-
-## Mindfulness and Presence - V1
-
-> 1. "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
-> 1. "The only way to deal with this life meaningfully is to find one’s passion and put everything into it." - Anonymous
-> 1. "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
-> 1. "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
 
 ## Gratitude and Positivity
 
