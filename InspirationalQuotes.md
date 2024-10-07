@@ -42,8 +42,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
 > 1. "Opportunities don't happen, you create them." - Chris Grosser
 > 1. "Success is the sum of small efforts, repeated day in and day out." - Robert Collier
-> 1. "The best revenge is massive success." - Frank Sinatra -- **Here**
-> 1. "Don’t wait for opportunity. Create it." - Anonymous
+> 1. "The best revenge is massive success." - Frank Sinatra
+> 1. "Don’t wait for opportunity. Create it." - Anonymous -- **Here**
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
@@ -126,8 +126,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
 > 1. "The greatest weapon in any battle is patience." - Anonymous
+> 1. "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the best out of the people." - Ronald Reagan
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "You are never too young to lead and never too old to learn." - Anonymous
+> 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
+> 1. "The best way to lead is by example." - Anonymous
+> 1. "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
+> 1. "To handle yourself, use your head; to handle others, use your heart." - Eleanor Roosevelt
+> 1. "Leadership is not about being in charge. It is about taking care of those in your charge." - Simon Sinek
+> 1. "Leadership is the capacity to translate vision into reality." - Warren Bennis
 
 ## Change and Growth
 
@@ -189,7 +196,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. "Try to be a rainbow in someone else’s cloud." - Maya Angelou
 > 1. "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Wisdom and Learning
@@ -205,16 +211,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Empowerment and Self-Improvement
 
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
-> 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
-> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t." - Rikki Rogers
 > 1. "Empower yourself with knowledge and self-belief." - Anonymous
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 > 1. "The most common way people give up their power is by thinking they don’t have any." - Alice Walker
 > 1. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "The best way out is always through." - Robert Frost
 
 ## Gratitude and Positivity
@@ -234,15 +236,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Creativity is intelligence having fun." - Albert Einstein
 > 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-## Leadership and Influence - V1
-
-> 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
-> 1. "Leadership is not about being in charge. It is about taking care of those in your charge." - Simon Sinek
-> 1. "The best way to lead is by example." - Anonymous
-> 1. "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
-> 1. "To handle yourself, use your head; to handle others, use your heart." - Eleanor Roosevelt
-> 1. "Leadership is the capacity to translate vision into reality." - Warren Bennis
-
 ## Courage and Resilience
 
 > 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
@@ -257,14 +250,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "Innovation distinguishes between a leader and a follower." - Steve Jobs
 - "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." - Scott Adams
 - "There is no greater danger than underestimating your opponent." - Sun Tzu
-
-## Leadership and Influence
-
-- "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
-- "Leadership is not about being in charge. It is about taking care of those in your charge." - Simon Sinek
-- "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
-- "To handle yourself, use your head; to handle others, use your heart." - Eleanor Roosevelt
-- "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the best out of the people." - Ronald Reagan
 
 ## Courage and Resilience
 
