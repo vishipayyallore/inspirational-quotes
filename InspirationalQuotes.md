@@ -235,6 +235,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 > 1. "Creativity is intelligence having fun." - Albert Einstein
 > 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> 1. "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." - Scott Adams
+> 1. "There is no greater danger than underestimating your opponent." - Sun Tzu
 
 ## Courage and Resilience
 
@@ -243,13 +245,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only way to deal with fear is to face it head on." - Anonymous
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
-
-## Creativity and Innovation
-
-- "Creativity is intelligence having fun." - Albert Einstein
-- "Innovation distinguishes between a leader and a follower." - Steve Jobs
-- "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." - Scott Adams
-- "There is no greater danger than underestimating your opponent." - Sun Tzu
 
 ## Courage and Resilience
 
