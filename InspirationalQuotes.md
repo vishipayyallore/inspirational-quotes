@@ -45,8 +45,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The best revenge is massive success." - Frank Sinatra
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
-> 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer -- **Here**
-> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+> 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
+> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt -- **Here**
 > 1. "Do your thing and don't care if they like it." - Tina Fey
 > 1. "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 
@@ -241,17 +241,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Courage and Resilience
 
 > 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-> 1. "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
 > 1. "The only way to deal with fear is to face it head on." - Anonymous
-> 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
-
-## Courage and Resilience
-
-- "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-- "Resilience is the capacity to recover quickly from difficulties; toughness." - Anonymous
-- "The only way to deal with fear is to face it head on." - Anonymous
-- "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
+> 1. "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
+> 1. "Resilience is the capacity to recover quickly from difficulties; toughness." - Anonymous
+> 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
 
 ## Wisdom and Insight
 
