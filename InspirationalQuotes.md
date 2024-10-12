@@ -46,8 +46,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don’t wait for opportunity. Create it." - Anonymous
 > 1. "You don’t have to be great to start, but you have to start to be great." - Zig Ziglar
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt -- **Here**
-> 1. "Do your thing and don't care if they like it." - Tina Fey
+> 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+> 1. "Do your thing and don't care if they like it." - Tina Fey -- **Here**
 > 1. "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 
 ## Happiness
