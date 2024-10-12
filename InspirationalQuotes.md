@@ -269,6 +269,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
 - "What we learn with pleasure we never forget." - Alfred Mercier
 - "Change is the end result of all true learning." - Leo Buscaglia
+- "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+- "Education is not preparation for life; education is life itself." - John Dewey
+- "The only limit to your impact is your imagination and commitment." - Tony Robbins
+- "Learning never exhausts the mind." - Leonardo da Vinci
+- "The beautiful thing about learning is that no one can take it away from you." - B.B. King
+- "You cannot teach a man anything; you can only help him find it within himself." - Galileo Galilei
+- "Change is the end result of all true learning." - Leo Buscaglia
+- "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
+- "The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire
 
 ## Self-Awareness and Reflection
 
@@ -300,18 +309,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "The most difficult thing is the decision to act, the rest is merely tenacity." - Amelia Earhart
 - "You cannot change the direction of the wind, but you can adjust your sails to always reach your destination." - Jimmy Dean
 - "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
-
-## Learning and Growth
-
-- "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
-- "The only limit to your impact is your imagination and commitment." - Tony Robbins
-- "Learning never exhausts the mind." - Leonardo da Vinci
-- "The beautiful thing about learning is that no one can take it away from you." - B.B. King
-- "You cannot teach a man anything; you can only help him find it within himself." - Galileo Galilei
-- "Change is the end result of all true learning." - Leo Buscaglia
-- "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
-- "The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire
-- "Education is not preparation for life; education is life itself." - John Dewey
 
 ## Lifelong Learning
 
