@@ -249,50 +249,50 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Wisdom and Insight
 
-- "The unexamined life is not worth living." - Socrates
-- "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk." - Doug Larson
-- "The only true wisdom is in knowing you know nothing." - Socrates
-- "Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - Albert Einstein
-- "The journey of a thousand miles begins with one step." - Lao Tzu
+> 1. "The unexamined life is not worth living." - Socrates
+> 1. "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk." - Doug Larson
+> 1. "The only true wisdom is in knowing you know nothing." - Socrates
+> 1. "Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - Albert Einstein
+> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
 
 ## Understanding and Knowledge
 
-- "An investment in knowledge pays the best interest." - Benjamin Franklin
-- "We do not remember days; we remember moments." - Cesare Pavese
-- "Knowledge speaks, but wisdom listens." - Jimi Hendrix
-- "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - Stephen Hawking
-- "To know oneself is to study oneself in action with another person." - Bruce Lee
+> 1. "An investment in knowledge pays the best interest." - Benjamin Franklin
+> 1. "We do not remember days; we remember moments." - Cesare Pavese
+> 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
+> 1. "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - Stephen Hawking
+> 1. "To know oneself is to study oneself in action with another person." - Bruce Lee
 
 ## Learning and Growth
 
-- "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
-- "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
-- "What we learn with pleasure we never forget." - Alfred Mercier
-- "Change is the end result of all true learning." - Leo Buscaglia
-- "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
-- "Education is not preparation for life; education is life itself." - John Dewey
-- "The only limit to your impact is your imagination and commitment." - Tony Robbins
-- "Learning never exhausts the mind." - Leonardo da Vinci
-- "The beautiful thing about learning is that no one can take it away from you." - B.B. King
-- "You cannot teach a man anything; you can only help him find it within himself." - Galileo Galilei
-- "Change is the end result of all true learning." - Leo Buscaglia
-- "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
-- "The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire
+> 1. "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
+> 1. "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
+> 1. "What we learn with pleasure we never forget." - Alfred Mercier
+> 1. "Change is the end result of all true learning." - Leo Buscaglia
+> 1. "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+> 1. "Education is not preparation for life; education is life itself." - John Dewey
+> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
+> 1. "Learning never exhausts the mind." - Leonardo da Vinci
+> 1. "The beautiful thing about learning is that no one can take it away from you." - B.B. King
+> 1. "You cannot teach a man anything; you can only help him find it within himself." - Galileo Galilei
+> 1. "Change is the end result of all true learning." - Leo Buscaglia
+> 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
+> 1. "The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire
 
 ## Self-Awareness and Reflection
 
-- "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power." - Lao Tzu
-- "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man." - William Shakespeare
-- "Self-awareness is the key to personal growth and success." - Anonymous
-- "The mind is everything. What you think you become." - Buddha
-- "It is not the mountain we conquer but ourselves." - Edmund Hillary
+> 1. "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power." - Lao Tzu
+> 1. "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man." - William Shakespeare
+> 1. "Self-awareness is the key to personal growth and success." - Anonymous
+> 1. "The mind is everything. What you think you become." - Buddha
+> 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 
 ## Perspective and Understanding
 
-- "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
-- "When we are no longer able to change a situation, we are challenged to change ourselves." - Viktor E. Frankl
-- "He who has a why to live can bear almost any how." - Friedrich Nietzsche
-- "Everything has beauty, but not everyone can see it." - Confucius
+> 1. "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
+> 1. "When we are no longer able to change a situation, we are challenged to change ourselves." - Viktor E. Frankl
+> 1. "He who has a why to live can bear almost any how." - Friedrich Nietzsche
+> 1. "Everything has beauty, but not everyone can see it." - Confucius
 
 ## Life Lessons and Truths
 
