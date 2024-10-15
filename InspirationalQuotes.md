@@ -48,11 +48,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
 > 1. "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
 > 1. "Do your thing and don't care if they like it." - Tina Fey
-> 1. "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden -- **Here**
+> 1. "Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds." - Orison Swett Marden
 
 ## Happiness
 
-> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
+> 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV -- **Here**
 > 1. "It’s better to be happy than to be right." - Anonymous
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
@@ -251,9 +251,23 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "The unexamined life is not worth living." - Socrates
 > 1. "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk." - Doug Larson
-> 1. "The only true wisdom is in knowing you know nothing." - Socrates
 > 1. "Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - Albert Einstein
+> 1. "The only true wisdom is in knowing you know nothing." - Socrates
+> 1. "The only true wisdom is in knowing you know nothing." - Socrates
+> 1. "The only true wisdom is in knowing you know nothing." - Socrates
+> 1. "The greatest wealth is to live content with little." - Plato
+> 1. "The greatest wealth is to live content with little." - Plato
 > 1. "The journey of a thousand miles begins with one step." - Lao Tzu
+> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
+> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
+> 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
+> 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
+> 1. "We do not see things as they are, we see them as we are." - Anaïs Nin
+> 1. "We do not see things as they are, we see them as we are." - Anaïs Nin
+> 1. "Wisdom begins in wonder." - Socrates
+> 1. "Wisdom begins in wonder." - Socrates
+> 1. "He who has a why to live can bear almost any how." - Friedrich Nietzsche
+> 1. "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 
 ## Understanding and Knowledge
 
@@ -296,19 +310,19 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life Lessons and Truths
 
-- "Life is really simple, but we insist on making it complicated." - Confucius
-- "The greatest wealth is to live content with little." - Plato
-- "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
-- "The way you see people is the way you treat them, and the way you treat them is what they become." - Johann Wolfgang von Goethe
-- "The quality of your life is determined by the quality of your thoughts." - Marcus Aurelius
+> 1. "Life is really simple, but we insist on making it complicated." - Confucius
+> 1. "The greatest wealth is to live content with little." - Plato
+> 1. "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
+> 1. "The way you see people is the way you treat them, and the way you treat them is what they become." - Johann Wolfgang von Goethe
+> 1. "The quality of your life is determined by the quality of your thoughts." - Marcus Aurelius
 
 ## Philosophy and Reflection
 
-- "It is not the strongest or the most intelligent who will survive but those who can best manage change." - Charles Darwin
-- "Happiness depends upon ourselves." - Aristotle
-- "The most difficult thing is the decision to act, the rest is merely tenacity." - Amelia Earhart
-- "You cannot change the direction of the wind, but you can adjust your sails to always reach your destination." - Jimmy Dean
-- "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
+> 1. "It is not the strongest or the most intelligent who will survive but those who can best manage change." - Charles Darwin
+> 1. "Happiness depends upon ourselves." - Aristotle
+> 1. "The most difficult thing is the decision to act, the rest is merely tenacity." - Amelia Earhart
+> 1. "You cannot change the direction of the wind, but you can adjust your sails to always reach your destination." - Jimmy Dean
+> 1. "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
 
 ## Lifelong Learning
 
@@ -355,16 +369,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "We are all apprentices in a craft where no one ever becomes a master." - Ernest Hemingway
 - "To improve is to change; to be perfect is to change often." - Winston Churchill
 
-## Wisdom and Insight
-
-- "The only true wisdom is in knowing you know nothing." - Socrates
-- "Wisdom begins in wonder." - Socrates
-- "The greatest wealth is to live content with little." - Plato
-- "The journey of a thousand miles begins with one step." - Lao Tzu
-- "Knowledge speaks, but wisdom listens." - Jimi Hendrix
-- "He who has a why to live can bear almost any how." - Friedrich Nietzsche
-- "We do not see things as they are, we see them as we are." - Anaïs Nin
-
 ## Life and Living
 
 - "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
@@ -401,16 +405,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "Change is the only constant in life." - Heraclitus
 - "The measure of intelligence is the ability to change." - Albert Einstein
 - "You must be the change you wish to see in the world." - Mahatma Gandhi
-
-## Wisdom and Insight
-
-- "The only true wisdom is in knowing you know nothing." - Socrates
-- "Wisdom begins in wonder." - Socrates
-- "The greatest wealth is to live content with little." - Plato
-- "The journey of a thousand miles begins with one step." - Lao Tzu
-- "Knowledge speaks, but wisdom listens." - Jimi Hendrix
-- "He who has a why to live can bear almost any how." - Friedrich Nietzsche
-- "We do not see things as they are, we see them as we are." - Anaïs Nin
 
 ## Life and Living
 
