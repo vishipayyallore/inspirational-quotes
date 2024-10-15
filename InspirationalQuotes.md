@@ -326,23 +326,23 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Lifelong Learning
 
-- "The only thing that interferes with my learning is my education." - Albert Einstein
-- "The mind is not a vessel to be filled, but a fire to be ignited." - Plutarch
-- "An investment in knowledge pays the best interest." - Benjamin Franklin
-- "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
-- "Learning is a treasure that will follow its owner everywhere." - Chinese Proverb
-- "Once you stop learning, you start dying." - Albert Einstein
-- "Education is the key to unlocking the golden door of freedom." - George Washington Carver
+> 1. "The only thing that interferes with my learning is my education." - Albert Einstein
+> 1. "The mind is not a vessel to be filled, but a fire to be ignited." - Plutarch
+> 1. "An investment in knowledge pays the best interest." - Benjamin Franklin
+> 1. "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
+> 1. "Learning is a treasure that will follow its owner everywhere." - Chinese Proverb
+> 1. "Once you stop learning, you start dying." - Albert Einstein
+> 1. "Education is the key to unlocking the golden door of freedom." - George Washington Carver
 
 ## Curiosity and Exploration
 
-- "Curiosity is the wick in the candle of learning." - William Arthur Ward
-- "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
-- "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - Stephen Hawking
-- "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
-- "The more I know, the more I realize I know nothing." - Socrates
-- "A person who never made a mistake never tried anything new." - Albert Einstein
-- "To teach is to learn twice." - Joseph Joubert
+> 1. "Curiosity is the wick in the candle of learning." - William Arthur Ward
+> 1. "The important thing is not to stop questioning. Curiosity has its own reason for existing." - Albert Einstein
+> 1. "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - Stephen Hawking
+> 1. "You learn more from failure than from success. Don’t let it stop you. Failure builds character." - Anonymous
+> 1. "The more I know, the more I realize I know nothing." - Socrates
+> 1. "A person who never made a mistake never tried anything new." - Albert Einstein
+> 1. "To teach is to learn twice." - Joseph Joubert
 
 ## Self-Improvement and Reflection
 
