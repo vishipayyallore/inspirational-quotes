@@ -53,8 +53,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Happiness
 
 > 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
-> 1. "It’s better to be happy than to be right." - Anonymous -- **Here**
-> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
+> 1. "It’s better to be happy than to be right." - Anonymous
+> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous -- **Here**
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
