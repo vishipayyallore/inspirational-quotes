@@ -53,8 +53,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Happiness
 
 > 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
-> 1. "It’s better to be happy than to be right." - Anonymous -- **Here**
-> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
+> 1. "It’s better to be happy than to be right." - Anonymous
+> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous -- **Here**
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
@@ -346,22 +346,22 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Self-Improvement and Reflection
 
-- "Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
-- "It is not the mountain we conquer but ourselves." - Edmund Hillary
-- "Your education is a dress rehearsal for a life that is yours to lead." - Nora Ephron
-- "What we learn with pleasure we never forget." - Alfred Mercier
-- "Self-education is, I firmly believe, the only kind of education there is." - Isaac Asimov
-- "Learning without reflection is a waste. Reflection without learning is dangerous." - Confucius
-- "We do not learn from experience... we learn from reflecting on experience." - John Dewey
+> 1. "Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
+> 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
+> 1. "Your education is a dress rehearsal for a life that is yours to lead." - Nora Ephron
+> 1. "What we learn with pleasure we never forget." - Alfred Mercier
+> 1. "Self-education is, I firmly believe, the only kind of education there is." - Isaac Asimov
+> 1. "Learning without reflection is a waste. Reflection without learning is dangerous." - Confucius
+> 1. "We do not learn from experience... we learn from reflecting on experience." - John Dewey
 
 ## Challenges and Persistence
 
-- "Education is the ability to listen to almost anything without losing your temper or your self-confidence." - Robert Frost
-- "I am always ready to learn although I do not always like being taught." - Winston Churchill
-- "It does not matter how slowly you go as long as you do not stop." - Confucius
-- "We may encounter many defeats but we must not be defeated." - Maya Angelou
-- "The expert in anything was once a beginner." - Helen Hayes
-- "There are no failures, only experiences and your reactions to them." - Tom Krause
+> 1. "Education is the ability to listen to almost anything without losing your temper or your self-confidence." - Robert Frost
+> 1. "I am always ready to learn although I do not always like being taught." - Winston Churchill
+> 1. "It does not matter how slowly you go as long as you do not stop." - Confucius
+> 1. "We may encounter many defeats but we must not be defeated." - Maya Angelou
+> 1. "The expert in anything was once a beginner." - Helen Hayes
+> 1. "There are no failures, only experiences and your reactions to them." - Tom Krause
 
 ## Transformation and Enlightenment
 
