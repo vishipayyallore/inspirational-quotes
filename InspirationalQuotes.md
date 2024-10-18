@@ -54,8 +54,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
 > 1. "It’s better to be happy than to be right." - Anonymous
-> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous -- **Here**
-> 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
+> 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
+> 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous -- **Here**
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
@@ -246,6 +246,18 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
 > 1. "Resilience is the capacity to recover quickly from difficulties; toughness." - Anonymous
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
+> 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
+> 1. "It does not do to dwell on dreams and forget to live." - J.K. Rowling
+> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+> 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
+> 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
+> 1. "Resilience is not about overcoming, it's about becoming." - Sherri Salata
+> 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
+> 1. "It does not do to dwell on dreams and forget to live." - J.K. Rowling
+> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+> 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
+> 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
+> 1. "Resilience is not about overcoming, it's about becoming." - Sherri Salata
 
 ## Wisdom and Insight
 
@@ -365,18 +377,18 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Transformation and Enlightenment
 
-- "The only person who is educated is the one who has learned how to learn... and change." - Carl Rogers
-- "We are all apprentices in a craft where no one ever becomes a master." - Ernest Hemingway
-- "To improve is to change; to be perfect is to change often." - Winston Churchill
+> 1. "The only person who is educated is the one who has learned how to learn... and change." - Carl Rogers
+> 1. "We are all apprentices in a craft where no one ever becomes a master." - Ernest Hemingway
+> 1. "To improve is to change; to be perfect is to change often." - Winston Churchill
 
 ## Life and Living
 
-- "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
-- "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
-- "Life is either a daring adventure or nothing at all." - Helen Keller
-- "You only live once, but if you do it right, once is enough." - Mae West
-- "Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
-- "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
+> 1. "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
+> 1. "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
+> 1. "Life is either a daring adventure or nothing at all." - Helen Keller
+> 1. "You only live once, but if you do it right, once is enough." - Mae West
+> 1. "Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
+> 1. "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
 
 ## Love and Relationships
 
@@ -387,15 +399,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "The greatest thing you’ll ever learn is just to love and be loved in return." - Eden Ahbez
 - "Where there is love there is life." - Mahatma Gandhi
 - "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
-
-## Courage and Resilience
-
-- "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-- "It does not do to dwell on dreams and forget to live." - J.K. Rowling
-- "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
-- "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
-- "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-- "Resilience is not about overcoming, it's about becoming." - Sherri Salata
 
 ## Change and Innovation
 
@@ -424,15 +427,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 - "The greatest thing you’ll ever learn is just to love and be loved in return." - Eden Ahbez
 - "Where there is love there is life." - Mahatma Gandhi
 - "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
-
-## Courage and Resilience
-
-- "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-- "It does not do to dwell on dreams and forget to live." - J.K. Rowling
-- "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
-- "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
-- "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-- "Resilience is not about overcoming, it's about becoming." - Sherri Salata
 
 ## Change and Innovation
 
