@@ -1,6 +1,6 @@
 # Inspirational Quotes
 
-I am collecting the Inspirational Quotes / Wisdom from different sources.
+I am collecting the Inspirational Quotes / Wisdom from different sources. Never lie to someone who trusts you. Never trust someone who lies to you. ~ Anonymous
 
 ## Perseverance
 
