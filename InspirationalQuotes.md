@@ -1,9 +1,10 @@
 # Inspirational Quotes
 
-I am collecting the Inspirational Quotes / Wisdom from different sources. Never lie to someone who trusts you. Never trust someone who lies to you. ~ Anonymous
+I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Perseverance
 
+> 1. Never lie to someone who trusts you. Never trust someone who lies to you. ~ Anonymous
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
@@ -55,8 +56,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources. Never 
 > 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
 > 1. "It’s better to be happy than to be right." - Anonymous
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
-> 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous -- **Here**
-> 1. "The greatest wealth is health." - Virgil
+> 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
+> 1. "The greatest wealth is health." - Virgil -- **Here**
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
