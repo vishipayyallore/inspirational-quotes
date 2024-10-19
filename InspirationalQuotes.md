@@ -266,20 +266,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk." - Doug Larson
 > 1. "Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - Albert Einstein
 > 1. "The only true wisdom is in knowing you know nothing." - Socrates
-> 1. "The only true wisdom is in knowing you know nothing." - Socrates
-> 1. "The only true wisdom is in knowing you know nothing." - Socrates
-> 1. "The greatest wealth is to live content with little." - Plato
 > 1. "The greatest wealth is to live content with little." - Plato
 > 1. "The journey of a thousand miles begins with one step." - Lao Tzu
-> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
-> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
-> 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
 > 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
 > 1. "We do not see things as they are, we see them as we are." - Anaïs Nin
-> 1. "We do not see things as they are, we see them as we are." - Anaïs Nin
 > 1. "Wisdom begins in wonder." - Socrates
-> 1. "Wisdom begins in wonder." - Socrates
-> 1. "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 > 1. "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 
 ## Understanding and Knowledge
