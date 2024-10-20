@@ -57,8 +57,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It’s better to be happy than to be right." - Anonymous
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
-> 1. "The greatest wealth is health." - Virgil -- **Here**
-> 1. "Happiness is not by chance, but by choice." - Jim Rohn
+> 1. "The greatest wealth is health." - Virgil
+> 1. "Happiness is not by chance, but by choice." - Jim Rohn -- **Here**
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are enough just as you are." - Meghan Markle
@@ -266,20 +266,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk." - Doug Larson
 > 1. "Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - Albert Einstein
 > 1. "The only true wisdom is in knowing you know nothing." - Socrates
-> 1. "The only true wisdom is in knowing you know nothing." - Socrates
-> 1. "The only true wisdom is in knowing you know nothing." - Socrates
-> 1. "The greatest wealth is to live content with little." - Plato
 > 1. "The greatest wealth is to live content with little." - Plato
 > 1. "The journey of a thousand miles begins with one step." - Lao Tzu
-> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
-> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
-> 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
 > 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
 > 1. "We do not see things as they are, we see them as we are." - Anaïs Nin
-> 1. "We do not see things as they are, we see them as we are." - Anaïs Nin
 > 1. "Wisdom begins in wonder." - Socrates
-> 1. "Wisdom begins in wonder." - Socrates
-> 1. "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 > 1. "He who has a why to live can bear almost any how." - Friedrich Nietzsche
 
 ## Understanding and Knowledge
