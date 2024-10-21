@@ -58,8 +58,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don’t let small things ruin your happiness. Choose to be happy instead." - Anonymous
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
-> 1. "Happiness is not by chance, but by choice." - Jim Rohn -- **Here**
-> 1. "Choose to be optimistic; it feels better." - Dalai Lama
+> 1. "Happiness is not by chance, but by choice." - Jim Rohn
+> 1. "Choose to be optimistic; it feels better." - Dalai Lama -- **Here**
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "You are enough just as you are." - Meghan Markle
 
@@ -384,13 +384,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Love and Relationships
 
-- "Love all, trust a few, do wrong to none." - William Shakespeare
-- "To love and be loved is to feel the sun from both sides." - David Viscott
-- "The best thing to hold onto in life is each other." - Audrey Hepburn
-- "Love is composed of a single soul inhabiting two bodies." - Aristotle
-- "The greatest thing you’ll ever learn is just to love and be loved in return." - Eden Ahbez
-- "Where there is love there is life." - Mahatma Gandhi
-- "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
+> 1. "Love all, trust a few, do wrong to none." - William Shakespeare
+> 1. "To love and be loved is to feel the sun from both sides." - David Viscott
+> 1. "The best thing to hold onto in life is each other." - Audrey Hepburn
+> 1. "Love is composed of a single soul inhabiting two bodies." - Aristotle
+> 1. "The greatest thing you’ll ever learn is just to love and be loved in return." - Eden Ahbez
+> 1. "Where there is love there is life." - Mahatma Gandhi
+> 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 
 ## Change and Innovation
 
