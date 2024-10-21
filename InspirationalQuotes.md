@@ -394,12 +394,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Change and Innovation
 
-- "Be the change that you wish to see in the world." - Mahatma Gandhi
-- "The only thing constant is change." - Heraclitus
-- "Innovation distinguishes between a leader and a follower." - Steve Jobs
-- "Change is the only constant in life." - Heraclitus
-- "The measure of intelligence is the ability to change." - Albert Einstein
-- "You must be the change you wish to see in the world." - Mahatma Gandhi
+> 1. "Be the change that you wish to see in the world." - Mahatma Gandhi
+> 1. "The only thing constant is change." - Heraclitus
+> 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> 1. "Change is the only constant in life." - Heraclitus
+> 1. "The measure of intelligence is the ability to change." - Albert Einstein
+> 1. "You must be the change you wish to see in the world." - Mahatma Gandhi
 
 ## Life and Living
 
