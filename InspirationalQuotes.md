@@ -59,8 +59,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes it’s better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
-> 1. "Choose to be optimistic; it feels better." - Dalai Lama -- **Here**
-> 1. "The only way to do great work is to love what you do." - Steve Jobs
+> 1. "Choose to be optimistic; it feels better." - Dalai Lama
+> 1. "The only way to do great work is to love what you do." - Steve Jobs -- **Here**
 > 1. "You are enough just as you are." - Meghan Markle
 
 ## Dreams and Goals
@@ -394,12 +394,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Change and Innovation
 
-- "Be the change that you wish to see in the world." - Mahatma Gandhi
-- "The only thing constant is change." - Heraclitus
-- "Innovation distinguishes between a leader and a follower." - Steve Jobs
-- "Change is the only constant in life." - Heraclitus
-- "The measure of intelligence is the ability to change." - Albert Einstein
-- "You must be the change you wish to see in the world." - Mahatma Gandhi
+> 1. "Be the change that you wish to see in the world." - Mahatma Gandhi
+> 1. "The only thing constant is change." - Heraclitus
+> 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> 1. "Change is the only constant in life." - Heraclitus
+> 1. "The measure of intelligence is the ability to change." - Albert Einstein
+> 1. "You must be the change you wish to see in the world." - Mahatma Gandhi
 
 ## Life and Living
 
