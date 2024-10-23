@@ -4,7 +4,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Perseverance
 
-> 1. Never lie to someone who trusts you. Never trust someone who lies to you. ~ Anonymous
+> 1. "Never lie to someone who trusts you. Never trust someone who lies to you."" ~ Anonymous
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
@@ -60,8 +60,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
-> 1. "The only way to do great work is to love what you do." - Steve Jobs -- **Here**
-> 1. "You are enough just as you are." - Meghan Markle
+> 1. "The only way to do great work is to love what you do." - Steve Jobs
+> 1. "You are enough just as you are." - Meghan Markle -- **Here**
 
 ## Dreams and Goals
 
@@ -376,10 +376,16 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Life and Living
 
 > 1. "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
+> 1. "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
+> 1. "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
 > 1. "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
 > 1. "Life is either a daring adventure or nothing at all." - Helen Keller
+> 1. Life is either a daring adventure or nothing at all." - Helen Keller
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
+> 1. You only live once, but if you do it right, once is enough." - Mae West
 > 1. "Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
+> 1. Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
+> 1. "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
 > 1. "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
 
 ## Love and Relationships
@@ -400,15 +406,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Change is the only constant in life." - Heraclitus
 > 1. "The measure of intelligence is the ability to change." - Albert Einstein
 > 1. "You must be the change you wish to see in the world." - Mahatma Gandhi
-
-## Life and Living
-
-- "In the end, it’s not the years in your life that count. It’s the life in your years." - Abraham Lincoln
-- "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
-- "Life is either a daring adventure or nothing at all." - Helen Keller
-- "You only live once, but if you do it right, once is enough." - Mae West
-- "Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
-- "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
 
 ## Love and Relationships
 
