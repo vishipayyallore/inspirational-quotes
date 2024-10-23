@@ -61,11 +61,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
 > 1. "The only way to do great work is to love what you do." - Steve Jobs
-> 1. "You are enough just as you are." - Meghan Markle -- **Here**
+> 1. "You are enough just as you are." - Meghan Markle
 
 ## Dreams and Goals
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
+> 1. "Believe you can and you're halfway there." - Theodore Roosevelt -- **Here**
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
@@ -406,16 +406,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Change is the only constant in life." - Heraclitus
 > 1. "The measure of intelligence is the ability to change." - Albert Einstein
 > 1. "You must be the change you wish to see in the world." - Mahatma Gandhi
-
-## Love and Relationships
-
-- "Love all, trust a few, do wrong to none." - William Shakespeare
-- "To love and be loved is to feel the sun from both sides." - David Viscott
-- "The best thing to hold onto in life is each other." - Audrey Hepburn
-- "Love is composed of a single soul inhabiting two bodies." - Aristotle
-- "The greatest thing you’ll ever learn is just to love and be loved in return." - Eden Ahbez
-- "Where there is love there is life." - Mahatma Gandhi
-- "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 
 ## Change and Innovation
 
