@@ -65,8 +65,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Dreams and Goals
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt -- **Here**
-> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
+> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt -- **Here**
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
@@ -406,15 +406,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Change is the only constant in life." - Heraclitus
 > 1. "The measure of intelligence is the ability to change." - Albert Einstein
 > 1. "You must be the change you wish to see in the world." - Mahatma Gandhi
-
-## Change and Innovation
-
-- "Be the change that you wish to see in the world." - Mahatma Gandhi
-- "The only thing constant is change." - Heraclitus
-- "Innovation distinguishes between a leader and a follower." - Steve Jobs
-- "Change is the only constant in life." - Heraclitus
-- "The measure of intelligence is the ability to change." - Albert Einstein
-- "You must be the change you wish to see in the world." - Mahatma Gandhi
 
 ---
 
