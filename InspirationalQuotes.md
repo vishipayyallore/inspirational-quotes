@@ -409,8 +409,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ---
 
-> 1. "You don't have to be great to start, but you have to start to be great." - Zig Ziglar
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
 > 1. "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
 > 1. "Life begins at the end of your comfort zone." - Neale Donald Walsch
 > 1. "Focus on what's important and let go of the rest."
@@ -514,7 +512,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
 > 1. "You can't cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
