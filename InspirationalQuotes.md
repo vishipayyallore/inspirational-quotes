@@ -66,8 +66,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Dreams and Goals
 
 > 1. "Believe you can and you're halfway there." - Theodore Roosevelt
-> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt -- **Here**
-> 1. "Dream big and dare to fail." - Norman Vaughan
+> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> 1. "Dream big and dare to fail." - Norman Vaughan -- **Here**
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
