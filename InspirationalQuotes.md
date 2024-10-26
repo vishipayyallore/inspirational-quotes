@@ -4,9 +4,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Perseverance
 
-> 1. "Never lie to someone who trusts you. Never trust someone who lies to you."" ~ Anonymous
-> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill -- **Review**
-> 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
+> 1. "Never lie to someone who trusts you. Never trust someone who lies to you." ~ Anonymous
+> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+> 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll -- **Review**
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it's done." - Nelson Mandela
@@ -66,8 +66,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Dreams and Goals
 
 > 1. "Believe you can and you're halfway there." - Theodore Roosevelt
-> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt -- **Here**
-> 1. "Dream big and dare to fail." - Norman Vaughan
+> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> 1. "Dream big and dare to fail." - Norman Vaughan -- **Here**
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
@@ -409,8 +409,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ---
 
-> 1. "You don't have to be great to start, but you have to start to be great." - Zig Ziglar
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
 > 1. "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
 > 1. "Life begins at the end of your comfort zone." - Neale Donald Walsch
 > 1. "Focus on what's important and let go of the rest."
@@ -514,7 +512,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
 > 1. "You can't cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
