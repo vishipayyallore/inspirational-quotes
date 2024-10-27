@@ -498,7 +498,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "It's not whether you get knocked down; it's whether you get up." - Vince Lombardi
-> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 > 1. "Don't count the days, make the days count." - Muhammad Ali
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
@@ -511,7 +510,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "What would you do if you weren't afraid?" - Sheryl Sandberg
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
-> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "You can't cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
