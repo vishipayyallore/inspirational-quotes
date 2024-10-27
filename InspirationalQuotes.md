@@ -7,8 +7,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Never lie to someone who trusts you. Never trust someone who lies to you." ~ Anonymous
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
-> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson -- **Review**
-> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
+> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela -- **Review**
 > 1. "It always seems impossible until it's done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
@@ -68,8 +68,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Believe you can and you're halfway there." - Theodore Roosevelt
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
-> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau -- **Here**
-> 1. "If you can dream it, you can achieve it." - Zig Ziglar
+> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
+> 1. "If you can dream it, you can achieve it." - Zig Ziglar -- **Here**
 > 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
