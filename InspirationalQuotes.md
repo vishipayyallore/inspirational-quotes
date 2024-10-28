@@ -8,8 +8,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
-> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela -- **Review**
-> 1. "It always seems impossible until it's done." - Nelson Mandela
+> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
+> 1. "It always seems impossible until it's done." - Nelson Mandela -- **Review**
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
@@ -69,8 +69,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-> 1. "If you can dream it, you can achieve it." - Zig Ziglar -- **Here**
-> 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
+> 1. "If you can dream it, you can achieve it." - Zig Ziglar
+> 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King -- **Here**
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
@@ -376,16 +376,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Life and Living
 
 > 1. "In the end, it's not the years in your life that count. It's the life in your years." - Abraham Lincoln
-> 1. "In the end, it's not the years in your life that count. It's the life in your years." - Abraham Lincoln
-> 1. "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
 > 1. "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
 > 1. "Life is either a daring adventure or nothing at all." - Helen Keller
-> 1. Life is either a daring adventure or nothing at all." - Helen Keller
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
-> 1. You only live once, but if you do it right, once is enough." - Mae West
 > 1. "Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
-> 1. Happiness is not something ready-made. It comes from your own actions." - Dalai Lama
-> 1. "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
 > 1. "The best way to find yourself is to lose yourself in the service of others." - Mahatma Gandhi
 
 ## Love and Relationships
@@ -410,12 +404,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ---
 
 > 1. "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
-> 1. "Life begins at the end of your comfort zone." - Neale Donald Walsch
-> 1. "Focus on what's important and let go of the rest."
-> 1. "Stand up for what you believe in, but pick your battles carefully."
-> 1. "Don't waste your energy on things that don't deserve it."
-> 1. "It's better to be happy than to be right."
-> 1. "Choose your battles wisely, and you'll never be defeated."
+> 1. "Life begins at the end of your comfort zone." - Neale Donald Walsch ~ Anonymous -- **Review**
+> 1. "Stand up for what you believe in, but pick your battles carefully." ~ Anonymous
+> 1. "Don't waste your energy on things that don't deserve it." ~ Anonymous
+> 1. "It's better to be happy than to be right." ~ Anonymous
+> 1. "Choose your battles wisely, and you'll never be defeated." ~ Anonymous
 > 1. "Life is too short to waste it on petty arguments."
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
 > 1. "Don't let small things ruin your happiness. Choose to be happy instead."
