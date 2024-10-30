@@ -9,8 +9,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
-> 1. "It always seems impossible until it's done." - Nelson Mandela -- **Review**
-> 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
+> 1. "It always seems impossible until it's done." - Nelson Mandela
+> 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh -- **Review**
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
@@ -70,8 +70,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
-> 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King -- **Here**
-> 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
+> 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
+> 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey -- **Here**
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 
