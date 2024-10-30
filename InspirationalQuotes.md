@@ -71,7 +71,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
-> 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey -- **Here**
+> 1. "Ships do not sink because of water around them, ships sink because of water that gets into them." - Anonymous -- **Here**
+> 1. "Don't let what's happenning around you get inside you and weigh you down" - Anonymous
+> 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 
