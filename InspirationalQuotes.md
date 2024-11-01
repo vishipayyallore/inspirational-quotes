@@ -5,14 +5,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Perseverance
 
 > 1. "Never lie to someone who trusts you. Never trust someone who lies to you." ~ Anonymous
+> 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it's done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
-> 1. "Fall seven times, stand up eight." - Japanese Proverb -- **Review**
-> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
+> 1. "Fall seven times, stand up eight." - Japanese Proverb
+> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous -- **Review**
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you're going through hell, keep going." - Winston Churchill
