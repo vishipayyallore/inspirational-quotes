@@ -93,11 +93,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous -- **Here**
+> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 
 ## Self-Belief
 
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
+> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho -- **Here**
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
