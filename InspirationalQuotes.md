@@ -2,11 +2,23 @@
 
 I am collecting the Inspirational Quotes / Wisdom from different sources.
 
-## Daily
+## Daily Must
 
 > 1. "Never lie to someone who trusts you. Never trust someone who lies to you." ~ Anonymous
 > 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "Stop crossing oceans for people who won't even jump puddles for you" - Anonymous
+
+## Daily one
+
+> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
+> 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
+> 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
+> 1. "Trust is a slow revelation of true intentions; don’t believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K
+> 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
+> 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
+> 1. "Don’t be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
 
 ## Perseverance
 
@@ -18,8 +30,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It always seems impossible until it's done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
-> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous -- **Review**
-> 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
+> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
+> 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford -- **Review**
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
@@ -80,8 +92,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Ships do not sink because of water around them, ships sink because of water that gets into them." - Anonymous
 > 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
-> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson -- **Here**
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
+> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
+> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous -- **Here**
 
 ## Self-Belief
 
