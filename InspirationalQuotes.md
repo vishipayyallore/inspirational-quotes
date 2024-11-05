@@ -28,7 +28,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Perseverance
 
-> 1. "Value those who appreciate your efforts and reciprocate kindness." - Anonymous
+> 1. "Value those who appreciate your efforts and reciprocate kindness." - Anonymous -- **Here**
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
@@ -39,7 +39,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
-> 1. "If you're going through hell, keep going." - Winston Churchill -- **Review**
+> 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
@@ -96,7 +96,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
 > 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
 > 1. "Ships do not sink because of water around them, ships sink because of water that gets into them." - Anonymous
-> 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
 > 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
@@ -104,7 +103,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Self-Belief
 
 > 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis -- **Here**
+> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
