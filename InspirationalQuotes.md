@@ -13,12 +13,18 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K
 > 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K -- **Here**
 > 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
+> 1. "Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances." – Viswanatha Swamy P K
 > 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
 > 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
 > 1. "Trust is a slow revelation of true intentions; don’t believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K
+> 1. "Trust isn’t granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K
+> 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K
 > 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
+> 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
 > 1. "Don’t be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
+> 1. "Don’t be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
+> 1. "True character isn’t revealed by words or gestures; it’s proven through actions over time." – Viswanatha Swamy P K
 
 ## Perseverance
 
@@ -97,8 +103,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Self-Belief
 
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho -- **Here**
-> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
+> 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis -- **Here**
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
