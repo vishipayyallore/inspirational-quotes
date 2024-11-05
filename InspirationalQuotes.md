@@ -10,8 +10,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K -- **Here**
-> 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K -- **Here**
 > 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
 > 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
 > 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
@@ -32,8 +32,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
-> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu -- **Review**
-> 1. "If you're going through hell, keep going." - Winston Churchill
+> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
+> 1. "If you're going through hell, keep going." - Winston Churchill -- **Review**
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
@@ -287,7 +287,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - Albert Einstein
 > 1. "The only true wisdom is in knowing you know nothing." - Socrates
 > 1. "The greatest wealth is to live content with little." - Plato
-> 1. "The journey of a thousand miles begins with one step." - Lao Tzu
 > 1. "Knowledge speaks, but wisdom listens." - Jimi Hendrix
 > 1. "We do not see things as they are, we see them as we are." - Anaïs Nin
 > 1. "Wisdom begins in wonder." - Socrates
