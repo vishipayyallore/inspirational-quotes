@@ -10,7 +10,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K -- **Here**
 > 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K
 > 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
 > 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
@@ -31,8 +31,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
-> 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford -- **Review**
-> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
+> 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
+> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu -- **Review**
 > 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
@@ -93,11 +93,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous -- **Here**
+> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
 
 ## Self-Belief
 
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
+> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho -- **Here**
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
