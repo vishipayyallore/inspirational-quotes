@@ -4,7 +4,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily Must
 
-> 1. "Never lie to someone who trusts you. Never trust someone who lies to you." ~ Anonymous
+> 1. "Never lie to someone who trusts you. Never trust someone who lies to you." - Anonymous
 > 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "Stop crossing oceans for people who won't even jump puddles for you" - Anonymous
 
