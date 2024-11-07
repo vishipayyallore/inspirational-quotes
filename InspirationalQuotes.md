@@ -4,15 +4,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily Must
 
-> 1. "Never lie to someone who trusts you. Never trust someone who lies to you." ~ Anonymous
+> 1. "Never lie to someone who trusts you. Never trust someone who lies to you." - Anonymous
 > 1. "Don't let what's happening around you get inside you and weigh you down" - Anonymous
 > 1. "Stop crossing oceans for people who won't even jump puddles for you" - Anonymous
 
 ## Daily one
 
 > 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K
-> 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K -- **Here**
-> 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
+> 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K -- **Here**
 > 1. "Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances." – Viswanatha Swamy P K
 > 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
 > 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
@@ -28,8 +28,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Perseverance
 
-> 1. "Value those who appreciate your efforts and reciprocate kindness." - Anonymous -- **Here**
-> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+> 1. "Value those who appreciate your efforts and reciprocate kindness." - Anonymous
+> 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill -- **Here**
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
@@ -428,7 +428,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ---
 
 > 1. "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
-> 1. "Life begins at the end of your comfort zone." - Neale Donald Walsch ~ Anonymous -- **Review**
+> 1. "Life begins at the end of your comfort zone." - Neale Donald Walsch ~ Anonymous
 > 1. "Stand up for what you believe in, but pick your battles carefully." ~ Anonymous
 > 1. "Don't waste your energy on things that don't deserve it." ~ Anonymous
 > 1. "It's better to be happy than to be right." ~ Anonymous
