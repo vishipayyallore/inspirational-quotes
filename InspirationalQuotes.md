@@ -31,7 +31,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Value those who appreciate your efforts and reciprocate kindness." - Anonymous
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
-> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson -- **Here**
+> 1. "Don't trust words. Trust Actions." - Anonymous -- **Here**
+> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it's done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
