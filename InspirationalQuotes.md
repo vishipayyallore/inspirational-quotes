@@ -14,25 +14,25 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K
 > 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
 > 1. "Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances." – Viswanatha Swamy P K
-> 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K -- **Here**
-> 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
-> 1. "Trust is a slow revelation of true intentions; don’t believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K
-> 1. "Trust isn’t granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K
+> 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
+> 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K -- **Here**
+> 1. "Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K
+> 1. "Trust is not granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K
 > 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K
 > 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
-> 1. "Don’t be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
-> 1. "Don’t be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
-> 1. "True character isn’t revealed by words or gestures; it’s proven through actions over time." – Viswanatha Swamy P K
+> 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
+> 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
+> 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K
 
 ## Perseverance
 
 > 1. "Value those who appreciate your efforts and reciprocate kindness." - Anonymous
 > 1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
-> 1. "Don't trust words. Trust Actions." - Anonymous -- **Here**
-> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+> 1. "Don't trust words. Trust Actions." - Anonymous
+> 1. "Don't watch the clock; do what it does. Keep going." - Sam Levenson -- **Here**
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
 > 1. "It always seems impossible until it's done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
