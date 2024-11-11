@@ -16,8 +16,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances." – Viswanatha Swamy P K
 > 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
 > 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
-> 1. "Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K -- **Here**
-> 1. "Trust is not granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K
+> 1. "Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K
+> 1. "Trust is not granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K -- **Here**
 > 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K
 > 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
@@ -33,8 +33,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Life is 10% what happens to you and 90% how you react to it." - Charles R. Swindoll
 > 1. "Do not trust words. Trust Actions." - Anonymous
 > 1. "Do not watch the clock; do what it does. Keep going." - Sam Levenson
-> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela -- **Here**
-> 1. "It always seems impossible until it's done." - Nelson Mandela
+> 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
+> 1. "It always seems impossible until it's done." - Nelson Mandela -- **Here**
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
