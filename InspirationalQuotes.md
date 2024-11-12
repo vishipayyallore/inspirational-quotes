@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances." – Viswanatha Swamy P K
 > 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
 > 1. "Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K
-> 1. "Trust is not granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K -- **Here**
-> 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K
+> 1. "Trust is not granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K
+> 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K -- **Here**
 > 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
@@ -34,8 +34,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not trust words. Trust Actions." - Anonymous
 > 1. "Do not watch the clock; do what it does. Keep going." - Sam Levenson
 > 1. "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
-> 1. "It always seems impossible until it's done." - Nelson Mandela -- **Here**
-> 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
+> 1. "It always seems impossible until it is done." - Nelson Mandela
+> 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh -- **Here**
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
@@ -54,7 +54,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
 > 1. "Never give up on something that you can't go a day without thinking about." - Anonymous
 > 1. "Success doesn't come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
-> 1. "Do not be discouraged. It's often the last key in the bunch that opens the lock." - Anonymous
+> 1. "Do not be discouraged. it is often the last key in the bunch that opens the lock." - Anonymous
 > 1. "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 > 1. "The secret of getting ahead is getting started." - Mark Twain
 
@@ -79,9 +79,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Happiness
 
 > 1. "Happiness is not something readymade. It comes from your own actions." - Dalai Lama XIV
-> 1. "It's better to be happy than to be right." - Anonymous
+> 1. "it is better to be happy than to be right." - Anonymous
 > 1. "Do not let small things ruin your happiness. Choose to be happy instead." - Anonymous
-> 1. "Sometimes it's better to let things go than to hold on to them." - Anonymous
+> 1. "Sometimes it is better to let things go than to hold on to them." - Anonymous
 > 1. "The greatest wealth is health." - Virgil
 > 1. "Happiness is not by chance, but by choice." - Jim Rohn
 > 1. "Choose to be optimistic; it feels better." - Dalai Lama
@@ -114,7 +114,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Resilience and Overcoming Adversity
 
-> 1. "Resilience is not about overcoming, it's about becoming." - Heri Salata
+> 1. "Resilience is not about overcoming, it is about becoming." - Heri Salata
 > 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "Hope is a waking dream." - Aristotle
@@ -210,11 +210,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Mindfulness and Presence
 
-> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it's going to be a good day after all." - Jane Lynch
+> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
-> 1. "In the end, it's not the years in your life that count. It's the life in your years." - Abraham Lincoln
+> 1. "In the end, it is not the years in your life that count. it is the life in your years." - Abraham Lincoln
 > 1. "The only way to deal with this life meaningfully is to find one's passion and put everything into it." - Anonymous
 > 1. "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
 > 1. "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." - Buddha
@@ -249,7 +249,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Gratitude and Positivity
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
-> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it's going to be a good day after all." - Jane Lynch
+> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Gratitude turns what we have into enough." - Anonymous
 > 1. "Positive anything is better than negative nothing." - Elbert Hubbard
 > 1. "Gratitude is not only the greatest of virtues but the parent of all the others." - Cicero
@@ -278,13 +278,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 > 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 > 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-> 1. "Resilience is not about overcoming, it's about becoming." - Sherri Salata
+> 1. "Resilience is not about overcoming, it is about becoming." - Sherri Salata
 > 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
 > 1. "It does not do to dwell on dreams and forget to live." - J.K. Rowling
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 > 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 > 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-> 1. "Resilience is not about overcoming, it's about becoming." - Sherri Salata
+> 1. "Resilience is not about overcoming, it is about becoming." - Sherri Salata
 
 ## Wisdom and Insight
 
@@ -400,7 +400,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life and Living
 
-> 1. "In the end, it's not the years in your life that count. It's the life in your years." - Abraham Lincoln
+> 1. "In the end, it is not the years in your life that count. it is the life in your years." - Abraham Lincoln
 > 1. "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well." - Ralph Waldo Emerson
 > 1. "Life is either a daring adventure or nothing at all." - Helen Keller
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
@@ -432,12 +432,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Life begins at the end of your comfort zone." - Neale Donald Walsch ~ Anonymous
 > 1. "Stand up for what you believe in, but pick your battles carefully." ~ Anonymous
 > 1. "Do not waste your energy on things that Do not deserve it." ~ Anonymous
-> 1. "It's better to be happy than to be right." ~ Anonymous
+> 1. "it is better to be happy than to be right." ~ Anonymous
 > 1. "Choose your battles wisely, and you'll never be defeated." ~ Anonymous
 > 1. "Life is too short to waste it on petty arguments."
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
 > 1. "Do not let small things ruin your happiness. Choose to be happy instead."
-> 1. "Sometimes it's better to let things go than to hold on to them."
+> 1. "Sometimes it is better to let things go than to hold on to them."
 > 1. "Life is too precious to spend it on things that Do not matter."
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
 > 1. "It takes more strength to walk away from a battle than to engage in one."
@@ -450,8 +450,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In your life, expect some trouble. But when you worry, you make it double. But Do not worry, be happy, be happy now." - Bobby McFerrin
 > 1. "Never underestimate the power of a strategic retreat."
 > 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
-> 1. "It's not about winning or losing battles; it's about preserving your peace."
-> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it's going to be a good day after all." - Jane Lynch
+> 1. "it is not about winning or losing battles; it is about preserving your peace."
+> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Choose your battles wisely because sometimes the price of victory is too high."
 > 1. "Just say yes, and you'll figure it out afterward." - Tina Fey
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act."
@@ -493,10 +493,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The biggest risk is not taking any risk." - Mark Zuckerberg
 > 1. "You are one decision away from a completely different life." - Anonymous
 > 1. "Do not let yesterday take up too much of today." - Will Rogers
-> 1. "Invest in yourself; it's the best investment you'll ever make." - Anonymous
+> 1. "Invest in yourself; it is the best investment you'll ever make." - Anonymous
 > 1. "I have not failed. I've just found 10,000 ways that will not work." - Thomas Edison
 > 1. "Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
-> 1. "Resilience is not about overcoming, it's about becoming." - heri Salata
+> 1. "Resilience is not about overcoming, it is about becoming." - heri Salata
 > 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Anonymous
@@ -515,7 +515,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
-> 1. "It's not whether you get knocked down; it's whether you get up." - Vince Lombardi
+> 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 > 1. "Do not count the days, make the days count." - Muhammad Ali
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
