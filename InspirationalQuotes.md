@@ -18,8 +18,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words." – Viswanatha Swamy P K
 > 1. "Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure." – Viswanatha Swamy P K
 > 1. "Trust is not granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K
-> 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K -- **Here**
-> 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
+> 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K
+> 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K -- **Here**
 > 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
 > 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
