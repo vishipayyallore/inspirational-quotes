@@ -20,8 +20,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Trust is not granted by words or appearances but earned through consistent actions over time." – Viswanatha Swamy P K
 > 1. "Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure." – Viswanatha Swamy P K
 > 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
-> 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K -- **Here**
-> 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
+> 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
+> 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K -- **Here**
 > 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
 > 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
 > 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K
@@ -37,7 +37,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It always seems impossible until it is done." - Nelson Mandela
 > 1. "The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
-> 1. "Strength grows in the moments when you think you can't go on but you keep going anyway." - Anonymous -- **Here**
+> 1. "Strength grows in the moments when you think you can not go on but you keep going anyway." - Anonymous -- **Here**
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you're going through hell, keep going." - Winston Churchill
@@ -52,7 +52,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the middle of difficulty lies opportunity." - Albert Einstein
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
-> 1. "Never give up on something that you can't go a day without thinking about." - Anonymous
+> 1. "Never give up on something that you can not go a day without thinking about." - Anonymous
 > 1. "Success doesn't come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Do not be discouraged. it is often the last key in the bunch that opens the lock." - Anonymous
 > 1. "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
@@ -125,7 +125,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Action and Initiative
 
 > 1. "Do not wait for the perfect moment. Take the moment and make it perfect." - Anonymous
-> 1. "You can't cross the sea merely by standing and staring at the water." - Rabindranath Tagore
+> 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Do something today that your future self will thank you for." - Anonymous
 > 1. "Do not wait. The time will never be just right." - Napoleon Hill
 > 1. "Act as if what you do makes a difference. It does." - William James
@@ -210,7 +210,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Mindfulness and Presence
 
-> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
+> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
@@ -249,7 +249,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Gratitude and Positivity
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
-> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
+> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Gratitude turns what we have into enough." - Anonymous
 > 1. "Positive anything is better than negative nothing." - Elbert Hubbard
 > 1. "Gratitude is not only the greatest of virtues but the parent of all the others." - Cicero
@@ -451,7 +451,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Never underestimate the power of a strategic retreat."
 > 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
 > 1. "it is not about winning or losing battles; it is about preserving your peace."
-> 1. "You can't make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
+> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Choose your battles wisely because sometimes the price of victory is too high."
 > 1. "Just say yes, and you'll figure it out afterward." - Tina Fey
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act."
@@ -485,7 +485,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do something wonderful; people may imitate it." - Albert Schweitzer
 > 1. "You are never too young to lead and never too old to learn."
 > 1. "The best is yet to come." - Robert Browning
-> 1. "You can't go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
+> 1. "You can not go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
 > 1. "The future is not something we enter, but something we create." - Leonard Sweet
 > 1. "Your life does not get better by chance; it gets better by change." - Jim Rohn
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
@@ -528,7 +528,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "What would you do if you weren't afraid?" - Sheryl Sandberg
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
-> 1. "You can't cross the sea merely by standing and staring at the water." - Rabindranath Tagore
+> 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "The biggest risk is not taking any risk." - Mark Zuckerberg
 > 1. "Do not wait for opportunity. Create it."
@@ -541,7 +541,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Strive not to be a success, but rather to be of value." - Albert Einstein
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
-> 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it." - Jordan Belfort
+> 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can not achieve it." - Jordan Belfort
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Do not wait for the perfect moment. Take the moment and make it perfect." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
