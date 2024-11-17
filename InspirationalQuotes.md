@@ -39,8 +39,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can not go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
-> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu -- **Here**
-> 1. "If you're going through hell, keep going." - Winston Churchill
+> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
+> 1. "If you're going through hell, keep going." - Winston Churchill -- **Here**
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
