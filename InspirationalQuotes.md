@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
 > 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
-> 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K -- **Here**
-> 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K
+> 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
+> 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K -- **Here**
 
 ## Perseverance
 
@@ -40,8 +40,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Strength grows in the moments when you think you can not go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
-> 1. "If you're going through hell, keep going." - Winston Churchill -- **Here**
-> 1. "The harder the battle, the sweeter the victory." - Les Brown
+> 1. "If you are going through hell, keep going." - Winston Churchill
+> 1. "The harder the battle, the sweeter the victory." - Les Brown -- **Here**
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
@@ -90,12 +90,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Dreams and Goals
 
-> 1. "Believe you can and you're halfway there." - Theodore Roosevelt
+> 1. "Believe you can and you are halfway there." - Theodore Roosevelt
 > 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 > 1. "Dream big and dare to fail." - Norman Vaughan
 > 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 > 1. "If you can dream it, you can achieve it." - Zig Ziglar
-> 1. "You can, you should, and if you're brave enough to start, you will." - Stephen King
+> 1. "You can, you should, and if you are brave enough to start, you will." - Stephen King
 > 1. "Ships do not sink because of water around them, ships sink because of water that gets into them." - Anonymous
 > 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
 > 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
@@ -119,7 +119,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "Hope is a waking dream." - Aristotle
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight." - Anonymous
-> 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "The greatest victory is the one that requires no battle." - Anonymous
 
 ## Action and Initiative
@@ -132,7 +131,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Mindset and Perspective
 
-> 1. "Life is what happens when you're busy making other plans." - John Lennon
+> 1. "Life is what happens when you are busy making other plans." - John Lennon
 > 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act." - Anonymous
 > 1. "You Do not have to control your thoughts. You just have to stop letting them control you." - Dan Millman
@@ -497,7 +496,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "I have not failed. I've just found 10,000 ways that will not work." - Thomas Edison
 > 1. "Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
 > 1. "Resilience is not about overcoming, it is about becoming." - heri Salata
-> 1. "If you're going through hell, keep going." - Winston Churchill
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Anonymous
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
@@ -521,7 +519,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
 > 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart."
 > 1. "When the going gets tough, the tough get going."
-> 1. "Believe you can, and you're halfway there." - Theodore Roosevelt
+> 1. "Believe you can, and you are halfway there." - Theodore Roosevelt
 > 1. "Your time is limited, Do not waste it living someone else's life." - Steve Jobs
 > 1. "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
 > 1. "What we achieve inwardly will change outer reality." - Plutarch
