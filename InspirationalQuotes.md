@@ -22,8 +22,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Words and appearances often disguise intentions; only actions reveal who can truly be trusted." – Viswanatha Swamy P K
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
-> 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K -- **Here**
-> 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
+> 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
+> 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K -- **Here**
 > 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K
 
 ## Perseverance
@@ -39,8 +39,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Fall seven times, stand up eight." - Japanese Proverb
 > 1. "Strength grows in the moments when you think you can not go on but you keep going anyway." - Anonymous
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
-> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu -- **Here**
-> 1. "If you're going through hell, keep going." - Winston Churchill
+> 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
+> 1. "If you're going through hell, keep going." - Winston Churchill -- **Here**
 > 1. "The harder the battle, the sweeter the victory." - Les Brown
 > 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 > 1. "When you feel like giving up, remember why you started." - Anonymous
