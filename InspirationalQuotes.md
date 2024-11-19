@@ -10,7 +10,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K -- **Here**
 > 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K
 > 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
 > 1. "Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances." – Viswanatha Swamy P K
@@ -24,12 +24,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
 > 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
 > 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
-> 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K -- **Here**
+> 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K
 
 ## Life Lessions
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
@@ -62,8 +62,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you are going through hell, keep going." - Winston Churchill
-> 1. "The harder the battle, the sweeter the victory." - Les Brown -- **Here**
-> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
+> 1. "The harder the battle, the sweeter the victory." - Les Brown
+> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington -- **Here**
 > 1. "When you feel like giving up, remember why you started." - Anonymous
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
