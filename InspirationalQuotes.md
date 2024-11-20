@@ -10,7 +10,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K
+> 1. "Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness." – Viswanatha Swamy P K -- **Here**
 > 1. "Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness." – Viswanatha Swamy P K
 > 1. "Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances." – Viswanatha Swamy P K
 > 1. "Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances." – Viswanatha Swamy P K
@@ -24,25 +24,25 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm." – Viswanatha Swamy P K
 > 1. "Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery." – Viswanatha Swamy P K
 > 1. "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." – Viswanatha Swamy P K
-> 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K -- **Here**
+> 1. "True character is not revealed by words or gestures; it is proven through actions over time." – Viswanatha Swamy P K
 
 ## Life Lessions
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
-> 1. Understand what true freedom is. **Freedom isn't about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that doesn't mean people will just hand you opportunities. **Create your own**. - Anonymous
-> 1. Being "busy" doesn't mean you're progressing. It's easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
-> 1. **Critics are always loudest from the sidelines**. People who've done nothing will criticise you for trying. Remember, they're not the ones in the game. - Anonymous
+> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
-> 1. When ever you think you have a mountain to climb. Don't let the mountain overwhelm you, **think one step at a time**. - Anonymous
-> 1. Success and failure are both temporary. Don't get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
+> 1. When ever you think you have a mountain to climb. Don not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Success and failure are both temporary. Don not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
-> 1. You can't control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
-> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you’ve always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
+> 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
+> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you vs. you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
-> 1. Small habits make the biggest changes. Transformations don’t happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
+> 1. Small habits make the biggest changes. Transformations don not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
@@ -62,8 +62,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it." - Henry Ford
 > 1. "The journey of a thousand miles begins with a single step." - Lao Tzu
 > 1. "If you are going through hell, keep going." - Winston Churchill
-> 1. "The harder the battle, the sweeter the victory." - Les Brown -- **Here**
-> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington
+> 1. "The harder the battle, the sweeter the victory." - Les Brown
+> 1. "If you want to lift yourself up, lift up someone else." - Booker T. Washington -- **Here**
 > 1. "When you feel like giving up, remember why you started." - Anonymous
 > 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
 > 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
@@ -74,9 +74,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 > 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
 > 1. "Never give up on something that you can not go a day without thinking about." - Anonymous
-> 1. "Success doesn't come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
+> 1. "Success does not come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
 > 1. "Do not be discouraged. it is often the last key in the bunch that opens the lock." - Anonymous
-> 1. "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
+> 1. "Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
 > 1. "The secret of getting ahead is getting started." - Mark Twain
 
 ## Success
@@ -259,7 +259,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
-> 1. "Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
+> 1. "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
 > 1. "Empower yourself with knowledge and self-belief." - Anonymous
 > 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 > 1. "The most common way people give up their power is by thinking they Do not have any." - Alice Walker
@@ -485,7 +485,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Be selective in your battles, and you will ultimately win the war."
 > 1. "The greatest victory is the one that requires no battle."
 > 1. "Nothing is impossible, the word itself says ‘I'm possible.'" - Audrey Hepburn
-> 1. "For me, becoming isn't about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn't end." - Michelle Obama
+> 1. "For me, becoming is not about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey does not end." - Michelle Obama
 > 1. "If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee
 > 1. "I have discovered in life that there are ways of getting almost anywhere you want to go if you really want to go." - Langston Hughes
 > 1. "Do something today that your future self will thank you for."
@@ -515,7 +515,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not let yesterday take up too much of today." - Will Rogers
 > 1. "Invest in yourself; it is the best investment you'll ever make." - Anonymous
 > 1. "I have not failed. I've just found 10,000 ways that will not work." - Thomas Edison
-> 1. "Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
+> 1. "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
 > 1. "Resilience is not about overcoming, it is about becoming." - heri Salata
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Anonymous
