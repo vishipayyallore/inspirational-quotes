@@ -63,21 +63,21 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The journey of a thousand miles begins with a single step. - Lao Tzu
 > 1. If you are going through hell, keep going. - Winston Churchill
 > 1. The harder the battle, the sweeter the victory. - Les Brown
-> 1. If you want to lift yourself up, lift up someone else. - Booker T. Washington -- **Here**
-> 1. "When you feel like giving up, remember why you started." - Anonymous
-> 1. "Perseverance is not a long race; it is many short races one after the other." - Walter Elliot
-> 1. "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will." - Vince Lombardi
-> 1. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston Churchill
-> 1. "You may have to fight a battle more than once to win it." - Margaret Thatcher
-> 1. "The key to success is to focus on goals, not obstacles." - Anonymous
-> 1. "In the middle of difficulty lies opportunity." - Albert Einstein
-> 1. "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
-> 1. "Persistence is the most powerful force on earth, it can move mountains." - Albert Einstein
-> 1. "Never give up on something that you can not go a day without thinking about." - Anonymous
-> 1. "Success does not come from what you do occasionally, it comes from what you do consistently." - Marie Forleo
-> 1. "Do not be discouraged. it is often the last key in the bunch that opens the lock." - Anonymous
-> 1. "Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'" - Mary Anne Radmacher
-> 1. "The secret of getting ahead is getting started." - Mark Twain
+> 1. If you want to lift yourself up, lift up someone else. - Booker T. Washington
+> 1. When you feel like giving up, remember why you started. - Anonymous -- **Here**
+> 1. Perseverance is not a long race; it is many short races one after the other. - Walter Elliot
+> 1. The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. - Vince Lombardi
+> 1. Success is stumbling from failure to failure with no loss of enthusiasm. - Winston Churchill
+> 1. You may have to fight a battle more than once to win it. - Margaret Thatcher
+> 1. The key to success is to focus on goals, not obstacles. - Anonymous
+> 1. In the middle of difficulty lies opportunity. - Albert Einstein
+> 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
+> 1. Persistence is the most powerful force on earth, it can move mountains. - Albert Einstein
+> 1. Never give up on something that you can not go a day without thinking about. - Anonymous
+> 1. Success does not come from what you do occasionally, it comes from what you do consistently. - Marie Forleo
+> 1. Do not be discouraged. it is often the last key in the bunch that opens the lock. - Anonymous
+> 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher
+> 1. The secret of getting ahead is getting started. - Mark Twain
 
 ## Success
 
