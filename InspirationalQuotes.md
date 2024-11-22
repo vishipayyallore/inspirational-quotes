@@ -11,8 +11,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -30,8 +30,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -41,7 +41,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
-> 1. In life, it really is **you vs. you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations don not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
@@ -64,8 +64,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. If you are going through hell, keep going. - Winston Churchill
 > 1. The harder the battle, the sweeter the victory. - Les Brown
 > 1. If you want to lift yourself up, lift up someone else. - Booker T. Washington
-> 1. When you feel like giving up, remember why you started. - Anonymous -- **Here**
-> 1. Perseverance is not a long race; it is many short races one after the other. - Walter Elliot
+> 1. When you feel like giving up, remember why you started. - Anonymous
+> 1. Perseverance is not a long race; it is many short races one after the other. - Walter Elliot -- **Here**
 > 1. The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. - Vince Lombardi
 > 1. Success is stumbling from failure to failure with no loss of enthusiasm. - Winston Churchill
 > 1. You may have to fight a battle more than once to win it. - Margaret Thatcher
