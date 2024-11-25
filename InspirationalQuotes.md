@@ -97,6 +97,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt
 > 1. Do your thing and Do not care if they like it. - Tina Fey
 > 1. Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds. - Orison Swett Marden
+> 1. Do not prioritize your schedule, but schedule your priorities. - Anonymous
 
 ## Happiness
 
