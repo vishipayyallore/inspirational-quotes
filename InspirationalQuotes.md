@@ -46,6 +46,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
+> 1. **If you fail to plan**, you plan to fail.
 
 ## Perseverance
 
