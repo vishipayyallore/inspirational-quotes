@@ -14,8 +14,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure. – Viswanatha Swamy P K
@@ -68,8 +68,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. When you feel like giving up, remember why you started. - Anonymous
 > 1. Perseverance is not a long race; it is many short races one after the other. - Walter Elliot
 > 1. The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. - Vince Lombardi
-> 1. Success is stumbling from failure to failure with no loss of enthusiasm. - Winston Churchill -- **Here**
-> 1. You may have to fight a battle more than once to win it. - Margaret Thatcher
+> 1. Success is stumbling from failure to failure with no loss of enthusiasm. - Winston Churchill
+> 1. You may have to fight a battle more than once to win it. - Margaret Thatcher -- **Here**
 > 1. The key to success is to focus on goals, not obstacles. - Anonymous
 > 1. In the middle of difficulty lies opportunity. - Albert Einstein
 > 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
