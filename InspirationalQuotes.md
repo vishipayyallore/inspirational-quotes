@@ -34,8 +34,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
 > 1. When ever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
@@ -70,8 +70,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. - Vince Lombardi
 > 1. Success is stumbling from failure to failure with no loss of enthusiasm. - Winston Churchill
 > 1. You may have to fight a battle more than once to win it. - Margaret Thatcher
-> 1. The key to success is to focus on goals, not obstacles. - Anonymous -- **Here**
-> 1. In the middle of difficulty lies opportunity. - Albert Einstein
+> 1. The key to success is to focus on goals, not obstacles. - Anonymous
+> 1. In the middle of difficulty lies opportunity. - Albert Einstein -- **Here**
 > 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
 > 1. Persistence is the most powerful force on earth, it can move mountains. - Albert Einstein
 > 1. Never give up on something that you can not go a day without thinking about. - Anonymous
