@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure. – Viswanatha Swamy P K -- **Here**
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
@@ -35,8 +35,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
-> 1. When ever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. When ever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
 > 1. Success and failure are both temporary. Do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
@@ -71,8 +71,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Success is stumbling from failure to failure with no loss of enthusiasm. - Winston Churchill
 > 1. You may have to fight a battle more than once to win it. - Margaret Thatcher
 > 1. The key to success is to focus on goals, not obstacles. - Anonymous
-> 1. In the middle of difficulty lies opportunity. - Albert Einstein -- **Here**
-> 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
+> 1. In the middle of difficulty lies opportunity. - Albert Einstein
+> 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius -- **Here**
 > 1. Persistence is the most powerful force on earth, it can move mountains. - Albert Einstein
 > 1. Never give up on something that you can not go a day without thinking about. - Anonymous
 > 1. Success does not come from what you do occasionally, it comes from what you do consistently. - Marie Forleo
