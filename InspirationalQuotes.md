@@ -40,8 +40,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
-> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous -- **Here**
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
@@ -76,8 +76,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Persistence is the most powerful force on earth, it can move mountains. - Albert Einstein
 > 1. Never give up on something that you can not go a day without thinking about. - Anonymous
 > 1. Success does not come from what you do occasionally, it comes from what you do consistently. - Marie Forleo
-> 1. Do not be discouraged. it is often the last key in the bunch that opens the lock. - Anonymous -- **Here**
-> 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher
+> 1. Do not be discouraged. it is often the last key in the bunch that opens the lock. - Anonymous
+> 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher -- **Here**
 > 1. The secret of getting ahead is getting started. - Mark Twain
 
 ## Success
