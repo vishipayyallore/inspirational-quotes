@@ -79,6 +79,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not be discouraged. it is often the last key in the bunch that opens the lock. - Anonymous
 > 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher
 > 1. The secret of getting ahead is getting started. - Mark Twain
+> 1. It is friends who makes you rich, not money - Swami Chinmayananda
 
 ## Success
 
