@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
 
 ## Life Lessions
 
@@ -41,8 +41,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
-> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous -- **Here**
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
@@ -77,8 +77,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Never give up on something that you can not go a day without thinking about. - Anonymous
 > 1. Success does not come from what you do occasionally, it comes from what you do consistently. - Marie Forleo
 > 1. Do not be discouraged. it is often the last key in the bunch that opens the lock. - Anonymous
-> 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher -- **Here**
-> 1. The secret of getting ahead is getting started. - Mark Twain
+> 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher
+> 1. The secret of getting ahead is getting started. - Mark Twain -- **Here**
 
 ## Success
 
