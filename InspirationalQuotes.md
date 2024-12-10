@@ -45,8 +45,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
-> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous -- **Here**
-> 1. **If you fail to plan**, you plan to fail.
+> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
+> 1. **If you fail to plan**, you plan to fail. -- **Here**
 
 ## Perseverance
 
@@ -84,8 +84,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Success
 
 > 1. The longest route to success is a shortcut. - Anonymous
-> 1. Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill -- **Here**
-> 1. The best way to predict your future is to create it. - Peter Drucker
+> 1. Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill
+> 1. The best way to predict your future is to create it. - Peter Drucker -- **Here**
 > 1. The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
 > 1. You miss 100% of the shots you Do not take. - Wayne Gretzky
 > 1. The best way to get started is to quit talking and begin doing. - Walt Disney
