@@ -85,8 +85,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. The longest route to success is a shortcut. - Anonymous
 > 1. Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill
-> 1. The best way to predict your future is to create it. - Peter Drucker -- **Here**
-> 1. The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
+> 1. The best way to predict your future is to create it. - Peter Drucker
+> 1. The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt -- **Here**
 > 1. You miss 100% of the shots you Do not take. - Wayne Gretzky
 > 1. The best way to get started is to quit talking and begin doing. - Walt Disney
 > 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau
