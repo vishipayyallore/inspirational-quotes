@@ -460,7 +460,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Choose your battles wisely, and you'll never be defeated." ~ Anonymous
 > 1. "Life is too short to waste it on petty arguments."
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
-> 1. "Do not let small things ruin your happiness. Choose to be happy instead."
 > 1. "Sometimes it is better to let things go than to hold on to them."
 > 1. "Life is too precious to spend it on things that Do not matter."
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
