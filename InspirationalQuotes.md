@@ -15,8 +15,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions over time are the true measure. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -29,8 +29,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Life Lessions
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
@@ -87,8 +87,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill
 > 1. The best way to predict your future is to create it. - Peter Drucker
 > 1. The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
-> 1. You miss 100% of the shots you Do not take. - Wayne Gretzky -- **Here**
-> 1. The best way to get started is to quit talking and begin doing. - Walt Disney
+> 1. You miss 100% of the shots you do not take. - Wayne Gretzky
+> 1. The best way to get started is to quit talking and begin doing. - Walt Disney -- **Here**
 > 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau
 > 1. Opportunities Do not happen, you create them. - Chris Grosser
 > 1. Success is the sum of small efforts, repeated day in and day out. - Robert Collier
@@ -460,7 +460,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Choose your battles wisely, and you'll never be defeated." ~ Anonymous
 > 1. "Life is too short to waste it on petty arguments."
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
-> 1. "Do not let small things ruin your happiness. Choose to be happy instead."
 > 1. "Sometimes it is better to let things go than to hold on to them."
 > 1. "Life is too precious to spend it on things that Do not matter."
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
@@ -503,7 +502,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "Hope is the light that guides us through the darkness." - Desmond Tutu
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
-> 1. "You miss 100% of the shots you Do not take." - Wayne Gretzky
 > 1. "Keep shining, because the right people will be blinded by your light."
 > 1. "You Do not have to be perfect to start, but you have to start to be perfect."
 > 1. "Do something wonderful; people may imitate it." - Albert Schweitzer
