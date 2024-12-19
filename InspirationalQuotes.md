@@ -91,9 +91,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The best way to get started is to quit talking and begin doing. - Walt Disney
 > 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau
 > 1. Opportunities do not happen, you create them. - Chris Grosser
-> 1. Success is the sum of small efforts, repeated day in and day out. - Robert Collier -- **Here**
+> 1. Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 > 1. The best revenge is massive success. - Frank Sinatra
-> 1. Do not wait for opportunity. Create it. - Anonymous
+> 1. Do not wait for opportunity. Create it. - Anonymous -- **Here**
 > 1. You Do not have to be great to start, but you have to start to be great. - Zig Ziglar
 > 1. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer
 > 1. The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt
