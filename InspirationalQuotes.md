@@ -5,7 +5,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily Must
 
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
-> 1. Do not let what is happening around you get inside you and weigh you down - Anonymous
+> 1. Do not let what is happening around you **get inside you and weigh you down** - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you** - Anonymous
 
 ## Daily one
