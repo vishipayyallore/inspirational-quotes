@@ -5,7 +5,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily Must
 
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
-> 1. Do not let what is happening around you get inside you and weigh you down - Anonymous
+> 1. **Do not let** what is happening around you **get inside you and weigh you down** - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you** - Anonymous
 
 ## Daily one
@@ -22,8 +22,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
@@ -35,8 +35,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
-> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
@@ -94,8 +94,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 > 1. The best revenge is massive success. - Frank Sinatra
 > 1. Do not wait for opportunity. Create it. - Anonymous
-> 1. You do not have to be great to start, but you have to start to be great. - Zig Ziglar -- **Here**
-> 1. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer
+> 1. You do not have to be great to start, but you have to start to be great. - Zig Ziglar
+> 1. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer -- **Here**
 > 1. The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt
 > 1. Do your thing and Do not care if they like it. - Tina Fey
 > 1. Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds. - Orison Swett Marden
