@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
 
 ## Life Lessions
 
@@ -36,8 +36,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
-> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
-> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
+> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous -- **Here**
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
