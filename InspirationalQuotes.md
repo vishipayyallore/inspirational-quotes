@@ -48,6 +48,21 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
 > 1. **If you fail to plan**, you plan to fail.
 
+## Smart Career Strategies
+
+> 1. **Hard Work Isn’t Enough** → Results need to be seen. Advocate for yourself—quiet efforts get ignored.
+> 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first.
+> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value.
+> 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters.
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors.
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource.
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing.
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out.
+> 1. **You’re Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy.
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect.
+> 1. **Career Progress Isn’t Linear** → Side steps, failures, and pivots often lead to the biggest wins.
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you.
+
 ## Perseverance
 
 > 1. Value those who appreciate your efforts and reciprocate kindness. - Anonymous
