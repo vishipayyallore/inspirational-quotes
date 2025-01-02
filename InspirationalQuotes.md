@@ -16,8 +16,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -44,14 +44,14 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
-> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous -- **Here**
-> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
-> 1. **If you fail to plan**, you plan to fail.
+> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
+> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous -- **Here**
+> 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
 
-> 1. **Hard Work Isn’t Enough** → Results need to be seen. Advocate for yourself—quiet efforts get ignored.
-> 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first.
+> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
+> 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. -- **Here**
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value.
 > 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters.
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors.
@@ -121,8 +121,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Happiness is not something readymade. It comes from your own actions. - Dalai Lama XIV
 > 1. It is better to be happy than to be right. - Anonymous
 > 1. Do not let small things ruin your happiness. Choose to be happy instead. - Anonymous
-> 1. Sometimes it is better to let things go than to hold on to them. - Anonymous -- **Here**
-> 1. The greatest wealth is health. - Virgil
+> 1. Sometimes it is better to let things go than to hold on to them. - Anonymous
+> 1. The greatest wealth is health. - Virgil -- **Here**
 > 1. Happiness is not by chance, but by choice. - Jim Rohn
 > 1. Choose to be optimistic; it feels better. - Dalai Lama
 > 1. The only way to do great work is to love what you do. - Steve Jobs
@@ -474,7 +474,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Choose your battles wisely, and you'll never be defeated." ~ Anonymous
 > 1. "Life is too short to waste it on petty arguments."
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
-> 1. "Sometimes it is better to let things go than to hold on to them."
 > 1. "Life is too precious to spend it on things that Do not matter."
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
 > 1. "It takes more strength to walk away from a battle than to engage in one."
