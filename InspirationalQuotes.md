@@ -46,30 +46,29 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
-> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous -- **Here**
-> 1. **If you fail to plan**, you plan to fail. - Anonymous
+> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
+> 1. **If you fail to plan**, you plan to fail. - Anonymous -- **Here**
 
 ## Smart Career Strategies
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
-> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
-> 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. -- **Here**
-> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value.
-> 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters.
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors.
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource.
-> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing.
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out.
-> 1. **You’re Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy.
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect.
-> 1. **Career Progress Isn’t Linear** → Side steps, failures, and pivots often lead to the biggest wins.
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you.
-> 1. **A great leader can make work amazing** → They inspire and motivate you every day.
-> 1. **But a big pay check can open doors too** → Financial security can be life-changing
-> 1. **It's about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose
-> 1. **Your job affects your whole life** → Work influences happiness and well-being
-> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress
-> 1. **It's okay if your priorities change over time** → Adapt as your needs and goals evolve
+> 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
+> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous -- **Here**
+> 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
+> 1. **You’re Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
+> 1. **Career Progress Isn’t Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
+> 1. **It's about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
+> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
+> 1. **It's okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 
 ## Perseverance
 
@@ -130,8 +129,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. It is better to be happy than to be right. - Anonymous
 > 1. Do not let small things ruin your happiness. Choose to be happy instead. - Anonymous
 > 1. Sometimes it is better to let things go than to hold on to them. - Anonymous
-> 1. The greatest wealth is health. - Virgil -- **Here**
-> 1. Happiness is not by chance, but by choice. - Jim Rohn
+> 1. The greatest wealth is health. - Virgil
+> 1. Happiness is not by chance, but by choice. - Jim Rohn -- **Here**
 > 1. Choose to be optimistic; it feels better. - Dalai Lama
 > 1. The only way to do great work is to love what you do. - Steve Jobs
 > 1. You are enough just as you are. - Meghan Markle
