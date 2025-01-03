@@ -51,6 +51,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Smart Career Strategies
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
+> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
 > 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. -- **Here**
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value.
 > 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters.
@@ -62,6 +63,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect.
 > 1. **Career Progress Isn’t Linear** → Side steps, failures, and pivots often lead to the biggest wins.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you.
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day.
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing
+> 1. **It's about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose
+> 1. **Your job affects your whole life** → Work influences happiness and well-being
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress
+> 1. **It's okay if your priorities change over time** → Adapt as your needs and goals evolve
 
 ## Perseverance
 
