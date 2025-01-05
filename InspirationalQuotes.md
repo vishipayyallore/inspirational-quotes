@@ -131,8 +131,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Sometimes it is better to let things go than to hold on to them. - Anonymous
 > 1. The greatest wealth is health. - Virgil
 > 1. Happiness is not by chance, but by choice. - Jim Rohn
-> 1. Choose to be optimistic; it feels better. - Dalai Lama -- **Here**
-> 1. The only way to do great work is to love what you do. - Steve Jobs
+> 1. Choose to be optimistic; it feels better. - Dalai Lama
+> 1. The only way to do great work is to love what you do. - Steve Jobs -- **Here**
 > 1. You are enough just as you are. - Meghan Markle
 
 ## Dreams and Goals
