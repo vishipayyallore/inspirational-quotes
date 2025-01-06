@@ -20,8 +20,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
@@ -29,8 +29,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life Lessions
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
@@ -54,8 +54,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
-> 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
+> 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
@@ -131,8 +131,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Sometimes it is better to let things go than to hold on to them. - Anonymous
 > 1. The greatest wealth is health. - Virgil
 > 1. Happiness is not by chance, but by choice. - Jim Rohn
-> 1. Choose to be optimistic; it feels better. - Dalai Lama -- **Here**
-> 1. The only way to do great work is to love what you do. - Steve Jobs
+> 1. Choose to be optimistic; it feels better. - Dalai Lama
+> 1. The only way to do great work is to love what you do. - Steve Jobs -- **Here**
 > 1. You are enough just as you are. - Meghan Markle
 
 ## Dreams and Goals
