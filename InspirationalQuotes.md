@@ -122,6 +122,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do your thing and do not care if they like it. - Tina Fey
 > 1. Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds. - Orison Swett Marden
 > 1. Do not prioritize your schedule, but schedule your priorities. - Anonymous
+> 1. Do not count the days, make the days count. - Muhammad Ali
 
 ## Happiness
 
@@ -558,7 +559,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
-> 1. "Do not count the days, make the days count." - Muhammad Ali
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
 > 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart."
 > 1. "When the going gets tough, the tough get going."
