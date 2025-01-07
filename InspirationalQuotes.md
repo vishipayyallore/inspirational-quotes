@@ -571,7 +571,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
 > 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Your life is your story. Write well. Edit often."
-> 1. "The biggest risk is not taking any risk." - Mark Zuckerberg
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Your time is limited, so Do not waste it living someone else's life." - Steve Jobs
