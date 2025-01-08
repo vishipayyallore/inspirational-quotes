@@ -22,8 +22,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
-> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
@@ -31,8 +31,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -56,8 +56,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous -- **Here**
-> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous -- **Here**
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. **You’re Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
@@ -122,6 +122,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do your thing and do not care if they like it. - Tina Fey
 > 1. Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds. - Orison Swett Marden
 > 1. Do not prioritize your schedule, but schedule your priorities. - Anonymous
+> 1. Do not count the days, make the days count. - Muhammad Ali
 
 ## Happiness
 
@@ -558,7 +559,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
-> 1. "Do not count the days, make the days count." - Muhammad Ali
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
 > 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart."
 > 1. "When the going gets tough, the tough get going."
@@ -571,7 +571,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
 > 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Your life is your story. Write well. Edit often."
-> 1. "The biggest risk is not taking any risk." - Mark Zuckerberg
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Your time is limited, so Do not waste it living someone else's life." - Steve Jobs
