@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
@@ -32,8 +32,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
-> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous -- **Here**
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
@@ -57,8 +57,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
-> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous -- **Here**
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
 > 1. **You’re Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. **Career Progress Isn’t Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
@@ -134,20 +134,20 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Happiness is not by chance, but by choice. - Jim Rohn
 > 1. Choose to be optimistic; it feels better. - Dalai Lama
 > 1. The only way to do great work is to love what you do. - Steve Jobs
-> 1. You are enough just as you are. - Meghan Markle -- **Here**
+> 1. You are enough just as you are. - Meghan Markle
 
 ## Dreams and Goals
 
-> 1. "Believe you can and you are halfway there." - Theodore Roosevelt
-> 1. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-> 1. "Dream big and dare to fail." - Norman Vaughan
-> 1. "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
-> 1. "If you can dream it, you can achieve it." - Zig Ziglar
-> 1. "You can, you should, and if you are brave enough to start, you will." - Stephen King
-> 1. "Ships do not sink because of water around them, ships sink because of water that gets into them." - Anonymous
-> 1. "The biggest adventure you can take is to live the life of your dreams." - Oprah Winfrey
-> 1. "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
-> 1. "If you want to achieve greatness, stop asking for permission." - Anonymous
+> 1. Believe you can and you are halfway there. - Theodore Roosevelt -- **Here**
+> 1. The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt
+> 1. Dream big and dare to fail. - Norman Vaughan
+> 1. Go confidently in the direction of your dreams. Live the life you have imagined. - Henry David Thoreau
+> 1. If you can dream it, you can achieve it. - Zig Ziglar
+> 1. You can, you should, and if you are brave enough to start, you will. - Stephen King
+> 1. Ships do not sink because of water around them, ships sink because of water that gets into them. - Anonymous
+> 1. The biggest adventure you can take is to live the life of your dreams. - Oprah Winfrey
+> 1. What lies behind us and what lies before us are tiny matters compared to what lies within us. - Ralph Waldo Emerson
+> 1. If you want to achieve greatness, stop asking for permission. - Anonymous
 
 ## Self-Belief
 
