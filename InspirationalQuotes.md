@@ -59,7 +59,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
-> 1. **You’re Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous -- **Here**
