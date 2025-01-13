@@ -12,8 +12,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -36,8 +36,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
-> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
@@ -52,23 +52,23 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Smart Career Strategies
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
-> 1. **Loyalty Won’t Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
-> 1. **Your Boss Isn’t Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
-> 1. **You’re Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
-> 1. **Career Progress Isn’t Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous -- **Here**
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
-> 1. **It's about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
+> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
-> 1. **It's okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
+> 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 
 ## Perseverance
 
