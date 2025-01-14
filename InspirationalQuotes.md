@@ -151,7 +151,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Self-Belief
 
-> 1. "Your only limit is your own mind. Dare to dream, then dare to do." - Paulo Coelho
+> 1. Your only limit is your own mind. Dare to dream, then dare to do. - Paulo Coelho
 > 1. "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 > 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
