@@ -2,7 +2,7 @@
 
 I am collecting the Inspirational Quotes / Wisdom from different sources.
 
-## Daily Must
+## Daily Wisdom
 
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
@@ -69,6 +69,18 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous -- **Here**
+
+## The Wisdom of the Panchatantra
+
+> 1. Avoid meddling in the affairs of others. (Panchatantra) -- **Here**
+> 1. Courage is essential for overcoming life's challenges. (Panchatantra)
+> 1. Be wary of the sweet words of a swindler. (Panchatantra)
+> 1. Greed inevitably leads to misery. (Panchatantra)
+> 1. Wit can overcome even the most powerful adversaries. (Panchatantra)
+> 1. Gather all the facts before accepting what you are told. (Panchatantra)
+> 1. Beware of the cunning and powerful. (Panchatantra)
+> 1. One's true nature will eventually be revealed. (Panchatantra)
+> 1. Give your word with care, and keep it with honor. (Panchatantra)
 
 ## Perseverance
 
