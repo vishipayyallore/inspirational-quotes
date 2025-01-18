@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -41,8 +41,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
-> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous -- **Here**
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
@@ -66,8 +66,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
-> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous -- **Here**
-> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
+> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous -- **Here**
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 
 ## Perseverance
@@ -143,8 +143,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Dream big and dare to fail. - Norman Vaughan
 > 1. Go confidently in the direction of your dreams. Live the life you have imagined. - Henry David Thoreau
 > 1. If you can dream it, you can achieve it. - Zig Ziglar
-> 1. You can, you should, and if you are brave enough to start, you will. - Stephen King -- **Here**
-> 1. Ships do not sink because of water around them, ships sink because of water that gets into them. - Anonymous
+> 1. You can, you should, and if you are brave enough to start, you will. - Stephen King
+> 1. Ships do not sink because of water around them, ships sink because of water that gets into them. - Anonymous -- **Here**
 > 1. The biggest adventure you can take is to live the life of your dreams. - Oprah Winfrey
 > 1. What lies behind us and what lies before us are tiny matters compared to what lies within us. - Ralph Waldo Emerson
 > 1. If you want to achieve greatness, stop asking for permission. - Anonymous
