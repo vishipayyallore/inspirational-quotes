@@ -20,8 +20,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
@@ -44,15 +44,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
-> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous -- **Here**
-> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
+> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
+> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous -- **Here**
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
 > 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
 
-> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous -- **Here**
-> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
+> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous -- **Here**
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
@@ -73,8 +73,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## The Wisdom of the Panchatantra
 
 > 1. Avoid meddling in the affairs of others. (Panchatantra)
-> 1. Courage is essential for overcoming life's challenges. (Panchatantra) -- **Here**
-> 1. Be wary of the sweet words of a swindler. (Panchatantra)
+> 1. Courage is essential for overcoming life's challenges. (Panchatantra)
+> 1. Be wary of the sweet words of a swindler. (Panchatantra) -- **Here**
 > 1. Greed inevitably leads to misery. (Panchatantra)
 > 1. Wit can overcome even the most powerful adversaries. (Panchatantra)
 > 1. Gather all the facts before accepting what you are told. (Panchatantra)
@@ -158,8 +158,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. You can, you should, and if you are brave enough to start, you will. - Stephen King
 > 1. Ships do not sink because of water around them, ships sink because of water that gets into them. - Anonymous
 > 1. The biggest adventure you can take is to live the life of your dreams. - Oprah Winfrey
-> 1. What lies behind us and what lies before us are tiny matters compared to what lies within us. - Ralph Waldo Emerson -- **Here**
-> 1. If you want to achieve greatness, stop asking for permission. - Anonymous
+> 1. What lies behind us and what lies before us are tiny matters compared to what lies within us. - Ralph Waldo Emerson
+> 1. If you want to achieve greatness, stop asking for permission. - Anonymous -- **Here**
 
 ## Self-Belief
 
