@@ -52,6 +52,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Smart Career Strategies
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
+> 1. Results matter more than effort; advocate for your accomplishments.
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
@@ -69,6 +70,23 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
+> 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
+> 1. Focus on developing skills, not clinging to job titles.
+> 1. Leaders are fallible; respectfully challenge when necessary.
+> 1. Networking is essential for career advancement.
+> 1. Prioritize your well-being and energy; avoid burnout.
+> 1. Growth occurs outside your comfort zone.
+> 1. Feedback, even harsh feedback, offers valuable learning opportunities.
+> 1. Focus on making an impact, not on being irreplaceable.
+> 1. Prioritize progress over perfection; done is better than perfect.
+> 1. Career paths are rarely linear; embrace detours and pivots.
+> 1. Take ownership of your career; proactively pursue opportunities.
+> 1. Great leaders inspire and motivate.
+> 1. Financial security can significantly improve your life.
+> 1. Prioritize what matters most to you at each stage of your life.
+> 1. Your career significantly influences your overall well-being.
+> 1. The right career choice enhances happiness and health.
+> 1. Adapt your priorities as your needs and goals evolve.
 
 ## The Wisdom of the Panchatantra
 
