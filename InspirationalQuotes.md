@@ -187,7 +187,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Your only limit is your own mind. Dare to dream, then dare to do. - Paulo Coelho
 > 1. You are never too old to set another goal or to dream a new dream. - C.S. Lewis
-> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous -- **Here**
+> 1. The only person you should try to be better than is the person you were yesterday. - Anonymous -- **Here**
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "It is never too late to be what you might have been." - George Eliot
@@ -268,10 +268,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
-> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
-> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "The best way to predict the future is to create it." - Abraham Lincoln
 > 1. "Self-belief is the first step to success." - Anonymous
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
@@ -554,7 +552,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It does not matter how slowly you go as long as you do not stop." - Confucius
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 > 1. "You Do not have to control your thoughts. You just have to stop letting them control you." - Dan Millman
-> 1. "The only person you should try to be better than is the person you were yesterday." - Anonymous
 > 1. "Hope is the light that guides us through the darkness." - Desmond Tutu
 > 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
 > 1. "Keep shining, because the right people will be blinded by your light."
