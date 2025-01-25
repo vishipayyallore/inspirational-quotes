@@ -24,13 +24,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
 
 ## Life Lessions
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
@@ -59,9 +59,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Focus on developing skills, not clinging to job titles.
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. Leaders are fallible; respectfully challenge when necessary.
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous -- **Here**
+> 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
@@ -74,7 +75,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
-> 1. Prioritize your well-being and energy; avoid burnout.
 > 1. Growth occurs outside your comfort zone.
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. Focus on making an impact, not on being irreplaceable.
@@ -95,8 +95,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
-> 1. Gather all the facts before accepting what you are told. - Panchatantra -- **Here**
-> 1. One's true nature will eventually be revealed. - Panchatantra
+> 1. Gather all the facts before accepting what you are told. - Panchatantra
+> 1. One's true nature will eventually be revealed. - Panchatantra -- **Here**
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
@@ -187,8 +187,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Your only limit is your own mind. Dare to dream, then dare to do. - Paulo Coelho
 > 1. You are never too old to set another goal or to dream a new dream. - C.S. Lewis
-> 1. The only person you should try to be better than is the person you were yesterday. - Anonymous -- **Here**
-> 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin
+> 1. The only person you should try to be better than is the person you were yesterday. - Anonymous
+> 1. "You are stronger than you seem, braver than you believe, and smarter than you think." - Christopher Robin -- **Here**
 > 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
