@@ -191,8 +191,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Your only limit is your own mind. Dare to dream, then dare to do. - Paulo Coelho
 > 1. You are never too old to set another goal or to dream a new dream. - C.S. Lewis
 > 1. The only person you should try to be better than is the person you were yesterday. - Anonymous
-> 1. You are stronger than you seem, braver than you believe, and smarter than you think. - Christopher Robin -- **Here**
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+> 1. You are stronger than you seem, braver than you believe, and smarter than you think. - Christopher Robin
+> 1. Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson -- **Here**
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "You are never too young to lead and never too old to learn." - Anonymous
@@ -268,9 +268,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Self-Belief and Confidence
 
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "The best way to predict the future is to create it." - Abraham Lincoln
 > 1. "Self-belief is the first step to success." - Anonymous
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
@@ -587,7 +585,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
