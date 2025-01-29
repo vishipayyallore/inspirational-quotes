@@ -11,8 +11,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
@@ -31,8 +31,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -63,29 +63,29 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Networking is essential for career advancement.
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. Prioritize your well-being and energy; avoid burnout.
-> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous -- **Here**
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
-> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
-> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
-> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
-> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
-> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
-> 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. Financial security can significantly improve your life.
+> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
+> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. Your career significantly influences your overall well-being.
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. The right career choice enhances happiness and health.
+> 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. Adapt your priorities as your needs and goals evolve.
 
 ## The Wisdom of the Panchatantra
@@ -97,8 +97,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
-> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
-> 1. Give your word with care, and keep it with honor. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. Give your word with care, and keep it with honor. - Panchatantra -- **Here**
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's srouce of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
@@ -191,9 +191,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Your only limit is your own mind. Dare to dream, then dare to do. - Paulo Coelho
 > 1. You are never too old to set another goal or to dream a new dream. - C.S. Lewis
 > 1. The only person you should try to be better than is the person you were yesterday. - Anonymous
-> 1. You are stronger than you seem, braver than you believe, and smarter than you think. - Christopher Robin -- **Here**
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
-> 1. "It is never too late to be what you might have been." - George Eliot
+> 1. You are stronger than you seem, braver than you believe, and smarter than you think. - Christopher Robin
+> 1. Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson
+> 1. "It is never too late to be what you might have been." - George Eliot -- **Here**
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "You are never too young to lead and never too old to learn." - Anonymous
 
@@ -268,9 +268,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Self-Belief and Confidence
 
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "The best way to predict the future is to create it." - Abraham Lincoln
 > 1. "Self-belief is the first step to success." - Anonymous
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
@@ -587,7 +585,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
 > 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
-> 1. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
 > 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
