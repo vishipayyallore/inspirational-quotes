@@ -193,7 +193,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The only person you should try to be better than is the person you were yesterday. - Anonymous
 > 1. You are stronger than you seem, braver than you believe, and smarter than you think. - Christopher Robin
 > 1. Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson
-> 1. "It is never too late to be what you might have been." - George Eliot -- **Here**
+> 1. It is never too late to be what you might have been. - George Eliot -- **Here**
 > 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "You are never too young to lead and never too old to learn." - Anonymous
 
@@ -254,7 +254,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Your life does not get better by chance; it gets better by change." - Jim Rohn
 > 1. "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
 > 1. "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
-> 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "We know what we are, but know not what we may be." - William Shakespeare
 
 ## Focus and Clarity
@@ -583,7 +582,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Everything you've ever wanted is on the other side of fear." - George Addair
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
-> 1. "It is never too late to be what you might have been." - George Eliot
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
