@@ -12,8 +12,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -32,8 +32,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
-> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous -- **Here**
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
@@ -65,9 +65,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
@@ -98,8 +98,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
-> 1. Give your word with care, and keep it with honor. - Panchatantra -- **Here**
-> 1. Target the source of the enemy's power. - Panchatantra
+> 1. Give your word with care, and keep it with honor. - Panchatantra
+> 1. Target the source of the enemy's power. - Panchatantra -- **Here**
 > 1. Strike at the enemy's srouce of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
@@ -193,8 +193,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The only person you should try to be better than is the person you were yesterday. - Anonymous
 > 1. You are stronger than you seem, braver than you believe, and smarter than you think. - Christopher Robin
 > 1. Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson
-> 1. It is never too late to be what you might have been. - George Eliot -- **Here**
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
+> 1. It is never too late to be what you might have been. - George Eliot
+> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne -- **Here**
 > 1. "You are never too young to lead and never too old to learn." - Anonymous
 
 ## Resilience and Overcoming Adversity
