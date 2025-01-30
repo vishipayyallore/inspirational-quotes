@@ -194,7 +194,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. You are stronger than you seem, braver than you believe, and smarter than you think. - Christopher Robin
 > 1. Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson
 > 1. It is never too late to be what you might have been. - George Eliot
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne -- **Here**
+> 1. You are braver than you believe, stronger than you seem, and smarter than you think. - A.A. Milne -- **Here**
 > 1. "You are never too young to lead and never too old to learn." - Anonymous
 
 ## Resilience and Overcoming Adversity
@@ -314,7 +314,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Empowerment and Self-Improvement
 
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
 > 1. "Empower yourself with knowledge and self-belief." - Anonymous
@@ -607,7 +606,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can not achieve it." - Jordan Belfort
-> 1. "You are braver than you believe, stronger than you seem, and smarter than you think." - A.A. Milne
 > 1. "Do not wait for the perfect moment. Take the moment and make it perfect." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Life is what we make it, always has been, always will be." - Grandma Moses
