@@ -195,7 +195,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson
 > 1. It is never too late to be what you might have been. - George Eliot
 > 1. You are braver than you believe, stronger than you seem, and smarter than you think. - A.A. Milne
-> 1. "You are never too young to lead and never too old to learn." - Anonymous -- **Here**
+> 1. You are never too young to lead and never too old to learn. - Anonymous -- **Here**
 
 ## Resilience and Overcoming Adversity
 
@@ -239,7 +239,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The greatest weapon in any battle is patience." - Anonymous
 > 1. "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the best out of the people." - Ronald Reagan
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
-> 1. "You are never too young to lead and never too old to learn." - Anonymous
 > 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
 > 1. "The best way to lead is by example." - Anonymous
 > 1. "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
@@ -553,7 +552,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Keep shining, because the right people will be blinded by your light."
 > 1. "You Do not have to be perfect to start, but you have to start to be perfect."
 > 1. "Do something wonderful; people may imitate it." - Albert Schweitzer
-> 1. "You are never too young to lead and never too old to learn."
 > 1. "The best is yet to come." - Robert Browning
 > 1. "You can not go back and change the beginning, but you can start where you are and change the ending." - C.S. Lewis
 > 1. "The future is not something we enter, but something we create." - Leonard Sweet
