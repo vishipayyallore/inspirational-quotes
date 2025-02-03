@@ -200,7 +200,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Resilience and Overcoming Adversity
 
 > 1. Resilience is not about overcoming, it is about becoming. - Heri Salata
-> 1. "Out of difficulties grow miracles." - Jean de La Bruyère -- **Here**
+> 1. Out of difficulties grow miracles. - Jean de La Bruyère -- **Here**
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "Hope is a waking dream." - Aristotle
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight." - Anonymous
@@ -344,7 +344,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
 > 1. "The only way to deal with fear is to face it head on." - Anonymous
-> 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 > 1. "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
 > 1. "Resilience is the capacity to recover quickly from difficulties; toughness." - Anonymous
 > 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
@@ -568,7 +567,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Hope is being able to see that there is light despite all of the darkness." - Desmond Tutu
 > 1. "Hope is a waking dream." - Aristotle
 > 1. "A champion is defined not by their wins but by how they can recover when they fall." - Serena Williams
-> 1. "Out of difficulties grow miracles." - Jean de La Bruyère
 > 1. "Hope is the thing with feathers that perches in the soul." - Emily Dickinson
 > 1. "When you have a dream, you've got to grab it and never let go." - Carol Burnett
 > 1. "Do not let the fear of striking out hold you back." - Babe Ruth
