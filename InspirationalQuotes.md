@@ -15,8 +15,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
@@ -35,8 +35,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
@@ -71,9 +71,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous -- **Here**
 > 1. Take ownership of your career; proactively pursue opportunities.
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
@@ -101,8 +101,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's srouce of strength to defeat him. - Panchatantra
-> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra -- **Here**
-> 1. Greed is destructive. - Panchatantra
+> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
+> 1. Greed is destructive. - Panchatantra -- **Here**
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
@@ -199,8 +199,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Resilience and Overcoming Adversity
 
-> 1. "Resilience is not about overcoming, it is about becoming." - Heri Salata -- **Here**
-> 1. "Out of difficulties grow miracles." - Jean de La Bruyère
+> 1. Resilience is not about overcoming, it is about becoming. - Heri Salata
+> 1. "Out of difficulties grow miracles." - Jean de La Bruyère -- **Here**
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "Hope is a waking dream." - Aristotle
 > 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight." - Anonymous
@@ -353,13 +353,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 > 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 > 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-> 1. "Resilience is not about overcoming, it is about becoming." - Sherri Salata
 > 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
 > 1. "It does not do to dwell on dreams and forget to live." - J.K. Rowling
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
 > 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
 > 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-> 1. "Resilience is not about overcoming, it is about becoming." - Sherri Salata
 
 ## Wisdom and Insight
 
@@ -564,7 +562,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Invest in yourself; it is the best investment you'll ever make." - Anonymous
 > 1. "I have not failed. I've just found 10,000 ways that will not work." - Thomas Edison
 > 1. "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
-> 1. "Resilience is not about overcoming, it is about becoming." - heri Salata
 > 1. "Even the darkest night will end and the sun will rise." - Victor Hugo
 > 1. "When the world says, 'Give up,' hope whispers, 'Try it one more time.'" - Anonymous
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
