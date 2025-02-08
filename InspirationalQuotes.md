@@ -203,7 +203,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Out of difficulties grow miracles. - Jean de La Bruyère
 > 1. Even the darkest night will end and the sun will rise. - Victor Hugo
 > 1. Hope is a waking dream. - Aristotle
-> 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight." - Anonymous -- **Here**
+> 1. The strongest person is not the one who fights every battle, but the one who knows which battles to fight. - Anonymous -- **Here**
 > 1. "The greatest victory is the one that requires no battle." - Anonymous
 
 ## Action and Initiative
@@ -508,7 +508,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Life is too short to waste it on petty arguments."
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
 > 1. "Life is too precious to spend it on things that Do not matter."
-> 1. "The strongest person is not the one who fights every battle, but the one who knows which battles to fight."
 > 1. "It takes more strength to walk away from a battle than to engage in one."
 > 1. "Act as if what you do makes a difference. It does." - William James
 > 1. "Sometimes the best way to win a battle is to avoid it altogether."
