@@ -19,9 +19,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
-> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K -- **Here**
+> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
@@ -39,9 +39,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
-> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous -- **Here**
+> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
-> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
+> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous -- **Here**
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
@@ -79,11 +79,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Great leaders inspire and motivate.
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. Financial security can significantly improve your life.
-> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous -- **Here**
+> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. Your career significantly influences your overall well-being.
-> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous -- **Here**
 > 1. The right career choice enhances happiness and health.
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. Adapt your priorities as your needs and goals evolve.
@@ -91,7 +91,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## The Wisdom of the Panchatantra
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
-> 1. Courage is essential for overcoming life's challenges. - Panchatantra
+> 1. Courage is essential for overcoming life's challenges. - Panchatantra -- **Here**
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
@@ -105,7 +105,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
-> 1. Never advise fools. - Panchatantra -- **Here**
+> 1. Never advise fools. - Panchatantra
 
 ## Perseverance
 
@@ -203,12 +203,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Out of difficulties grow miracles. - Jean de La Bruyère
 > 1. Even the darkest night will end and the sun will rise. - Victor Hugo
 > 1. Hope is a waking dream. - Aristotle
-> 1. The strongest person is not the one who fights every battle, but the one who knows which battles to fight. - Anonymous -- **Here**
-> 1. "The greatest victory is the one that requires no battle." - Anonymous
+> 1. The strongest person is not the one who fights every battle, but the one who knows which battles to fight. - Anonymous
+> 1. The greatest victory is the one that requires no battle. - Anonymous
 
 ## Action and Initiative
 
-> 1. "Do not wait for the perfect moment. Take the moment and make it perfect." - Anonymous
+> 1. "Do not wait for the perfect moment. Take the moment and make it perfect." - Anonymous -- **Here**
 > 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Do something today that your future self will thank you for." - Anonymous
 > 1. "Do not wait. The time will never be just right." - Napoleon Hill
@@ -531,7 +531,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "I'd rather regret the things I've done than the things I haven't done." - Lucille Ball
 > 1. "Do not let your ego get in the way of your happiness. Choose peace over pride."
 > 1. "Be selective in your battles, and you will ultimately win the war."
-> 1. "The greatest victory is the one that requires no battle."
 > 1. "Nothing is impossible, the word itself says ‘I'm possible.'" - Audrey Hepburn
 > 1. "For me, becoming is not about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey does not end." - Michelle Obama
 > 1. "If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee
