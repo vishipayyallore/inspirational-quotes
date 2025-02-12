@@ -208,7 +208,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Action and Initiative
 
-> 1. "Do not wait for the perfect moment. Take the moment and make it perfect." - Anonymous -- **Here**
+> 1. Do not wait for the perfect moment. Take the moment and make it perfect. - Anonymous -- **Here**
 > 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Do something today that your future self will thank you for." - Anonymous
 > 1. "Do not wait. The time will never be just right." - Napoleon Hill
@@ -595,7 +595,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can not achieve it." - Jordan Belfort
-> 1. "Do not wait for the perfect moment. Take the moment and make it perfect." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Life is what we make it, always has been, always will be." - Grandma Moses
 > 1. "We generate fears while we sit. We overcome them by action." - Dr. Henry Link
