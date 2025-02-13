@@ -209,7 +209,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Action and Initiative
 
 > 1. Do not wait for the perfect moment. Take the moment and make it perfect. - Anonymous
-> 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore -- **Here**
+> 1. You can not cross the sea merely by standing and staring at the water. - Rabindranath Tagore -- **Here**
 > 1. "Do something today that your future self will thank you for." - Anonymous
 > 1. "Do not wait. The time will never be just right." - Napoleon Hill
 > 1. "Act as if what you do makes a difference. It does." - William James
@@ -583,7 +583,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "What would you do if you weren't afraid?" - Sheryl Sandberg
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
-> 1. "You can not cross the sea merely by standing and staring at the water." - Rabindranath Tagore
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
