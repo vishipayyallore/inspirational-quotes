@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
@@ -43,17 +43,17 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
-> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous -- **Here**
-> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
+> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
+> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous -- **Here**
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
 > 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
 
-> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous -- **Here**
+> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
-> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous -- **Here**
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
@@ -93,8 +93,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
-> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra -- **Here**
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
@@ -210,8 +210,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Do not wait for the perfect moment. Take the moment and make it perfect. - Anonymous
 > 1. You can not cross the sea merely by standing and staring at the water. - Rabindranath Tagore
-> 1. "Do something today that your future self will thank you for." - Anonymous -- **Here**
-> 1. "Do not wait. The time will never be just right." - Napoleon Hill
+> 1. Do something today that your future self will thank you for. - Anonymous
+> 1. "Do not wait. The time will never be just right." - Napoleon Hill -- **Here**
 > 1. "Act as if what you do makes a difference. It does." - William James
 
 ## Mindset and Perspective
@@ -535,7 +535,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "For me, becoming is not about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey does not end." - Michelle Obama
 > 1. "If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee
 > 1. "I have discovered in life that there are ways of getting almost anywhere you want to go if you really want to go." - Langston Hughes
-> 1. "Do something today that your future self will thank you for."
 > 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "Keep your eyes on the stars, and your feet on the ground." - Theodore Roosevelt
 > 1. "Do not let what you cannot do interfere with what you can do." - John Wooden
