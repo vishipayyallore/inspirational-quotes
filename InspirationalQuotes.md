@@ -212,7 +212,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. You can not cross the sea merely by standing and staring at the water. - Rabindranath Tagore
 > 1. Do something today that your future self will thank you for. - Anonymous
 > 1. Do not wait. The time will never be just right. - Napoleon Hill
-> 1. "Act as if what you do makes a difference. It does." - William James -- **Here**
+> 1. Act as if what you do makes a difference. It does. - William James -- **Here**
 
 ## Mindset and Perspective
 
@@ -509,7 +509,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
 > 1. "Life is too precious to spend it on things that Do not matter."
 > 1. "It takes more strength to walk away from a battle than to engage in one."
-> 1. "Act as if what you do makes a difference. It does." - William James
 > 1. "Sometimes the best way to win a battle is to avoid it altogether."
 > 1. "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
 > 1. "The battles we Do not fight are often more important than the ones we do."
@@ -587,7 +586,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Your time is limited, so Do not waste it living someone else's life." - Steve Jobs
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
-> 1. "Act as if what you do makes a difference. It does." - William James
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
 > 1. "Strive not to be a success, but rather to be of value." - Albert Einstein
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
