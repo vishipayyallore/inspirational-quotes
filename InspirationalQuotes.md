@@ -216,7 +216,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Mindset and Perspective
 
-> 1. "Life is what happens when you are busy making other plans." - John Lennon -- **Here**
+> 1. Life is what happens when you are busy making other plans. - John Lennon -- **Here**
 > 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act." - Anonymous
 > 1. "You Do not have to control your thoughts. You just have to stop letting them control you." - Dan Millman
