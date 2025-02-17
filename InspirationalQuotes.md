@@ -11,7 +11,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
@@ -25,7 +25,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
 
@@ -55,9 +55,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Results matter more than effort; advocate for your accomplishments.
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
-> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous -- **Here**
+> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
-> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
 > 1. Leaders are fallible; respectfully challenge when necessary.
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
@@ -95,8 +95,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
-> 1. Gather all the facts before accepting what you are told. - Panchatantra -- **Here**
-> 1. One's true nature will eventually be revealed. - Panchatantra
+> 1. Gather all the facts before accepting what you are told. - Panchatantra
+> 1. One's true nature will eventually be revealed. - Panchatantra -- **Here**
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
@@ -212,11 +212,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. You can not cross the sea merely by standing and staring at the water. - Rabindranath Tagore
 > 1. Do something today that your future self will thank you for. - Anonymous
 > 1. Do not wait. The time will never be just right. - Napoleon Hill
-> 1. "Act as if what you do makes a difference. It does." - William James -- **Here**
+> 1. Act as if what you do makes a difference. It does. - William James
 
 ## Mindset and Perspective
 
-> 1. "Life is what happens when you are busy making other plans." - John Lennon
+> 1. "Life is what happens when you are busy making other plans." - John Lennon -- **Here**
 > 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act." - Anonymous
 > 1. "You Do not have to control your thoughts. You just have to stop letting them control you." - Dan Millman
@@ -509,7 +509,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
 > 1. "Life is too precious to spend it on things that Do not matter."
 > 1. "It takes more strength to walk away from a battle than to engage in one."
-> 1. "Act as if what you do makes a difference. It does." - William James
 > 1. "Sometimes the best way to win a battle is to avoid it altogether."
 > 1. "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
 > 1. "The battles we Do not fight are often more important than the ones we do."
@@ -587,7 +586,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Your time is limited, so Do not waste it living someone else's life." - Steve Jobs
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
-> 1. "Act as if what you do makes a difference. It does." - William James
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
 > 1. "Strive not to be a success, but rather to be of value." - Albert Einstein
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
