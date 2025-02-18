@@ -217,7 +217,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Mindset and Perspective
 
 > 1. Life is what happens when you are busy making other plans. - John Lennon
-> 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman -- **Here**
+> 1. Keep your face always toward the sunshine, and shadows will fall behind you. - Walt Whitman -- **Here**
 > 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act." - Anonymous
 > 1. "You Do not have to control your thoughts. You just have to stop letting them control you." - Dan Millman
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
@@ -512,7 +512,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best way to win a battle is to avoid it altogether."
 > 1. "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
 > 1. "The battles we Do not fight are often more important than the ones we do."
-> 1. "Keep your face always toward the sunshine, and shadows will fall behind you." - Walt Whitman
 > 1. "Do not let your emotions control you. Choose your battles with a clear mind and a calm heart."
 > 1. "In your life, expect some trouble. But when you worry, you make it double. But Do not worry, be happy, be happy now." - Bobby McFerrin
 > 1. "Never underestimate the power of a strategic retreat."
