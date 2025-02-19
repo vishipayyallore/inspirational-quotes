@@ -12,8 +12,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -46,8 +46,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
-> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous -- **Here**
-> 1. **If you fail to plan**, you plan to fail. - Anonymous
+> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
+> 1. **If you fail to plan**, you plan to fail. - Anonymous -- **Here**
 
 ## Smart Career Strategies
 
@@ -59,9 +59,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Focus on developing skills, not clinging to job titles.
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. Leaders are fallible; respectfully challenge when necessary.
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous -- **Here**
 > 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
@@ -97,8 +97,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
-> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
-> 1. Give your word with care, and keep it with honor. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. Give your word with care, and keep it with honor. - Panchatantra -- **Here**
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's srouce of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
@@ -217,8 +217,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Mindset and Perspective
 
 > 1. Life is what happens when you are busy making other plans. - John Lennon
-> 1. Keep your face always toward the sunshine, and shadows will fall behind you. - Walt Whitman -- **Here**
-> 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act." - Anonymous
+> 1. Keep your face always toward the sunshine, and shadows will fall behind you. - Walt Whitman
+> 1. "When you find yourself in the midst of a battle, take a step back and assess the situation before you act." - Anonymous -- **Here**
 > 1. "You Do not have to control your thoughts. You just have to stop letting them control you." - Dan Millman
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
