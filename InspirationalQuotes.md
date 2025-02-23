@@ -219,7 +219,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Life is what happens when you are busy making other plans. - John Lennon
 > 1. Keep your face always toward the sunshine, and shadows will fall behind you. - Walt Whitman
 > 1. When you find yourself in the midst of a battle, take a step back and assess the situation before you act. - Anonymous
-> 1. "You Do not have to control your thoughts. You just have to stop letting them control you." - Dan Millman -- **Here**
+> 1. You Do not have to control your thoughts. You just have to stop letting them control you. - Dan Millman -- **Here**
 > 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 > 1. "The way to get started is to quit talking and begin doing." - Walt Disney
