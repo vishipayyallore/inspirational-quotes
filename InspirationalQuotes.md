@@ -15,8 +15,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
@@ -30,8 +30,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Life Lessions
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
@@ -65,9 +65,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
@@ -100,8 +100,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
-> 1. Strike at the enemy's srouce of strength to defeat him. - Panchatantra -- **Here**
-> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
+> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
+> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra -- **Here**
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
@@ -220,8 +220,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Keep your face always toward the sunshine, and shadows will fall behind you. - Walt Whitman
 > 1. When you find yourself in the midst of a battle, take a step back and assess the situation before you act. - Anonymous
 > 1. You Do not have to control your thoughts. You just have to stop letting them control you. - Dan Millman
-> 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary -- **Here**
-> 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+> 1. It is not the mountain we conquer but ourselves. - Edmund Hillary
+> 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett -- **Here**
 > 1. "The way to get started is to quit talking and begin doing." - Walt Disney
 
 ## Courage and Bravery
@@ -400,7 +400,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man." - William Shakespeare
 > 1. "Self-awareness is the key to personal growth and success." - Anonymous
 > 1. "The mind is everything. What you think you become." - Buddha
-> 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 
 ## Perspective and Understanding
 
@@ -448,7 +447,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Self-Improvement and Reflection
 
 > 1. "Life is a journey that must be traveled no matter how bad the roads and accommodations." - Oliver Goldsmith
-> 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Your education is a dress rehearsal for a life that is yours to lead." - Nora Ephron
 > 1. "What we learn with pleasure we never forget." - Alfred Mercier
 > 1. "Self-education is, I firmly believe, the only kind of education there is." - Isaac Asimov
@@ -581,7 +579,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
-> 1. "It is not the mountain we conquer but ourselves." - Edmund Hillary
 > 1. "Your time is limited, so Do not waste it living someone else's life." - Steve Jobs
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
 > 1. "You only live once, but if you do it right, once is enough." - Mae West
