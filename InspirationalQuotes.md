@@ -16,8 +16,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -31,8 +31,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -67,9 +67,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Growth occurs outside your comfort zone.
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous -- **Here**
 > 1. Prioritize progress over perfection; done is better than perfect.
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
@@ -101,8 +101,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
-> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra -- **Here**
-> 1. Greed is destructive. - Panchatantra
+> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
+> 1. Greed is destructive. - Panchatantra -- **Here**
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
@@ -221,8 +221,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. When you find yourself in the midst of a battle, take a step back and assess the situation before you act. - Anonymous
 > 1. You Do not have to control your thoughts. You just have to stop letting them control you. - Dan Millman
 > 1. It is not the mountain we conquer but ourselves. - Edmund Hillary
-> 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett -- **Here**
-> 1. "The way to get started is to quit talking and begin doing." - Walt Disney
+> 1. Do not be pushed around by the fears in your mind. Be led by the dreams in your heart. - Roy T. Bennett
+> 1. "The way to get started is to quit talking and begin doing." - Walt Disney -- **Here**
 
 ## Courage and Bravery
 
@@ -568,7 +568,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
-> 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart."
 > 1. "When the going gets tough, the tough get going."
 > 1. "Believe you can, and you are halfway there." - Theodore Roosevelt
 > 1. "Your time is limited, Do not waste it living someone else's life." - Steve Jobs
@@ -594,7 +593,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "We know what we are, but know not what we may be." - William Shakespeare
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
-> 1. "Do not be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
 > 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 > 1. "Everything you've ever wanted is on the other side of fear." - George Addair
