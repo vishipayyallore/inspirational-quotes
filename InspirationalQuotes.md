@@ -222,11 +222,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. You Do not have to control your thoughts. You just have to stop letting them control you. - Dan Millman
 > 1. It is not the mountain we conquer but ourselves. - Edmund Hillary
 > 1. Do not be pushed around by the fears in your mind. Be led by the dreams in your heart. - Roy T. Bennett
-> 1. "The way to get started is to quit talking and begin doing." - Walt Disney -- **Here**
+> 1. The way to get started is to quit talking and begin doing. - Walt Disney
 
 ## Courage and Bravery
 
-> 1. "Do not let the fear of striking out hold you back." - Babe Ruth
+> 1. "Do not let the fear of striking out hold you back." - Babe Ruth -- **Here**
 > 1. "Everything you've ever wanted is on the other side of fear." - George Addair
 > 1. "Be selective in your battles, but never compromise your values." - Anonymous
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
@@ -560,7 +560,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Hope is the thing with feathers that perches in the soul." - Emily Dickinson
 > 1. "When you have a dream, you've got to grab it and never let go." - Carol Burnett
 > 1. "Do not let the fear of striking out hold you back." - Babe Ruth
-> 1. "The way to get started is to quit talking and begin doing." - Walt Disney
 > 1. "Everything you've ever wanted is on the other side of fear." - George Addair
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
