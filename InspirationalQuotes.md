@@ -69,9 +69,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous -- **Here**
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
 > 1. Career paths are rarely linear; embrace detours and pivots.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
@@ -102,8 +102,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
-> 1. Greed is destructive. - Panchatantra -- **Here**
-> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
+> 1. Greed is destructive. - Panchatantra
+> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra -- **Here**
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
 
@@ -226,8 +226,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Courage and Bravery
 
-> 1. "Do not let the fear of striking out hold you back." - Babe Ruth -- **Here**
-> 1. "Everything you've ever wanted is on the other side of fear." - George Addair
+> 1. Do not let the fear of striking out hold you back. - Babe Ruth
+> 1. "Everything you've ever wanted is on the other side of fear." - George Addair -- **Here**
 > 1. "Be selective in your battles, but never compromise your values." - Anonymous
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
@@ -559,7 +559,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "A champion is defined not by their wins but by how they can recover when they fall." - Serena Williams
 > 1. "Hope is the thing with feathers that perches in the soul." - Emily Dickinson
 > 1. "When you have a dream, you've got to grab it and never let go." - Carol Burnett
-> 1. "Do not let the fear of striking out hold you back." - Babe Ruth
 > 1. "Everything you've ever wanted is on the other side of fear." - George Addair
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
