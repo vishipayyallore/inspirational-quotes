@@ -18,8 +18,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K -- **Here**
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
@@ -33,8 +33,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
-> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous -- **Here**
-> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
+> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
+> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous -- **Here**
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
@@ -71,9 +71,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous -- **Here**
 > 1. Take ownership of your career; proactively pursue opportunities.
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
@@ -103,8 +103,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
-> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra -- **Here**
-> 1. A fool's ears are deaf to wisdom. - Panchatantra
+> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
+> 1. A fool's ears are deaf to wisdom. - Panchatantra -- **Here**
 > 1. Never advise fools. - Panchatantra
 
 ## Perseverance
@@ -227,8 +227,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Courage and Bravery
 
 > 1. Do not let the fear of striking out hold you back. - Babe Ruth
-> 1. "Everything you've ever wanted is on the other side of fear." - George Addair -- **Here**
-> 1. "Be selective in your battles, but never compromise your values." - Anonymous
+> 1. Everything you've ever wanted is on the other side of fear. - George Addair
+> 1. "Be selective in your battles, but never compromise your values." - Anonymous -- **Here**
 > 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
@@ -559,7 +559,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "A champion is defined not by their wins but by how they can recover when they fall." - Serena Williams
 > 1. "Hope is the thing with feathers that perches in the soul." - Emily Dickinson
 > 1. "When you have a dream, you've got to grab it and never let go." - Carol Burnett
-> 1. "Everything you've ever wanted is on the other side of fear." - George Addair
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
@@ -593,5 +592,4 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
 > 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
-> 1. "Everything you've ever wanted is on the other side of fear." - George Addair
 > 1. "The hardest thing to do is to keep going." - Anonymous
