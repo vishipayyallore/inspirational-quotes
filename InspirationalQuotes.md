@@ -229,7 +229,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not let the fear of striking out hold you back. - Babe Ruth
 > 1. Everything you've ever wanted is on the other side of fear. - George Addair
 > 1. Be selective in your battles, but never compromise your values. - Anonymous
-> 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie -- **Here**
+> 1. If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - Andrew Carnegie -- **Here**
 > 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
 
@@ -570,7 +570,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
 > 1. "What we achieve inwardly will change outer reality." - Plutarch
 > 1. "What would you do if you weren't afraid?" - Sheryl Sandberg
-> 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
