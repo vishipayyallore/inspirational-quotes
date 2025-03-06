@@ -20,8 +20,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
@@ -35,8 +35,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
@@ -75,9 +75,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Career paths are rarely linear; embrace detours and pivots.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
-> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous -- **Here**
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
-> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous -- **Here**
 > 1. Financial security can significantly improve your life.
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
@@ -90,7 +90,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
@@ -105,7 +105,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
-> 1. Never advise fools. - Panchatantra -- **Here**
+> 1. Never advise fools. - Panchatantra
 
 ## Perseverance
 
@@ -229,8 +229,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not let the fear of striking out hold you back. - Babe Ruth
 > 1. Everything you've ever wanted is on the other side of fear. - George Addair
 > 1. Be selective in your battles, but never compromise your values. - Anonymous
-> 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie -- **Here**
-> 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
+> 1. If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - Andrew Carnegie
+> 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt -- **Here**
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
 
 ## Leadership and Influence
@@ -570,7 +570,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
 > 1. "What we achieve inwardly will change outer reality." - Plutarch
 > 1. "What would you do if you weren't afraid?" - Sheryl Sandberg
-> 1. "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
 > 1. "Your life is your story. Write well. Edit often."
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
