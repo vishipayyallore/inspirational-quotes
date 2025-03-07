@@ -21,8 +21,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K -- **Here**
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
@@ -36,8 +36,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
-> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
@@ -77,9 +77,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Take ownership of your career; proactively pursue opportunities.
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
-> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous -- **Here**
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. Financial security can significantly improve your life.
-> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
+> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous -- **Here**
 > 1. Prioritize what matters most to you at each stage of your life.
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. Your career significantly influences your overall well-being.
@@ -90,8 +90,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
-> 1. Courage is essential for overcoming life's challenges. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Courage is essential for overcoming life's challenges. - Panchatantra -- **Here**
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
@@ -230,8 +230,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Everything you've ever wanted is on the other side of fear. - George Addair
 > 1. Be selective in your battles, but never compromise your values. - Anonymous
 > 1. If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - Andrew Carnegie
-> 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt -- **Here**
-> 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
+> 1. You must do the thing you think you cannot do. - Eleanor Roosevelt
+> 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller -- **Here**
 
 ## Leadership and Influence
 
@@ -560,7 +560,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "When you have a dream, you've got to grab it and never let go." - Carol Burnett
 > 1. "Do not be afraid to give up the good to go for the great." - John D. Rockefeller
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
-> 1. "You must do the thing you think you cannot do." - Eleanor Roosevelt
 > 1. "it is not whether you get knocked down; it is whether you get up." - Vince Lombardi
 > 1. "Keep your face always toward the sunshine—and shadows will fall behind you." - Walt Whitman
 > 1. "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
