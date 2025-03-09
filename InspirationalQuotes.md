@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
@@ -38,8 +38,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
-> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous -- **Here**
-> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
+> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
+> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous -- **Here**
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
@@ -81,9 +81,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Financial security can significantly improve your life.
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
-> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous -- **Here**
+> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. Your career significantly influences your overall well-being.
-> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous -- **Here**
 > 1. The right career choice enhances happiness and health.
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. Adapt your priorities as your needs and goals evolve.
@@ -92,8 +92,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
-> 1. Be wary of the sweet words of a swindler. - Panchatantra -- **Here**
-> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Be wary of the sweet words of a swindler. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
@@ -235,8 +235,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Leadership and Influence
 
-> 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler -- **Here**
-> 1. "The greatest weapon in any battle is patience." - Anonymous
+> 1. Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life. - Amy Poehler
+> 1. "The greatest weapon in any battle is patience." - Anonymous -- **Here**
 > 1. "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the best out of the people." - Ronald Reagan
 > 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
@@ -513,7 +513,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not let your emotions control you. Choose your battles with a clear mind and a calm heart."
 > 1. "In your life, expect some trouble. But when you worry, you make it double. But Do not worry, be happy, be happy now." - Bobby McFerrin
 > 1. "Never underestimate the power of a strategic retreat."
-> 1. "Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life." - Amy Poehler
 > 1. "it is not about winning or losing battles; it is about preserving your peace."
 > 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Choose your battles wisely because sometimes the price of victory is too high."
