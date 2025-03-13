@@ -11,8 +11,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
@@ -41,8 +41,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
-> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous -- **Here**
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
@@ -51,9 +51,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Smart Career Strategies
 
-> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous -- **Here**
+> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
-> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous -- **Here**
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
@@ -95,8 +95,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
-> 1. Gather all the facts before accepting what you are told. - Panchatantra -- **Here**
-> 1. One's true nature will eventually be revealed. - Panchatantra
+> 1. Gather all the facts before accepting what you are told. - Panchatantra
+> 1. One's true nature will eventually be revealed. - Panchatantra -- **Here**
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
@@ -238,8 +238,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life. - Amy Poehler
 > 1. The greatest weapon in any battle is patience. - Anonymous
 > 1. The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the best out of the people. - Ronald Reagan
-> 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson -- **Here**
-> 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader
+> 1. The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson
+> 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader -- **Here**
 > 1. "The best way to lead is by example." - Anonymous
 > 1. "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
 > 1. "To handle yourself, use your head; to handle others, use your heart." - Eleanor Roosevelt
@@ -277,7 +277,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Purpose and Vision
 
 > 1. "Your life is your story. Write well. Edit often." - Anonymous
-> 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "Vision without execution is just hallucination." - Henry Ford
 > 1. "Find your passion and let it guide you." - Anonymous
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
@@ -581,7 +580,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Life is what we make it, always has been, always will be." - Grandma Moses
 > 1. "We generate fears while we sit. We overcome them by action." - Dr. Henry Link
 > 1. "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
-> 1. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
 > 1. "We know what we are, but know not what we may be." - William Shakespeare
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
