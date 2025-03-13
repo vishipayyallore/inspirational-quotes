@@ -12,8 +12,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -42,8 +42,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
-> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous -- **Here**
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
@@ -53,9 +53,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
-> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous -- **Here**
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
-> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
+> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous -- **Here**
 > 1. Focus on developing skills, not clinging to job titles.
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. Leaders are fallible; respectfully challenge when necessary.
@@ -96,8 +96,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
-> 1. One's true nature will eventually be revealed. - Panchatantra -- **Here**
-> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. One's true nature will eventually be revealed. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
@@ -239,8 +239,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The greatest weapon in any battle is patience. - Anonymous
 > 1. The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the best out of the people. - Ronald Reagan
 > 1. The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson
-> 1. "The function of leadership is to produce more leaders, not more followers." - Ralph Nader -- **Here**
-> 1. "The best way to lead is by example." - Anonymous
+> 1. The function of leadership is to produce more leaders, not more followers. - Ralph Nader
+> 1. "The best way to lead is by example." - Anonymous -- **Here**
 > 1. "Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths." - John Zenger
 > 1. "To handle yourself, use your head; to handle others, use your heart." - Eleanor Roosevelt
 > 1. "Leadership is not about being in charge. It is about taking care of those in your charge." - Simon Sinek
