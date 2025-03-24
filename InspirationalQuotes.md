@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -29,7 +29,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life Lessions
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
@@ -47,7 +47,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
-> 1. **If you fail to plan**, you plan to fail. - Anonymous -- **Here**
+> 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
 
@@ -63,9 +63,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Networking is essential for career advancement.
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. Prioritize your well-being and energy; avoid burnout.
-> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous -- **Here**
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
@@ -101,8 +101,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
-> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra -- **Here**
-> 1. Greed is destructive. - Panchatantra
+> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
+> 1. Greed is destructive. - Panchatantra -- **Here**
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
@@ -244,11 +244,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Great leaders are not defined by the absence of weakness, but rather by the presence of clear strengths. - John Zenger
 > 1. To handle yourself, use your head; to handle others, use your heart. - Eleanor Roosevelt
 > 1. Leadership is not about being in charge. It is about taking care of those in your charge. - Simon Sinek
-> 1. "Leadership is the capacity to translate vision into reality." - Warren Bennis -- **Here**
+> 1. Leadership is the capacity to translate vision into reality. - Warren Bennis
 
 ## Change and Growth
 
-> 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg
+> 1. "Real change, enduring change, happens one step at a time." - Ruth Bader Ginsburg -- **Here**
 > 1. "The future is not something we enter, but something we create." - Leonard Sweet
 > 1. "Your life does not get better by chance; it gets better by change." - Jim Rohn
 > 1. "If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn
