@@ -24,8 +24,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
@@ -35,8 +35,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
-> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous -- **Here**
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
@@ -76,9 +76,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Career paths are rarely linear; embrace detours and pivots.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
-> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous -- **Here**
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
-> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous -- **Here**
 > 1. Financial security can significantly improve your life.
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
@@ -92,8 +92,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## The Wisdom of the Panchatantra
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
-> 1. Courage is essential for overcoming life's challenges. - Panchatantra -- **Here**
-> 1. Be wary of the sweet words of a swindler. - Panchatantra
+> 1. Courage is essential for overcoming life's challenges. - Panchatantra
+> 1. Be wary of the sweet words of a swindler. - Panchatantra -- **Here**
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
@@ -254,11 +254,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Your life does not get better by chance; it gets better by change. - Jim Rohn
 > 1. If you are not willing to risk the usual, you will have to settle for the ordinary. - Jim Rohn
 > 1. The best time to plant a tree was 20 years ago. The second best time is now. - Chinese Proverb
-> 1. "We know what we are, but know not what we may be." - William Shakespeare -- **Here**
+> 1. We know what we are, but know not what we may be. It serves as a reminder that our future selves are not limited by who we are today. - William Shakespeare
 
 ## Focus and Clarity
 
-> 1. "Focus on what is important and let go of the rest." - Anonymous
+> 1. "Focus on what is important and let go of the rest." - Anonymous -- **Here**
 > 1. "Do not let your emotions control you. Choose your battles with a clear mind and a calm heart." - Anonymous
 > 1. "Small steps today, a better tomorrow." - Anonymous
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
@@ -575,7 +575,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Life is what we make it, always has been, always will be." - Grandma Moses
 > 1. "We generate fears while we sit. We overcome them by action." - Dr. Henry Link
-> 1. "We know what we are, but know not what we may be." - William Shakespeare
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
