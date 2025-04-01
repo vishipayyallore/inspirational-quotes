@@ -12,7 +12,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
@@ -26,7 +26,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
 
@@ -37,8 +37,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
-> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
@@ -80,9 +80,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Great leaders inspire and motivate.
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. Financial security can significantly improve your life.
-> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous -- **Here**
+> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
-> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
+> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous -- **Here**
 > 1. Your career significantly influences your overall well-being.
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. The right career choice enhances happiness and health.
@@ -94,8 +94,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
-> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra -- **Here**
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
@@ -259,8 +259,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Focus and Clarity
 
 > 1. Focus on what is important and let go of the rest. - Anonymous
-> 1. "Do not let your emotions control you. Choose your battles with a clear mind and a calm heart." - Anonymous -- **Here**
-> 1. "Small steps today, a better tomorrow." - Anonymous
+> 1. Do not let your emotions control you. Choose your battles with a clear mind and a calm heart. - Anonymous
+> 1. "Small steps today, a better tomorrow." - Anonymous -- **Here**
 > 1. "Do what you can, with what you have, where you are." - Theodore Roosevelt
 > 1. "Choose your battles wisely because sometimes the price of victory is too high." - Anonymous
 > 1. "Life is too short to waste it on petty arguments." - Anonymous
@@ -509,7 +509,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Sometimes the best way to win a battle is to avoid it altogether."
 > 1. "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
 > 1. "The battles we Do not fight are often more important than the ones we do."
-> 1. "Do not let your emotions control you. Choose your battles with a clear mind and a calm heart."
 > 1. "In your life, expect some trouble. But when you worry, you make it double. But Do not worry, be happy, be happy now." - Bobby McFerrin
 > 1. "Never underestimate the power of a strategic retreat."
 > 1. "it is not about winning or losing battles; it is about preserving your peace."
