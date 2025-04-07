@@ -13,8 +13,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
@@ -39,8 +39,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
-> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous -- **Here**
-> 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
+> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
+> 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous -- **Here**
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
@@ -85,9 +85,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Your career significantly influences your overall well-being.
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. The right career choice enhances happiness and health.
-> 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous -- **Here**
+> 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. Adapt your priorities as your needs and goals evolve.
-> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
+> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous -- **Here**
 
 ## The Wisdom of the Panchatantra
 
@@ -97,8 +97,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
-> 1. One's true nature will eventually be revealed. - Panchatantra -- **Here**
-> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. One's true nature will eventually be revealed. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
@@ -262,8 +262,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not let your emotions control you. Choose your battles with a clear mind and a calm heart. - Anonymous
 > 1. Small steps today, a better tomorrow. - Anonymous
 > 1. Do what you can, with what you have, where you are. - Theodore Roosevelt
-> 1. "Choose your battles wisely because sometimes the price of victory is too high." - Anonymous -- **Here**
-> 1. "Life is too short to waste it on petty arguments." - Anonymous
+> 1. Choose your battles wisely because sometimes the price of victory is too high. - Anonymous
+> 1. "Life is too short to waste it on petty arguments." - Anonymous -- **Here**
 
 ## Self-Belief and Confidence
 
@@ -512,7 +512,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Never underestimate the power of a strategic retreat."
 > 1. "it is not about winning or losing battles; it is about preserving your peace."
 > 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
-> 1. "Choose your battles wisely because sometimes the price of victory is too high."
 > 1. "Just say yes, and you'll figure it out afterward." - Tina Fey
 > 1. "A dead end is just a good place to turn around." - Naomi Judd
 > 1. "Try to be a rainbow in someone else's cloud." - Maya Angelou
