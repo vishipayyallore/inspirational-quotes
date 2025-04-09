@@ -15,8 +15,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
@@ -41,8 +41,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
-> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous -- **Here**
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
@@ -53,7 +53,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
-> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous -- **Here**
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
@@ -87,7 +87,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The right career choice enhances happiness and health.
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. Adapt your priorities as your needs and goals evolve.
-> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous -- **Here**
+> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
 
 ## The Wisdom of the Panchatantra
 
@@ -98,8 +98,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
-> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
-> 1. Give your word with care, and keep it with honor. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. Give your word with care, and keep it with honor. - Panchatantra -- **Here**
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
@@ -263,11 +263,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Small steps today, a better tomorrow. - Anonymous
 > 1. Do what you can, with what you have, where you are. - Theodore Roosevelt
 > 1. Choose your battles wisely because sometimes the price of victory is too high. - Anonymous
-> 1. "Life is too short to waste it on petty arguments." - Anonymous -- **Here**
+> 1. Life is too short to waste it on petty arguments. - Anonymous
 
 ## Self-Belief and Confidence
 
-> 1. "You only live once, but if you do it right, once is enough." - Mae West
+> 1. "You only live once, but if you do it right, once is enough." - Mae West -- **Here**
 > 1. "The best way to predict the future is to create it." - Abraham Lincoln
 > 1. "Self-belief is the first step to success." - Anonymous
 > 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
@@ -501,7 +501,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Stand up for what you believe in, but pick your battles carefully." ~ Anonymous
 > 1. "Do not waste your energy on things that Do not deserve it." ~ Anonymous
 > 1. "Choose your battles wisely, and you'll never be defeated." ~ Anonymous
-> 1. "Life is too short to waste it on petty arguments."
 > 1. "Be selective in your battles, but when you do fight, fight with everything you've got."
 > 1. "Life is too precious to spend it on things that Do not matter."
 > 1. "It takes more strength to walk away from a battle than to engage in one."
