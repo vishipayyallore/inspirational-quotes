@@ -18,8 +18,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K -- **Here**
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
@@ -44,8 +44,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
-> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous -- **Here**
-> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
+> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
+> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous -- **Here**
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
 > 1. **If you fail to plan**, you plan to fail. - Anonymous
 
@@ -57,9 +57,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
-> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. Leaders are fallible; respectfully challenge when necessary.
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
 > 1. Networking is essential for career advancement.
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. Prioritize your well-being and energy; avoid burnout.
@@ -101,8 +101,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
-> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra -- **Here**
-> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
+> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
+> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra -- **Here**
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
@@ -269,8 +269,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. You only live once, but if you do it right, once is enough. - Mae West
 > 1. The best way to predict the future is to create it. - Abraham Lincoln
-> 1. "Self-belief is the first step to success." - Anonymous -- **Here**
-> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy
+> 1. Self-belief is the first step to success. - Anonymous
+> 1. "You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy -- **Here**
 > 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 > 1. "Do not let what you cannot do interfere with what you can do." - John Wooden
 > 1. "Be yourself; everyone else is already taken." - Oscar Wilde
