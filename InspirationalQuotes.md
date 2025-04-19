@@ -20,7 +20,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
@@ -46,8 +46,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
-> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous -- **Here**
-> 1. **If you fail to plan**, you plan to fail. - Anonymous
+> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
+> 1. **If you fail to plan**, you plan to fail. - Anonymous -- **Here**
 
 ## Smart Career Strategies
 
@@ -61,9 +61,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Leaders are fallible; respectfully challenge when necessary.
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous -- **Here**
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. Prioritize your well-being and energy; avoid burnout.
-> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous -- **Here**
 > 1. Growth occurs outside your comfort zone.
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
@@ -103,8 +103,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
-> 1. Greed is destructive. - Panchatantra -- **Here**
-> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
+> 1. Greed is destructive. - Panchatantra
+> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra -- **Here**
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
 
@@ -271,8 +271,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The best way to predict the future is to create it. - Abraham Lincoln
 > 1. Self-belief is the first step to success. - Anonymous
 > 1. You have within you right now, everything you need to deal with whatever the world can throw at you. - Brian Tracy
-> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins -- **Here**
-> 1. "Do not let what you cannot do interfere with what you can do." - John Wooden
+> 1. The only limit to your impact is your imagination and commitment. - Tony Robbins
+> 1. "Do not let what you cannot do interfere with what you can do." - John Wooden -- **Here**
 > 1. "Be yourself; everyone else is already taken." - Oscar Wilde
 
 ## Purpose and Vision
@@ -314,7 +314,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 > 1. "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
 > 1. "Empower yourself with knowledge and self-belief." - Anonymous
-> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 > 1. "The most common way people give up their power is by thinking they Do not have any." - Alice Walker
 > 1. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
 > 1. "The best way out is always through." - Robert Frost
@@ -382,7 +381,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Change is the end result of all true learning." - Leo Buscaglia
 > 1. "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 > 1. "Education is not preparation for life; education is life itself." - John Dewey
-> 1. "The only limit to your impact is your imagination and commitment." - Tony Robbins
 > 1. "Learning never exhausts the mind." - Leonardo da Vinci
 > 1. "The beautiful thing about learning is that no one can take it away from you." - B.B. King
 > 1. "You cannot teach a man anything; you can only help him find it within himself." - Galileo Galilei
