@@ -22,15 +22,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
-> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
@@ -65,9 +65,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
@@ -105,8 +105,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
-> 1. A fool's ears are deaf to wisdom. - Panchatantra -- **Here**
-> 1. Never advise fools. - Panchatantra
+> 1. A fool's ears are deaf to wisdom. - Panchatantra
+> 1. Never advise fools. - Panchatantra -- **Here**
 
 ## Perseverance
 
@@ -273,11 +273,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. You have within you right now, everything you need to deal with whatever the world can throw at you. - Brian Tracy
 > 1. The only limit to your impact is your imagination and commitment. - Tony Robbins
 > 1. Do not let what you cannot do interfere with what you can do. - John Wooden
-> 1. "Be yourself; everyone else is already taken." - Oscar Wilde -- **Here**
+> 1. Be yourself; everyone else is already taken. - Oscar Wilde
 
 ## Purpose and Vision
 
-> 1. "Your life is your story. Write well. Edit often." - Anonymous
+> 1. "Your life is your story. Write well. Edit often." - Anonymous -- **Here**
 > 1. "Vision without execution is just hallucination." - Henry Ford
 > 1. "Find your passion and let it guide you." - Anonymous
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
