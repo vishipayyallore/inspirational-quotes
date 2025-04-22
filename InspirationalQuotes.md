@@ -23,15 +23,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessions
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
@@ -67,9 +67,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Growth occurs outside your comfort zone.
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous -- **Here**
 > 1. Prioritize progress over perfection; done is better than perfect.
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
@@ -91,7 +91,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
@@ -106,7 +106,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
-> 1. Never advise fools. - Panchatantra -- **Here**
+> 1. Never advise fools. - Panchatantra
 
 ## Perseverance
 
@@ -277,8 +277,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Purpose and Vision
 
-> 1. "Your life is your story. Write well. Edit often." - Anonymous -- **Here**
-> 1. "Vision without execution is just hallucination." - Henry Ford
+> 1. Your life is your story. Write well. Edit often. - Anonymous
+> 1. "Vision without execution is just hallucination." - Henry Ford -- **Here**
 > 1. "Find your passion and let it guide you." - Anonymous
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
 > 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
@@ -553,7 +553,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "What we achieve inwardly will change outer reality." - Plutarch
 > 1. "What would you do if you weren't afraid?" - Sheryl Sandberg
 > 1. "All our dreams can come true if we have the courage to pursue them." - Walt Disney
-> 1. "Your life is your story. Write well. Edit often."
 > 1. "I attribute my success to this: I never gave or took any excuse." - Florence Nightingale
 > 1. "Your time is limited, so Do not waste it living someone else's life." - Steve Jobs
 > 1. "Keep your eyes on the stars and your feet on the ground." - Theodore Roosevelt
