@@ -25,6 +25,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 ## How to Use This Collection
 
 Each letter file contains:
+
 1. Word definitions
 2. Example usage from inspirational quotes
 3. Brief explanation of the meaning in context
