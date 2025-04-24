@@ -9,6 +9,17 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 
+## Power and Influence Wisdom
+
+> 1. **Never** outshine the Master. - Anonymous -- **Here**
+> 2. **Always** make those above you feel comfortably superior. - Anonymous
+> 3. **Mirror** the desires and values of those you wish to influence. - Anonymous
+> 4. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
+> 5. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 6. **Make** your reputation unassailable; guard it with your life. - Anonymous
+> 7. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
+> 8. **Appear** to be a friend but always maintain your position as a master. - Anonymous
+
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
@@ -24,15 +35,15 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
 
 ## Life Lessions
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -69,9 +80,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous -- **Here**
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
 > 1. Career paths are rarely linear; embrace detours and pivots.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
@@ -91,8 +102,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
-> 1. Courage is essential for overcoming life's challenges. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Courage is essential for overcoming life's challenges. - Panchatantra -- **Here**
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
@@ -278,8 +289,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Purpose and Vision
 
 > 1. Your life is your story. Write well. Edit often. - Anonymous
-> 1. "Vision without execution is just hallucination." - Henry Ford -- **Here**
-> 1. "Find your passion and let it guide you." - Anonymous
+> 1. Vision without execution is just hallucination. - Henry Ford
+> 1. "Find your passion and let it guide you." - Anonymous -- **Here**
 > 1. "The purpose of our lives is to be happy." - Dalai Lama
 > 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
 
