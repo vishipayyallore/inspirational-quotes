@@ -43,6 +43,11 @@ This file contains definitions and example usage for meaningful words found in t
 `Meaning`: Feeling or showing sympathy and concern for others.  
 `Usage`: "It is to be useful, to be honorable, to be compassionate, to have it made some difference that you have lived and lived well." - Being kind and concerned about others' suffering is part of living well.
 
+### Congenial
+
+`Meaning`: Pleasant or agreeable because suited to one's nature or tastes; having a friendly, sociable disposition.  
+`Usage`: "A congenial work environment fosters creativity and productivity." - A pleasant workplace that suits people's preferences helps them work better.
+
 ### Consistency
 
 `Meaning`: The quality of always behaving in the same way or of having the same opinions, standard, etc.  
@@ -53,6 +58,11 @@ This file contains definitions and example usage for meaningful words found in t
 `Meaning`: The ability to do something that frightens one; bravery.  
 `Usage`: "Success is not final, failure is not fatal: It is the courage to continue that counts." - The bravery to keep going despite difficulties is what matters most.
 
+### Cunning
+
+`Meaning`: Skill in achieving one's ends by deceit or evasion; crafty or sly.  
+`Usage`: "Beware of the cunning and powerful." - Be cautious of those who use clever deception to achieve their goals.
+
 ### Curiosity
 
 `Meaning`: A strong desire to know or learn something.  
@@ -60,10 +70,20 @@ This file contains definitions and example usage for meaningful words found in t
 
 ## D
 
+### Democratic
+
+`Meaning`: Relating to or supporting democracy or its principles; treating all people equally without social distinctions.  
+`Usage`: "Democratic leadership styles empower team members by giving them a voice in decisions." - Leadership that involves everyone equally in the decision-making process.
+
 ### Demeanor
 
 `Meaning`: Outward behavior or bearing; the way a person behaves or conducts themselves.  
 `Usage`: "Do not believe anyone solely by their words or demeanor." - Don't trust someone based only on how they appear to behave.
+
+### Devious
+
+`Meaning`: Showing a skillful use of underhanded tactics to achieve goals; not straightforward or honest.  
+`Usage`: "A devious person may seem friendly but harbor hidden intentions." - Someone who uses dishonest or indirect methods to get what they want.
 
 ### Discern
 
