@@ -11,8 +11,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Power and Influence Wisdom
 
-> 1. **Never** outshine the Master. - Anonymous -- **Here**
-> 2. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Never** outshine the Master. - Anonymous
+> 2. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
 > 3. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 4. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 5. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
