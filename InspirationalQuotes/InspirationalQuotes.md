@@ -293,8 +293,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Your life is your story. Write well. Edit often. - Anonymous
 > 1. Vision without execution is just hallucination. - Henry Ford
 > 1. Find your passion and let it guide you. - Anonymous
-> 1. "The purpose of our lives is to be happy." - Dalai Lama -- **Here**
-> 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn
+> 1. The purpose of our lives is to be happy. - Dalai Lama
+> 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn -- **Here**
 
 ## Mindfulness and Presence
 
