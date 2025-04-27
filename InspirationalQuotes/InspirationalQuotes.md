@@ -7,23 +7,25 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
+> 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
-> 2. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
-> 3. **Mirror** the desires and values of those you wish to influence. - Anonymous
-> 4. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
-> 5. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
-> 6. **Make** your reputation unassailable; guard it with your life. - Anonymous
-> 7. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
-> 8. **Appear** to be a friend but always maintain your position as a master. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
+> 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
+> 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
+> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
+> 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
+> 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous
 
 ## Daily one
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
@@ -44,8 +46,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
-> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous -- **Here**
-> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
+> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
+> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous -- **Here**
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
@@ -84,9 +86,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Prioritize progress over perfection; done is better than perfect.
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous -- **Here**
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
-> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous -- **Here**
 > 1. Great leaders inspire and motivate.
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. Financial security can significantly improve your life.
