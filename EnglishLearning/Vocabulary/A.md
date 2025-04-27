@@ -16,3 +16,8 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A difficult or unpleasant situation; hardship or misfortune.  
 **Usage**: "Resilience and Overcoming Adversity" - The ability to recover from or adjust to misfortune or change.
+
+## Aroused
+
+**Meaning**: To awaken or excite a feeling, emotion, or response.
+**Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.

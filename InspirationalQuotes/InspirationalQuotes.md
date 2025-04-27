@@ -106,8 +106,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
-> 1. Be wary of the sweet words of a swindler. - Panchatantra -- **Here**
-> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Be wary of the sweet words of a swindler. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
