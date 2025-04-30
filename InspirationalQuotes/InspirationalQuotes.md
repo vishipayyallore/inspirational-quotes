@@ -25,8 +25,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -47,8 +47,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
-> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous -- **Here**
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
@@ -88,9 +88,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Career paths are rarely linear; embrace detours and pivots.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
-> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous -- **Here**
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
-> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous -- **Here**
 > 1. Financial security can significantly improve your life.
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
@@ -107,8 +107,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
-> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra -- **Here**
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
@@ -294,11 +294,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Vision without execution is just hallucination. - Henry Ford
 > 1. Find your passion and let it guide you. - Anonymous
 > 1. The purpose of our lives is to be happy. - Dalai Lama
-> 1. "Your life does not get better by chance, it gets better by change." - Jim Rohn -- **Here**
+> 1. Your life does not get better by chance, it gets better by change. - Jim Rohn
 
 ## Mindfulness and Presence
 
-> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
+> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch -- **Here**
 > 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
