@@ -31,3 +31,8 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Dissatisfied or unhappy with one's circumstances.  
 **Usage**: "A discontented mind is a restless mind." - Unhappiness can lead to a constant search for change.
+
+## Deception
+
+**Meaning**: The act of deceiving or misleading someone; a trick or falsehood.
+**Usage**: "Deception is a form of betrayal." - Misleading someone can be seen as a betrayal of trust.
