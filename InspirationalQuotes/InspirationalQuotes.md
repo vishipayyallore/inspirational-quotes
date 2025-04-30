@@ -14,7 +14,16 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Never** outshine the Master. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
-> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
+> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous -- **Here**
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous
+> 1. **Get others** to do the work for you, but always take the credit. - Anonymous
+> 1. **Make other people** come to you; use bait if necessary. - Anonymous
+> 1. **Win through** your actions, never through argument. - Anonymous
+> 1. **Infection**: avoid the unhappy and unlucky. - Anonymous
+> 1. **Learn to keep** people dependent on you. - Anonymous
+> 1. **Use selective honesty** and generosity
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
@@ -26,8 +35,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
@@ -48,8 +57,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
@@ -90,9 +99,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Take ownership of your career; proactively pursue opportunities.
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. Great leaders inspire and motivate.
-> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous -- **Here**
+> 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. Financial security can significantly improve your life.
-> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
+> 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous -- **Here**
 > 1. Prioritize what matters most to you at each stage of your life.
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. Your career significantly influences your overall well-being.
@@ -108,8 +117,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra -- **Here**
-> 1. Gather all the facts before accepting what you are told. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Gather all the facts before accepting what you are told. - Panchatantra -- **Here**
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
@@ -298,8 +307,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Mindfulness and Presence
 
-> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch -- **Here**
-> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous
+> 1. You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all. - Jane Lynch
+> 1. "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best." - Anonymous -- **Here**
 > 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
 > 1. "Be present in all things and thankful for all things." - Maya Angelou
 > 1. "In the end, it is not the years in your life that count. it is the life in your years." - Abraham Lincoln
@@ -334,7 +343,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Gratitude and Positivity
 
 > 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
-> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Gratitude turns what we have into enough." - Anonymous
 > 1. "Positive anything is better than negative nothing." - Elbert Hubbard
 > 1. "Gratitude is not only the greatest of virtues but the parent of all the others." - Cicero
@@ -518,7 +526,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "In your life, expect some trouble. But when you worry, you make it double. But Do not worry, be happy, be happy now." - Bobby McFerrin
 > 1. "Never underestimate the power of a strategic retreat."
 > 1. "it is not about winning or losing battles; it is about preserving your peace."
-> 1. "You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all." - Jane Lynch
 > 1. "Just say yes, and you'll figure it out afterward." - Tina Fey
 > 1. "A dead end is just a good place to turn around." - Naomi Judd
 > 1. "Try to be a rainbow in someone else's cloud." - Maya Angelou
