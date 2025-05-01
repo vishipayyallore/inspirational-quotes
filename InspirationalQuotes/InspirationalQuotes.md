@@ -18,12 +18,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Always** say less than necessary. - Anonymous -- **Here**
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
-> 1. **Get others** to do the work for you, but always take the credit. - Anonymous
-> 1. **Make other people** come to you; use bait if necessary. - Anonymous
 > 1. **Win through** your actions, never through argument. - Anonymous
 > 1. **Infection**: avoid the unhappy and unlucky. - Anonymous
-> 1. **Learn to keep** people dependent on you. - Anonymous
-> 1. **Use selective honesty** and generosity
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
