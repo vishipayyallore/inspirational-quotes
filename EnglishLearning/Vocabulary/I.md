@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "I" words found in the inspirational quotes collection.
 
+## Indignation
+
+**Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
+**Usage**: "Indignation is a form of self-righteousness." - Feeling angry about perceived injustice can stem from a sense of moral superiority.
+
 ## Inevitable
 
 **Meaning**: Certain to happen; unavoidable.  
@@ -21,8 +26,3 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.  
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
-
-## Indignation
-
-**Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
-**Usage**: "Indignation is a form of self-righteousness." - Feeling angry about perceived injustice can stem from a sense of moral superiority.
