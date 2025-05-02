@@ -2,15 +2,20 @@
 
 This file contains definitions and example usage for "D" words found in the inspirational quotes collection.
 
-## Democratic
+## Deception
 
-**Meaning**: Relating to or supporting democracy or its principles; treating all people equally without social distinctions.  
-**Usage**: "Democratic leadership styles empower team members by giving them a voice in decisions." - Leadership that involves everyone equally in the decision-making process.
+**Meaning**: The act of deceiving or misleading someone; a trick or falsehood.
+**Usage**: "Deception is a form of betrayal." - Misleading someone can be seen as a betrayal of trust.
 
 ## Demeanor
 
 **Meaning**: Outward behavior or bearing; the way a person behaves or conducts themselves.  
 **Usage**: "Do not believe anyone solely by their words or demeanor." - Don't trust someone based only on how they appear to behave.
+
+## Democratic
+
+**Meaning**: Relating to or supporting democracy or its principles; treating all people equally without social distinctions.  
+**Usage**: "Democratic leadership styles empower team members by giving them a voice in decisions." - Leadership that involves everyone equally in the decision-making process.
 
 ## Devious
 
@@ -31,8 +36,3 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Dissatisfied or unhappy with one's circumstances.  
 **Usage**: "A discontented mind is a restless mind." - Unhappiness can lead to a constant search for change.
-
-## Deception
-
-**Meaning**: The act of deceiving or misleading someone; a trick or falsehood.
-**Usage**: "Deception is a form of betrayal." - Misleading someone can be seen as a betrayal of trust.

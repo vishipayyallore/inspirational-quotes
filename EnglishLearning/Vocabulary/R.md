@@ -7,6 +7,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Respond to an action or gesture by making a corresponding one.  
 **Usage**: "Value those who appreciate your efforts and reciprocate kindness." - Cherish relationships where good deeds are returned in kind.
 
+## Resentful
+
+**Meaning**: Feeling or expressing bitterness or indignation at having been treated unfairly.  
+**Usage**: "Resentful people often fail to see the good in others." - Those who harbor bitterness may overlook the positive qualities in people around them.
+
 ## Resilience
 
 **Meaning**: The capacity to recover quickly from difficulties; toughness.  
@@ -16,8 +21,3 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: Self-control; holding back from doing something.  
 **Usage**: "True power is restraint." - Real strength is shown by controlling your reactions, not by impulsively responding.
-
-## Resentful
-
-**Meaning**: Feeling or expressing bitterness or indignation at having been treated unfairly.  
-**Usage**: "Resentful people often fail to see the good in others." - Those who harbor bitterness may overlook the positive qualities in people around them.
