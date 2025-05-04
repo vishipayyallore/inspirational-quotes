@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
-> 1. **Court attention** at all costs. - Anonymous -- **Here**
-> 1. **Win through** your actions, never through argument. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous
+> 1. **Win through** your actions, never through argument. - Anonymous -- **Here**
 > 1. **Infection**: avoid the unhappy and unlucky. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
@@ -33,8 +33,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
@@ -55,8 +55,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
-> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
-> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
+> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous -- **Here**
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
@@ -99,9 +99,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Financial security can significantly improve your life.
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
 > 1. Prioritize what matters most to you at each stage of your life.
-> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous -- **Here**
+> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. Your career significantly influences your overall well-being.
-> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous -- **Here**
 > 1. The right career choice enhances happiness and health.
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. Adapt your priorities as your needs and goals evolve.
@@ -115,8 +115,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
-> 1. One's true nature will eventually be revealed. - Panchatantra -- **Here**
-> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. One's true nature will eventually be revealed. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
@@ -305,8 +305,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. You can not make a cloudy day a sunny day, but you can embrace it and decide it is going to be a good day after all. - Jane Lynch
 > 1. Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe, and have faith that everything will work out for the best. - Anonymous
-> 1. In the middle of every difficulty lies opportunity. - Albert Einstein -- **Here**
-> 1. Be present in all things and thankful for all things. - Maya Angelou
+> 1. In the middle of every difficulty lies opportunity. - Albert Einstein
+> 1. Be present in all things and thankful for all things. - Maya Angelou -- **Here**
 > 1. In the end, it is not the years in your life that count. it is the life in your years. - Abraham Lincoln
 > 1. The only way to deal with this life meaningfully is to find one's passion and put everything into it. - Anonymous
 > 1. To live is the rarest thing in the world. Most people exist, that is all. - Oscar Wilde
@@ -577,7 +577,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "Do not go where the path may lead; go instead where there is no path and leave a trail." - Ralph Waldo Emerson
 > 1. "To achieve greatness, start where you are, use what you have, do what you can."
 > 1. "The only thing standing between you and your goal is the story you keep telling yourself as to why you can not achieve it." - Jordan Belfort
-> 1. "In the middle of every difficulty lies opportunity." - Albert Einstein
+> 1. "The only way to do great work is to love what you do." - Steve Jobs
 > 1. "Life is what we make it, always has been, always will be." - Grandma Moses
 > 1. "We generate fears while we sit. We overcome them by action." - Dr. Henry Link
 > 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
