@@ -16,8 +16,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
-> 1. **Court attention** at all costs. - Anonymous
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous -- **Here**
 > 1. **Win through** your actions, never through argument. - Anonymous
 > 1. **Infection**: avoid the unhappy and unlucky. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
