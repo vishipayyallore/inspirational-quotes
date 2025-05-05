@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "A" words found in the inspirational quotes collection.
 
+## Abandon
+
+**Meaning**: To leave behind or give up completely.
+**Usage**: "Never abandon your dreams." - Always hold on to your aspirations, no matter the challenges you face.
+
 ## Adversary
 
 **Meaning**: A person who fights against or opposes another; an enemy or opponent.  
