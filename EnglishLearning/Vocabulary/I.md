@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "I" words found in the inspirational quotes collection.
 
+## Imminent
+
+**Meaning**: About to happen; impending.
+**Usage**: "The storm is imminent." - The storm is about to occur soon.
+
 ## Indignation
 
 **Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
@@ -26,8 +31,3 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.  
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
-
-## Imminent
-
-**Meaning**: About to happen; impending.
-**Usage**: "The storm is imminent." - The storm is about to occur soon.
