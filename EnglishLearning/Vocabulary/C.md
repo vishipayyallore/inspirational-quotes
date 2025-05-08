@@ -41,3 +41,8 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: A strong desire to know or learn something.  
 **Usage**: "Curiosity is the wick in the candle of learning." - The desire to learn is what ignites and sustains education.
+
+## Curated
+
+**Meaning**: Selected, organized, and presented with care.  
+**Usage**: "A curated collection of quotes can inspire and motivate." - A carefully chosen set of quotes can provide inspiration and encouragement.
