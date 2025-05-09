@@ -21,3 +21,8 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: Exercising power in a cruel or arbitrary way.  
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
+
+## Tenet
+
+**Meaning**: A principle or belief, especially one of the main principles of a religion or philosophy.
+**Usage**: "The tenet of 'treat others as you wish to be treated' is a universal truth." - The principle of reciprocity is a fundamental truth across cultures.
