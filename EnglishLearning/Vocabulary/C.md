@@ -46,3 +46,8 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: Selected, organized, and presented with care.  
 **Usage**: "A curated collection of quotes can inspire and motivate." - A carefully chosen set of quotes can provide inspiration and encouragement.
+
+## Comprehensive
+
+**Meaning**: Including all or nearly all elements or aspects of something.
+**Usage**: "A comprehensive understanding of a subject is essential for mastery." - To truly master a topic, one must understand all its aspects.
