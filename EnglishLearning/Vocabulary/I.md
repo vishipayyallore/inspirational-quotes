@@ -36,3 +36,13 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: The rise and fall in the pitch of the voice in speech.
 **Usage**: "Intonation can change the meaning of a sentence." - The way you say something can affect its interpretation.
+
+## Intuitive
+
+**Meaning**: Instinctive; having a natural ability to understand or know something without any direct evidence or reasoning process.
+**Usage**: "Trust your intuitive feelings." - Rely on your gut instincts to guide you.
+
+## Instincts
+
+**Meaning**: An innate, typically fixed pattern of behavior in animals in response to certain stimuli.
+**Usage**: "Trust your instincts; they are often right." - Your natural feelings or reactions can guide you correctly.
