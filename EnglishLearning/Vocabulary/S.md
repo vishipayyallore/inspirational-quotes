@@ -11,3 +11,8 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A person who defrauds others by trickery.  
 **Usage**: "Be wary of the sweet words of a swindler." - Be cautious of people who use charming speech to deceive you.
+
+## Sheer
+
+**Meaning**: Complete; utter; absolute.
+**Usage**: "The sheer volume of information available today is overwhelming." - The total amount of information is so great that it is difficult to process.
