@@ -31,3 +31,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.  
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
+
+## Intonation
+
+**Meaning**: The rise and fall in the pitch of the voice in speech.
+**Usage**: "Intonation can change the meaning of a sentence." - The way you say something can affect its interpretation.
