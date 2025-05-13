@@ -26,3 +26,8 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: To awaken or excite a feeling, emotion, or response.
 **Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.
+
+## Amassed
+
+**Meaning**: To gather or accumulate a large amount of something over time.
+**Usage**: "Amassed a wealth of knowledge." - Collected a significant amount of information or expertise.
