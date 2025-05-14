@@ -46,3 +46,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: An innate, typically fixed pattern of behavior in animals in response to certain stimuli.
 **Usage**: "Trust your instincts; they are often right." - Your natural feelings or reactions can guide you correctly.
+
+## Ingest
+
+**Meaning**: To take in food or drink through the mouth.
+**Usage**: "Ingesting too much sugar can lead to health problems." - Consuming excessive sugar can cause various health issues.
