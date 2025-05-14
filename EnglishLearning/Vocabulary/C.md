@@ -66,3 +66,8 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: Of great importance; critical.
 **Usage**: "Time management is crucial for productivity." - Effectively managing time is essential for getting things done.
+
+## Convolution
+
+**Meaning**: A mathematical operation that combines two functions to produce a third function.
+**Usage**: "Convolution is a key operation in many signal processing applications." - This technique is fundamental in analyzing and manipulating signals.

@@ -31,3 +31,13 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: Relating to space; having the dimensions of height, width, and depth.
 **Usage**: "Spatial awareness is crucial for effective navigation." - Being aware of your surroundings in three-dimensional space is important for moving through the world.
+
+## Semantic
+
+**Meaning**: Relating to meaning in language or logic.
+**Usage**: "Semantic understanding is key to effective communication." - Grasping the meaning behind words is essential for conveying ideas clearly.
+
+## Sparse
+
+**Meaning**: Thinly dispersed or scattered; not dense.
+**Usage**: "The sparse vegetation in the desert is adapted to conserve water." - Plants in arid regions have evolved to survive with minimal moisture.

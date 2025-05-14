@@ -46,3 +46,13 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: Having or showing the capacity to develop into something in the future.
 **Usage**: "Every person has the potential to make a difference." - Everyone has the ability to create change and impact the world.
+
+## Primer
+
+**Meaning**: A substance used to prepare a surface for painting or other treatment.
+**Usage**: "A good primer is essential for a smooth finish." - Using a quality base coat is important for achieving a polished result.
+
+## Proximate
+
+**Meaning**: Close in space, time, or relationship.
+**Usage**: "The proximate cause of the accident was a mechanical failure." - The immediate reason for the incident was a breakdown in the machinery.
