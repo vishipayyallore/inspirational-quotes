@@ -61,3 +61,8 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: The state or quality of being dedicated to a cause or activity.
 **Usage**: "Commitment is the foundation of success." - Dedication to a goal is essential for achieving it.
+
+## Crucial
+
+**Meaning**: Of great importance; critical.
+**Usage**: "Time management is crucial for productivity." - Effectively managing time is essential for getting things done.

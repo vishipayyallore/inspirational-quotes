@@ -16,3 +16,18 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: Complete; utter; absolute.
 **Usage**: "The sheer volume of information available today is overwhelming." - The total amount of information is so great that it is difficult to process.
+
+## Spectrograms
+
+**Meaning**: A visual representation of the spectrum of frequencies of a signal as it varies with time.
+**Usage**: "Spectrograms can reveal patterns in sound that are not audible to the human ear." - These visual tools help analyze and understand complex audio signals.
+
+## Spectrum
+
+**Meaning**: The range of different frequencies or wavelengths of a signal.
+**Usage**: "The spectrum of light visible to the human eye is just a small part of the electromagnetic spectrum." - The full range of light waves extends beyond what we can see.
+
+## Spatial
+
+**Meaning**: Relating to space; having the dimensions of height, width, and depth.
+**Usage**: "Spatial awareness is crucial for effective navigation." - Being aware of your surroundings in three-dimensional space is important for moving through the world.
