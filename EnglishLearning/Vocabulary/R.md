@@ -21,3 +21,8 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: Self-control; holding back from doing something.  
 **Usage**: "True power is restraint." - Real strength is shown by controlling your reactions, not by impulsively responding.
+
+## Retain
+
+**Meaning**: To keep possession of; to continue to have.
+**Usage**: "Retain your sense of wonder." - Keep your curiosity and amazement at the world around you.
