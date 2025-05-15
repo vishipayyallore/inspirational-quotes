@@ -51,3 +51,13 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: Knowledge or perception of a situation or fact.
 **Usage**: "Awareness is the first step to change." - Recognizing a problem is the initial move toward making improvements.
+
+## Amplitude
+
+**Meaning**: The extent or range of a quality or property; breadth or scope.
+**Usage**: "The amplitude of your impact is determined by your actions." - The extent of your influence is shaped by what you do.
+
+## Aspire
+
+**Meaning**: To have a strong desire to achieve or reach something.
+**Usage**: "Aspire to inspire before you expire." - Aim to motivate and uplift others during your lifetime.

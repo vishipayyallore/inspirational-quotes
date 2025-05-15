@@ -61,3 +61,13 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: The state or quality of being dedicated to a cause or activity.
 **Usage**: "Commitment is the foundation of success." - Dedication to a goal is essential for achieving it.
+
+## Crucial
+
+**Meaning**: Of great importance; critical.
+**Usage**: "Time management is crucial for productivity." - Effectively managing time is essential for getting things done.
+
+## Convolution
+
+**Meaning**: A mathematical operation that combines two functions to produce a third function.
+**Usage**: "Convolution is a key operation in many signal processing applications." - This technique is fundamental in analyzing and manipulating signals.

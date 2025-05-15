@@ -26,3 +26,8 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: A principle or belief, especially one of the main principles of a religion or philosophy.
 **Usage**: "The tenet of 'treat others as you wish to be treated' is a universal truth." - The principle of reciprocity is a fundamental truth across cultures.
+
+## Temporal
+
+**Meaning**: Relating to worldly as opposed to spiritual affairs; secular.
+**Usage**: "The temporal world is fleeting; focus on what truly matters." - The material world is temporary, so prioritize what is genuinely important.

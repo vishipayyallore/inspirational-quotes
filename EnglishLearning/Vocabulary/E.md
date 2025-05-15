@@ -31,3 +31,8 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Meaning**: Developed gradually, especially from a simple to a more complex form.
 **Usage**: "We are all evolving; embrace the journey." - Accept that personal growth is a continuous process.
+
+## Embeddings
+
+**Meaning**: A representation of words or phrases in a continuous vector space.
+**Usage**: "Embeddings capture the semantic meaning of words." - These representations help in understanding the context and relationships between words.
