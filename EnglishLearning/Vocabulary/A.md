@@ -22,20 +22,30 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To publicly support or recommend a particular cause or policy.  
 **Usage**: "Advocate for yourself — quiet efforts get ignored." - You must speak up about your achievements rather than hoping someone will notice them.
 
-## Aroused
-
-**Meaning**: To awaken or excite a feeling, emotion, or response.
-**Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.
-
 ## Amassed
 
 **Meaning**: To gather or accumulate a large amount of something over time.
 **Usage**: "Amassed a wealth of knowledge." - Collected a significant amount of information or expertise.
 
+## Amplitude
+
+**Meaning**: The extent or range of a quality or property; breadth or scope.
+**Usage**: "The amplitude of your impact is determined by your actions." - The extent of your influence is shaped by what you do.
+
+## Aroused
+
+**Meaning**: To awaken or excite a feeling, emotion, or response.
+**Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.
+
 ## Aspects
 
 **Meaning**: A particular part or feature of something.
 **Usage**: "Consider all aspects of the situation." - Take into account every part of the issue at hand.
+
+## Aspire
+
+**Meaning**: To have a strong desire to achieve or reach something.
+**Usage**: "Aspire to inspire before you expire." - Aim to motivate and uplift others during your lifetime.
 
 ## Attain
 
@@ -51,13 +61,3 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: Knowledge or perception of a situation or fact.
 **Usage**: "Awareness is the first step to change." - Recognizing a problem is the initial move toward making improvements.
-
-## Amplitude
-
-**Meaning**: The extent or range of a quality or property; breadth or scope.
-**Usage**: "The amplitude of your impact is determined by your actions." - The extent of your influence is shaped by what you do.
-
-## Aspire
-
-**Meaning**: To have a strong desire to achieve or reach something.
-**Usage**: "Aspire to inspire before you expire." - Aim to motivate and uplift others during your lifetime.
