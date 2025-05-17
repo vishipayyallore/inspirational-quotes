@@ -2,20 +2,20 @@
 
 This file contains definitions and example usage for "S" words found in the inspirational quotes collection.
 
-## Solitude
+## Semantic
 
-**Meaning**: The state or situation of being alone.  
-**Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Being alone with your thoughts can foster creative thinking.
-
-## Swindler
-
-**Meaning**: A person who defrauds others by trickery.  
-**Usage**: "Be wary of the sweet words of a swindler." - Be cautious of people who use charming speech to deceive you.
+**Meaning**: Relating to meaning in language or logic.
+**Usage**: "Semantic understanding is key to effective communication." - Grasping the meaning behind words is essential for conveying ideas clearly.
 
 ## Sheer
 
 **Meaning**: Complete; utter; absolute.
 **Usage**: "The sheer volume of information available today is overwhelming." - The total amount of information is so great that it is difficult to process.
+
+## Solitude
+
+**Meaning**: The state or situation of being alone.  
+**Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Being alone with your thoughts can foster creative thinking.
 
 ## Spectrograms
 
@@ -32,12 +32,12 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Relating to space; having the dimensions of height, width, and depth.
 **Usage**: "Spatial awareness is crucial for effective navigation." - Being aware of your surroundings in three-dimensional space is important for moving through the world.
 
-## Semantic
-
-**Meaning**: Relating to meaning in language or logic.
-**Usage**: "Semantic understanding is key to effective communication." - Grasping the meaning behind words is essential for conveying ideas clearly.
-
 ## Sparse
 
 **Meaning**: Thinly dispersed or scattered; not dense.
 **Usage**: "The sparse vegetation in the desert is adapted to conserve water." - Plants in arid regions have evolved to survive with minimal moisture.
+
+## Swindler
+
+**Meaning**: A person who defrauds others by trickery.  
+**Usage**: "Be wary of the sweet words of a swindler." - Be cautious of people who use charming speech to deceive you.
