@@ -51,3 +51,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: To take in food or drink through the mouth.
 **Usage**: "Ingesting too much sugar can lead to health problems." - Consuming excessive sugar can cause various health issues.
+
+## Intimidate
+
+**Meaning**: To frighten or overawe someone, especially in order to make them do what one wants.
+**Usage**: "Don't let anyone intimidate you." - Do not allow others to scare or pressure you into submission.

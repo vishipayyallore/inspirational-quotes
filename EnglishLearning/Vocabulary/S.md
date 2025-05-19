@@ -17,6 +17,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The state or situation of being alone.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Being alone with your thoughts can foster creative thinking.
 
+## Spatial
+
+**Meaning**: Relating to space; having the dimensions of height, width, and depth.
+**Usage**: "Spatial awareness is crucial for effective navigation." - Being aware of your surroundings in three-dimensional space is important for moving through the world.
+
 ## Spectrograms
 
 **Meaning**: A visual representation of the spectrum of frequencies of a signal as it varies with time.
@@ -26,11 +31,6 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: The range of different frequencies or wavelengths of a signal.
 **Usage**: "The spectrum of light visible to the human eye is just a small part of the electromagnetic spectrum." - The full range of light waves extends beyond what we can see.
-
-## Spatial
-
-**Meaning**: Relating to space; having the dimensions of height, width, and depth.
-**Usage**: "Spatial awareness is crucial for effective navigation." - Being aware of your surroundings in three-dimensional space is important for moving through the world.
 
 ## Sparse
 
