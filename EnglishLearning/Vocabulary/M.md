@@ -7,12 +7,12 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Interfere in something that is not one's concern.  
 **Usage**: "Avoid meddling in the affairs of others." - Don't interfere in matters that don't concern you.
 
-## Mindfulness
-
-**Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
-**Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
-
 ## Medicore
 
 **Meaning**: Of only moderate quality; not very good.
 **Usage**: "Mediocre is the enemy of greatness." - Settling for mediocrity can prevent you from achieving greatness.
+
+## Mindfulness
+
+**Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
+**Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
