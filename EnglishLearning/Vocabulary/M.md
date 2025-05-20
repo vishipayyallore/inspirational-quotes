@@ -13,3 +13,6 @@ This file contains definitions and example usage for "M" words found in the insp
 **Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
 
 ## Medicore
+
+**Meaning**: Of only moderate quality; not very good.
+**Usage**: "Mediocre is the enemy of greatness." - Settling for mediocrity can prevent you from achieving greatness.
