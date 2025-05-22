@@ -17,10 +17,10 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The state or situation of being alone.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Being alone with your thoughts can foster creative thinking.
 
-## Spatial
+## Sparse
 
-**Meaning**: Relating to space; having the dimensions of height, width, and depth.
-**Usage**: "Spatial awareness is crucial for effective navigation." - Being aware of your surroundings in three-dimensional space is important for moving through the world.
+**Meaning**: Thinly dispersed or scattered; not dense.
+**Usage**: "The sparse vegetation in the desert is adapted to conserve water." - Plants in arid regions have evolved to survive with minimal moisture.
 
 ## Spectrograms
 
@@ -31,11 +31,6 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: The range of different frequencies or wavelengths of a signal.
 **Usage**: "The spectrum of light visible to the human eye is just a small part of the electromagnetic spectrum." - The full range of light waves extends beyond what we can see.
-
-## Sparse
-
-**Meaning**: Thinly dispersed or scattered; not dense.
-**Usage**: "The sparse vegetation in the desert is adapted to conserve water." - Plants in arid regions have evolved to survive with minimal moisture.
 
 ## Swindler
 
