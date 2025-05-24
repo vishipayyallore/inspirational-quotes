@@ -32,10 +32,15 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The extent or range of a quality or property; breadth or scope.
 **Usage**: "The amplitude of your impact is determined by your actions." - The extent of your influence is shaped by what you do.
 
-## Aroused
+## Aesthetic
 
-**Meaning**: To awaken or excite a feeling, emotion, or response.
-**Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.
+**Meaning**: Concerned with beauty or the appreciation of beauty.
+**Usage**: "The aesthetic of the design is pleasing to the eye." - The visual appeal of the design is attractive and enjoyable.
+
+## Alleviate
+
+**Meaning**: To make something less severe or more bearable.
+**Usage**: "Alleviate suffering through compassion and kindness." - Reduce pain or hardship by showing empathy and care for others.
 
 ## Aspects
 
@@ -61,3 +66,13 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: Knowledge or perception of a situation or fact.
 **Usage**: "Awareness is the first step to change." - Recognizing a problem is the initial move toward making improvements.
+
+## Aroused
+
+**Meaning**: To awaken or excite a feeling, emotion, or response.
+**Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.
+
+## Axiom
+
+**Meaning**: A statement or proposition that is regarded as being self-evidently true.
+**Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
