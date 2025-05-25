@@ -2,6 +2,16 @@
 
 This file contains definitions and example usage for "E" words found in the inspirational quotes collection.
 
+## Elevate
+
+**Meaning**: To raise or lift something to a higher position.
+**Usage**: "Elevate your thoughts to elevate your life." - Improve your mindset to improve your existence.
+
+## Embeddings
+
+**Meaning**: A representation of words or phrases in a continuous vector space.
+**Usage**: "Embeddings capture the semantic meaning of words." - These representations help in understanding the context and relationships between words.
+
 ## Empowerment
 
 **Meaning**: The process of becoming stronger and more confident, especially in controlling one's life.  
@@ -17,22 +27,12 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.  
 **Usage**: "Envy is the art of counting the other fellow's blessings instead of your own." - Focusing on what others have rather than appreciating what you possess.
 
-## Execution
-
-**Meaning**: The carrying out or putting into effect of a plan, order, or course of action.  
-**Usage**: "Vision without execution is just hallucination." - Ideas without implementation are merely dreams.
-
-## Elevate
-
-**Meaning**: To raise or lift something to a higher position.
-**Usage**: "Elevate your thoughts to elevate your life." - Improve your mindset to improve your existence.
-
 ## Evolved
 
 **Meaning**: Developed gradually, especially from a simple to a more complex form.
 **Usage**: "We are all evolving; embrace the journey." - Accept that personal growth is a continuous process.
 
-## Embeddings
+## Execution
 
-**Meaning**: A representation of words or phrases in a continuous vector space.
-**Usage**: "Embeddings capture the semantic meaning of words." - These representations help in understanding the context and relationships between words.
+**Meaning**: The carrying out or putting into effect of a plan, order, or course of action.  
+**Usage**: "Vision without execution is just hallucination." - Ideas without implementation are merely dreams.

@@ -52,15 +52,15 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The ability to do something that frightens one; bravery.  
 **Usage**: "Success is not final, failure is not fatal: It is the courage to continue that counts." - The bravery to keep going despite difficulties is what matters most.
 
-## Cunning
-
-**Meaning**: Skill in achieving one's ends by deceit or evasion; crafty or sly.  
-**Usage**: "Beware of the cunning and powerful." - Be cautious of those who use clever deception to achieve their goals.
-
 ## Crucial
 
 **Meaning**: Of great importance; critical.  
 **Usage**: "Time management is crucial for productivity." - Effectively managing time is essential for getting things done.
+
+## Cunning
+
+**Meaning**: Skill in achieving one's ends by deceit or evasion; crafty or sly.  
+**Usage**: "Beware of the cunning and powerful." - Be cautious of those who use clever deception to achieve their goals.
 
 ## Curated
 
