@@ -12,25 +12,30 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
 **Usage**: "Indignation is a form of self-righteousness." - Feeling angry about perceived injustice can stem from a sense of moral superiority.
 
-## Inevitable
+## Ingest
 
-**Meaning**: Certain to happen; unavoidable.  
-**Usage**: "Greed inevitably leads to misery." - Excessive desire for wealth will certainly cause unhappiness.
+**Meaning**: To take in food or drink through the mouth.
+**Usage**: "Ingesting too much sugar can lead to health problems." - Consuming excessive sugar can cause various health issues.
 
 ## Initiative
 
 **Meaning**: The ability to assess and initiate things independently; the power or opportunity to act before others do.  
 **Usage**: "Action and Initiative" - Taking the first step without being prompted.
 
+## Instincts
+
+**Meaning**: An innate, typically fixed pattern of behavior in animals in response to certain stimuli.
+**Usage**: "Trust your instincts; they are often right." - Your natural feelings or reactions can guide you correctly.
+
 ## Integrity
 
 **Meaning**: The quality of being honest and having strong moral principles.  
 **Usage**: "Give your word with care, and keep it with honor." - Make promises thoughtfully and fulfill them with integrity.
 
-## Irreplaceable
+## Intimidate
 
-**Meaning**: Not able to be replaced; unique.  
-**Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
+**Meaning**: To frighten or overawe someone, especially in order to make them do what one wants.
+**Usage**: "Don't let anyone intimidate you." - Do not allow others to scare or pressure you into submission.
 
 ## Intonation
 
@@ -42,17 +47,12 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Instinctive; having a natural ability to understand or know something without any direct evidence or reasoning process.
 **Usage**: "Trust your intuitive feelings." - Rely on your gut instincts to guide you.
 
-## Instincts
+## Inevitable
 
-**Meaning**: An innate, typically fixed pattern of behavior in animals in response to certain stimuli.
-**Usage**: "Trust your instincts; they are often right." - Your natural feelings or reactions can guide you correctly.
+**Meaning**: Certain to happen; unavoidable.  
+**Usage**: "Greed inevitably leads to misery." - Excessive desire for wealth will certainly cause unhappiness.
 
-## Ingest
+## Irreplaceable
 
-**Meaning**: To take in food or drink through the mouth.
-**Usage**: "Ingesting too much sugar can lead to health problems." - Consuming excessive sugar can cause various health issues.
-
-## Intimidate
-
-**Meaning**: To frighten or overawe someone, especially in order to make them do what one wants.
-**Usage**: "Don't let anyone intimidate you." - Do not allow others to scare or pressure you into submission.
+**Meaning**: Not able to be replaced; unique.  
+**Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.

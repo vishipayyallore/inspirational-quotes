@@ -7,6 +7,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To leave behind or give up completely.
 **Usage**: "Never abandon your dreams." - Always hold on to your aspirations, no matter the challenges you face.
 
+## Acknowledge
+
+**Meaning**: To recognize the existence, truth, or validity of something.
+**Usage**: "Acknowledge your mistakes to learn and grow." - Accepting your errors is essential for personal development.
+
 ## Adversary
 
 **Meaning**: A person who fights against or opposes another; an enemy or opponent.  
@@ -22,6 +27,16 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To publicly support or recommend a particular cause or policy.  
 **Usage**: "Advocate for yourself — quiet efforts get ignored." - You must speak up about your achievements rather than hoping someone will notice them.
 
+## Aesthetic
+
+**Meaning**: Concerned with beauty or the appreciation of beauty.
+**Usage**: "The aesthetic of the design is pleasing to the eye." - The visual appeal of the design is attractive and enjoyable.
+
+## Alleviate
+
+**Meaning**: To make something less severe or more bearable.
+**Usage**: "Alleviate suffering through compassion and kindness." - Reduce pain or hardship by showing empathy and care for others.
+
 ## Amassed
 
 **Meaning**: To gather or accumulate a large amount of something over time.
@@ -32,15 +47,10 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The extent or range of a quality or property; breadth or scope.
 **Usage**: "The amplitude of your impact is determined by your actions." - The extent of your influence is shaped by what you do.
 
-## Aesthetic
+## Aroused
 
-**Meaning**: Concerned with beauty or the appreciation of beauty.
-**Usage**: "The aesthetic of the design is pleasing to the eye." - The visual appeal of the design is attractive and enjoyable.
-
-## Alleviate
-
-**Meaning**: To make something less severe or more bearable.
-**Usage**: "Alleviate suffering through compassion and kindness." - Reduce pain or hardship by showing empathy and care for others.
+**Meaning**: To awaken or excite a feeling, emotion, or response.
+**Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.
 
 ## Aspects
 
@@ -66,11 +76,6 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: Knowledge or perception of a situation or fact.
 **Usage**: "Awareness is the first step to change." - Recognizing a problem is the initial move toward making improvements.
-
-## Aroused
-
-**Meaning**: To awaken or excite a feeling, emotion, or response.
-**Usage**: "Aroused by the beauty of the world." - Inspired or excited by the beauty around us.
 
 ## Axiom
 
