@@ -81,3 +81,13 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
+
+## Adherence
+
+**Meaning**: The act of following or upholding a rule, guideline, or standard.
+**Usage**: "Adherence to ethical principles is crucial in decision-making." - Sticking to moral guidelines helps ensure integrity in choices.
+
+## Altruism
+
+**Meaning**: The selfless concern for the well-being of others; unselfishness.
+**Usage**: "Acts of altruism can inspire others to be more compassionate." - Selfless behavior can motivate those around us to also care for others.
