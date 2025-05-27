@@ -36,3 +36,8 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: Exercising power in a cruel or arbitrary way.  
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
+
+## Traction
+
+**Meaning**: The extent to which an idea, product, or service gains popularity or acceptance.
+**Usage**: "The new initiative gained traction quickly among the community." - The project became popular and widely accepted in a short time.
