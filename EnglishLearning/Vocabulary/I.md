@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "I" words found in the inspirational quotes collection.
 
+## Illustrate
+
+**Meaning**: To explain or make something clear by using examples, charts, or pictures.
+**Usage**: "The teacher used diagrams to illustrate the complex concept." - Visual aids can help clarify difficult ideas.
+
 ## Imminent
 
 **Meaning**: About to happen; impending.
@@ -11,6 +16,11 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
 **Usage**: "Indignation is a form of self-righteousness." - Feeling angry about perceived injustice can stem from a sense of moral superiority.
+
+## Inevitable
+
+**Meaning**: Certain to happen; unavoidable.  
+**Usage**: "Greed inevitably leads to misery." - Excessive desire for wealth will certainly cause unhappiness.
 
 ## Ingest
 
@@ -46,11 +56,6 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Instinctive; having a natural ability to understand or know something without any direct evidence or reasoning process.
 **Usage**: "Trust your intuitive feelings." - Rely on your gut instincts to guide you.
-
-## Inevitable
-
-**Meaning**: Certain to happen; unavoidable.  
-**Usage**: "Greed inevitably leads to misery." - Excessive desire for wealth will certainly cause unhappiness.
 
 ## Irreplaceable
 

@@ -36,3 +36,13 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A person who defrauds others by trickery.  
 **Usage**: "Be wary of the sweet words of a swindler." - Be cautious of people who use charming speech to deceive you.
+
+## Synonymous
+
+**Meaning**: Having the same or nearly the same meaning as another word or phrase.
+**Usage**: "The words 'big' and 'large' are synonymous." - These terms can be used interchangeably in many contexts.
+
+## Synopsis
+
+**Meaning**: A brief summary or general survey of a subject.
+**Usage**: "The synopsis of the book provided a clear overview of the main themes." - A summary can help readers quickly understand the key points of a text.
