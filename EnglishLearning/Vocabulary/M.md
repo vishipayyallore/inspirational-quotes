@@ -7,7 +7,7 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Interfere in something that is not one's concern.  
 **Usage**: "Avoid meddling in the affairs of others." - Don't interfere in matters that don't concern you.
 
-## Medicore
+## Mediocre
 
 **Meaning**: Of only moderate quality; not very good.
 **Usage**: "Mediocre is the enemy of greatness." - Settling for mediocrity can prevent you from achieving greatness.

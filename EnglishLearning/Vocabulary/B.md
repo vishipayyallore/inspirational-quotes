@@ -17,12 +17,12 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A limit of a subject or sphere of activity; a dividing line.
 **Usage**: "Setting boundaries is essential for self-care." - Knowing where to draw the line in relationships and responsibilities is important for mental health.
 
-## Burnout
-
-**Meaning**: Physical or mental collapse caused by overwork or stress.  
-**Usage**: "Burnout Is Not a Badge of Honor" - Exhausting yourself from overwork should not be seen as praiseworthy.
-
 ## Breathe
 
 **Meaning**: To take air into the lungs and then expel it; to inhale and exhale.
 **Usage**: "Take a moment to breathe and relax." - Pausing to inhale and exhale can help reduce stress and clear your mind.
+
+## Burnout
+
+**Meaning**: Physical or mental collapse caused by overwork or stress.  
+**Usage**: "Burnout Is Not a Badge of Honor" - Exhausting yourself from overwork should not be seen as praiseworthy.
