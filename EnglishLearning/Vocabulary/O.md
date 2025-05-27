@@ -12,12 +12,12 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Hopeful and confident about the future.  
 **Usage**: "Choose to be optimistic; it feels better." - Deciding to have a positive outlook improves your experience.
 
-## Overwhelm
-
-**Meaning**: To have a strong emotional effect on; to overpower or subdue.  
-**Usage**: "Do not let the mountain overwhelm you, think one step at a time." - Don't let large challenges paralyze you with their magnitude.
-
 ## Overawe
 
 **Meaning**: To impress (someone) so much that they are silent or inhibited.
 **Usage**: "The beauty of the landscape can overawe even the most seasoned travelers." - Stunning views can leave a lasting impact on anyone.
+
+## Overwhelm
+
+**Meaning**: To have a strong emotional effect on; to overpower or subdue.  
+**Usage**: "Do not let the mountain overwhelm you, think one step at a time." - Don't let large challenges paralyze you with their magnitude.
