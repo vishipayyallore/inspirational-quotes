@@ -2,7 +2,7 @@
 
 This file contains definitions and example usage for "F" words found in the inspirational quotes collection.
 
-## facets
+## Facets
 
 **Meaning**: A particular aspect or feature of something.  
 **Usage**: "Life has many facets, and each one is a lesson." - Life is complex, and every experience teaches us something.
@@ -31,3 +31,8 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: The process of combining two or more things into one.  
 **Usage**: "The fusion of ideas can lead to innovation." - When different concepts come together, they can create something new and exciting.
+
+## Fabricate
+
+**Meaning**: To invent or concoct something, typically with deceitful intent.  
+**Usage**: "He had to fabricate a story to explain his absence." - Sometimes people create false narratives to cover up the truth.
