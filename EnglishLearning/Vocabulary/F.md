@@ -12,6 +12,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: Capable of making mistakes or being wrong.  
 **Usage**: "Leaders are fallible; respectfully challenge when necessary." - Even those in authority can be wrong sometimes.
 
+## Fictitious
+
+**Meaning**: Not real or true; imaginary or fabricated.
+**Usage**: "The story was entirely fictitious, created for entertainment." - The narrative was made up and not based on real events.
+
 ## Flattery
 
 **Meaning**: Excessive and insincere praise, given especially to further one's own interests.  
