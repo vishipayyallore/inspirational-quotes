@@ -12,6 +12,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To recognize the existence, truth, or validity of something.
 **Usage**: "Acknowledge your mistakes to learn and grow." - Accepting your errors is essential for personal development.
 
+## Adherence
+
+**Meaning**: The act of following or upholding a rule, guideline, or standard.
+**Usage**: "Adherence to ethical principles is crucial in decision-making." - Sticking to moral guidelines helps ensure integrity in choices.
+
 ## Adversary
 
 **Meaning**: A person who fights against or opposes another; an enemy or opponent.  
@@ -36,6 +41,11 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: To make something less severe or more bearable.
 **Usage**: "Alleviate suffering through compassion and kindness." - Reduce pain or hardship by showing empathy and care for others.
+
+## Altruism
+
+**Meaning**: The selfless concern for the well-being of others; unselfishness.
+**Usage**: "Acts of altruism can inspire others to be more compassionate." - Selfless behavior can motivate those around us to also care for others.
 
 ## Amassed
 
@@ -81,13 +91,3 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
-
-## Adherence
-
-**Meaning**: The act of following or upholding a rule, guideline, or standard.
-**Usage**: "Adherence to ethical principles is crucial in decision-making." - Sticking to moral guidelines helps ensure integrity in choices.
-
-## Altruism
-
-**Meaning**: The selfless concern for the well-being of others; unselfishness.
-**Usage**: "Acts of altruism can inspire others to be more compassionate." - Selfless behavior can motivate those around us to also care for others.
