@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "P" words found in the inspirational quotes collection.
 
+## Paramount
+
+**Meaning**: More important than anything else; supreme.  
+**Usage**: "Safety is paramount in any workplace." - Ensuring safety is the most important consideration in a work environment.
+
 ## Persistence
 
 **Meaning**: Firm or obstinate continuance in a course of action despite difficulty.  
@@ -12,6 +17,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A particular attitude toward or way of regarding something; a point of view.  
 **Usage**: "Mindset and Perspective" - How you view and interpret situations and experiences.
 
+## Phenomenon
+
+**Meaning**: A fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.  
+**Usage**: "The phenomenon of climate change is affecting us all." - The observable changes in climate patterns are a pressing global issue.
+
 ## Pivot
 
 **Meaning**: A significant change in direction, strategy, or approach.  
@@ -21,6 +31,11 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: Having or showing the capacity to develop into something in the future.  
 **Usage**: "Every person has the potential to make a difference." - Everyone has the ability to create change and impact the world.
+
+## Precise
+
+**Meaning**: Marked by exactness and accuracy; clearly defined or stated.  
+**Usage**: "Her instructions were precise and easy to follow." - Clear and accurate guidance can lead to better outcomes.
 
 ## Prevalent
 
@@ -57,17 +72,4 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: To follow or chase with the intent to catch or achieve.  
 **Usage**: "Pursue your passions relentlessly." - Follow what you love with determination and dedication.
 
-## Phenomenon
 
-**Meaning**: A fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.  
-**Usage**: "The phenomenon of climate change is affecting us all." - The observable changes in climate patterns are a pressing global issue.
-
-## Paramount
-
-**Meaning**: More important than anything else; supreme.  
-**Usage**: "Safety is paramount in any workplace." - Ensuring safety is the most important consideration in a work environment.
-
-## Precise
-
-**Meaning**: Marked by exactness and accuracy; clearly defined or stated.  
-**Usage**: "Her instructions were precise and easy to follow." - Clear and accurate guidance can lead to better outcomes.
