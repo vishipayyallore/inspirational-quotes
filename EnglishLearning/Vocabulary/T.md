@@ -22,6 +22,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A principle or belief, especially one of the main principles of a religion or philosophy.
 **Usage**: "The tenet of 'treat others as you wish to be treated' is a universal truth." - The principle of reciprocity is a fundamental truth across cultures.
 
+## Traction
+
+**Meaning**: The extent to which an idea, product, or service gains popularity or acceptance.
+**Usage**: "The new initiative gained traction quickly among the community." - The project became popular and widely accepted in a short time.
+
 ## Transient
 
 **Meaning**: Lasting only for a short time; impermanent.  
@@ -37,7 +42,4 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: Exercising power in a cruel or arbitrary way.  
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
 
-## Traction
 
-**Meaning**: The extent to which an idea, product, or service gains popularity or acceptance.
-**Usage**: "The new initiative gained traction quickly among the community." - The project became popular and widely accepted in a short time.

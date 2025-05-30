@@ -32,6 +32,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The range of different frequencies or wavelengths of a signal.
 **Usage**: "The spectrum of light visible to the human eye is just a small part of the electromagnetic spectrum." - The full range of light waves extends beyond what we can see.
 
+## Straying
+
+**Meaning**: Moving away from the correct path or direction; wandering.
+**Usage**: "Straying from your goals can lead to confusion and lack of purpose." - Losing focus on your objectives can create uncertainty in your life.
+
 ## Swindler
 
 **Meaning**: A person who defrauds others by trickery.  
@@ -47,7 +52,4 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: A brief summary or general survey of a subject.
 **Usage**: "The synopsis of the book provided a clear overview of the main themes." - A summary can help readers quickly understand the key points of a text.
 
-## Straying
 
-**Meaning**: Moving away from the correct path or direction; wandering.
-**Usage**: "Straying from your goals can lead to confusion and lack of purpose." - Losing focus on your objectives can create uncertainty in your life.
