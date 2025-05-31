@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "E" words found in the inspirational quotes collection.
 
+## Elicit
+
+**Meaning**: To draw out a response, answer, or fact from someone.
+**Usage**: "Good leaders elicit the best from their teams." - Effective leaders bring out the potential in others.
+
 ## Elevate
 
 **Meaning**: To raise or lift something to a higher position.
@@ -36,8 +41,3 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Meaning**: The carrying out or putting into effect of a plan, order, or course of action.  
 **Usage**: "Vision without execution is just hallucination." - Ideas without implementation are merely dreams.
-
-## Elicit
-
-**Meaning**: To draw out a response, answer, or fact from someone.
-**Usage**: "Good leaders elicit the best from their teams." - Effective leaders bring out the potential in others.
