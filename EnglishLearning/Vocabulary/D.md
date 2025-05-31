@@ -36,3 +36,8 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Dissatisfied or unhappy with one's circumstances.  
 **Usage**: "A discontented mind is a restless mind." - Unhappiness can lead to a constant search for change.
+
+## Disambiguate
+
+**Meaning**: To make something clear by removing ambiguity; to clarify.  
+**Usage**: "We need to disambiguate the instructions to avoid confusion." - Clarifying instructions can help prevent misunderstandings.
