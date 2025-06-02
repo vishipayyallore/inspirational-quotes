@@ -16,3 +16,8 @@ This file contains definitions and example usage for "M" words found in the insp
 
 **Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
 **Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
+
+## Meticulous
+
+**Meaning**: Showing great attention to detail; very careful and precise.
+**Usage**: "Meticulous planning is essential for success." - Careful and detailed planning can lead to better outcomes.
