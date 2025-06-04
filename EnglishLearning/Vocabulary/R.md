@@ -62,4 +62,7 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
 **Usage**: "Mastering rhetoric can enhance your communication skills." - Understanding persuasive language can improve how you convey ideas.
 
+## Repercussions
 
+**Meaning**: Unintended consequences or outcomes of an action.
+**Usage**: "Consider the repercussions of your decisions." - It's important to think about the potential effects of your choices.
