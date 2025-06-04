@@ -17,15 +17,15 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Relating to or supporting democracy or its principles; treating all people equally without social distinctions.  
 **Usage**: "Democratic leadership styles empower team members by giving them a voice in decisions." - Leadership that involves everyone equally in the decision-making process.
 
-## Disambiguate
-
-**Meaning**: To make something clear by removing ambiguity; to clarify.  
-**Usage**: "We need to disambiguate the instructions to avoid confusion." - Clarifying instructions can help prevent misunderstandings.
-
 ## Devious
 
 **Meaning**: Showing a skillful use of underhanded tactics to achieve goals; not straightforward or honest.  
 **Usage**: "A devious person may seem friendly but harbor hidden intentions." - Someone who uses dishonest or indirect methods to get what they want.
+
+## Disambiguate
+
+**Meaning**: To make something clear by removing ambiguity; to clarify.  
+**Usage**: "We need to disambiguate the instructions to avoid confusion." - Clarifying instructions can help prevent misunderstandings.
 
 ## Discern
 
