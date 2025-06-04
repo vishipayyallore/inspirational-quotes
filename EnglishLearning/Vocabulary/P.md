@@ -7,6 +7,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: More important than anything else; supreme.  
 **Usage**: "Safety is paramount in any workplace." - Ensuring safety is the most important consideration in a work environment.
 
+## Perpetuation
+
+**Meaning**: The act of causing something to continue or be remembered.
+**Usage**: "The perpetuation of knowledge is essential for progress." - Keeping knowledge alive and relevant is crucial for advancement.
+
 ## Persistence
 
 **Meaning**: Firm or obstinate continuance in a course of action despite difficulty.  
@@ -71,8 +76,3 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: To follow or chase with the intent to catch or achieve.  
 **Usage**: "Pursue your passions relentlessly." - Follow what you love with determination and dedication.
-
-## Perpetuation
-
-**Meaning**: The act of causing something to continue or be remembered.
-**Usage**: "The perpetuation of knowledge is essential for progress." - Keeping knowledge alive and relevant is crucial for advancement.

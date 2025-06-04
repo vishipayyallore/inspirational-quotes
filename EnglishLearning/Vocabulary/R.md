@@ -27,6 +27,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: To voluntarily cease to keep or claim; give up.
 **Usage**: "Sometimes you must relinquish control to find peace." - Letting go can lead to greater tranquility and acceptance.
 
+## Repercussions
+
+**Meaning**: Unintended consequences or outcomes of an action.
+**Usage**: "Consider the repercussions of your decisions." - It's important to think about the potential effects of your choices.
+
 ## Resentful
 
 **Meaning**: Feeling or expressing bitterness or indignation at having been treated unfairly.  
@@ -61,8 +66,3 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
 **Usage**: "Mastering rhetoric can enhance your communication skills." - Understanding persuasive language can improve how you convey ideas.
-
-## Repercussions
-
-**Meaning**: Unintended consequences or outcomes of an action.
-**Usage**: "Consider the repercussions of your decisions." - It's important to think about the potential effects of your choices.
