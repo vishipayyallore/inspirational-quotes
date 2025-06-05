@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "F" words found in the inspirational quotes collection.
 
+## Fabricate
+
+**Meaning**: To invent or concoct something, typically with deceitful intent.  
+**Usage**: "He had to fabricate a story to explain his absence." - Sometimes people create false narratives to cover up the truth.
+
 ## Facets
 
 **Meaning**: A particular aspect or feature of something.  
@@ -11,11 +16,6 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: Capable of making mistakes or being wrong.  
 **Usage**: "Leaders are fallible; respectfully challenge when necessary." - Even those in authority can be wrong sometimes.
-
-## Fabricate
-
-**Meaning**: To invent or concoct something, typically with deceitful intent.  
-**Usage**: "He had to fabricate a story to explain his absence." - Sometimes people create false narratives to cover up the truth.
 
 ## Fictitious
 
