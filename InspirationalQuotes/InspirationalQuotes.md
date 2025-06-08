@@ -587,6 +587,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 --
 
+## Pinned Message
+
+Please ensure you A. Education, and B. Family time is more important than anything on this face of the earth. No compromise on that!!
+
+_Infection_ Avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
+
 📢 Message for Your Mentees:
 Important Notice: Group Activity Requirement
 
