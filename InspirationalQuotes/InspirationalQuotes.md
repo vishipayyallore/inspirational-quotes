@@ -19,7 +19,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
-> 1. **Infection** avoid the unhappy and unlucky. - Anonymous
+> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
@@ -584,3 +584,46 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. "The harder you work for something, the greater you'll feel when you achieve it."
 > 1. "In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
 > 1. "The hardest thing to do is to keep going." - Anonymous
+
+--
+
+📢 Message for Your Mentees:
+Important Notice: Group Activity Requirement
+
+Dear Mentees,
+
+I hope this message finds you well and motivated in your learning journey.
+
+Effective 21-Jun-2025, I am implementing a group activity policy to ensure our mentoring sessions remain productive and beneficial for all participants.
+
+Policy Details:
+
+3-Week Activity Window: All group members are expected to actively participate and engage within every 3-week period.
+What constitutes "active participation":
+Attending scheduled sessions
+Responding to messages and discussions
+Completing assigned tasks or exercises
+Asking questions or providing feedback
+Consequence: Members who remain inactive and uninformed for 3 consecutive weeks will be respectfully removed from the group
+
+**Important Exception - Planned Time Off:**
+If you need to take time off for any reason (3, 4, 5, or any number of weeks), please inform me in advance. This could be due to:
+
+- Personal commitments
+- Work obligations
+- Health reasons
+- Travel or vacation
+- Any other circumstances
+
+Simply send me a message stating your expected absence period, and your position in the group will be secured during that time.
+
+Why this policy? As the updated wisdom reminds us: "Avoid the unhappy, unlucky, lazy, and inactive." To maintain a positive, growth-oriented environment, we need committed participants who contribute to our collective success.
+
+Your commitment matters - not just to your own growth, but to the energy and momentum of the entire group.
+
+If you're facing any challenges that might affect your participation, please reach out to me directly. I'm here to support you, but I need you to stay engaged.
+
+Let's make this mentoring experience transformative for everyone involved! 🚀
+
+Best regards,
+Viswanatha Swamy P K
