@@ -18,12 +18,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
-> 1. **Win through** your actions, never through argument. - Anonymous
-> 1. **Infection**: avoid the unhappy and unlucky. - Anonymous
+> 1. **Win through your actions**, never through argument. - Anonymous
+> 1. **Infection** avoid the unhappy and unlucky. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
-> 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous -- **Here**
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 > 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous
@@ -46,7 +45,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
-## Life Lessions
+## Life Lessons
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
