@@ -23,8 +23,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
-> 1. **Win through your actions**, never through argument. - Anonymous -- **Here**
-> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
+> 1. **Win through your actions**, never through argument. - Anonymous
+> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous -- **Here**
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 > 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous
 
