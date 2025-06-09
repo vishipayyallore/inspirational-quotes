@@ -38,8 +38,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
@@ -60,8 +60,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
-> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous -- **Here**
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
@@ -73,9 +73,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Results matter more than effort; advocate for your accomplishments.
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
-> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous -- **Here**
+> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
-> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
 > 1. Leaders are fallible; respectfully challenge when necessary.
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
@@ -120,8 +120,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
-> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra -- **Here**
-> 1. Greed is destructive. - Panchatantra
+> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
+> 1. Greed is destructive. - Panchatantra -- **Here**
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
@@ -310,11 +310,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. In the end, it is not the years in your life that count. it is the life in your years. - Abraham Lincoln
 > 1. The only way to deal with this life meaningfully is to find one's passion and put everything into it. - Anonymous
 > 1. To live is the rarest thing in the world. Most people exist, that is all. - Oscar Wilde
-> 1. Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. - Buddha -- **Here**
+> 1. Do not dwell in the past, do not dream of the future, and concentrate the mind on the present moment. - Buddha
 
 ## Motivation and Inspiration
 
-> 1. Try to be a rainbow in someone else's cloud. - Maya Angelou
+> 1. Try to be a rainbow in someone else's cloud. - Maya Angelou -- **Here**
 > 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett
 > 1. Start where you are. Use what you have. Do what you can. - Arthur Ashe
 
