@@ -76,3 +76,8 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: To follow or chase with the intent to catch or achieve.  
 **Usage**: "Pursue your passions relentlessly." - Follow what you love with determination and dedication.
+
+## Patron
+
+**Meaning**: A person who gives financial or other support to a person, organization, or cause.  
+**Usage**: "Every artist needs a patron to support their work." - Financial backing is often crucial for creative individuals to thrive.
