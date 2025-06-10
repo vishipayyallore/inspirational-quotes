@@ -72,12 +72,12 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: A strong desire to know or learn something.  
 **Usage**: "Curiosity is the wick in the candle of learning." - The desire to learn is what ignites and sustains education.
 
-## Cyclical
-
-**Meaning**: Occurring in cycles; recurring in a regular pattern.
-**Usage**: "Life is cyclical; what you put out into the world comes back to you." - The idea that actions have a way of returning to the source is a common theme in many philosophies.
-
 ## Curried
 
 **Meaning**: Prepared or served with a sauce of spices, typically including turmeric, cumin, and coriander.  
 **Usage**: "Curried dishes are popular in many cultures for their rich flavors." - The use of spices in cooking can create complex and enjoyable tastes.
+
+## Cyclical
+
+**Meaning**: Occurring in cycles; recurring in a regular pattern.
+**Usage**: "Life is cyclical; what you put out into the world comes back to you." - The idea that actions have a way of returning to the source is a common theme in many philosophies.
