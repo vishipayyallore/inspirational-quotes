@@ -57,6 +57,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The extent or range of a quality or property; breadth or scope.
 **Usage**: "The amplitude of your impact is determined by your actions." - The extent of your influence is shaped by what you do.
 
+## Armor
+
+**Meaning**: A protective covering or shield.
+**Usage**: "Emotional armor can protect you from hurt, but it may also keep you from love." - Guarding oneself emotionally can prevent pain but also block meaningful connections.
+
 ## Aroused
 
 **Meaning**: To awaken or excite a feeling, emotion, or response.
