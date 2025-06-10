@@ -284,8 +284,9 @@ Write-Host "`n  Alphabetical order: $(if ($isOrdered) { '✅ CORRECT' } else { '
 ## Recent Verification Results (June 2025)
 
 **All vocabulary files verified as ORDERED ✅:**
+
 - A.md: 19 words (updated June 10, 2025 - added "Armor")
-- B.md: 5 words  
+- B.md: 5 words
 - C.md: 15 words
 - D.md: 8 words
 - E.md: 8 words
@@ -307,12 +308,14 @@ Write-Host "`n  Alphabetical order: $(if ($isOrdered) { '✅ CORRECT' } else { '
 ## Latest Changes (June 10, 2025)
 
 ### A.md File Update
+
 - **Added word**: "Armor" (A protective covering or shield)
 - **Position**: Correctly placed between "Amplitude" and "Aroused"
 - **New word count**: 19 words (previously 18)
 - **Status**: ✅ Maintained perfect alphabetical order
 
 ### Updated Word List for A.md:
+
 1. Abandon, 2. Acknowledge, 3. Adherence, 4. Adversary, 5. Adversity, 6. Advocate, 7. Aesthetic, 8. Alleviate, 9. Altruism, 10. Amassed, 11. Amplitude, 12. **Armor** (NEW), 13. Aroused, 14. Aspects, 15. Aspire, 16. Attain, 17. Authenticity, 18. Awareness, 19. Axiom
 
 ## Commands Used for Edits
