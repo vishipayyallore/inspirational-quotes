@@ -75,9 +75,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
-> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. Leaders are fallible; respectfully challenge when necessary.
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
 > 1. Networking is essential for career advancement.
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. Prioritize your well-being and energy; avoid burnout.
@@ -121,8 +121,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
-> 1. Greed is destructive. - Panchatantra -- **Here**
-> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
+> 1. Greed is destructive. - Panchatantra
+> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra -- **Here**
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
 
@@ -314,8 +314,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Motivation and Inspiration
 
-> 1. Try to be a rainbow in someone else's cloud. - Maya Angelou -- **Here**
-> 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett
+> 1. Try to be a rainbow in someone else's cloud. - Maya Angelou
+> 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett -- **Here**
 > 1. Start where you are. Use what you have. Do what you can. - Arthur Ashe
 
 ## Wisdom and Learning
