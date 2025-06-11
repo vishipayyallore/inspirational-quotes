@@ -2,9 +2,19 @@
 
 This file contains definitions and example usage for "C" words found in the inspirational quotes collection.
 
+## Canary
+
+**Meaning**: A small songbird, often kept as a pet; used metaphorically to refer to a warning signal.  
+**Usage**: "The canary in the coal mine is a metaphor for early warning signs." - Just as canaries were used to detect toxic gases, this phrase refers to indicators of potential danger.
+
+## Cater
+
+**Meaning**: To provide food and drink, typically at social events; to supply what is needed or required.  
+**Usage**: "The event was a success thanks to the caterers who provided delicious food." - Good catering can enhance the experience of any gathering.
+
 ## Charm
 
-**Meaning**: The power or quality of pleasing or delighting people; attractiveness.  
+**Meaning**: The power or quality of pleasing or delighting people; attractiveness.
 **Usage**: "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." - Don't be deceived by someone's pleasing or attractive manner.
 
 ## Clarity
@@ -12,9 +22,14 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The quality of being clear and easily understood; transparency.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Creative thinking requires a clear, uncluttered mind.
 
+## Coherent
+
+**Meaning**: Logical and consistent; forming a unified whole.  
+**Usage**: "A coherent argument is essential for effective persuasion." - To convince others, your reasoning must be clear and well-structured.
+
 ## Commitment
 
-**Meaning**: The state or quality of being dedicated to a cause or activity.  
+**Meaning**: The state or quality of being dedicated to a cause or activity.
 **Usage**: "Commitment is the foundation of success." - Dedication to a goal is essential for achieving it.
 
 ## Compassionate
