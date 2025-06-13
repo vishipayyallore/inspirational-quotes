@@ -96,18 +96,3 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: Occurring in cycles; recurring in a regular pattern.
 **Usage**: "Life is cyclical; what you put out into the world comes back to you." - The idea that actions have a way of returning to the source is a common theme in many philosophies.
-
-## Coherent
-
-**Meaning**: Logical and consistent; forming a unified whole.  
-**Usage**: "A coherent argument is essential for effective persuasion." - To convince others, your reasoning must be clear and well-structured.
-
-## Cater
-
-**Meaning**: To provide food and drink, typically at social events; to supply what is needed or required.  
-**Usage**: "The event was a success thanks to the caterers who provided delicious food." - Good catering can enhance the experience of any gathering.
-
-## Canary
-
-**Meaning**: A small songbird, often kept as a pet; used metaphorically to refer to a warning signal.  
-**Usage**: "The canary in the coal mine is a metaphor for early warning signs." - Just as canaries were used to detect toxic gases, this phrase refers to indicators of potential danger.
