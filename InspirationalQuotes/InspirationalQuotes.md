@@ -315,8 +315,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Motivation and Inspiration
 
 > 1. Try to be a rainbow in someone else's cloud. - Maya Angelou
-> 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett -- **Here**
-> 1. Start where you are. Use what you have. Do what you can. - Arthur Ashe
+> 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett
+> 1. Start where you are. Use what you have. Do what you can. - Arthur Ashe -- **Here**
 
 ## Wisdom and Learning
 
