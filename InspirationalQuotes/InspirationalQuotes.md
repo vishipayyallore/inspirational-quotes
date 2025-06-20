@@ -13,7 +13,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
-> 1. **Never** put too much trust in friends. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
@@ -25,7 +25,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
-> 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous -- **Here**
+> 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous
 
 ## Daily one
 
@@ -40,8 +40,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
-> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
@@ -62,8 +62,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
-> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous -- **Here**
-> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
+> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
+> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous -- **Here**
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
 > 1. **If you fail to plan**, you plan to fail. - Anonymous
 
@@ -77,9 +77,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Focus on developing skills, not clinging to job titles.
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. Leaders are fallible; respectfully challenge when necessary.
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous -- **Here**
 > 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
@@ -122,8 +122,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
-> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra -- **Here**
-> 1. A fool's ears are deaf to wisdom. - Panchatantra
+> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
+> 1. A fool's ears are deaf to wisdom. - Panchatantra -- **Here**
 > 1. Never advise fools. - Panchatantra
 
 ## Perseverance
@@ -316,16 +316,16 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Try to be a rainbow in someone else's cloud. - Maya Angelou
 > 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett
-> 1. Start where you are. Use what you have. Do what you can. - Arthur Ashe -- **Here**
+> 1. Start where you are. Use what you have. Do what you can. - Arthur Ashe
 
 ## Wisdom and Learning
 
-> 1. "The only true wisdom is in knowing you know nothing." - Socrates
-> 1. "An investment in knowledge pays the best interest." - Benjamin Franklin
-> 1. "The best teachers are those who show you where to look but Do not tell you what to see." - Alexandra K. Trenfor
-> 1. "Knowledge is power." - Francis Bacon
-> 1. "The more I read, the more I acquire, the more certain I am that I know nothing." - Voltaire
-> 1. "Learning never exhausts the mind." - Leonardo da Vinci
+> 1. The only true wisdom is in knowing you know nothing. - Socrates -- **Here**
+> 1. An investment in knowledge pays the best interest. - Benjamin Franklin
+> 1. The best teachers are those who show you where to look but Do not tell you what to see. - Alexandra K. Trenfor
+> 1. Knowledge is power. - Francis Bacon
+> 1. The more I read, the more I acquire, the more certain I am that I know nothing. - Voltaire
+> 1. Learning never exhausts the mind. - Leonardo da Vinci
 
 ## Empowerment and Self-Improvement
 
