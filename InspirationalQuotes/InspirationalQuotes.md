@@ -13,8 +13,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
-> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
-> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
@@ -41,8 +41,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessons
@@ -63,8 +63,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
-> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous -- **Here**
-> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
+> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
+> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous -- **Here**
 > 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
@@ -79,9 +79,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Leaders are fallible; respectfully challenge when necessary.
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous -- **Here**
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. Prioritize your well-being and energy; avoid burnout.
-> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
+> 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous -- **Here**
 > 1. Growth occurs outside your comfort zone.
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
@@ -123,8 +123,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
-> 1. A fool's ears are deaf to wisdom. - Panchatantra -- **Here**
-> 1. Never advise fools. - Panchatantra
+> 1. A fool's ears are deaf to wisdom. - Panchatantra
+> 1. Never advise fools. - Panchatantra -- **Here**
 
 ## Perseverance
 
@@ -320,8 +320,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Wisdom and Learning
 
-> 1. The only true wisdom is in knowing you know nothing. - Socrates -- **Here**
-> 1. An investment in knowledge pays the best interest. - Benjamin Franklin
+> 1. The only true wisdom is in knowing you know nothing. - Socrates
+> 1. An investment in knowledge pays the best interest. - Benjamin Franklin -- **Here**
 > 1. The best teachers are those who show you where to look but Do not tell you what to see. - Alexandra K. Trenfor
 > 1. Knowledge is power. - Francis Bacon
 > 1. The more I read, the more I acquire, the more certain I am that I know nothing. - Voltaire
