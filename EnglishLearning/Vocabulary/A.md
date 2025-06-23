@@ -101,3 +101,8 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
+
+## Akin
+
+**Meaning**: Similar or related in nature.
+**Usage**: "Her interests are akin to mine." - We share similar interests or characteristics.
