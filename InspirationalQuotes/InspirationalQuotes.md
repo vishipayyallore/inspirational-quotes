@@ -329,7 +329,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Empowerment and Self-Improvement
 
-> 1. "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett
 > 1. "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
 > 1. "Empower yourself with knowledge and self-belief." - Anonymous
 > 1. "The most common way people give up their power is by thinking they Do not have any." - Alice Walker
