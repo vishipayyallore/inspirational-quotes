@@ -15,8 +15,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never** outshine the Master. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
-> 1. **Always** say less than necessary. - Anonymous -- **Here**
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
@@ -29,7 +29,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
@@ -43,11 +43,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 
 ## Life Lessons
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
@@ -65,7 +65,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
-> 1. **If you fail to plan**, you plan to fail. - Anonymous -- **Here**
+> 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
 
@@ -83,9 +83,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. Growth occurs outside your comfort zone.
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
@@ -109,7 +109,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
@@ -124,7 +124,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
-> 1. Never advise fools. - Panchatantra -- **Here**
+> 1. Never advise fools. - Panchatantra
 
 ## Perseverance
 
@@ -322,8 +322,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. The only true wisdom is in knowing you know nothing. - Socrates
 > 1. An investment in knowledge pays the best interest. - Benjamin Franklin
-> 1. The best teachers are those who show you where to look but Do not tell you what to see. - Alexandra K. Trenfor -- **Here**
-> 1. Knowledge is power. - Francis Bacon
+> 1. The best teachers are those who show you where to look but Do not tell you what to see. - Alexandra K. Trenfor
+> 1. Knowledge is power. - Francis Bacon -- **Here**
 > 1. The more I read, the more I acquire, the more certain I am that I know nothing. - Voltaire
 > 1. Learning never exhausts the mind. - Leonardo da Vinci
 
