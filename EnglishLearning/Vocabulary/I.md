@@ -61,3 +61,13 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.  
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
+
+## Instigating
+
+**Meaning**: Causing or inciting an action or event.
+**Usage**: "Instigating change requires courage and determination." - Initiating transformation often demands bravery and resolve.
+
+## Inciting
+
+**Meaning**: Encouraging or stirring up (an action or feeling).
+**Usage**: "Inciting violence is a serious offense." - Provoking harmful actions can lead to severe consequences.
