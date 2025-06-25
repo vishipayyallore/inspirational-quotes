@@ -32,6 +32,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The range of different frequencies or wavelengths of a signal.
 **Usage**: "The spectrum of light visible to the human eye is just a small part of the electromagnetic spectrum." - The full range of light waves extends beyond what we can see.
 
+## Stochastic
+
+**Meaning**: Involving a random variable or process; characterized by randomness or probability.
+**Usage**: "Stochastic models are used in finance to predict market behavior." - These models incorporate randomness to simulate and analyze complex systems.
+
 ## Straying
 
 **Meaning**: Moving away from the correct path or direction; wandering.
@@ -51,8 +56,3 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A brief summary or general survey of a subject.
 **Usage**: "The synopsis of the book provided a clear overview of the main themes." - A summary can help readers quickly understand the key points of a text.
-
-## Stochastic
-
-**Meaning**: Involving a random variable or process; characterized by randomness or probability.
-**Usage**: "Stochastic models are used in finance to predict market behavior." - These models incorporate randomness to simulate and analyze complex systems.
