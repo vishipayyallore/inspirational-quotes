@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "O" words found in the inspirational quotes collection.
 
+## Obscured
+
+**Meaning**: Not clear or hard to perceive.  
+**Usage**: "The truth may be obscured by lies, but it will always find a way to shine through." - Honesty has a way of revealing itself, even when hidden.
+
 ## Obsess
 
 **Meaning**: Preoccupy or fill the mind of (someone) continually and to a troubling extent.  
@@ -21,8 +26,3 @@ This file contains definitions and example usage for "O" words found in the insp
 
 **Meaning**: To have a strong emotional effect on; to overpower or subdue.  
 **Usage**: "Do not let the mountain overwhelm you, think one step at a time." - Don't let large challenges paralyze you with their magnitude.
-
-## Obscured
-
-**Meaning**: Not clear or hard to perceive.  
-**Usage**: "The truth may be obscured by lies, but it will always find a way to shine through." - Honesty has a way of revealing itself, even when hidden.
