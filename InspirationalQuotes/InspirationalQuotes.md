@@ -16,8 +16,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
-> 1. **Court attention** at all costs. - Anonymous
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous -- **Here**
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
@@ -29,8 +29,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Daily one
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
@@ -47,8 +47,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life Lessons
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
@@ -85,9 +85,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Growth occurs outside your comfort zone.
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous -- **Here**
 > 1. Prioritize progress over perfection; done is better than perfect.
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
@@ -109,8 +109,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
-> 1. Courage is essential for overcoming life's challenges. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Courage is essential for overcoming life's challenges. - Panchatantra -- **Here**
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
@@ -323,8 +323,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The only true wisdom is in knowing you know nothing. - Socrates
 > 1. An investment in knowledge pays the best interest. - Benjamin Franklin
 > 1. The best teachers are those who show you where to look but Do not tell you what to see. - Alexandra K. Trenfor
-> 1. Knowledge is power. - Francis Bacon -- **Here**
-> 1. The more I read, the more I acquire, the more certain I am that I know nothing. - Voltaire
+> 1. Knowledge is power. - Francis Bacon
+> 1. The more I read, the more I acquire, the more certain I am that I know nothing. - Voltaire -- **Here**
 > 1. Learning never exhausts the mind. - Leonardo da Vinci
 
 ## Empowerment and Self-Improvement
