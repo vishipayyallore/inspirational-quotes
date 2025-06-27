@@ -12,6 +12,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: About to happen; impending.
 **Usage**: "The storm is imminent." - The storm is about to occur soon.
 
+## Inciting
+
+**Meaning**: Encouraging or stirring up (an action or feeling).
+**Usage**: "Inciting violence is a serious offense." - Provoking harmful actions can lead to severe consequences.
+
 ## Indignation
 
 **Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
@@ -31,6 +36,11 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: The ability to assess and initiate things independently; the power or opportunity to act before others do.  
 **Usage**: "Action and Initiative" - Taking the first step without being prompted.
+
+## Instigating
+
+**Meaning**: Causing or inciting an action or event.
+**Usage**: "Instigating change requires courage and determination." - Initiating transformation often demands bravery and resolve.
 
 ## Instincts
 
@@ -61,13 +71,3 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.  
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
-
-## Instigating
-
-**Meaning**: Causing or inciting an action or event.
-**Usage**: "Instigating change requires courage and determination." - Initiating transformation often demands bravery and resolve.
-
-## Inciting
-
-**Meaning**: Encouraging or stirring up (an action or feeling).
-**Usage**: "Inciting violence is a serious offense." - Provoking harmful actions can lead to severe consequences.
