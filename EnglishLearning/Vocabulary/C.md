@@ -47,6 +47,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The feeling or belief that one can rely on someone or something; firm trust.  
 **Usage**: "Confidence is not 'they will like me.' Confidence is 'I’ll be fine if they don’t.'" - True confidence comes from self-assurance, not from seeking approval from others.
 
+## Conduit
+
+**Meaning**: A channel for conveying water or other fluid; a means of transmitting or distributing something.  
+**Usage**: "The internet is a conduit for information and ideas." - Modern technology serves as a vital channel for sharing knowledge and creativity.
+
 ## Congenial
 
 **Meaning**: Pleasant or agreeable because suited to one's nature or tastes; having a friendly, sociable disposition.  
