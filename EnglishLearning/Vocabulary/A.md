@@ -111,3 +111,8 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
+
+## Advent
+
+**Meaning**: The arrival or beginning of something significant.
+**Usage**: "The advent of technology has transformed communication." - The introduction of technology has changed the way we interact.
