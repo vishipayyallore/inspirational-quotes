@@ -42,15 +42,15 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Including all or nearly all elements or aspects of something.  
 **Usage**: "A comprehensive understanding of a subject is essential for mastery." - To truly master a topic, one must understand all its aspects.
 
-## Confidence
-
-**Meaning**: The feeling or belief that one can rely on someone or something; firm trust.  
-**Usage**: "Confidence is not 'they will like me.' Confidence is 'I’ll be fine if they don’t.'" - True confidence comes from self-assurance, not from seeking approval from others.
-
 ## Conduit
 
 **Meaning**: A channel for conveying water or other fluid; a means of transmitting or distributing something.  
 **Usage**: "The internet is a conduit for information and ideas." - Modern technology serves as a vital channel for sharing knowledge and creativity.
+
+## Confidence
+
+**Meaning**: The feeling or belief that one can rely on someone or something; firm trust.  
+**Usage**: "Confidence is not 'they will like me.' Confidence is 'I'll be fine if they don't.'" - True confidence comes from self-assurance, not from seeking approval from others.
 
 ## Congenial
 
