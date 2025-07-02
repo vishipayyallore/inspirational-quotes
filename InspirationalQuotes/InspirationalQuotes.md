@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
-> 1. **Court attention** at all costs. - Anonymous -- **Here**
-> 1. **Win through your actions**, never through argument. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous
+> 1. **Win through your actions**, never through argument. - Anonymous -- **Here**
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
