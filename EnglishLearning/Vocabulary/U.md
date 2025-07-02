@@ -12,6 +12,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Causing or feeling slight pain or physical discomfort; feeling uneasy or awkward.
 **Usage**: "If you're not uncomfortable, you're not growing." - Growth requires stepping outside your comfort zone and experiencing discomfort.
 
+## Underestimating
+
+**Meaning**: To estimate something as being smaller or less important than it actually is.
+**Usage**: "There is no greater danger than underestimating your opponent." - Failing to properly assess your competition can lead to serious mistakes.
+
 ## Understand
 
 **Meaning**: To perceive the intended meaning of something; to comprehend.
@@ -21,11 +26,6 @@ This file contains definitions and example usage for "U" words found in the insp
 
 **Meaning**: The ability to comprehend something; sympathetic awareness or tolerance.
 **Usage**: "A comprehensive understanding of a subject is essential for mastery." - Deep comprehension of all aspects is necessary to truly master something.
-
-## Underestimating
-
-**Meaning**: To estimate something as being smaller or less important than it actually is.
-**Usage**: "There is no greater danger than underestimating your opponent." - Failing to properly assess your competition can lead to serious mistakes.
 
 ## Unexamined
 
@@ -57,12 +57,12 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Not particularly interesting or surprising; ordinary.
 **Usage**: "Transformations come from daily, unremarkable steps that no one else sees." - Significant changes often result from small, ordinary actions repeated consistently.
 
-## Usual
-
-**Meaning**: Habitually or typically occurring or done; customary.
-**Usage**: "If you are not willing to risk the usual, you will have to settle for the ordinary." - To achieve extraordinary results, you must be willing to step away from conventional approaches.
-
 ## Ushered
 
 **Meaning**: To guide or escort someone to a particular place; to introduce or initiate.
 **Usage**: "The new policies ushered in a wave of change within the organization." - The implementation of new policies marked the beginning of significant transformations in the organization.
+
+## Usual
+
+**Meaning**: Habitually or typically occurring or done; customary.
+**Usage**: "If you are not willing to risk the usual, you will have to settle for the ordinary." - To achieve extraordinary results, you must be willing to step away from conventional approaches.
