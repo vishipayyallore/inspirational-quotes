@@ -101,3 +101,18 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: Occurring in cycles; recurring in a regular pattern.
 **Usage**: "Life is cyclical; what you put out into the world comes back to you." - The idea that actions have a way of returning to the source is a common theme in many philosophies.
+
+## Cynicism
+
+**Meaning**: An inclination to believe that people are motivated purely by self-interest; skepticism.
+**Usage**: "Cynicism can cloud your judgment and prevent you from seeing the good in others." - Doubting people's intentions can lead to a negative outlook on life.
+
+## Contemporary
+
+**Meaning**: Belonging to or occurring in the present.
+**Usage**: "Contemporary art challenges traditional boundaries." - Modern art often pushes against established norms and conventions.
+
+## Conundrum
+
+**Meaning**: A confusing and difficult problem or question.
+**Usage**: "Finding a solution to the conundrum required creative thinking." - Tackling a complex issue often demands innovative approaches.

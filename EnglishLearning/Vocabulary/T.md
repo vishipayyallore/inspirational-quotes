@@ -46,3 +46,8 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: Exercising power in a cruel or arbitrary way.  
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
+
+## Trivial
+
+**Meaning**: Of little value or importance.
+**Usage**: "Don't sweat the trivial things in life." - Avoid getting upset over minor issues that don't really matter.
