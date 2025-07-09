@@ -116,3 +116,8 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: A confusing and difficult problem or question.
 **Usage**: "Finding a solution to the conundrum required creative thinking." - Tackling a complex issue often demands innovative approaches.
+
+## Corpora
+
+**Meaning**: Large collections of written or spoken texts used for linguistic research and analysis.
+**Usage**: "Linguists analyze corpora to understand language patterns and usage." - Studying extensive text collections helps researchers gain insights into language.
