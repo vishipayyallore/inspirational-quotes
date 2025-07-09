@@ -46,3 +46,8 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Deceitfulness; double-dealing or being two-faced.  
 **Usage**: "Duplicity is a trait often found in those who seek personal gain at the expense of others." - Dishonesty can manifest in various forms, including betrayal and deceit.
+
+## Daunting
+
+**Meaning**: Intimidating or discouraging; seeming difficult to deal with in prospect.  
+**Usage**: "The prospect of starting a new job can be daunting." - New challenges can often feel overwhelming at first.
