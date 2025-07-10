@@ -62,10 +62,25 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The quality of always behaving in the same way or of having the same opinions, standard, etc.  
 **Usage**: "Success does not come from what you do occasionally, it comes from what you do consistently." - Achievement comes from regular, persistent effort, not occasional bursts.
 
+## Contemporary
+
+**Meaning**: Belonging to or occurring in the present.
+**Usage**: "Contemporary art challenges traditional boundaries." - Modern art often pushes against established norms and conventions.
+
+## Conundrum
+
+**Meaning**: A confusing and difficult problem or question.
+**Usage**: "Finding a solution to the conundrum required creative thinking." - Tackling a complex issue often demands innovative approaches.
+
 ## Convolution
 
 **Meaning**: A mathematical operation that combines two functions to produce a third function.  
 **Usage**: "Convolution is a key operation in many signal processing applications." - This technique is fundamental in analyzing and manipulating signals.
+
+## Corpora
+
+**Meaning**: Large collections of written or spoken texts used for linguistic research and analysis.
+**Usage**: "Linguists analyze corpora to understand language patterns and usage." - Studying extensive text collections helps researchers gain insights into language.
 
 ## Courage
 
@@ -106,13 +121,3 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: An inclination to believe that people are motivated purely by self-interest; skepticism.
 **Usage**: "Cynicism can cloud your judgment and prevent you from seeing the good in others." - Doubting people's intentions can lead to a negative outlook on life.
-
-## Contemporary
-
-**Meaning**: Belonging to or occurring in the present.
-**Usage**: "Contemporary art challenges traditional boundaries." - Modern art often pushes against established norms and conventions.
-
-## Conundrum
-
-**Meaning**: A confusing and difficult problem or question.
-**Usage**: "Finding a solution to the conundrum required creative thinking." - Tackling a complex issue often demands innovative approaches.

@@ -42,6 +42,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Moving away from the correct path or direction; wandering.
 **Usage**: "Straying from your goals can lead to confusion and lack of purpose." - Losing focus on your objectives can create uncertainty in your life.
 
+## Subtleties
+
+**Meaning**: The fine or delicate details or nuances of something.
+**Usage**: "Understanding the subtleties of a language can greatly enhance communication." - Grasping the small details can improve how we express and interpret meaning.
+
 ## Swindler
 
 **Meaning**: A person who defrauds others by trickery.  
@@ -56,8 +61,3 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A brief summary or general survey of a subject.
 **Usage**: "The synopsis of the book provided a clear overview of the main themes." - A summary can help readers quickly understand the key points of a text.
-
-## Subtleties
-
-**Meaning**: The fine or delicate details or nuances of something.
-**Usage**: "Understanding the subtleties of a language can greatly enhance communication." - Grasping the small details can improve how we express and interpret meaning.
