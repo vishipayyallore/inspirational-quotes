@@ -26,3 +26,8 @@ This file contains definitions and example usage for "O" words found in the insp
 
 **Meaning**: To have a strong emotional effect on; to overpower or subdue.  
 **Usage**: "Do not let the mountain overwhelm you, think one step at a time." - Don't let large challenges paralyze you with their magnitude.
+
+## Ostentatiously
+
+**Meaning**: In a pretentious or showy way designed to impress.
+**Usage**: "He ostentatiously displayed his wealth, but true success is quiet and humble." - Flaunting riches often detracts from genuine achievement.
