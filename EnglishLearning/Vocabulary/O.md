@@ -17,6 +17,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Hopeful and confident about the future.  
 **Usage**: "Choose to be optimistic; it feels better." - Deciding to have a positive outlook improves your experience.
 
+## Ostentatiously
+
+**Meaning**: In a pretentious or showy way designed to impress.
+**Usage**: "He ostentatiously displayed his wealth, but true success is quiet and humble." - Flaunting riches often detracts from genuine achievement.
+
 ## Overawe
 
 **Meaning**: To impress (someone) so much that they are silent or inhibited.
@@ -26,8 +31,3 @@ This file contains definitions and example usage for "O" words found in the insp
 
 **Meaning**: To have a strong emotional effect on; to overpower or subdue.  
 **Usage**: "Do not let the mountain overwhelm you, think one step at a time." - Don't let large challenges paralyze you with their magnitude.
-
-## Ostentatiously
-
-**Meaning**: In a pretentious or showy way designed to impress.
-**Usage**: "He ostentatiously displayed his wealth, but true success is quiet and humble." - Flaunting riches often detracts from genuine achievement.

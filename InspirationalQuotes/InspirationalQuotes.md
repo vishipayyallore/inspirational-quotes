@@ -12,9 +12,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Power and Influence Wisdom
 
-> 1. **Never** outshine the Master. - Anonymous -- **Here**
+> 1. **Never** outshine the Master. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
-> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
@@ -30,8 +30,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily one
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -87,9 +87,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. Focus on making an impact, not on being irreplaceable.
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous -- **Here**
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. Prioritize progress over perfection; done is better than perfect.
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
 > 1. Career paths are rarely linear; embrace detours and pivots.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
