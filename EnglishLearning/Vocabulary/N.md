@@ -16,3 +16,8 @@ This file contains definitions and example usage for "N" words found in the insp
 
 **Meaning**: Subtle differences or distinctions in meaning, expression, or response.
 **Usage**: "The nuances of human behavior can be difficult to interpret." - Small variations in actions or words can significantly change their meaning.
+
+## Nudge
+
+**Meaning**: A gentle push or encouragement to prompt someone to take a specific action.
+**Usage**: "Sometimes, all it takes is a nudge from a friend to pursue your dreams." - A little encouragement can motivate you to follow your aspirations.
