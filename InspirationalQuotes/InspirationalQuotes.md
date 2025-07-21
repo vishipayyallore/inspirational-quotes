@@ -16,8 +16,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
-> 1. **Court attention** at all costs. - Anonymous
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous -- **Here**
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
@@ -33,8 +33,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
@@ -49,8 +49,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -91,9 +91,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Prioritize progress over perfection; done is better than perfect.
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. Career paths are rarely linear; embrace detours and pivots.
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous -- **Here**
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. Take ownership of your career; proactively pursue opportunities.
-> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
+> 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous -- **Here**
 > 1. Great leaders inspire and motivate.
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. Financial security can significantly improve your life.
@@ -111,8 +111,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
-> 1. Be wary of the sweet words of a swindler. - Panchatantra -- **Here**
-> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Be wary of the sweet words of a swindler. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
@@ -325,11 +325,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The best teachers are those who show you where to look but Do not tell you what to see. - Alexandra K. Trenfor
 > 1. Knowledge is power. - Francis Bacon
 > 1. The more I read, the more I acquire, the more certain I am that I know nothing. - Voltaire
-> 1. Learning never exhausts the mind. - Leonardo da Vinci -- **Here**
+> 1. Learning never exhausts the mind. - Leonardo da Vinci
 
 ## Empowerment and Self-Improvement
 
-> 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett
+> 1. Success is not how high you have climbed, but how you make a positive difference to the world. - Roy T. Bennett -- **Here**
 > 1. "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't." - Rikki Rogers
 > 1. "Empower yourself with knowledge and self-belief." - Anonymous
 > 1. "The most common way people give up their power is by thinking they Do not have any." - Alice Walker
