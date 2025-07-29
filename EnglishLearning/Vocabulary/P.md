@@ -81,3 +81,13 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: To follow or chase with the intent to catch or achieve.  
 **Usage**: "Pursue your passions relentlessly." - Follow what you love with determination and dedication.
+
+## Permeated
+
+**Meaning**: Spread throughout something; pervaded.
+**Usage**: "The aroma of fresh coffee permeated the room." - The smell of coffee filled the entire space.
+
+## Pervaded
+
+**Meaning**: Spread throughout something; pervaded.
+**Usage**: "The influence of technology has pervaded every aspect of our lives." - Technology has infiltrated and affected all areas of life.

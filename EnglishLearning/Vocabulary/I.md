@@ -71,3 +71,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.  
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
+
+## Imbued
+
+**Meaning**: Inspired or permeated with a feeling or quality.
+**Usage**: "Her speech was imbued with passion." - Her words were filled with strong emotion.
