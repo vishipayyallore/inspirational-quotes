@@ -76,3 +76,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Inspired or permeated with a feeling or quality.
 **Usage**: "Her speech was imbued with passion." - Her words were filled with strong emotion.
+
+## Indistinguishable
+
+**Meaning**: Not able to be identified as different or distinct; identical.
+**Usage**: "The two paintings were indistinguishable from each other." - The artworks were so similar that they could not be told apart.
