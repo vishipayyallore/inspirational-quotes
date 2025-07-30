@@ -51,3 +51,8 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Intimidating or discouraging; seeming difficult to deal with in prospect.  
 **Usage**: "The prospect of starting a new job can be daunting." - New challenges can often feel overwhelming at first.
+
+## Deciphering
+
+**Meaning**: To make sense of something that is difficult to understand; to interpret.
+**Usage**: "Deciphering complex texts requires patience and skill." - Understanding challenging material often takes time and effort.
