@@ -2,14 +2,19 @@
 
 This file contains definitions and example usage for "R" words found in the inspirational quotes collection.
 
+## Ratted
+
+**Meaning**: To inform on someone; to betray a trust.
+**Usage**: "He ratted on his friends to save himself." - Betraying others can lead to a loss of trust and respect.
+
 ## Reciprocate
 
-**Meaning**: Respond to an action or gesture by making a corresponding one.  
+**Meaning**: Respond to an action or gesture by making a corresponding one.
 **Usage**: "Value those who appreciate your efforts and reciprocate kindness." - Cherish relationships where good deeds are returned in kind.
 
 ## Reinforcing
 
-**Meaning**: Strengthening or supporting an idea, behavior, or structure.  
+**Meaning**: Strengthening or supporting an idea, behavior, or structure.
 **Usage**: "Positive feedback is crucial for reinforcing good behavior." - Encouragement helps to strengthen and maintain desired actions.
 
 ## Rejuvenate
@@ -34,12 +39,12 @@ This file contains definitions and example usage for "R" words found in the insp
 
 ## Resentful
 
-**Meaning**: Feeling or expressing bitterness or indignation at having been treated unfairly.  
+**Meaning**: Feeling or expressing bitterness or indignation at having been treated unfairly.
 **Usage**: "Resentful people often fail to see the good in others." - Those who harbor bitterness may overlook the positive qualities in people around them.
 
 ## Resilience
 
-**Meaning**: The capacity to recover quickly from difficulties; toughness.  
+**Meaning**: The capacity to recover quickly from difficulties; toughness.
 **Usage**: "Resilience is not about overcoming, it is about becoming." - True strength isn't just surviving challenges but growing through them.
 
 ## Resonate
@@ -49,7 +54,7 @@ This file contains definitions and example usage for "R" words found in the insp
 
 ## Restraint
 
-**Meaning**: Self-control; holding back from doing something.  
+**Meaning**: Self-control; holding back from doing something.
 **Usage**: "True power is restraint." - Real strength is shown by controlling your reactions, not by impulsively responding.
 
 ## Retain
@@ -66,8 +71,3 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
 **Usage**: "Mastering rhetoric can enhance your communication skills." - Understanding persuasive language can improve how you convey ideas.
-
-## Ratted
-
-**Meaning**: To inform on someone; to betray a trust.
-**Usage**: "He ratted on his friends to save himself." - Betraying others can lead to a loss of trust and respect.
