@@ -4,17 +4,17 @@ This file contains definitions and example usage for "F" words found in the insp
 
 ## Fabricate
 
-**Meaning**: To invent or concoct something, typically with deceitful intent.  
+**Meaning**: To invent or concoct something, typically with deceitful intent.
 **Usage**: "He had to fabricate a story to explain his absence." - Sometimes people create false narratives to cover up the truth.
 
 ## Facets
 
-**Meaning**: A particular aspect or feature of something.  
+**Meaning**: A particular aspect or feature of something.
 **Usage**: "Life has many facets, and each one is a lesson." - Life is complex, and every experience teaches us something.
 
 ## Fallible
 
-**Meaning**: Capable of making mistakes or being wrong.  
+**Meaning**: Capable of making mistakes or being wrong.
 **Usage**: "Leaders are fallible; respectfully challenge when necessary." - Even those in authority can be wrong sometimes.
 
 ## Fictitious
@@ -24,20 +24,20 @@ This file contains definitions and example usage for "F" words found in the insp
 
 ## Flattery
 
-**Meaning**: Excessive and insincere praise, given especially to further one's own interests.  
+**Meaning**: Excessive and insincere praise, given especially to further one's own interests.
 **Usage**: "Trust comes from consistency in actions, not charm or flattery." - Don't trust someone just because they say nice things about you.
+
+## Flaunt
+
+**Meaning**: To show off something ostentatiously.
+**Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
 
 ## Fuse
 
-**Meaning**: To join or blend together.  
+**Meaning**: To join or blend together.
 **Usage**: "Fuse your passion with your purpose." - Combine what you love with what you are meant to do.
 
 ## Fusion
 
-**Meaning**: The process of combining two or more things into one.  
+**Meaning**: The process of combining two or more things into one.
 **Usage**: "The fusion of ideas can lead to innovation." - When different concepts come together, they can create something new and exciting.
-
-## Flaunt
-
-**Meaning**: To show off something ostentatiously.  
-**Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.

@@ -37,15 +37,15 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: Lasting only for a short time; impermanent.
 **Usage**: "Balance is transient, and you should seek experiences that contribute to an exciting and fulfilling life." - Perfect equilibrium is temporary, so focus on meaningful experiences.
 
-## Trivial
-
-**Meaning**: Of little value or importance.
-**Usage**: "Don't sweat the trivial things in life." - Avoid getting upset over minor issues that don't really matter.
-
 ## Triumph
 
 **Meaning**: A great victory or achievement.
 **Usage**: "Courage is not the absence of fear, but the triumph over it." - Bravery isn't being fearless; it's acting despite your fears.
+
+## Trivial
+
+**Meaning**: Of little value or importance.
+**Usage**: "Don't sweat the trivial things in life." - Avoid getting upset over minor issues that don't really matter.
 
 ## Tyrannical
 
