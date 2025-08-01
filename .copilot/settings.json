@@ -1,0 +1,109 @@
+{
+    // GitHub Copilot Configuration for Inspirational Quotes & English Learning Project
+    // Enable GitHub Copilot
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "yaml": false,
+        "yml": false
+    },
+    // Copilot Chat Settings
+    "github.copilot.chat.enable": true,
+    "github.copilot.chat.welcomeMessage": "never",
+    // Editor Integration
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github.copilot.editor.enableCodeActions": true,
+    // Inline Suggestions
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.showToolbar": "onHover",
+    // Project-Specific Settings for Educational Content
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.formatOnSave": true,
+        "editor.rulers": [
+            80,
+            120
+        ],
+        "files.trimTrailingWhitespace": true,
+        "files.insertFinalNewline": true,
+        "github.copilot.enable": true
+    },
+    // Workspace-specific file associations
+    "files.associations": {
+        "*.md": "markdown",
+        "copilot-instructions.md": "markdown"
+    },
+    // Enhanced markdown support for vocabulary files
+    "markdown.extension.orderedList.marker": "ordered",
+    "markdown.extension.list.indentationSize": "adaptive",
+    "markdown.extension.tableFormatter.enabled": true,
+    // Search and replace settings for vocabulary maintenance
+    "search.useIgnoreFiles": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/.git": true
+    },
+    // File Explorer settings
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.md": "${capture}.backup.md"
+    },
+    // Git integration
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    // Terminal settings for PowerShell verification commands
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell",
+            "args": [
+                "-NoExit"
+            ]
+        }
+    },
+    // Spell checking for educational content
+    "cSpell.enabled": true,
+    "cSpell.language": "en",
+    "cSpell.words": [
+        "Copilot",
+        "GitHub",
+        "inspirational",
+        "learners",
+        "vishipayyallore",
+        "swamy",
+        "vocab",
+        "anecdotes",
+        "axiom",
+        "altruism",
+        "adversity",
+        "resilience",
+        "authenticity"
+    ],
+    // Custom file icon theme for better organization
+    "workbench.iconTheme": "vscode-icons",
+    // Problems panel configuration
+    "problems.showCurrentInStatus": true,
+    // Breadcrumbs for better navigation
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.filePath": "on",
+    // Auto-save for safer editing
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    // Minimap settings for long vocabulary files
+    "editor.minimap.enabled": true,
+    "editor.minimap.showSlider": "always",
+    // Outline view for markdown structure
+    "outline.showProperties": true,
+    "outline.showModules": true,
+    // GitHub Copilot Labs (if available)
+    "github.copilot.advanced": {
+        "length": 500,
+        "temperature": 0.1,
+        "top_p": 1,
+        "inlineSuggestCount": 3
+    }
+}

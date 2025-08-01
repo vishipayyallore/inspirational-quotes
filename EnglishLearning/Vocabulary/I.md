@@ -7,6 +7,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: To explain or make something clear by using examples, charts, or pictures.
 **Usage**: "The teacher used diagrams to illustrate the complex concept." - Visual aids can help clarify difficult ideas.
 
+## Imbued
+
+**Meaning**: Inspired or permeated with a feeling or quality.
+**Usage**: "Her speech was imbued with passion." - Her words were filled with strong emotion.
+
 ## Imminent
 
 **Meaning**: About to happen; impending.
@@ -22,9 +27,14 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
 **Usage**: "Indignation is a form of self-righteousness." - Feeling angry about perceived injustice can stem from a sense of moral superiority.
 
+## Indistinguishable
+
+**Meaning**: Not able to be identified as different or distinct; identical.
+**Usage**: "The two paintings were indistinguishable from each other." - The artworks were so similar that they could not be told apart.
+
 ## Inevitable
 
-**Meaning**: Certain to happen; unavoidable.  
+**Meaning**: Certain to happen; unavoidable.
 **Usage**: "Greed inevitably leads to misery." - Excessive desire for wealth will certainly cause unhappiness.
 
 ## Ingest
@@ -34,7 +44,7 @@ This file contains definitions and example usage for "I" words found in the insp
 
 ## Initiative
 
-**Meaning**: The ability to assess and initiate things independently; the power or opportunity to act before others do.  
+**Meaning**: The ability to assess and initiate things independently; the power or opportunity to act before others do.
 **Usage**: "Action and Initiative" - Taking the first step without being prompted.
 
 ## Instigating
@@ -49,7 +59,7 @@ This file contains definitions and example usage for "I" words found in the insp
 
 ## Integrity
 
-**Meaning**: The quality of being honest and having strong moral principles.  
+**Meaning**: The quality of being honest and having strong moral principles.
 **Usage**: "Give your word with care, and keep it with honor." - Make promises thoughtfully and fulfill them with integrity.
 
 ## Intimidate
@@ -69,15 +79,5 @@ This file contains definitions and example usage for "I" words found in the insp
 
 ## Irreplaceable
 
-**Meaning**: Not able to be replaced; unique.  
+**Meaning**: Not able to be replaced; unique.
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
-
-## Imbued
-
-**Meaning**: Inspired or permeated with a feeling or quality.
-**Usage**: "Her speech was imbued with passion." - Her words were filled with strong emotion.
-
-## Indistinguishable
-
-**Meaning**: Not able to be identified as different or distinct; identical.
-**Usage**: "The two paintings were indistinguishable from each other." - The artworks were so similar that they could not be told apart.
