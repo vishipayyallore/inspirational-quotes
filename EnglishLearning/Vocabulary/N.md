@@ -2,6 +2,13 @@
 
 This file contains definitions and example usage for "N" words found in the inspirational quotes collection.
 
+<!-- Add vocabulary words here following the format:
+## WordName
+
+**Meaning**: Clear, concise definition of the word.
+**Usage**: "Quote or example sentence." - Explanation of the usage context.
+-->
+
 ## Neutralize
 
 **Meaning**: Render ineffective or harmless by applying an opposite force or effect.  
