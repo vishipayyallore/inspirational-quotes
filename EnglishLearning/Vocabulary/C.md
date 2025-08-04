@@ -2,6 +2,13 @@
 
 This file contains definitions and example usage for "C" words found in the inspirational quotes collection.
 
+<!-- Add vocabulary words here following the format:
+## WordName
+
+**Meaning**: Clear, concise definition of the word.
+**Usage**: "Quote or example sentence." - Explanation of the usage context.
+-->
+
 ## Canary
 
 **Meaning**: A small songbird, often kept as a pet; used metaphorically to refer to a warning signal.  
