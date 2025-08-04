@@ -2,6 +2,11 @@
 
 This file contains definitions and example usage for "S" words found in the inspirational quotes collection.
 
+## Salient
+
+**Meaning**: Most noticeable or important.
+**Usage**: "The salient features of the landscape were highlighted in the painting." - The most prominent aspects were emphasized in the artwork.
+
 ## Semantic
 
 **Meaning**: Relating to meaning in language or logic.
@@ -61,8 +66,3 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A brief summary or general survey of a subject.
 **Usage**: "The synopsis of the book provided a clear overview of the main themes." - A summary can help readers quickly understand the key points of a text.
-
-## Salient
-
-**Meaning**: Most noticeable or important.
-**Usage**: "The salient features of the landscape were highlighted in the painting." - The most prominent aspects were emphasized in the artwork.
