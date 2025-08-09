@@ -941,3 +941,43 @@ Write-Host "All $correctCount vocabulary files are now in perfect alphabetical o
 6. **Documented complete process** for future reference and maintenance
 
 The inspirational quotes vocabulary collection is now PERFECTLY organized with all 170 vocabulary words across 20 files in complete alphabetical order, ready for optimal English learning and reference!
+
+## August 9, 2025 - Quick Re-Verification and Minor Fixes
+
+### Summary (Aug 9)
+
+- Scope: Re-verified alphabetical order across all A–Z vocabulary files.
+- Changes made: Fixed ordering in two files.
+        - I.md: Moved "Irreplaceable" after "Intricate" (Intricate < Irreplaceable).
+        - P.md: Moved "Proliferation" next to "Proactive" (Proactive < Proliferation < Prominent).
+
+### Command used
+
+```powershell
+cd "D:\GitHub\inspirational-quotes\EnglishLearning\Vocabulary"
+$files = Get-ChildItem -Name "*.md" | Where-Object { $_ -match '^[A-Z]\.md$' } | Sort-Object
+foreach ($f in $files) {
+    $words = Get-Content $f | Select-String '^## ' | ForEach-Object { $_.ToString().Substring(3).Trim() } | Where-Object { $_ -ne 'WordName' }
+    if ($words.Count -gt 0) {
+        $ok = (($words -join '|') -eq (($words | Sort-Object) -join '|'))
+        Write-Host ("{0,-6} {1,3} words  {2}" -f $f, $words.Count, $(if($ok){'ORDERED ✅'}else{'NOT ORDERED ❌'}))
+        if (-not $ok) {
+            Write-Host "Current:  $($words -join ', ')"
+            Write-Host "Expected: $(($words | Sort-Object) -join ', ')"
+        }
+    } else {
+        Write-Host ("{0,-6} {1,3} words  {2}" -f $f, $words.Count, 'EMPTY (ok) 📝')
+    }
+}
+```
+
+### Results
+
+- All files now ORDERED ✅
+- Files with content verified include: A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, R, S, T, U, V, W
+- Empty/placeholder files (with template only): J, Q, X, Y, Z
+
+### Notes
+
+- Excluded the template heading "WordName" from checks.
+- Logged fixes for traceability.
