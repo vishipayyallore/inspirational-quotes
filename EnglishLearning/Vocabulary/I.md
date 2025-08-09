@@ -88,3 +88,13 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
+
+## Intricacies
+
+**Meaning**: The quality of being intricate; complex details or elements.
+**Usage**: "The intricacies of the plot kept the readers engaged." - The complex details of the story made it interesting.
+
+## Intricate
+
+**Meaning**: Very detailed and complicated.
+**Usage**: "The intricate design of the jewelry was breathtaking." - The complex and detailed patterns in the jewelry were stunning.
