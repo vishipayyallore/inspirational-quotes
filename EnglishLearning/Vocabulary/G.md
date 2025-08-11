@@ -18,3 +18,8 @@ This file contains definitions and example usage for "G" words found in the insp
 
 **Meaning**: To understand something intuitively or thoroughly.
 **Usage**: "To grok is to understand something so thoroughly that it becomes a part of you." - This term emphasizes deep, intuitive understanding beyond surface knowledge.
+
+## Garnered
+
+**Meaning**: To gather or collect something, especially information or approval.
+**Usage**: "She garnered support from her peers for the project." - This indicates that she collected or received support from others.

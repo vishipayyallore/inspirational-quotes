@@ -28,3 +28,13 @@ This file contains definitions and example usage for "V" words found in the insp
 
 **Meaning**: Mental sharpness and inventiveness; keen intelligence.
 **Usage**: "Vision can overcome even the most powerful adversaries." - Clever thinking can defeat even strong opponents.
+
+## Vivid
+
+**Meaning**: Producing powerful feelings or strong, clear images in the mind.
+**Usage**: "The author's vivid descriptions brought the story to life." - The detailed and colorful language used in the writing created a strong mental picture for the reader.
+
+## Vividly
+
+**Meaning**: In a way that produces powerful feelings or strong, clear images in the mind.
+**Usage**: "She vividly remembers the day they met." - This emphasizes the clarity and intensity of her memory.

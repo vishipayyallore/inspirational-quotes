@@ -84,11 +84,6 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Instinctive; having a natural ability to understand or know something without any direct evidence or reasoning process.
 **Usage**: "Trust your intuitive feelings." - Rely on your gut instincts to guide you.
 
-## Irreplaceable
-
-**Meaning**: Not able to be replaced; unique.
-**Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
-
 ## Intricacies
 
 **Meaning**: The quality of being intricate; complex details or elements.
@@ -98,3 +93,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Very detailed and complicated.
 **Usage**: "The intricate design of the jewelry was breathtaking." - The complex and detailed patterns in the jewelry were stunning.
+
+## Irreplaceable
+
+**Meaning**: Not able to be replaced; unique.
+**Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
