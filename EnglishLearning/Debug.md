@@ -948,6 +948,7 @@ The inspirational quotes vocabulary collection is now PERFECTLY organized with a
 
 - Re-verified A–Z files for alphabetical ordering (excluding the template heading "WordName").
 - Fixed G.md ordering by moving "Garnered" above "Gratitude" and "Grok".
+- Fixed P.md ordering by moving "Perpetuate" after "Permeated" and before "Perpetuation".
 - Rechecked impacted file after fix; all ordered ✅.
 
 ### Quick check (per-file)
