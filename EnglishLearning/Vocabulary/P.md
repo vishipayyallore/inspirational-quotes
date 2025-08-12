@@ -103,3 +103,8 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: To follow or chase with the intent to catch or achieve.
 **Usage**: "Pursue your passions relentlessly." - Follow what you love with determination and dedication.
+
+## Perpetuate
+
+**Meaning**: To make something continue indefinitely; to preserve from extinction or oblivion.
+**Usage**: "We must perpetuate the values of kindness and empathy." - This emphasizes the importance of ensuring these values endure over time.
