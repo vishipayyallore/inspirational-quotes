@@ -942,6 +942,27 @@ Write-Host "All $correctCount vocabulary files are now in perfect alphabetical o
 
 The inspirational quotes vocabulary collection is now PERFECTLY organized with all 170 vocabulary words across 20 files in complete alphabetical order, ready for optimal English learning and reference!
 
+## August 12, 2025 - Verification and Minor Adjustment
+
+### Summary (Aug 12)
+
+- Re-verified A–Z files for alphabetical ordering (excluding the template heading "WordName").
+- Fixed G.md ordering by moving "Garnered" above "Gratitude" and "Grok".
+- Rechecked impacted file after fix; all ordered ✅.
+
+### Quick check (per-file)
+
+```powershell
+cd "D:\GitHub\inspirational-quotes\EnglishLearning\Vocabulary"
+Get-ChildItem -Name "[A-Z].md" | ForEach-Object {
+    $w = Get-Content $_ | Select-String '^## ' | ForEach-Object { $_.ToString().Substring(3).Trim() } | Where-Object { $_ -ne 'WordName' }
+    if ($w.Count -gt 0) {
+        $ok = ($w -join '|' ) -eq (($w | Sort-Object) -join '|')
+        Write-Host ("{0,-6} {1,3} words  {2}" -f $_, $w.Count, $(if($ok){'ORDERED ✅'}else{'NOT ORDERED ❌'}))
+    }
+}
+```
+
 ## August 9, 2025 - Quick Re-Verification and Minor Fixes
 
 ### Summary (Aug 9)
