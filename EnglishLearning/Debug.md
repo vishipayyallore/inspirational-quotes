@@ -972,6 +972,11 @@ Get-ChildItem -Name "[A-Z].md" | ForEach-Object {
 - Reordered `S.md` to maintain alphabetical sequence: Salient, Semantic, Sheer, Solitude, Sparingly, Sparse, Spectrograms, Spectrum, Stochastic, Straying, Subtleties, Swindler, Synonymous, Synopsis, Synthesize.
 - Re-verified S.md after the change — ordered ✅.
 
+### J.md Update (Aug 14)
+
+- Normalized capitalization: "Judiciously" (capitalized) for consistent heading style and correct alphabetical checks.
+- J.md now contains a single word and is correctly ordered.
+
 ## August 9, 2025 - Quick Re-Verification and Minor Fixes
 
 ### Summary (Aug 9)
