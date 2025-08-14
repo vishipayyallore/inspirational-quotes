@@ -964,6 +964,14 @@ Get-ChildItem -Name "[A-Z].md" | ForEach-Object {
 }
 ```
 
+## August 14, 2025 - S.md Ordering Touch-up
+
+### Summary (Aug 14)
+
+- Detected new word "Sparingly" added to `S.md`.
+- Reordered `S.md` to maintain alphabetical sequence: Salient, Semantic, Sheer, Solitude, Sparingly, Sparse, Spectrograms, Spectrum, Stochastic, Straying, Subtleties, Swindler, Synonymous, Synopsis, Synthesize.
+- Re-verified S.md after the change — ordered ✅.
+
 ## August 9, 2025 - Quick Re-Verification and Minor Fixes
 
 ### Summary (Aug 9)

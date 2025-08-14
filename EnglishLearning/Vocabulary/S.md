@@ -29,6 +29,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The state or situation of being alone.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Being alone with your thoughts can foster creative thinking.
 
+## Sparingly
+
+**Meaning**: In a restricted or infrequent manner.
+**Usage**: "Use resources sparingly to ensure sustainability." - Being economical with resources helps preserve them for the future.
+
 ## Sparse
 
 **Meaning**: Thinly dispersed or scattered; not dense.
