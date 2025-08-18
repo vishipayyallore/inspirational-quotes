@@ -972,6 +972,14 @@ Get-ChildItem -Name "[A-Z].md" | ForEach-Object {
 - Reordered `S.md` to maintain alphabetical sequence: Salient, Semantic, Sheer, Solitude, Sparingly, Sparse, Spectrograms, Spectrum, Stochastic, Straying, Subtleties, Swindler, Synonymous, Synopsis, Synthesize.
 - Re-verified S.md after the change — ordered ✅.
 
+## August 18, 2025 - S.md Duplicate Fix
+
+### Summary (Aug 18)
+
+- Detected duplicate "Spooky" entry in S.md after manual edits.
+- Removed duplicate, keeping only the correctly placed version before "Sparse".
+- S.md now alphabetically ordered and passes lint.
+
 ### J.md Update (Aug 14)
 
 - Normalized capitalization: "Judiciously" (capitalized) for consistent heading style and correct alphabetical checks.
