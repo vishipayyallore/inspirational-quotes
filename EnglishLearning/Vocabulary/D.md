@@ -63,3 +63,8 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Deceitfulness; double-dealing or being two-faced.
 **Usage**: "Duplicity is a trait often found in those who seek personal gain at the expense of others." - Dishonesty can manifest in various forms, including betrayal and deceit.
+
+## Dabble
+
+**Meaning**: To take part in an activity in a casual or superficial way.
+**Usage**: "He likes to dabble in painting on the weekends." - Engaging in an activity without serious commitment or expertise.
