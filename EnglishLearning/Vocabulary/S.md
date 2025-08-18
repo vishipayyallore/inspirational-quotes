@@ -83,3 +83,8 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: To combine different ideas, influences, or objects into a coherent whole.
 **Usage**: "The ability to synthesize information from various sources is crucial for effective research." - Integrating diverse data is essential for comprehensive analysis.
+
+## Spooky
+
+**Meaning**: Strange and frightening.
+**Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
