@@ -78,3 +78,13 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
 **Usage**: "Mastering rhetoric can enhance your communication skills." - Understanding persuasive language can improve how you convey ideas.
+
+## Redacted
+
+**Meaning**: Edited or prepared for publication by removing sensitive information.
+**Usage**: "The document was redacted to protect confidential information." - Sensitive details were removed to ensure privacy and security.
+
+## Reinstatement
+
+**Meaning**: The act of restoring someone or something to a previous position or condition.
+**Usage**: "The reinstatement of the policy was met with mixed reactions." - Bringing back a former rule or practice can have varied responses.
