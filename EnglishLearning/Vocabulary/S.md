@@ -34,6 +34,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: In a restricted or infrequent manner.
 **Usage**: "Use resources sparingly to ensure sustainability." - Being economical with resources helps preserve them for the future.
 
+## Spooky
+
+**Meaning**: Strange and frightening.
+**Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
+
 ## Sparse
 
 **Meaning**: Thinly dispersed or scattered; not dense.
