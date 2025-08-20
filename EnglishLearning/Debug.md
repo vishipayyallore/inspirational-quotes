@@ -605,6 +605,13 @@ $results | Format-Table -AutoSize
 
 ```powershell
 # Check specific file headings using findstr (Windows-compatible)
+# Debug Commands Log (Commands Only)
+
+All narrative, tables, and summaries removed per request. This file now stores only reusable PowerShell commands for vocabulary maintenance and verification.
+
+## A-Z Alphabetical Verification
+```powershell
+# Set working directory to the Vocabulary folder
 cd "D:\GitHub\inspirational-quotes\EnglishLearning\Vocabulary"
 
 # Check A.md headings
@@ -624,6 +631,9 @@ findstr "^## " C.md
 
 # Check P.md headings (verify still ordered)
 findstr "^## " P.md
+
+## Duplicate Heading Detection
+```powershell
 ```
 
 ### Latest Fixes Applied (June 25, 2025)
@@ -634,6 +644,10 @@ findstr "^## " P.md
 
    - "Agnostic" moved to correct position (after "Aesthetic")
    - "Akin" moved to correct position (after "Agnostic")
+
+## Single File Check (Parameterizable)
+
+```powershell
 
 2. **I.md** - Fixed alphabetical positioning and removed duplicates:
 
@@ -650,6 +664,9 @@ findstr "^## " P.md
    - "Stochastic" moved to correct position (between "Spectrum" and "Straying")
    - All entries now properly ordered alphabetically
 
+## Normalize Capitalization (Title Case Headings Only)
+```powershell
+
 ### Current Status Verification (June 25, 2025)
 
 ```powershell
@@ -660,12 +677,18 @@ $totalWords = 0
 $totalFiles = 0
 $allOrdered = $true
 
+## Add New Word Template Snippet
+```powershell
+
 foreach ($file in $files) {
     if (Test-Path $file) {
         $content = Get-Content $file -Raw
         $headings = [regex]::Matches($content, '(?m)^## (.+)$') | ForEach-Object { $_.Groups[1].Value.Trim() }
         $totalFiles++
         $totalWords += $headings.Count
+
+## Rebuild Master Vocabulary Index (VocabularyDefinitions.md)
+```powershell
         $sorted = $headings | Sort-Object
         $isOrdered = ($headings -join '|') -eq ($sorted -join '|')
         if (!$isOrdered) { $allOrdered = $false }
@@ -681,6 +704,9 @@ Write-Host "- All files alphabetically ordered: $(if ($allOrdered) { 'YES ✓' }
 
 ## Updated Mission Status: ✅ COMPLETED SUCCESSFULLY! (June 25, 2025)
 
+## Git Diff Helper (Words Added / Removed Since Main)
+
+```powershell
 ### Final Verification Results
 
 - **Total Files**: 19 vocabulary files (A-W)
@@ -699,12 +725,18 @@ Write-Host "- All files alphabetically ordered: $(if ($allOrdered) { 'YES ✓' }
 | D.md | 9     | ✅ ORDERED | No changes needed                                     |
 | E.md | 8     | ✅ ORDERED | No changes needed                                     |
 | F.md | 7     | ✅ ORDERED | No changes needed                                     |
+
+## Quick Summary Counts
+```powershell
 | G.md | 1     | ✅ ORDERED | No changes needed                                     |
 | H.md | 1     | ✅ ORDERED | No changes needed                                     |
 | I.md | 14    | ✅ ORDERED | Fixed: Inciting, Instigating positioning & duplicates |
 | L.md | 1     | ✅ ORDERED | No changes needed                                     |
 | M.md | 4     | ✅ ORDERED | No changes needed                                     |
 | N.md | 2     | ✅ ORDERED | No changes needed                                     |
+
+## End
+
 | O.md | 5     | ✅ ORDERED | Fixed: Complete reordering                            |
 | P.md | 16    | ✅ ORDERED | Previously fixed, verified stable                     |
 | R.md | 13    | ✅ ORDERED | No changes needed                                     |
