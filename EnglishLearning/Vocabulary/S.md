@@ -88,3 +88,8 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: To combine different ideas, influences, or objects into a coherent whole.
 **Usage**: "The ability to synthesize information from various sources is crucial for effective research." - Integrating diverse data is essential for comprehensive analysis.
+
+## Steer
+
+**Meaning**: To guide or control the direction of something.
+**Usage**: "The manager's role is to steer the team towards achieving its goals." - Leadership involves directing efforts to reach desired outcomes.
