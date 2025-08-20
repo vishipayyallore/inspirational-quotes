@@ -12,8 +12,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Power and Influence Wisdom
 
-> 1. **Never** outshine the Master. - Anonymous -- **Here**
-> 1. **Never** put too much trust in friends. - Anonymous
+> 1. **Never** outshine the Master. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
