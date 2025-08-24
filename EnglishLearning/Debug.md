@@ -398,12 +398,28 @@ $words | ForEach-Object { Write-Host "  $_" }
 
 # Show alphabetical order
 Write-Host "`nAlphabetical order:" -ForegroundColor Yellow
+## August 24, 2025 - Commands Only (A–Z Verification and Logs)
+```powershell
+# Run A–Z verification and save summary log
+$root = "d:\GitHub\inspirational-quotes\EnglishLearning\Vocabulary"
+$log  = "d:\GitHub\inspirational-quotes\EnglishLearning\Logs\verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
+& "d:\GitHub\inspirational-quotes\EnglishLearning\Scripts\Verify-Vocabulary.ps1" -Root $root -OutFile $log
+Get-Content -LiteralPath $log
+
+# Run detailed verification (includes Current vs Correct for mismatches)
+$logd = "d:\GitHub\inspirational-quotes\EnglishLearning\Logs\verify-details-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
+& "d:\GitHub\inspirational-quotes\EnglishLearning\Scripts\Verify-Vocabulary.ps1" -Root $root -ShowMismatches -OutFile $logd
+Get-Content -LiteralPath $logd
+```
+
 $sorted = $words | Sort-Object
 $sorted | ForEach-Object { Write-Host "  $_" }
 
 # Check if ordered
+
 $isOrdered = ($words -join ',') -eq ($sorted -join ',')
 Write-Host "`nIs correctly ordered: $(if ($isOrdered) { 'YES ✅' } else { 'NO ❌' })" -ForegroundColor $(if ($isOrdered) { 'Green' } else { 'Red' })
+
 ```
 
 ### Quick Status Check

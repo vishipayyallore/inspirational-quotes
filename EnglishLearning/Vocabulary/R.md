@@ -19,10 +19,20 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Respond to an action or gesture by making a corresponding one.
 **Usage**: "Value those who appreciate your efforts and reciprocate kindness." - Cherish relationships where good deeds are returned in kind.
 
+## Redacted
+
+**Meaning**: Edited or prepared for publication by removing sensitive information.
+**Usage**: "The document was redacted to protect confidential information." - Sensitive details were removed to ensure privacy and security.
+
 ## Reinforcing
 
 **Meaning**: Strengthening or supporting an idea, behavior, or structure.
 **Usage**: "Positive feedback is crucial for reinforcing good behavior." - Encouragement helps to strengthen and maintain desired actions.
+
+## Reinstatement
+
+**Meaning**: The act of restoring someone or something to a previous position or condition.
+**Usage**: "The reinstatement of the policy was met with mixed reactions." - Bringing back a former rule or practice can have varied responses.
 
 ## Rejuvenate
 
@@ -38,16 +48,6 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: To voluntarily cease to keep or claim; give up.
 **Usage**: "Sometimes you must relinquish control to find peace." - Letting go can lead to greater tranquility and acceptance.
-
-## Redacted
-
-**Meaning**: Edited or prepared for publication by removing sensitive information.
-**Usage**: "The document was redacted to protect confidential information." - Sensitive details were removed to ensure privacy and security.
-
-## Reinstatement
-
-**Meaning**: The act of restoring someone or something to a previous position or condition.
-**Usage**: "The reinstatement of the policy was met with mixed reactions." - Bringing back a former rule or practice can have varied responses.
 
 ## Repercussions
 
