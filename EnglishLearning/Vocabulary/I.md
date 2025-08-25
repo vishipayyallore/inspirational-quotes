@@ -79,11 +79,6 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: The rise and fall in the pitch of the voice in speech.
 **Usage**: "Intonation can change the meaning of a sentence." - The way you say something can affect its interpretation.
 
-## Intuitive
-
-**Meaning**: Instinctive; having a natural ability to understand or know something without any direct evidence or reasoning process.
-**Usage**: "Trust your intuitive feelings." - Rely on your gut instincts to guide you.
-
 ## Intricacies
 
 **Meaning**: The quality of being intricate; complex details or elements.
@@ -93,6 +88,11 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Very detailed and complicated.
 **Usage**: "The intricate design of the jewelry was breathtaking." - The complex and detailed patterns in the jewelry were stunning.
+
+## Intuitive
+
+**Meaning**: Instinctive; having a natural ability to understand or know something without any direct evidence or reasoning process.
+**Usage**: "Trust your intuitive feelings." - Rely on your gut instincts to guide you.
 
 ## Irreplaceable
 

@@ -34,11 +34,6 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: In a restricted or infrequent manner.
 **Usage**: "Use resources sparingly to ensure sustainability." - Being economical with resources helps preserve them for the future.
 
-## Spooky
-
-**Meaning**: Strange and frightening.
-**Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
-
 ## Sparse
 
 **Meaning**: Thinly dispersed or scattered; not dense.
@@ -53,6 +48,16 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: The range of different frequencies or wavelengths of a signal.
 **Usage**: "The spectrum of light visible to the human eye is just a small part of the electromagnetic spectrum." - The full range of light waves extends beyond what we can see.
+
+## Spooky
+
+**Meaning**: Strange and frightening.
+**Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
+
+## Steer
+
+**Meaning**: To guide or control the direction of something.
+**Usage**: "The manager's role is to steer the team towards achieving its goals." - Leadership involves directing efforts to reach desired outcomes.
 
 ## Stochastic
 
@@ -88,8 +93,3 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: To combine different ideas, influences, or objects into a coherent whole.
 **Usage**: "The ability to synthesize information from various sources is crucial for effective research." - Integrating diverse data is essential for comprehensive analysis.
-
-## Steer
-
-**Meaning**: To guide or control the direction of something.
-**Usage**: "The manager's role is to steer the team towards achieving its goals." - Leadership involves directing efforts to reach desired outcomes.

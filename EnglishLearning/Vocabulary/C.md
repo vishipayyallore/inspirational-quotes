@@ -89,6 +89,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Large collections of written or spoken texts used for linguistic research and analysis.
 **Usage**: "Linguists analyze corpora to understand language patterns and usage." - Studying extensive text collections helps researchers gain insights into language.
 
+## Corpus
+
+**Meaning**: A collection of written or spoken material stored in digital form.
+**Usage**: "Linguists analyze a corpus of texts to study language patterns." - Large databases of language samples are essential for linguistic research.
+
 ## Courage
 
 **Meaning**: The ability to do something that frightens one; bravery.  
