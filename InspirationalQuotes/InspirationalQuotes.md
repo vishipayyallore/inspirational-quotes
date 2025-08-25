@@ -27,7 +27,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 > 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous
 
-## Title ??
+## Mastery in 30 Minutes a Day
 
 > 1. Code for just **30 minutes** a day, and over time you can master any tech stack in the world. — Viswanatha Swamy -- **Here**
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy
