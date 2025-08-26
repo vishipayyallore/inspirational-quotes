@@ -14,8 +14,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Never** outshine the Master. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
-> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
-> 1. **Always** say less than necessary. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous -- **Here**
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
@@ -27,11 +27,18 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 > 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous
 
-## Daily one
+## Mastery in 30 Minutes a Day
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time you can master any tech stack in the world. — Viswanatha Swamy -- **Here**
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy
+> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy
+
+## Trust Revealed by Actions
+
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
