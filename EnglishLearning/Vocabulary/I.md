@@ -98,3 +98,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
+
+## Impetus
+
+**Meaning**: A driving force; an incentive or motivation to act.
+**Usage**: "The new policy provided the impetus for change." - The updated guidelines served as a catalyst for transformation.
