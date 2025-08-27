@@ -15,8 +15,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never** outshine the Master. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
-> 1. **Always** say less than necessary. - Anonymous -- **Here**
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
@@ -33,6 +33,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy
+> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy
 
 ## Trust Revealed by Actions
 
