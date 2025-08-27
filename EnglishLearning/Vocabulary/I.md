@@ -24,6 +24,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: About to happen; impending.
 **Usage**: "The storm is imminent." - The storm is about to occur soon.
 
+## Impetus
+
+**Meaning**: A driving force; an incentive or motivation to act.
+**Usage**: "The new policy provided the impetus for change." - The updated guidelines served as a catalyst for transformation.
+
 ## Inciting
 
 **Meaning**: Encouraging or stirring up (an action or feeling).
