@@ -12,11 +12,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Power and Influence Wisdom
 
-> 1. **Never** outshine the Master. - Anonymous
+> 1. **Never** outshine the Master. - Anonymous -- **Here**
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
@@ -55,8 +55,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Life Lessons
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
@@ -117,10 +117,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
-> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
+> 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
