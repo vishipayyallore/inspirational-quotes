@@ -38,8 +38,3 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Physical or mental collapse caused by overwork or stress.  
 **Usage**: "Burnout Is Not a Badge of Honor" - Exhausting yourself from overwork should not be seen as praiseworthy.
-
-## Brittle
-
-**Meaning**: Easily broken or damaged; fragile.
-**Usage**: "Her confidence was brittle after the criticism." - A lack of resilience can make one vulnerable to setbacks.

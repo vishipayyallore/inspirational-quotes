@@ -1,5 +1,37 @@
 # Debug Commands Log
 
+## September 1, 2025 - Post-User Updates Verification
+
+After user manual edits to B.md, Q.md, X.md, P.md, Y.md, Z.md, performed verification and ordering fixes:
+
+### Initial Verification
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+```
+
+**Results:** B.md and P.md out of order.
+
+### Issues Found and Fixed
+
+- **B.md**: Duplicate "Brittle" entry at end; removed duplicate
+- **P.md**: "Preconceived" and "Prejudice" out of order; repositioned alphabetically
+
+### New Vocabulary Added
+
+- **Q.md**: Quest (1 word total)
+- **X.md**: Xenophobia (1 word total)  
+- **Y.md**: Yearn (1 word total)
+- **Z.md**: Zeal (1 word total)
+
+### Final Verification
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -OutFile "EnglishLearning/Logs/verify-20250901-141701.txt"
+```
+
+**Status:** All files OK. Total vocabulary count: 239+ words across 26 files.
+
 ## August 18, 2025
 
 Verified D.md after user request. Detected 'Dabble' was below 'Daunting'; moved 'Dabble' above 'Daunting' to restore strict alphabetical order. File now compliant. No duplicates found. Logged per verification protocol.
