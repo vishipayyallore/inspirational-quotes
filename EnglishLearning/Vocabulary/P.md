@@ -108,3 +108,13 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: To follow or chase with the intent to catch or achieve.
 **Usage**: "Pursue your passions relentlessly." - Follow what you love with determination and dedication.
+
+## Prejudice
+
+**Meaning**: Preconceived opinion that is not based on reason or actual experience.
+**Usage**: "Prejudice can cloud judgment and hinder understanding." - Bias against others can prevent meaningful connections and insights.
+
+## Preconceived
+
+**Meaning**: An idea or opinion formed before having the evidence for its truth or usefulness.
+**Usage**: "Preconceived notions can limit our understanding of others." - Having fixed ideas about people can prevent us from seeing their true selves.
