@@ -118,3 +118,8 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: To follow or chase with the intent to catch or achieve.
 **Usage**: "Pursue your passions relentlessly." - Follow what you love with determination and dedication.
+
+## Paradigm
+
+**Meaning**: A typical example or pattern of something; a model.
+**Usage**: "The scientific paradigm shifted with new discoveries." - Major breakthroughs can change the way we understand the world.
