@@ -39,6 +39,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
 
+## Fragmented
+
+**Meaning**: Broken or incomplete; consisting of disconnected parts.
+**Usage**: "Her fragmented memories made it hard to recall the event." - Incomplete recollections can hinder our understanding of past experiences.
+
 ## Frontier
 
 **Meaning**: A boundary or limit; the extreme limit of understanding or achievement in a particular area.
