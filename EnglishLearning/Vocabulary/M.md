@@ -19,6 +19,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Of only moderate quality; not very good.
 **Usage**: "Mediocre is the enemy of greatness." - Settling for mediocrity can prevent you from achieving greatness.
 
+## Metaphors
+
+**Meaning**: Figures of speech that describe a subject by asserting that it is, on some point of comparison, the same as another otherwise unrelated object.
+**Usage**: "Metaphors can illuminate complex ideas." - By comparing one thing to another, metaphors can help clarify and enhance understanding.
+
 ## Meticulous
 
 **Meaning**: Showing great attention to detail; very careful and precise.
@@ -28,8 +33,3 @@ This file contains definitions and example usage for "M" words found in the insp
 
 **Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
 **Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
-
-## Metaphors
-
-**Meaning**: Figures of speech that describe a subject by asserting that it is, on some point of comparison, the same as another otherwise unrelated object.
-**Usage**: "Metaphors can illuminate complex ideas." - By comparing one thing to another, metaphors can help clarify and enhance understanding.
