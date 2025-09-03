@@ -39,6 +39,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
 
+## Frontier
+
+**Meaning**: A boundary or limit; the extreme limit of understanding or achievement in a particular area.
+**Usage**: "Exploring the frontier of technology can lead to groundbreaking discoveries." - Pushing the boundaries of what is known can result in significant advancements.
+
 ## Fuse
 
 **Meaning**: To join or blend together.
@@ -48,8 +53,3 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: The process of combining two or more things into one.
 **Usage**: "The fusion of ideas can lead to innovation." - When different concepts come together, they can create something new and exciting.
-
-## Frontier
-
-**Meaning**: A boundary or limit; the extreme limit of understanding or achievement in a particular area.
-**Usage**: "Exploring the frontier of technology can lead to groundbreaking discoveries." - Pushing the boundaries of what is known can result in significant advancements.
