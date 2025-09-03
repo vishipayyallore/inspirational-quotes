@@ -103,3 +103,8 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: Not able to be replaced; unique.
 **Usage**: "Focus on making an impact, not being irreplaceable." - Aim to contribute meaningfully rather than making yourself indispensable.
+
+## Inevitably
+
+**Meaning**: Certain to happen; unavoidable.
+**Usage**: "Change is inevitable." - Transformation is a natural and unavoidable part of life.
