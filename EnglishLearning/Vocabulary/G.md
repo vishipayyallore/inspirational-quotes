@@ -23,3 +23,8 @@ This file contains definitions and example usage for "G" words found in the insp
 
 **Meaning**: To understand something intuitively or thoroughly.
 **Usage**: "To grok is to understand something so thoroughly that it becomes a part of you." - This term emphasizes deep, intuitive understanding beyond surface knowledge.
+
+## Gerund
+
+**Meaning**: A verb form that functions as a noun, typically ending in -ing.
+**Usage**: "In the sentence 'Swimming is fun,' 'swimming' is a gerund." - Here, 'swimming' acts as a noun, representing the activity itself.

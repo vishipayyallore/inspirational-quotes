@@ -9,6 +9,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Paradigm
+
+**Meaning**: A typical example or pattern of something; a model.
+**Usage**: "The scientific paradigm shifted with new discoveries." - Major breakthroughs can change the way we understand the world.
+
 ## Paramount
 
 **Meaning**: More important than anything else; supreme.

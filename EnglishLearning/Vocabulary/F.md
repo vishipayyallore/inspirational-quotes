@@ -39,6 +39,16 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
 
+## Fragmented
+
+**Meaning**: Broken or incomplete; consisting of disconnected parts.
+**Usage**: "Her fragmented memories made it hard to recall the event." - Incomplete recollections can hinder our understanding of past experiences.
+
+## Frontier
+
+**Meaning**: A boundary or limit; the extreme limit of understanding or achievement in a particular area.
+**Usage**: "Exploring the frontier of technology can lead to groundbreaking discoveries." - Pushing the boundaries of what is known can result in significant advancements.
+
 ## Fuse
 
 **Meaning**: To join or blend together.
@@ -48,3 +58,8 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: The process of combining two or more things into one.
 **Usage**: "The fusion of ideas can lead to innovation." - When different concepts come together, they can create something new and exciting.
+
+## Frenzy
+
+**Meaning**: A state of uncontrolled excitement or wild behavior.
+**Usage**: "The crowd was in a frenzy as the band took the stage." - This describes a situation where people are extremely excited and energetic, often in a chaotic way.

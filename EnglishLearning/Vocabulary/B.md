@@ -14,6 +14,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A state of equilibrium or equal distribution of weight or force.
 **Usage**: "Balance is key to a fulfilling life." - Finding harmony between different aspects of life is essential for happiness.
 
+## bespoke
+
+**Meaning**: Made for a particular customer or user; custom-made.
+**Usage**: "The bespoke suit fit him perfectly." - Tailored clothing is designed to meet the specific measurements and preferences of an individual.
+
 ## Bland
 
 **Meaning**: Lacking strong features or characteristics and therefore uninteresting.

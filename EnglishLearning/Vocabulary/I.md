@@ -49,6 +49,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Certain to happen; unavoidable.
 **Usage**: "Greed inevitably leads to misery." - Excessive desire for wealth will certainly cause unhappiness.
 
+## Inevitably
+
+**Meaning**: Certain to happen; unavoidable.
+**Usage**: "Change is inevitable." - Transformation is a natural and unavoidable part of life.
+
 ## Ingest
 
 **Meaning**: To take in food or drink through the mouth.
