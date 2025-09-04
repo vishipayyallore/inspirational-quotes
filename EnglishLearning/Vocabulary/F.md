@@ -58,3 +58,8 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: The process of combining two or more things into one.
 **Usage**: "The fusion of ideas can lead to innovation." - When different concepts come together, they can create something new and exciting.
+
+## Frenzy
+
+**Meaning**: A state of uncontrolled excitement or wild behavior.
+**Usage**: "The crowd was in a frenzy as the band took the stage." - This describes a situation where people are extremely excited and energetic, often in a chaotic way.
