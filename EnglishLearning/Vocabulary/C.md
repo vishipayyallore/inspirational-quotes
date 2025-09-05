@@ -148,3 +148,8 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: An inclination to believe that people are motivated purely by self-interest; skepticism.
 **Usage**: "Cynicism can cloud your judgment and prevent you from seeing the good in others." - Doubting people's intentions can lead to a negative outlook on life.
+
+## Clutter
+
+**Meaning**: A collection of things lying about in an untidy mass.
+**Usage**: "Clutter can create a sense of chaos and distract from important tasks." - Keeping a tidy space can help improve focus and productivity.
