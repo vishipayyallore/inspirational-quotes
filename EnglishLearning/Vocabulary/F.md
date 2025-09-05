@@ -44,6 +44,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: Broken or incomplete; consisting of disconnected parts.
 **Usage**: "Her fragmented memories made it hard to recall the event." - Incomplete recollections can hinder our understanding of past experiences.
 
+## Frenzy
+
+**Meaning**: A state of uncontrolled excitement or wild behavior.
+**Usage**: "The crowd was in a frenzy as the band took the stage." - This describes a situation where people are extremely excited and energetic, often in a chaotic way.
+
 ## Frontier
 
 **Meaning**: A boundary or limit; the extreme limit of understanding or achievement in a particular area.
@@ -58,8 +63,3 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: The process of combining two or more things into one.
 **Usage**: "The fusion of ideas can lead to innovation." - When different concepts come together, they can create something new and exciting.
-
-## Frenzy
-
-**Meaning**: A state of uncontrolled excitement or wild behavior.
-**Usage**: "The crowd was in a frenzy as the band took the stage." - This describes a situation where people are extremely excited and energetic, often in a chaotic way.

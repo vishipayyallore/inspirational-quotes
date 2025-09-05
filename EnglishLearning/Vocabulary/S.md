@@ -103,3 +103,13 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: To combine different ideas, influences, or objects into a coherent whole.
 **Usage**: "The ability to synthesize information from various sources is crucial for effective research." - Integrating diverse data is essential for comprehensive analysis.
+
+## Skim
+
+**Meaning**: To read or glance through quickly.
+**Usage**: "When time is short, it's often necessary to skim the material for key points." - This approach helps identify important information without reading everything in detail.
+
+## Skimming
+
+**Meaning**: The act of reading or glancing through quickly.
+**Usage**: "Skimming can be an effective way to get the gist of a text without delving into every detail." - This technique is useful for quickly assessing the relevance of information.
