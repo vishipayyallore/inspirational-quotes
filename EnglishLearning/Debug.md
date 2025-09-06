@@ -1,5 +1,35 @@
 # Debug Commands Log
 
+## September 5, 2025 - Verification and Ordering Fixes
+
+### Initial Verification with Mismatches
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+```
+
+**Results**: Found 3 files out of order:
+
+- F.md: "Frenzy" needed to move before "Frontier"
+- G.md: "Gerund" needed to move before "Gratitude"  
+- R.md: "Ranted" needed to move to beginning before "Ratted"
+
+### Fixes Applied
+
+1. **F.md**: Moved "Frenzy" to correct position between "Fragmented" and "Frontier"
+2. **G.md**: Moved "Gerund" to correct position between "Garnered" and "Gratitude"
+3. **R.md**: Moved "Ranted" to beginning position before "Ratted"
+
+### Final Verification
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1"
+```
+
+**Results**: ✅ ALL 26 FILES OK - Total: 230 words across A-Z files
+
+---
+
 ## September 1, 2025 - Post-User Updates Verification
 
 After user manual edits to B.md, Q.md, X.md, P.md, Y.md, Z.md, performed verification and ordering fixes:

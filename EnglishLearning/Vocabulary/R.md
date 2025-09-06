@@ -9,6 +9,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Ranted
+
+**Meaning**: To speak or shout in a wild, passionate, or angry way.
+**Usage**: "He ranted about the injustices he faced." - Expressing frustration vocally can be a way to cope with anger.
+
 ## Ratted
 
 **Meaning**: To inform on someone; to betray a trust.

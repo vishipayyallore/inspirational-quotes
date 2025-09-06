@@ -84,6 +84,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Preconceived opinion that is not based on reason or actual experience.
 **Usage**: "Prejudice can cloud judgment and hinder understanding." - Bias against others can prevent meaningful connections and insights.
 
+## Pretentious
+
+**Meaning**: Attempting to impress by affecting greater importance or merit than is actually possessed.
+**Usage**: "His pretentious remarks alienated his friends." - Trying to appear more knowledgeable or important can backfire in social situations.
+
 ## Prevalent
 
 **Meaning**: Widespread in a particular area or at a particular time.
