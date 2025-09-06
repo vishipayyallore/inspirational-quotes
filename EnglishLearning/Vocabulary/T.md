@@ -58,3 +58,8 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: Exercising power in a cruel or arbitrary way.
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
+
+## Tiff
+
+**Meaning**: A petty quarrel or argument.
+**Usage**: "They had a tiff over who would do the dishes." - A minor disagreement occurred regarding a trivial matter.
