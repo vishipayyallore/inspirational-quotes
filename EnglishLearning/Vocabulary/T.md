@@ -29,6 +29,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A principle or belief, especially one of the main principles of a religion or philosophy.
 **Usage**: "The tenet of 'treat others as you wish to be treated' is a universal truth." - The principle of reciprocity is a fundamental truth across cultures.
 
+## Tiff
+
+**Meaning**: A petty quarrel or argument.
+**Usage**: "They had a tiff over who would do the dishes." - A minor disagreement occurred regarding a trivial matter.
+
 ## Tonality
 
 **Meaning**: The character or attitude of a place, piece of writing, situation, etc.
@@ -58,8 +63,3 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: Exercising power in a cruel or arbitrary way.
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
-
-## Tiff
-
-**Meaning**: A petty quarrel or argument.
-**Usage**: "They had a tiff over who would do the dishes." - A minor disagreement occurred regarding a trivial matter.
