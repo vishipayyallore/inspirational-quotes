@@ -18,13 +18,13 @@ inspirational-quotes/
 ├── .copilot/
 │   └── settings.json               # VS Code configuration
 ├── EnglishLearning/
-│   ├── Debug.md                    # Verification logs and commands
 │   ├── Daily/                      # Daily learning sessions
-│   ├── Logs/                       # Automated verification outputs
-│   ├── Scripts/                    # PowerShell automation tools
 │   └── Vocabulary/                 # A-Z vocabulary organization
 ├── InspirationalQuotes/
 │   └── InspirationalQuotes.md      # Quote collections
+├── Logs/                           # Automated verification outputs
+├── Scripts/                        # PowerShell automation tools
+│   └── Debug.md                    # Verification logs and commands
 └── README.md                       # Project overview
 ```
 
