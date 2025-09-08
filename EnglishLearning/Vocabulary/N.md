@@ -28,3 +28,8 @@ This file contains definitions and example usage for "N" words found in the insp
 
 **Meaning**: A gentle push or encouragement to prompt someone to take a specific action.
 **Usage**: "Sometimes, all it takes is a nudge from a friend to pursue your dreams." - A little encouragement can motivate you to follow your aspirations.
+
+## Niche
+
+**Meaning**: A specialized segment of the market for a particular kind of product or service.
+**Usage**: "Finding your niche is essential for success in a competitive landscape." - Identifying a specific area where you can excel is key to standing out.
