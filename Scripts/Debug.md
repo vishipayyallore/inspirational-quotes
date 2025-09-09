@@ -1,5 +1,49 @@
 # Debug Commands Log
 
+## September 9, 2025 - Post-Restructuring Verification and Fixes
+
+### Comprehensive Verification After Project Restructuring
+
+**Initial Check Results:**
+
+- **Status**: 2 files found OUT OF ORDER
+- **Files**: C.md (30 words), N.md (5 words)  
+- **Total Words**: 243 vocabulary words across 26 files
+
+### Issues Identified and Fixed
+
+1. **C.md Alphabetical Issue:**
+   - **Problem**: "Culminating" was positioned after "Cynicism" instead of before "Culmination"
+   - **Current Order**: Crucial → Culmination → Cunning... → Cynicism → Culminating
+   - **Correct Order**: Crucial → Culminating → Culmination → Cunning... → Cynicism
+   - **Fix Applied**: Moved "Culminating" to proper position after "Crucial" and before "Culmination"
+
+2. **N.md Alphabetical Issue:**
+   - **Problem**: "Niche" was positioned after "Nudge" instead of after "Neutralize"
+   - **Current Order**: Neutralize → Nuanced → Nuances → Nudge → Niche
+   - **Correct Order**: Neutralize → Niche → Nuanced → Nuances → Nudge  
+   - **Fix Applied**: Moved "Niche" to proper position after "Neutralize" and before "Nuanced"
+
+### Final Verification
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK
+- **Total Words**: 243 vocabulary words (up from 239)
+- **New word count**: C.md (30 words), N.md (5 words)
+- **Verification saved**: Logs/verify-20250909-120[timestamp].txt
+
+### Commands Used
+
+```powershell
+# Initial comprehensive verification
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
+
+# Detailed mismatch analysis  
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+
+# Final verification and logging
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
+```
+
 ## September 5, 2025 - Verification and Ordering Fixes
 
 ### Initial Verification with Mismatches
