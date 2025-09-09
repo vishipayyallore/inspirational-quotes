@@ -43,3 +43,8 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Physical or mental collapse caused by overwork or stress.  
 **Usage**: "Burnout Is Not a Badge of Honor" - Exhausting yourself from overwork should not be seen as praiseworthy.
+
+## Bustling
+
+**Meaning**: Full of energetic and noisy activity.
+**Usage**: "The bustling market was alive with the sounds of vendors and customers." - A lively and busy environment can be invigorating.
