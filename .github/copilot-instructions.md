@@ -18,21 +18,21 @@ inspirational-quotes/
 ├── .copilot/
 │   └── settings.json               # VS Code settings optimized for vocabulary work
 ├── EnglishLearning/
-│   ├── Debug.md                    # Verification logs and debugging commands
 │   ├── DailyLearningTemplate.md    # Template for daily learning sessions
 │   ├── EnglishLearningPlan.md      # Comprehensive learning plan
 │   ├── SampleDailyLearningPlan.md  # Example daily learning schedule
 │   ├── Daily/                      # Daily learning sessions
 │   │   ├── Day1.md - Day7.md       # Individual daily lessons
-│   ├── Logs/                       # Verification and activity logs
-│   │   └── verify-*.txt            # Timestamped verification results
-│   ├── Scripts/                    # PowerShell automation scripts
-│   │   └── Verify-Vocabulary.ps1   # Alphabetical order verification
 │   └── Vocabulary/                 # Vocabulary definitions organized by letter
 │       ├── A.md - Z.md             # ALL 26 alphabetically organized vocabulary files
 │       └── VocabularyDefinitions.md # Master index of all vocabulary
 ├── InspirationalQuotes/
 │   └── InspirationalQuotes.md      # Collection of inspirational quotes
+├── Logs/                           # Verification and activity logs
+│   └── verify-*.txt                # Timestamped verification results
+├── Scripts/                        # PowerShell automation scripts
+│   ├── Debug.md                    # Verification logs and debugging commands
+│   └── Verify-Vocabulary.ps1       # Alphabetical order verification
 ├── LICENSE
 └── README.md
 ```
@@ -50,7 +50,7 @@ inspirational-quotes/
 ### Infrastructure Enhancements
 
 - **Automated Verification**: PowerShell script for alphabetical order checking
-- **Logging System**: Timestamped verification logs in EnglishLearning/Logs/
+- **Logging System**: Timestamped verification logs in Logs/
 - **Prompt Collection**: Comprehensive prompts in .github/prompts/ for various workflows
 - **Quality Assurance**: Markdown linting and formatting standards established
 
@@ -92,16 +92,16 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 
   ```powershell
   # Basic verification
-  pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1"
+  pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
   # Detailed verification with mismatch details
-  pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+  pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
 
   # Save results to timestamped log
-  pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -OutFile "EnglishLearning/Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
+  pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
   ```
 
-- Document all verification activities in `EnglishLearning/Debug.md`
+- Document all verification activities in `Scripts/Debug.md`
 - Always exclude template "WordName" entries from verification
 - Exit codes: 0 = All files OK, 2 = One or more files out of order
 
@@ -153,7 +153,7 @@ This is a **CRITICAL REQUIREMENT**: The vocabulary files have undergone extensiv
 
 ### Debugging and Verification
 
-- Always update `EnglishLearning/Debug.md` with verification commands and results
+- Always update `Scripts/Debug.md` with verification commands and results
 - Include timestamps and session details for all organizational activities
 - Document any issues found and their resolutions
 

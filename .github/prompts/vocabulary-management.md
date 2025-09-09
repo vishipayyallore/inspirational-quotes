@@ -18,20 +18,20 @@ You are working with an inspirational quotes repository that includes English le
 Use the PowerShell verification script located at:
 
 ```text
-EnglishLearning/Scripts/Verify-Vocabulary.ps1
+Scripts/Verify-Vocabulary.ps1
 ```
 
 **Basic verification commands:**
 
 ```powershell
 # Quick verification (console output)
-pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1"
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 # Save results to timestamped log
-pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -OutFile "EnglishLearning/Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
 
 # Detailed verification with mismatch details
-pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
 ```
 
 ### 3. File Structure Standards
@@ -47,8 +47,8 @@ Each vocabulary entry follows this exact format:
 
 ### 4. Documentation Requirements
 
-- Log all verification activities in `EnglishLearning/Debug.md`
-- Save verification outputs to `EnglishLearning/Logs/` with timestamps
+- Log all verification activities in `Scripts/Debug.md`
+- Save verification outputs to `Logs/` with timestamps
 - Update the master index `VocabularyDefinitions.md` when adding new words
 
 ## Workflow for Adding New Vocabulary
