@@ -1,5 +1,52 @@
 # Debug Commands Log
 
+## September 10, 2025 - Comprehensive Vocabulary Verification and Major Fixes
+
+### Verification Round Results
+
+- **Initial Status**: 4 files found OUT OF ORDER
+- **Files Affected**: C.md (31 words), E.md (10 words), R.md (19 words), T.md (12 words)
+- **Total Words**: 249 vocabulary words (up from 243)
+- **New Word Count**: B.md increased to 8 words
+
+### Issues Identified and Fixed
+
+1. **C.md Alphabetical Issue:**
+   - **Problem**: "Coherence" was positioned after "Cynicism" instead of before "Coherent"
+   - **Fix Applied**: Moved "Coherence" to proper position after "Clutter" and before "Coherent"
+
+2. **E.md Alphabetical Issue:**
+   - **Problem**: "Episodic" was positioned after "Execution" instead of after "Envy"
+   - **Fix Applied**: Moved "Episodic" to proper position after "Envy" and before "Evolved"
+
+3. **R.md Alphabetical Issue:**
+   - **Problem**: "Reinforce" was positioned after "Rhetoric" instead of before "Reinforcement"
+   - **Fix Applied**: Moved "Reinforce" to proper position after "Redacted" and before "Reinforcement"
+
+4. **T.md Alphabetical Issue:**
+   - **Problem**: "Tandem" was positioned after "Tyrannical" instead of after "Tabulates"
+   - **Fix Applied**: Moved "Tandem" to proper position after "Tabulates" and before "Temporal"
+
+### Final Verification Status
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK
+- **Total Words**: 249 vocabulary words across 26 files
+- **Growth**: +6 words since last verification (243 → 249)
+- **Perfect Alphabetical Order**: All files now comply with strict ordering requirements
+
+### Commands Used
+
+```powershell
+# Initial comprehensive verification
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
+
+# Detailed mismatch analysis
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+
+# Final verification and logging
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
+```
+
 ## September 9, 2025 - Post-Restructuring Verification and Fixes
 
 ### Comprehensive Verification After Project Restructuring
