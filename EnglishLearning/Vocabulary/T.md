@@ -63,3 +63,8 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: Exercising power in a cruel or arbitrary way.
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
+
+## Tandem
+
+**Meaning**: In conjunction or partnership; working together.
+**Usage**: "The two departments worked in tandem to complete the project." - Collaboration between teams can lead to more effective outcomes.
