@@ -1,6 +1,9 @@
 # T Vocabulary Definitions
 
-This file contains definitions and example usage for "T" words found in the inspirational quotes collection.
+This file contains definitions and e## Tyrannical
+
+**Meaning**: Exercising power in a cruel or arbitrary way; oppressive.
+**Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.age for "T" words found in the inspirational quotes collection.
 
 <!-- Add vocabulary words here following the format:
 ## WordName
@@ -13,6 +16,11 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: To arrange data in a table or systematic format.
 **Usage**: "The study tabulates the results for easy comparison." - Organizing data into a table helps in analyzing and understanding it better.
+
+## Tandem
+
+**Meaning**: In conjunction or partnership; working together.
+**Usage**: "The two departments worked in tandem to complete the project." - Collaboration between teams can lead to more effective outcomes.
 
 ## Temporal
 
@@ -63,8 +71,3 @@ This file contains definitions and example usage for "T" words found in the insp
 
 **Meaning**: Exercising power in a cruel or arbitrary way.
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
-
-## Tandem
-
-**Meaning**: In conjunction or partnership; working together.
-**Usage**: "The two departments worked in tandem to complete the project." - Collaboration between teams can lead to more effective outcomes.
