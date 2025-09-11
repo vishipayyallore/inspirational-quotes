@@ -28,3 +28,8 @@ This file contains definitions and example usage for "G" words found in the insp
 
 **Meaning**: To understand something intuitively or thoroughly.
 **Usage**: "To grok is to understand something so thoroughly that it becomes a part of you." - This term emphasizes deep, intuitive understanding beyond surface knowledge.
+
+## Grossly
+
+**Meaning**: In a very obvious and unacceptable manner; extremely.
+**Usage**: "The project was grossly mismanaged, leading to significant delays." - This indicates that the mismanagement was severe and easily noticeable.
