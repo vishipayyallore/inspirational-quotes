@@ -29,6 +29,16 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: To make sense of something that is difficult to understand; to interpret.
 **Usage**: "Deciphering complex texts requires patience and skill." - Understanding challenging material often takes time and effort.
 
+## Deletable
+
+**Meaning**: Capable of being removed or erased.
+**Usage**: "The deletable files can be permanently removed from the system." - Items that can be erased or eliminated without consequence.
+
+## Delineate
+
+**Meaning**: To describe or portray something precisely; to indicate the exact position of a border or boundary.
+**Usage**: "The architect will delineate the design of the new building." - Clearly defining or outlining plans or ideas.
+
 ## Demeanor
 
 **Meaning**: Outward behavior or bearing; the way a person behaves or conducts themselves.
@@ -78,13 +88,3 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Deceitfulness; double-dealing or being two-faced.
 **Usage**: "Duplicity is a trait often found in those who seek personal gain at the expense of others." - Dishonesty can manifest in various forms, including betrayal and deceit.
-
-## Deletable
-
-**Meaning**: Capable of being removed or erased.
-**Usage**: "The deletable files can be permanently removed from the system." - Items that can be erased or eliminated without consequence.
-
-## Delineate
-
-**Meaning**: To describe or portray something precisely; to indicate the exact position of a border or boundary.
-**Usage**: "The architect will delineate the design of the new building." - Clearly defining or outlining plans or ideas.
