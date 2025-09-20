@@ -29,6 +29,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A limit of a subject or sphere of activity; a dividing line.
 **Usage**: "Setting boundaries is essential for self-care." - Knowing where to draw the line in relationships and responsibilities is important for mental health.
 
+## Bragging
+
+**Meaning**: Boastful or arrogant behavior; talking about one's achievements or possessions in a way that shows too much pride.
+**Usage**: "His constant bragging about his success became tiresome." - Excessive pride in one's accomplishments can alienate others.
+
 ## Breathe
 
 **Meaning**: To take air into the lungs and then expel it; to inhale and exhale.

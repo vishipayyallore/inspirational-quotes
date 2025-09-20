@@ -137,6 +137,20 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
 ```
 
+## September 18, 2025 - Quick Verification and B.md Fix
+
+- **Initial status**: `B.md` reported OUT OF ORDER
+- **Action**: Moved `Bragging` to appear after `Boundaries` and before `Breathe` to restore alphabetical order
+- **Result**: ✅ ALL 26 FILES VERIFIED OK
+- **Total Words**: 250 vocabulary words across 26 files
+
+**Commands used:**
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
+```
+
 ## September 5, 2025 - Verification and Ordering Fixes
 
 ### Initial Verification with Mismatches
