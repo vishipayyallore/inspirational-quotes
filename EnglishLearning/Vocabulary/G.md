@@ -33,3 +33,8 @@ This file contains definitions and example usage for "G" words found in the insp
 
 **Meaning**: In a very obvious and unacceptable manner; extremely.
 **Usage**: "The project was grossly mismanaged, leading to significant delays." - This indicates that the mismanagement was severe and easily noticeable.
+
+## Gross
+
+**Meaning**: Very obvious and unacceptable; glaringly wrong.
+**Usage**: "It was a gross error that could have been avoided with proper planning." - This highlights a significant mistake that was clearly preventable.
