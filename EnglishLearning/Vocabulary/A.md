@@ -123,3 +123,8 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
+
+## Avionics
+
+**Meaning**: The electronic systems used in aircraft, including navigation, communication, and flight control systems.
+**Usage**: "Advancements in avionics have greatly improved flight safety and efficiency." - Innovations in aircraft electronics have enhanced both the safety and performance of flights.
