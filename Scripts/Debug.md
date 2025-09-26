@@ -1,5 +1,46 @@
 # Debug Commands Log
 
+## September 26, 2025 - Verification Round After User Request
+
+### Verification Round Results
+
+- **Initial Status**: Ran verification as requested by user; found R.md OUT OF ORDER
+- **Files Affected**: R.md (22 words)
+- **Status**: ✅ ALL 26 FILES VERIFIED OK after fix
+- **Total Words**: 253 vocabulary words across 26 files (up from 250)
+
+### Issues Identified and Fixed
+
+1. **R.md Alphabetical Issue:**
+   - **Problem**: "Ramble", "Rambled", and "Rambling" were positioned at the end instead of at the beginning
+   - **Current Order**: Ranted, Ratted, ... Rhetoric, Rambling, Rambled, Ramble
+   - **Correct Order**: Ramble, Rambled, Rambling, Ranted, Ratted, ... Rhetoric
+   - **Fix Applied**: Moved the three "Ram-" words to the beginning and removed duplicates
+
+### Final Verification Status
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK
+- **Total Words**: 253 vocabulary words across 26 files
+- **Growth**: +3 words since last verification (R.md gained 3 words)
+- **Verification saved**: Logs/verify-20250926-123534.txt
+
+### Commands Used
+
+```powershell
+# Comprehensive verification with mismatch reporting
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+
+# Save verification output
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches > "Logs/verify-20250926-123534.txt"
+```
+
+### Session Notes
+
+- User requested another full verification round of A.md to Z.md
+- Found and fixed ordering issue in R.md with three "Ram-" prefix words
+- All files now maintain perfect alphabetical order
+- Collection continues to grow: 253 words total
+
 ## September 25, 2025 - Verification Round After User Request
 
 ### Verification Round Results
