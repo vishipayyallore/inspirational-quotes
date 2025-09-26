@@ -112,7 +112,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 
 ## September 11, 2025 - Verification After Manual G.md Edits
 
-### Verification Round Results
+### Verification Round Results — 2025-09-11
 
 - **Initial Status**: ALL 26 FILES VERIFIED OK
 - **Status**: ✅ PERFECT ALPHABETICAL ORDER MAINTAINED
@@ -158,7 +158,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -O
 
 ## September 10, 2025 - Comprehensive Vocabulary Verification and Major Fixes
 
-### Verification Round Results
+### Verification Round Results — 2025-09-10
 
 - **Initial Status**: 4 files found OUT OF ORDER
 - **Files Affected**: C.md (31 words), E.md (10 words), R.md (19 words), T.md (12 words)
