@@ -69,6 +69,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The feeling or belief that one can rely on someone or something; firm trust.  
 **Usage**: "Confidence is not 'they will like me.' Confidence is 'I'll be fine if they don't.'" - True confidence comes from self-assurance, not from seeking approval from others.
 
+## Confronted
+
+**Meaning**: To face or deal with a problem or difficult situation directly.
+**Usage**: "Confronted with adversity, she showed remarkable resilience." - When faced with challenges, she demonstrated great strength.
+
 ## Congenial
 
 **Meaning**: Pleasant or agreeable because suited to one's nature or tastes; having a friendly, sociable disposition.  
@@ -124,6 +129,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Of great importance; critical.  
 **Usage**: "Time management is crucial for productivity." - Effectively managing time is essential for getting things done.
 
+## Cryptic
+
+**Meaning**: Having a meaning that is mysterious or obscure.
+**Usage**: "The message was cryptic, leaving everyone puzzled about its true intent." - Ambiguous or hidden meanings can create intrigue or confusion.
+
 ## Culminating
 
 **Meaning**: Reaching a climax or point of highest development.
@@ -163,10 +173,3 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: An inclination to believe that people are motivated purely by self-interest; skepticism.
 **Usage**: "Cynicism can cloud your judgment and prevent you from seeing the good in others." - Doubting people's intentions can lead to a negative outlook on life.
-
-## Cryptic
-
-**Meaning**: Having a meaning that is mysterious or obscure.
-**Usage**: "The message was cryptic, leaving everyone puzzled about its true intent." - Ambiguous or hidden meanings can create intrigue or confusion.
-
-## Confronted

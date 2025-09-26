@@ -103,3 +103,18 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
 **Usage**: "Mastering rhetoric can enhance your communication skills." - Understanding persuasive language can improve how you convey ideas.
+
+## Rambling
+
+**Meaning**: Speaking or writing at length in a confused or inconsequential way.
+**Usage**: "His rambling speech lost the audience's attention." - Clear and concise communication is often more effective than lengthy digressions.
+
+## Rambled
+
+**Meaning**: Past tense of ramble; to have spoken or written at length in a confused or inconsequential way.
+**Usage**: "She rambled on about her vacation plans." - Sometimes, people can get carried away with details that may not be relevant.
+
+## Ramble
+
+**Meaning**: To speak or write at length in a confused or inconsequential way.
+**Usage**: "He tends to ramble when he's nervous." - Nervousness can lead to unfocused or lengthy speech.
