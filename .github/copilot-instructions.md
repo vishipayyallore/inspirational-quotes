@@ -174,3 +174,9 @@ This project serves learners of English as a second language. Ensure all content
 - Provides practical usage examples
 - Supports progressive learning
 - Maintains educational value and positive messaging
+
+## Daily Word Suggestion
+
+Add one new word to learn each day. Here's a recommended word you can use as today's entry:
+
+Note: Before adding this word to `EnglishLearning/Vocabulary/S.md`, run the verification script and preserve strict alphabetical ordering in the file.

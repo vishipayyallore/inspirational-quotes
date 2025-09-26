@@ -2,7 +2,7 @@
 
 ## September 26, 2025 - Verification Round After User Request
 
-### Verification Round Results
+### Verification Round Results — 2025-09-26
 
 - **Initial Status**: Ran verification as requested by user; found R.md OUT OF ORDER
 - **Files Affected**: R.md (22 words)
@@ -24,7 +24,12 @@
 - **Growth**: +3 words since last verification (R.md gained 3 words)
 - **Verification saved**: Logs/verify-20250926-123534.txt
 
-### Commands Used
+### Quick follow-up
+
+- Moved `Serendipity` into `EnglishLearning/Vocabulary/S.md` at the correct alphabetical position (after `Semantic`) to fix an out-of-order entry detected during the run at 2025-09-26 12:40:17.
+- Re-ran verification: all files OK; new log saved at `Logs/verify-20250926-124054.txt`.
+
+### Commands Used — 2025-09-26
 
 ```powershell
 # Comprehensive verification with mismatch reporting
@@ -34,7 +39,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches > "Logs/verify-20250926-123534.txt"
 ```
 
-### Session Notes
+### Session Notes — 2025-09-26
 
 - User requested another full verification round of A.md to Z.md
 - Found and fixed ordering issue in R.md with three "Ram-" prefix words
@@ -43,7 +48,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 
 ## September 25, 2025 - Verification Round After User Request
 
-### Verification Round Results
+### Verification Round Results — 2025-09-25
 
 - **Initial Status**: Ran verification as requested by user; found A.md and C.md OUT OF ORDER
 - **Files Affected**: A.md (24 words), C.md (33 words)
@@ -62,13 +67,13 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
    - **Problem 2**: "Cryptic" was positioned at the end instead of after "Crucial"
    - **Fix Applied**: Moved "Cryptic" to proper position after "Crucial" and before "Culminating"
 
-### Final Verification Status
+### Final Verification Status — 2025-09-25
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK
 - **Total Words**: 250 vocabulary words across 26 files
 - **Verification saved**: Logs/verify-20250925-133451.txt
 
-### Commands Used
+### Commands Used — 2025-09-25
 
 ```powershell
 # Comprehensive verification with mismatch reporting
@@ -78,7 +83,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
 ```
 
-### Session Notes
+### Session Notes — 2025-09-25
 
 - User requested another full verification round of A.md to Z.md
 - Found and fixed ordering issues in A.md and C.md
@@ -87,13 +92,13 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 
 ## September 24, 2025 - Verification After Manual L.md Edit
 
-### Verification Round Results
+### Verification Round Results — 2025-09-24
 
 - **Initial Status**: Ran verification immediately after user's manual edits to `L.md`
 - **Status**: ✅ ALL 26 FILES VERIFIED OK
 - **Notes**: No out-of-order files were found. Per-file counts were saved to `Logs/verify-20250924-101858.txt`.
 
-### Commands Used
+### Commands Used — 2025-09-24
 
 ```powershell
 # Comprehensive verification with mismatch reporting and log
