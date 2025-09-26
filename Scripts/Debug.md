@@ -105,7 +105,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
 ```
 
-### Session Notes
+### Session Notes — 2025-09-24
 
 - User made manual edits to `L.md` prior to this run; the verification confirmed `L.md` remains in correct alphabetical order.
 - No file edits were required.
@@ -139,7 +139,7 @@ All files remain in perfect alphabetical order:
 - **Growth**: +1 word in G.md
 - **Alphabetical integrity**: Maintained across all files
 
-### Commands Used
+### Commands Used — 2025-09-10
 
 ```powershell
 # Comprehensive verification
@@ -149,7 +149,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
 ```
 
-### Session Notes
+### Session Notes — 2025-09-11
 
 - User made manual edits to G.md between verification rounds
 - All changes maintained proper alphabetical ordering
@@ -190,7 +190,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -O
 - **Growth**: +6 words since last verification (243 → 249)
 - **Perfect Alphabetical Order**: All files now comply with strict ordering requirements
 
-### Commands Used
+### Commands Used — 2025-09-09
 
 ```powershell
 # Initial comprehensive verification
@@ -234,7 +234,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -O
 - **New word count**: C.md (30 words), N.md (5 words)
 - **Verification saved**: Logs/verify-20250909-120[timestamp].txt
 
-### Commands Used
+### Commands Used — 2025-09-05
 
 ```powershell
 # Initial comprehensive verification
