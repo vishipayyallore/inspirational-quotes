@@ -49,6 +49,12 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Occurring in a series of separate parts or events.
 **Usage**: "Her memories of the trip were episodic, each moment vivid yet disconnected." - Recollections that come in fragments rather than a continuous narrative.
 
+## Equanimity
+
+**Meaning**: Mental calmness, composure, and evenness of temper, especially in difficult situations.
+
+**Usage**: "She faced the sudden changes with surprising equanimity, helping others stay calm as well." - Stresses the value of staying composed under pressure.
+
 ## Evolved
 
 **Meaning**: Developed gradually, especially from a simple to a more complex form.
