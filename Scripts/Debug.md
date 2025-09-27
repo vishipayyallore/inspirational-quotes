@@ -9,7 +9,7 @@
 - **Status**: ✅ ALL 26 FILES VERIFIED OK after fix
 - **Total Words**: 253 vocabulary words across 26 files (up from 250)
 
-### Issues Identified and Fixed
+### Issues Identified and Fixed — 2025-09-26
 
 1. **R.md Alphabetical Issue:**
    - **Problem**: "Ramble", "Rambled", and "Rambling" were positioned at the end instead of at the beginning
@@ -17,27 +17,39 @@
    - **Correct Order**: Ramble, Rambled, Rambling, Ranted, Ratted, ... Rhetoric
    - **Fix Applied**: Moved the three "Ram-" words to the beginning and removed duplicates
 
-### Final Verification Status
+### Final Verification Status — 2025-06-10
+
+### Final Verification — 2025-09-11
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK
-- **Total Words**: 253 vocabulary words across 26 files
+
+### Final Verification — 2025-07-31
+
 - **Growth**: +3 words since last verification (R.md gained 3 words)
-- **Verification saved**: Logs/verify-20250926-123534.txt
 
-### Quick follow-up
+### Final Verification — 2025-08-06
 
-- Moved `Serendipity` into `EnglishLearning/Vocabulary/S.md` at the correct alphabetical position (after `Semantic`) to fix an out-of-order entry detected during the run at 2025-09-26 12:40:17.
+### Final Verification Status — 2025-09-25 (details)
+
+### Final Verification Status — 2025-09-26
+
 - Re-ran verification: all files OK; new log saved at `Logs/verify-20250926-124054.txt`.
+
+### Issues Identified and Fixed — 2025-07-31
 
 ### Commands Used — 2025-09-26
 
-```powershell
-# Comprehensive verification with mismatch reporting
-pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+### Issues Identified and Fixed — 2025-09-09
 
+```powershell
+### Issues Identified and Fixed — 2025-09-10
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches
+### Issues Identified and Fixed — 2025-09-25
 # Save verification output
-pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches > "Logs/verify-20250926-123534.txt"
+### Session Overview — 2025-07-30
 ```
+
+### Session Overview — 2025-07-31
 
 ### Session Notes — 2025-09-26
 
@@ -55,7 +67,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -S
 - **Status**: ✅ ALL 26 FILES VERIFIED OK after fixes
 - **Total Words**: 250 vocabulary words across 26 files (unchanged)
 
-### Issues Identified and Fixed
+### Issues Identified and Fixed — 2025-09-25 (detail)
 
 1. **A.md Alphabetical Issue:**
    - **Problem**: "Awareness" was positioned before "Avionics" instead of after
@@ -165,7 +177,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -O
 - **Total Words**: 249 vocabulary words (up from 243)
 - **New Word Count**: B.md increased to 8 words
 
-### Issues Identified and Fixed
+### Issues Identified and Fixed — 2025-09-10 (detail)
 
 1. **C.md Alphabetical Issue:**
    - **Problem**: "Coherence" was positioned after "Cynicism" instead of before "Coherent"
@@ -183,7 +195,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -O
    - **Problem**: "Tandem" was positioned after "Tyrannical" instead of after "Tabulates"
    - **Fix Applied**: Moved "Tandem" to proper position after "Tabulates" and before "Temporal"
 
-### Final Verification Status
+### Final Verification Status — 2025-09-11
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK
 - **Total Words**: 249 vocabulary words across 26 files
@@ -213,7 +225,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -O
 - **Files**: C.md (30 words), N.md (5 words)  
 - **Total Words**: 243 vocabulary words across 26 files
 
-### Issues Identified and Fixed
+### Issues Identified and Fixed — 2025-09-05 (detail)
 
 1. **C.md Alphabetical Issue:**
    - **Problem**: "Culminating" was positioned after "Cynicism" instead of before "Culmination"
@@ -227,7 +239,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -O
    - **Correct Order**: Neutralize → Niche → Nuanced → Nuances → Nudge  
    - **Fix Applied**: Moved "Niche" to proper position after "Neutralize" and before "Nuanced"
 
-### Final Verification
+### Final Verification — 2025-09-05
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK
 - **Total Words**: 243 vocabulary words (up from 239)
@@ -281,7 +293,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vo
 2. **G.md**: Moved "Gerund" to correct position between "Garnered" and "Gratitude"
 3. **R.md**: Moved "Ranted" to beginning position before "Ratted"
 
-### Final Verification
+### Final Verification — 2025-09-01
 
 ```powershell
 pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1"
@@ -315,7 +327,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vo
 - **Y.md**: Yearn (1 word total)
 - **Z.md**: Zeal (1 word total)
 
-### Final Verification
+### Final Verification — 2025-08-18
 
 ```powershell
 pwsh -NoProfile -ExecutionPolicy Bypass -File "EnglishLearning/Scripts/Verify-Vocabulary.ps1" -OutFile "EnglishLearning/Logs/verify-20250901-141701.txt"
@@ -508,7 +520,7 @@ $words | ForEach-Object { Write-Host $_ }
 
 ## July 30, 2025 - Final Comprehensive Verification Session
 
-### Session Overview
+### Session Overview — 2025-06-25
 - **Date**: July 30, 2025 18:23:24
 - **Objective**: Complete verification of alphabetical ordering in all vocabulary files
 - **Status**: COMPLETED - All files verified as correctly ordered
@@ -995,7 +1007,7 @@ The inspirational quotes vocabulary collection is now COMPLETELY organized and r
 
 ## July 31, 2025 - Comprehensive Vocabulary Verification and Correction Session
 
-### Session Overview
+### Session Overview — 2025-07-31 (summary)
 
 - **Date**: July 31, 2025 15:47:16 - 15:56:50
 - **Objective**: Complete verification and correction of alphabetical ordering in all vocabulary files
