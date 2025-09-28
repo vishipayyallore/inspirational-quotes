@@ -71,3 +71,8 @@ This file contains definitions and e## Tyrannical
 
 **Meaning**: Exercising power in a cruel or arbitrary way.
 **Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.
+
+## Thematic
+
+**Meaning**: Relating to or based on a theme.
+**Usage**: "The thematic elements of the story revolve around courage and friendship." - The main ideas in the story focus on bravery and companionship.
