@@ -27,6 +27,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The occurrence and development of events by chance in a happy or beneficial way.
 **Usage**: "By serendipity, she discovered an old friend at the conference and landed a new project." - A fortunate coincidence that leads to a positive outcome.
 
+## Serenity
+
+**Meaning**: A state of being calm, peaceful, and untroubled.
+**Usage**: "She found serenity in the quiet hours before dawn." - A sense of inner peace and composure that helps one face difficulties.
+
 ## Sheer
 
 **Meaning**: Complete; utter; absolute.
