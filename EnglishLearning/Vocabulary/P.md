@@ -39,6 +39,12 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: The act of causing something to continue or be remembered.
 **Usage**: "The perpetuation of knowledge is essential for progress." - Keeping knowledge alive and relevant is crucial for advancement.
 
+## Perseverance
+
+**Meaning**: Steadfastness in doing something despite difficulty or delay in achieving success; continued effort to do or achieve something despite failures, setbacks, or obstacles.
+
+**Usage**: "Her perseverance through years of study finally paid off with a breakthrough." - Perseverance highlights the importance of sustained effort and determination.
+
 ## Persistence
 
 **Meaning**: Firm or obstinate continuance in a course of action despite difficulty.
