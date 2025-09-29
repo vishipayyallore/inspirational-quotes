@@ -57,15 +57,15 @@ This file contains definitions and e## Tyrannical
 **Meaning**: The extent to which an idea, product, or service gains popularity or acceptance.
 **Usage**: "The new initiative gained traction quickly among the community." - The project became popular and widely accepted in a short time.
 
-## Transient
-
-**Meaning**: Lasting only for a short time; impermanent.
-**Usage**: "Balance is transient, and you should seek experiences that contribute to an exciting and fulfilling life." - Perfect equilibrium is temporary, so focus on meaningful experiences.
-
 ## Tranquility
 
 **Meaning**: A state of peace, calmness, and quietude; freedom from disturbance.
 **Usage**: "In moments of tranquility, we often find our greatest insights." - Peaceful, undisturbed moments often lead to our most profound realizations.
+
+## Transient
+
+**Meaning**: Lasting only for a short time; impermanent.
+**Usage**: "Balance is transient, and you should seek experiences that contribute to an exciting and fulfilling life." - Perfect equilibrium is temporary, so focus on meaningful experiences.
 
 ## Triumph
 

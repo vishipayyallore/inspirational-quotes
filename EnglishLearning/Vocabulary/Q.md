@@ -9,6 +9,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Quell
+
+**Meaning**: To suppress or put an end to something.
+**Usage**: "The leader's speech was meant to quell the fears of the citizens." - The speech aimed to calm and reassure the public.
+
 ## Quest
 
 **Meaning**: A long or arduous search for something.
@@ -18,8 +23,3 @@ This file contains vocabulary words starting with the letter Q, along with their
 
 **Meaning**: A state of stillness, calmness, and quiet in a person or place.
 **Usage**: "In the midst of chaos, she found quietude within herself." - Finding inner peace and tranquility despite external turmoil.
-
-## Quell
-
-**Meaning**: To suppress or put an end to something.
-**Usage**: "The leader's speech was meant to quell the fears of the citizens." - The speech aimed to calm and reassure the public.
