@@ -179,8 +179,4 @@ This project serves learners of English as a second language. Ensure all content
 
 Add one new word to learn each day. Here's a recommended word you can use as today's entry:
 
-**Today's word (2025-09-28): Serenity**
-
-Insert into: `EnglishLearning/Vocabulary/S.md`
-
 Note: Before adding this word to `EnglishLearning/Vocabulary/[a-z].md`, run the verification script and preserve strict alphabetical ordering in the file.
