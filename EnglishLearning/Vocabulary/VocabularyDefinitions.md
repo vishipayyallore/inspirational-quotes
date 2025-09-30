@@ -8,7 +8,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [B Vocabulary](./B.md) - Words like Burnout
 - [C Vocabulary](./C.md) - Words like Charm, Clarity, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
-- [E Vocabulary](./E.md) - Words like Empowerment, Enduring, Execution
+- [E Vocabulary](./E.md) - Words like Elevate, Enkindle, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Flattery
 - [G Vocabulary](./G.md) - Words like Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
