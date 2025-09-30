@@ -37,6 +37,11 @@ This file contains definitions and e## Tyrannical
 **Meaning**: A principle or belief, especially one of the main principles of a religion or philosophy.
 **Usage**: "The tenet of 'treat others as you wish to be treated' is a universal truth." - The principle of reciprocity is a fundamental truth across cultures.
 
+## Thematic
+
+**Meaning**: Relating to or based on a theme.
+**Usage**: "The thematic elements of the story revolve around courage and friendship." - The main ideas in the story focus on bravery and companionship.
+
 ## Tiff
 
 **Meaning**: A petty quarrel or argument.
@@ -51,6 +56,11 @@ This file contains definitions and e## Tyrannical
 
 **Meaning**: The extent to which an idea, product, or service gains popularity or acceptance.
 **Usage**: "The new initiative gained traction quickly among the community." - The project became popular and widely accepted in a short time.
+
+## Tranquility
+
+**Meaning**: A state of peace, calmness, and quietude; freedom from disturbance.
+**Usage**: "In moments of tranquility, we often find our greatest insights." - Peaceful, undisturbed moments often lead to our most profound realizations.
 
 ## Transient
 

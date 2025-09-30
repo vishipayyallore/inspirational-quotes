@@ -13,9 +13,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
-> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
+> 1. **Never** put too much trust in friends. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
-> 1. **Always** say less than necessary. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous -- **Here**
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
@@ -25,22 +25,21 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
-> 1. **Appear** to be a friend but always maintain your position as a master. - Anonymous
 
 ## Mastery in 30 Minutes a Day
 
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
-> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K -- **Here**
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
 ## Trust Revealed by Actions
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
-> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
+> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
@@ -56,9 +55,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Life Lessons
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -79,11 +78,11 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
-> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous -- **Here**
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. Focus on developing skills, not clinging to job titles.
-> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
 > 1. Leaders are fallible; respectfully challenge when necessary.
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. Networking is essential for career advancement.
@@ -118,9 +117,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## The Wisdom of the Panchatantra
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
-> 1. Courage is essential for overcoming life's challenges. - Panchatantra -- **Here**
+> 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
-> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra -- **Here**
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
@@ -340,17 +339,17 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn't. - Rikki Rogers
 > 1. Empower yourself with knowledge and self-belief. - Anonymous
 > 1. The most common way people give up their power is by thinking they Do not have any. - Alice Walker
-> 1. Do not wait to strike till the iron is hot, but make it hot by striking. - William Butler Yeats -- **Here**
+> 1. Do not wait to strike till the iron is hot, but make it hot by striking. - William Butler Yeats
 > 1. The best way out is always through. - Robert Frost
 
 ## Gratitude and Positivity
 
-> 1. "Keep shining, because the right people will be blinded by your light." - Anonymous
-> 1. "Gratitude turns what we have into enough." - Anonymous
-> 1. "Positive anything is better than negative nothing." - Elbert Hubbard
-> 1. "Gratitude is not only the greatest of virtues but the parent of all the others." - Cicero
-> 1. "The more you praise and celebrate your life, the more there is in life to celebrate." - Oprah Winfrey
-> 1. "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love..." - Marcus Aurelius
+> 1. Keep shining, because the right people will be blinded by your light. - Anonymous -- **Here**
+> 1. Gratitude turns what we have into enough. - Anonymous
+> 1. Positive anything is better than negative nothing. - Elbert Hubbard
+> 1. Gratitude is not only the greatest of virtues but the parent of all the others. - Cicero
+> 1. The more you praise and celebrate your life, the more there is in life to celebrate. - Oprah Winfrey
+> 1. When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love... - Marcus Aurelius
 
 ## Creativity and Innovation
 
