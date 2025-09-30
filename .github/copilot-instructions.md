@@ -175,8 +175,24 @@ This project serves learners of English as a second language. Ensure all content
 - Supports progressive learning
 - Maintains educational value and positive messaging
 
-## Daily Word Suggestion
+## Daily Learning Routine
 
-Add one new word to learn each day. Here's a recommended word you can use as today's entry:
+To stay aligned with the user’s goals, every study session must cover:
 
-Note: Before adding this word to `EnglishLearning/Vocabulary/[a-z].md`, run the verification script and preserve strict alphabetical ordering in the file.
+1. **Vocabulary (≈3 minutes):** Introduce exactly one new word each day, add it to the appropriate `EnglishLearning/Vocabulary/[A-Z].md` file in strict alphabetical order, and document its meaning and usage.
+2. **Core Grammar Practice (≈6 minutes):** Use the updated `EnglishLearning/Daily/_Template.md` to drill a focused grammar concept, transforming sentences and creating an original example that applies the day’s vocabulary word.
+
+The entire routine should take no more than nine minutes. If any vocabulary file is edited, immediately run the verification script noted above and capture the command/output in `Scripts/Debug.md`.
+
+### Daily Vocabulary Workflow (`EnglishLearning/Vocabulary`)
+
+1. Select a new, unique word that does not already appear in any letter file.
+2. Insert the entry into the correct `EnglishLearning/Vocabulary/[A-Z].md` file, maintaining strict alphabetical order and the standard format (meaning + usage).
+3. Update `EnglishLearning/Vocabulary/VocabularyDefinitions.md` if the letter summary needs to mention the new word.
+4. Run `Scripts/Verify-Vocabulary.ps1` after every vocabulary edit and log the command/output in `Scripts/Debug.md`.
+
+### Daily English Mastery Workflow (`EnglishLearning/Daily`)
+
+1. Copy or reference `EnglishLearning/Daily/_Template.md` to structure the day’s lesson; total study time must remain within nine minutes (1 min centering, 3 min vocabulary, 4 min grammar drills, 1 min integration).
+2. Populate `EnglishLearning/Daily/DayN.md` with the chosen vocabulary word, the targeted grammar concept, and the required drill steps.
+3. Ensure the vocabulary word used in the lesson matches the daily word added to the vocabulary collection and that grammar practice produces an original sentence using that word.

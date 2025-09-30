@@ -19,7 +19,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 - Confirmed alphabetical integrity following the addition of *Enkindle* to `E.md`
 - Recorded per-file word counts as reported by the verification script
 
-
 ## September 26, 2025 - Verification Round After User Request
 
 ### Verification Round Results — 2025-09-26

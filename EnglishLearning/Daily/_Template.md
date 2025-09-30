@@ -1,63 +1,46 @@
-# Day 1: Building Basic Vocabulary (Primary Level)
+# Daily English Mastery Template (9 Minutes)
 
-## Date: Month XX, XXXX
+## Date: __________
 
-## Level: Primary
+## Level: __________
+
+## Core Focus: Vocabulary precision + essential grammar mastery
 
 ---
 
-### 1. Vocabulary (6 minutes)
+### 1. Quick Centering (1 minute)
 
-**Word 1:** Courage
+- Take three deep breaths and read today’s intention aloud.
+- Intention prompt: *“I learn English with clarity and confidence.”*
 
-- **Definition:** The ability to do something that frightens one; bravery.
-- **Level:** Primary
-- **Example from quotes:** "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
-- **Practice:** Write a simple sentence using "courage"
+### 2. Vocabulary Boost (3 minutes)
 
-**Word 2:** Gratitude
+- **Word:** ____________________
+- **Meaning:** ________________________________________________
+- **Usage in context:** "_____________________________________________"
+- **Micro-practice (1 min):** Say the word aloud three times and create one short sentence.
+- **Reflection (1 min):** Note how this word connects to your life or goals.
 
-- **Definition:** The quality of being thankful; readiness to show appreciation.
-- **Level:** Primary
-- **Example from quotes:** "Gratitude turns what we have into enough."
-- **Practice:** List three things you're grateful for today
+### 3. Core Grammar Drill (4 minutes)
 
-**Word 3:** Clarity
+- **Grammar concept:** ____________________
+- **Essentials:**
+ 	- Rule summary: ______________________________________
+ 	- Key pattern / formula: ______________________________
 
-- **Definition:** The quality of being clear and easily understood.
-- **Level:** Primary
-- **Example from quotes:** "True creativity comes from mental clarity, solitude, and freedom."
-- **Practice:** Describe a situation where you needed clarity
+- **Mini-drills (4 x 45 sec):**
+ 1. Read the rule and sample sentence.
+ 2. Transform the sample into a negative form.
+ 3. Transform it into a question.
+ 4. Create your own sentence using today’s vocabulary word.
 
-### 2. Reading (5 minutes)
+### 4. Integration Wrap-Up (1 minute)
 
-**Quote to analyze:** "Do not let what you cannot do interfere with what you can do." - John Wooden
+- Record one complete sentence that uses today’s vocabulary word *and* applies the grammar concept correctly.
+- Quick check: underline the vocabulary word, circle the grammar pattern.
 
-**Questions to consider:**
+---
 
-1. What does this quote mean to you?
-2. Can you think of a situation where this advice would be helpful?
-3. Try to restate this quote in your own simpler words
+### Progress Note (Optional, 30 seconds)
 
-### 3. Writing/Speaking Practice (4 minutes)
-
-**Topic:** My strengths and abilities
-
-**Prompt:** Write 3-4 simple sentences about things you are good at and how you can use these strengths.
-
-**Example start:**
-"I am good at _______. This helps me to _______..."
-
-### 4. Review (3 minutes)
-
-**Grammar focus:** Simple present tense
-
-- I am brave.
-- She shows gratitude.
-- They need clarity.
-
-**Practice:** Create two more simple present tense sentences using today's vocabulary words.
-
-## Tomorrow's Preview
-
-Tomorrow we'll focus on words related to personal growth, including "persistence," "focus," and "initiative."
+- Jot a quick win or confusion to revisit tomorrow.
