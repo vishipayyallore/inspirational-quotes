@@ -9,7 +9,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [C Vocabulary](./C.md) - Words like Charm, Clarity, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Enkindle, Execution
-- [F Vocabulary](./F.md) - Words like Fallible, Flattery
+- [F Vocabulary](./F.md) - Words like Fallible, Fathom, Flattery
 - [G Vocabulary](./G.md) - Words like Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
