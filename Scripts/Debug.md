@@ -13,6 +13,7 @@
 ```powershell
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
+
 ### Verification Round Results — 2025-10-01
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK immediately after adding *Fathom* to `F.md`
