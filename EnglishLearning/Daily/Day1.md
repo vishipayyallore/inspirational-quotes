@@ -1,63 +1,48 @@
-# Day 1: Building Basic Vocabulary (Primary Level)
+# Daily English Mastery Session — Day 1
 
-## Date: April 25, 2025
+## Date: October 1, 2025
 
-## Level: Primary
+## Level: Focused Self-Study
+
+## Core Focus: Expanding vocabulary while mastering the simple present tense
 
 ---
 
-### 1. Vocabulary (6 minutes)
+### 1. Quick Centering (1 minute)
 
-**Word 1:** Courage
+- Take three deep breaths and slowly repeat: *“I learn English with clarity and confidence.”*
+- Visualize using today’s grammar correctly in a real conversation.
 
-- **Definition:** The ability to do something that frightens one; bravery.
-- **Level:** Primary
-- **Example from quotes:** "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
-- **Practice:** Write a simple sentence using "courage"
+### 2. Vocabulary Boost (3 minutes)
 
-**Word 2:** Gratitude
+- **Word:** Enkindle
+- **Meaning:** To inspire or arouse a feeling, emotion, or enthusiasm.
+- **Usage in context:** "Let your curiosity enkindle steady, lifelong growth."
+- **Micro-practice (1 min):** Say “enkindle” aloud three times, then speak the usage sentence with strong emphasis on the verb.
+- **Reflection (1 min):** Note one situation today where you can enkindle enthusiasm—for yourself or someone else.
 
-- **Definition:** The quality of being thankful; readiness to show appreciation.
-- **Level:** Primary
-- **Example from quotes:** "Gratitude turns what we have into enough."
-- **Practice:** List three things you're grateful for today
+### 3. Core Grammar Drill (4 minutes)
 
-**Word 3:** Clarity
+- **Grammar concept:** Simple present tense (affirmative, negative, question)
+- **Essentials:**
+  - Rule summary: Use the base form of the verb; add *-s*/*-es* for he, she, it.
+  - Key pattern / formula: Subject + base verb (+ s/es for 3rd person).
 
-- **Definition:** The quality of being clear and easily understood.
-- **Level:** Primary
-- **Example from quotes:** "True creativity comes from mental clarity, solitude, and freedom."
-- **Practice:** Describe a situation where you needed clarity
+- **Mini-drills (4 x 45 sec):**
 
-### 2. Reading (5 minutes)
+ 1. Read the sample: “I enkindle optimism each morning.”
+ 2. Transform to negative: “I do not enkindle optimism each morning.”
+ 3. Transform to a question: “Do I enkindle optimism each morning?”
+ 4. Create your own sentence using “enkindle” with *he* or *she* in the simple present.
 
-**Quote to analyze:** "Do not let what you cannot do interfere with what you can do." - John Wooden
+### 4. Integration Wrap-Up (1 minute)
 
-**Questions to consider:**
+- Record one sentence that uses “enkindle” correctly in the simple present tense.
+- Underline “enkindle” and circle the helping verb (if any) to verify correct structure.
 
-1. What does this quote mean to you?
-2. Can you think of a situation where this advice would be helpful?
-3. Try to restate this quote in your own simpler words
+---
 
-### 3. Writing/Speaking Practice (4 minutes)
+### Progress Note (Optional, 30 seconds)
 
-**Topic:** My strengths and abilities
-
-**Prompt:** Write 3-4 simple sentences about things you are good at and how you can use these strengths.
-
-**Example start:**
-"I am good at _______. This helps me to _______..."
-
-### 4. Review (3 minutes)
-
-**Grammar focus:** Simple present tense
-
-- I am brave.
-- She shows gratitude.
-- They need clarity.
-
-**Practice:** Create two more simple present tense sentences using today's vocabulary words.
-
-## Tomorrow's Preview
-
-Tomorrow we'll focus on words related to personal growth, including "persistence," "focus," and "initiative."
+- Quick win: _____________________________________
+- Question for tomorrow: __________________________

@@ -34,6 +34,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Lasting over a period of time; durable.
 **Usage**: "Real change, enduring change, happens one step at a time." - Lasting transformation occurs gradually.
 
+## Enkindle
+
+**Meaning**: To inspire or arouse a feeling, emotion, or enthusiasm.
+**Usage**: "Let your vision enkindle a fierce commitment to growth." - Ignite passion and dedication through a compelling goal.
+
 ## Entail
 
 **Meaning**: To involve something as a necessary or inevitable part or consequence.
