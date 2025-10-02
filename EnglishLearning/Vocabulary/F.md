@@ -24,6 +24,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: Capable of making mistakes or being wrong.
 **Usage**: "Leaders are fallible; respectfully challenge when necessary." - Even those in authority can be wrong sometimes.
 
+## Fathom
+
+**Meaning**: To understand something deeply or completely.
+**Usage**: "She couldn't fathom the complexity of the puzzle." - Fully comprehend intricate ideas or problems.
+
 ## Fictitious
 
 **Meaning**: Not real or true; imaginary or fabricated.
