@@ -51,6 +51,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
+> 1. Everyone wears a mask of innocence, until their true face is revealed. — Viswanatha Swamy P K
 
 ## Life Lessons
 
