@@ -19,6 +19,11 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: A verb form that functions as a noun, typically ending in -ing.
 **Usage**: "In the sentence 'Swimming is fun,' 'swimming' is a gerund." - Here, 'swimming' acts as a noun, representing the activity itself.
 
+## Glisten
+
+**Meaning**: To shine with reflected light; sparkle.
+**Usage**: "Her eyes glistened with tears of joy." - Expresses a clear, shining reflection in the eyes.
+
 ## Gratitude
 
 **Meaning**: The quality of being thankful; readiness to show appreciation.  
