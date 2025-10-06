@@ -25,6 +25,18 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## September 26, 2025 - Verification Round After User Request
 
+## October 4, 2025 - Daily Word Verification
+
+### Commands Used — 2025-10-04
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
+```
+
+### Verification Round Results — 2025-10-04
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK after adding *Glisten* to `G.md`
+
 ### Verification Round Results — 2025-09-26
 
 - **Initial Status**: Ran verification as requested by user; found R.md OUT OF ORDER

@@ -10,7 +10,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Enkindle, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Fathom, Flattery
-- [G Vocabulary](./G.md) - Words like Gratitude
+- [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
 - [J Vocabulary](./J.md) - Ready for vocabulary words
