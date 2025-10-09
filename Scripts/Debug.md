@@ -14,9 +14,9 @@
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
-### Verification Round Results — 2025-10-01
+### Verification Round Results — 2025-10-09
 
-- **Status**: ✅ ALL 26 FILES VERIFIED OK immediately after adding *Fathom* to `F.md`
+- **Status**: ✅ ALL 26 FILES VERIFIED OK after correcting *S.md* and adding *Tangible* to `T.md`
 
 ### Session Notes — 2025-09-30
 
@@ -43,9 +43,74 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
-### Verification Round Results — 2025-10-09
+- ### Verification Round Results — 2025-10-09
 
-- **Status**: ✅ ALL 26 FILES VERIFIED OK after correcting *S.md*
+-
+- **Status**: ✅ ALL 26 FILES VERIFIED OK after correcting *S.md* and adding *Tangible* to `T.md`
+
+### Verification Details — 2025-10-09 18:40:48
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
+# Verification run: 2025-10-09 18:40:48
+A.md -> OK (24 words)
+B.md -> OK (9 words)
+C.md -> OK (33 words)
+D.md -> OK (16 words)
+E.md -> OK (12 words)
+F.md -> OK (12 words)
+G.md -> OK (7 words)
+H.md -> OK (1 words)
+I.md -> OK (20 words)
+J.md -> OK (1 words)
+K.md -> OK (1 words)
+L.md -> OK (2 words)
+M.md -> OK (5 words)
+N.md -> OK (5 words)
+O.md -> OK (6 words)
+P.md -> OK (25 words)
+Q.md -> OK (3 words)
+R.md -> OK (22 words)
+S.md -> OK (23 words)
+T.md -> OK (15 words)
+U.md -> OK (13 words)
+V.md -> OK (7 words)
+W.md -> OK (3 words)
+X.md -> OK (1 words)
+Y.md -> OK (1 words)
+Z.md -> OK (1 words)
+```
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
+# Verification run: 2025-10-09 18:40:48
+A.md -> OK (24 words)
+B.md -> OK (9 words)
+C.md -> OK (33 words)
+D.md -> OK (16 words)
+E.md -> OK (12 words)
+F.md -> OK (12 words)
+G.md -> OK (7 words)
+H.md -> OK (1 words)
+I.md -> OK (20 words)
+J.md -> OK (1 words)
+K.md -> OK (1 words)
+L.md -> OK (2 words)
+M.md -> OK (5 words)
+N.md -> OK (5 words)
+O.md -> OK (6 words)
+P.md -> OK (25 words)
+Q.md -> OK (3 words)
+R.md -> OK (22 words)
+S.md -> OK (23 words)
+T.md -> OK (15 words)
+U.md -> OK (13 words)
+V.md -> OK (7 words)
+W.md -> OK (3 words)
+X.md -> OK (1 words)
+Y.md -> OK (1 words)
+Z.md -> OK (1 words)
+```  
 
 ### Verification Round Results — 2025-09-26
 
