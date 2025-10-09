@@ -23,7 +23,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [Q Vocabulary](./Q.md) - Ready for vocabulary words
 - [R Vocabulary](./R.md) - Words like Reciprocate, Resilience, Restraint
 - [S Vocabulary](./S.md) - Words like Solitude, Swindler
-- [T Vocabulary](./T.md) - Words like Tenacity, Transient, Triumph
+- [T Vocabulary](./T.md) - Words like Tenacity, Tangible, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Vision, Vector
 - [W Vocabulary](./W.md) - Words like Wit

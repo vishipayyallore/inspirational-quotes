@@ -37,6 +37,16 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK after adding *Glisten* to `G.md`
 
+### Commands Used — 2025-10-09
+
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
+```
+
+### Verification Round Results — 2025-10-09
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK after correcting *S.md*
+
 ### Verification Round Results — 2025-09-26
 
 - **Initial Status**: Ran verification as requested by user; found R.md OUT OF ORDER
