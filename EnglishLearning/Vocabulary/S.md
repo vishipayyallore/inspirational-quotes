@@ -126,3 +126,8 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: To combine different ideas, influences, or objects into a coherent whole.
 **Usage**: "The ability to synthesize information from various sources is crucial for effective research." - Integrating diverse data is essential for comprehensive analysis.
+
+## Stalwarts
+
+**Meaning**: Loyal, reliable, and hard-working supporters or participants in an organization or movement.
+**Usage**: "The stalwarts of the community worked tirelessly to support the local charity." - Dedicated individuals often form the backbone of any successful initiative.
