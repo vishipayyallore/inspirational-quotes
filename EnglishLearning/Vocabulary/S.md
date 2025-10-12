@@ -1,9 +1,6 @@
 # S Vocabulary Definitions
 
-This file contains definitions and example usage for "S" words found in the inspi## Synthesize
-
-**Meaning**: To combine a number of things into a coherent whole.
-**Usage**: "The ability to synthesize information from various sources is crucial for effective research." - Integrating diverse data is essential for comprehensive analysis.s collection.
+This file contains definitions and example usage for "S" words found in the inspirational quotes collection.
 
 <!-- Add vocabulary words here following the format:
 ## WordName
@@ -82,6 +79,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Strange and frightening.
 **Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
 
+## Stalwarts
+
+**Meaning**: Loyal, reliable, and hard-working supporters or participants in an organization or movement.
+**Usage**: "The stalwarts of the community worked tirelessly to support the local charity." - Dedicated individuals often form the backbone of any successful initiative.
+
 ## Steer
 
 **Meaning**: To guide or control the direction of something.
@@ -121,8 +123,3 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A brief summary or general survey of a subject.
 **Usage**: "The synopsis of the book provided a clear overview of the main themes." - A summary can help readers quickly understand the key points of a text.
-
-## Synthesize
-
-**Meaning**: To combine different ideas, influences, or objects into a coherent whole.
-**Usage**: "The ability to synthesize information from various sources is crucial for effective research." - Integrating diverse data is essential for comprehensive analysis.

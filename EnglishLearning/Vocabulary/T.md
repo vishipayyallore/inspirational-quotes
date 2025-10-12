@@ -22,6 +22,11 @@ This file contains definitions and e## Tyrannical
 **Meaning**: In conjunction or partnership; working together.
 **Usage**: "The two departments worked in tandem to complete the project." - Collaboration between teams can lead to more effective outcomes.
 
+## Tangible
+
+**Meaning**: Perceptible by touch; real or actual.
+**Usage**: "The results provided tangible evidence of improvement." - Showing actual proof helps demonstrate progress.
+
 ## Temporal
 
 **Meaning**: Relating to worldly as opposed to spiritual affairs; secular.
