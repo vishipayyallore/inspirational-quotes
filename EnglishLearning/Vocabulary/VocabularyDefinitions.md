@@ -28,8 +28,8 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [V Vocabulary](./V.md) - Words like Vision, Vector
 - [W Vocabulary](./W.md) - Words like Wit
 - [X Vocabulary](./X.md) - Ready for vocabulary words
-- [Y Vocabulary](./Y.md) - Ready for vocabulary words
-- [Z Vocabulary](./Z.md) - Ready for vocabulary words
+- [Y Vocabulary](./Y.md) - Words like Yearn, Yield
+- [Z Vocabulary](./Z.md) - Words like Zeal, Zephyr
 
 ## How to Use This Collection
 
