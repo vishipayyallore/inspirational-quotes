@@ -87,6 +87,26 @@ Z.md -> OK (1 words)
 pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
+### Verification Round Results — 2025-10-16
+
+- **Status**: ⚠️ Some files require reordering (A.md out of order after adding new word)
+- **Details**: Added `Acquire` to `A.md` but it must be placed before `Acumen` to maintain strict alphabetical order.
+- **Log saved**: `Logs/verify-20251016-172901.txt`
+
+### Verification Details — 2025-10-16 17:29:02
+
+```powershell
+# Command run using user's default PowerShell (powershell.exe)
+# Verification run saved at Logs/verify-20251016-172901.txt
+# Verification run: 2025-10-16 17:29:02
+A.md -> OUT OF ORDER (26 words)
+    Current: Abandon, Acknowledge, Adherence, Advent, Adversary, Adversity, Advocate, Aesthetic, Agnostic, Akin, Alleviate, Altruism, Amassed, Amplitude, Anecdotes, Armor, Aroused, Aspects, Aspire, Attain, Authenticity, Avionics, Awareness, Axiom, Acumen, Acquire
+    Correct: Abandon, Acknowledge, Acquire, Acumen, Adherence, Advent, Adversary, Adversity, Advocate, Aesthetic, Agnostic, Akin, Alleviate, Altruism, Amassed, Amplitude, Anecdotes, Armor, Aroused, Aspects, Aspire, Attain, Authenticity, Avionics, Awareness, Axiom
+C.md -> OK (33 words)
+D.md -> OK (16 words)
+... (other files OK)
+```
+
 ### Verification Round Results — 2025-10-13
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK
