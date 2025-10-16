@@ -19,6 +19,16 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To recognize the existence, truth, or validity of something.
 **Usage**: "Acknowledge your mistakes to learn and grow." - Accepting your errors is essential for personal development.
 
+## Acquire
+
+**Meaning**: To obtain or gain possession of something through effort or experience.
+**Usage**: "Acquire knowledge one step at a time." - Learning is a gradual process; steady effort leads to new understanding.
+
+## Acumen
+
+**Meaning**: The ability to make good judgments and quick decisions, typically in a particular domain.
+**Usage**: "Her business acumen helped the startup thrive." - Her sharp insight and understanding of business contributed to the company's success.
+
 ## Adherence
 
 **Meaning**: The act of following or upholding a rule, guideline, or standard.
@@ -128,13 +138,4 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
-
-## Acumen
-
-**Meaning**: The ability to make good judgments and quick decisions, typically in a particular domain.
-**Usage**: "Her business acumen helped the startup thrive." - Her sharp insight and understanding of business contributed to the company's success.
  
-## Acquire
-
-**Meaning**: To obtain or gain possession of something through effort or experience.
-**Usage**: "Acquire knowledge one step at a time." - Learning is a gradual process; steady effort leads to new understanding.
