@@ -121,8 +121,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra -- **Here**
-> 1. Gather all the facts before accepting what you are told. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Gather all the facts before accepting what you are told. - Panchatantra -- **Here**
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
@@ -346,8 +346,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Gratitude and Positivity
 
 > 1. Keep shining, because the right people will be blinded by your light. - Anonymous
-> 1. Gratitude turns what we have into enough. - Anonymous -- **Here**
-> 1. Positive anything is better than negative nothing. - Elbert Hubbard
+> 1. Gratitude turns what we have into enough. - Anonymous
+> 1. Positive anything is better than negative nothing. - Elbert Hubbard -- **Here**
 > 1. Gratitude is not only the greatest of virtues but the parent of all the others. - Cicero
 > 1. The more you praise and celebrate your life, the more there is in life to celebrate. - Oprah Winfrey
 > 1. When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love... - Marcus Aurelius
