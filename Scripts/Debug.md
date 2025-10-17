@@ -107,6 +107,25 @@ D.md -> OK (16 words)
 ... (other files OK)
 ```
 
+### Verification Round Results — 2025-10-16 (after ordering fix)
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK
+- **Details**: Moved `Acquire` so it appears before `Acumen` in `A.md` to restore alphabetical order.
+- **Log saved**: `Logs/verify-20251016-194548.txt`
+
+### Verification Details — 2025-10-16 19:45:49
+
+```powershell
+# Command run using user's default PowerShell (powershell.exe)
+# Verification run saved at Logs/verify-20251016-194548.txt
+# Verification run: 2025-10-16 19:45:49
+A.md -> OK (26 words)
+B.md -> OK (9 words)
+C.md -> OK (33 words)
+D.md -> OK (16 words)
+... (other files OK)
+```
+
 ### Verification Round Results — 2025-10-13
 
 - **Status**: ✅ ALL 26 FILES VERIFIED OK
