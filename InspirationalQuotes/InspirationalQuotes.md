@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
-> 1. **Court attention** at all costs. - Anonymous -- **Here**
-> 1. **Win through your actions**, never through argument. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous
+> 1. **Win through your actions**, never through argument. - Anonymous -- **Here**
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
@@ -28,8 +28,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
@@ -40,8 +40,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
@@ -59,8 +59,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
-> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous -- **Here**
-> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
+> 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
+> 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous -- **Here**
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
@@ -77,43 +77,43 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 ## Smart Career Strategies
 
-> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
-> 1. Results matter more than effort; advocate for your accomplishments.
+> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous -- **Here**
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
-> 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
-> 1. Focus on developing skills, not clinging to job titles.
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
-> 1. Leaders are fallible; respectfully challenge when necessary.
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
-> 1. Networking is essential for career advancement.
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
-> 1. Prioritize your well-being and energy; avoid burnout.
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
-> 1. Growth occurs outside your comfort zone.
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
-> 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
-> 1. Focus on making an impact, not on being irreplaceable.
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
-> 1. Prioritize progress over perfection; done is better than perfect.
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
-> 1. Career paths are rarely linear; embrace detours and pivots.
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
-> 1. Take ownership of your career; proactively pursue opportunities.
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
-> 1. Great leaders inspire and motivate.
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
-> 1. Financial security can significantly improve your life.
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
-> 1. Prioritize what matters most to you at each stage of your life.
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
-> 1. Your career significantly influences your overall well-being.
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
-> 1. The right career choice enhances happiness and health.
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
-> 1. Adapt your priorities as your needs and goals evolve.
 > 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
+> 1. Results matter more than effort; advocate for your accomplishments.
+> 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
+> 1. Focus on developing skills, not clinging to job titles.
+> 1. Leaders are fallible; respectfully challenge when necessary.
+> 1. Networking is essential for career advancement.
+> 1. Prioritize your well-being and energy; avoid burnout.
+> 1. Growth occurs outside your comfort zone.
+> 1. Feedback, even harsh feedback, offers valuable learning opportunities.
+> 1. Focus on making an impact, not on being irreplaceable.
+> 1. Prioritize progress over perfection; done is better than perfect.
+> 1. Career paths are rarely linear; embrace detours and pivots.
+> 1. Take ownership of your career; proactively pursue opportunities.
+> 1. Great leaders inspire and motivate.
+> 1. Prioritize what matters most to you at each stage of your life.
+> 1. Financial security can significantly improve your life.
+> 1. Your career significantly influences your overall well-being.
+> 1. The right career choice enhances happiness and health.
+> 1. Adapt your priorities as your needs and goals evolve.
 
 ## The Wisdom of the Panchatantra
 
