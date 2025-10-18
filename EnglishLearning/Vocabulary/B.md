@@ -14,6 +14,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A state of equilibrium or equal distribution of weight or force.
 **Usage**: "Balance is key to a fulfilling life." - Finding harmony between different aspects of life is essential for happiness.
 
+## Benevolence
+
+**Meaning**: The quality of being well-meaning and generous; kindness toward others.
+**Usage**: "Small acts of benevolence can change someone's day." - Even brief, kind actions add up and inspire those around you.
+
 ## bespoke
 
 **Meaning**: Made for a particular customer or user; custom-made.
