@@ -29,6 +29,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: To make sense of something that is difficult to understand; to interpret.
 **Usage**: "Deciphering complex texts requires patience and skill." - Understanding challenging material often takes time and effort.
 
+## Dedicated
+
+**Meaning**: Devoting oneself to a task or purpose with commitment and focus; committed to a particular activity or cause.
+**Usage**: "A dedicated student will succeed through persistent effort." - Commitment and focus are key ingredients for achieving goals.
+
 ## Deletable
 
 **Meaning**: Capable of being removed or erased.
