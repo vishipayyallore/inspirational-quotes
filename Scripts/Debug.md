@@ -50,6 +50,16 @@ Write-Output "Saved verification log to $log"
 
 ---
 
+### October 19, 2025 - Add Ephemeral
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added `Ephemeral` to `E.md` in correct alphabetical position (after Envy, before Episodic).
+**Log**: `Logs/verify-20251019-111218.txt`
+**Timestamp**: 2025-10-19 11:12:19
+**E.md word count**: 13 words (was 12)
+
+---
+
 ## Current Vocabulary Collection Status
 
 - **Total vocabulary words**: 279+ across 26 files (A–Z)

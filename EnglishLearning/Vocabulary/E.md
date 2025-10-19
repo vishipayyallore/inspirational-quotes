@@ -49,6 +49,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.
 **Usage**: "Envy is the art of counting the other fellow's blessings instead of your own." - Focusing on what others have rather than appreciating what you possess.
 
+## Ephemeral
+
+**Meaning**: Lasting for a very short time; transitory or fleeting.
+**Usage**: "Beauty is ephemeral, which is why we must appreciate each moment." - The temporary nature of good things makes them more precious.
+
 ## Episodic
 
 **Meaning**: Occurring in a series of separate parts or events.
