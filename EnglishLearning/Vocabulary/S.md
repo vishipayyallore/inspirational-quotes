@@ -84,6 +84,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Loyal, reliable, and hard-working supporters or participants in an organization or movement.
 **Usage**: "The stalwarts of the community worked tirelessly to support the local charity." - Dedicated individuals often form the backbone of any successful initiative.
 
+## Steadfast
+
+**Meaning**: Resolutely or dutifully firm and unwavering; staying loyal and committed.
+**Usage**: "Remain steadfast in pursuit of your goals, even when faced with obstacles." - Persistence and unwavering commitment lead to success despite challenges.
+
 ## Steer
 
 **Meaning**: To guide or control the direction of something.
@@ -104,6 +109,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Moving away from the correct path or direction; wandering.
 **Usage**: "Straying from your goals can lead to confusion and lack of purpose." - Losing focus on your objectives can create uncertainty in your life.
 
+## Subtle
+
+**Meaning**: Delicate or precise as to be difficult to analyze or describe.
+**Usage**: "There was a subtle difference between the two proposals." - This indicates that the distinction is not immediately obvious and requires careful consideration.
+
 ## Subtleties
 
 **Meaning**: The fine or delicate details or nuances of something.
@@ -123,8 +133,3 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A brief summary or general survey of a subject.
 **Usage**: "The synopsis of the book provided a clear overview of the main themes." - A summary can help readers quickly understand the key points of a text.
-
-## Subtle
-
-**Meaning**: Delicate or precise as to be difficult to analyze or describe.
-**Usage**: "There was a subtle difference between the two proposals." - This indicates that the distinction is not immediately obvious and requires careful consideration.
