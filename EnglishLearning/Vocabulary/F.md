@@ -33,6 +33,7 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: Not real or true; imaginary or fabricated.
 **Usage**: "The story was entirely fictitious, created for entertainment." - The narrative was made up and not based on real events.
+
 ## Flagship
 
 **Meaning**: The most important or leading item in a group, often used to describe a company's best product or service.
