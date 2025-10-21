@@ -33,7 +33,6 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: Not real or true; imaginary or fabricated.
 **Usage**: "The story was entirely fictitious, created for entertainment." - The narrative was made up and not based on real events.
-
 ## Flagship
 
 **Meaning**: The most important or leading item in a group, often used to describe a company's best product or service.
@@ -48,6 +47,11 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
+
+## Fortitude
+
+**Meaning**: Courage and strength of mind in the face of adversity; mental resilience.
+**Usage**: "Her fortitude during difficult times inspired everyone around her." - Staying strong and composed when challenged.
 
 ## Fragmented
 
