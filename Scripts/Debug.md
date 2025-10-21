@@ -60,12 +60,40 @@ Write-Output "Saved verification log to $log"
 
 ---
 
+### October 20, 2025 - Add Steadfast
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added `Steadfast` to `S.md` in correct alphabetical position (after Stalwarts, before Steer). Also corrected existing ordering issue by moving `Subtle` before `Subtleties`.
+**Log**: `Logs/verify-20251020-120401.txt`
+**Timestamp**: 2025-10-20 12:04:02
+**S.md word count**: 25 words (was 26, but one word reordered)
+
+---
+
+### October 20, 2025 - Add Flagship
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added `Flagship` to `F.md` in correct alphabetical position (after Fictitious, before Flattery). Removed duplicate entry and restored alphabetical order.
+**Verification run**: 2025-10-20 16:26:11
+**F.md word count**: 13 words
+
+---
+
+### October 20, 2025 - Add two words to F.md
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added two new words to `F.md`. Alphabetical order confirmed for all vocabulary files.
+**Verification run**: 2025-10-20 16:48:53
+**F.md word count**: 13 words
+
+---
+
 ## Current Vocabulary Collection Status
 
-- **Total vocabulary words**: 279+ across 26 files (A–Z)
+- **Total vocabulary words**: 281+ across 26 files (A–Z)
 - **Files verified**: All 26 files in perfect alphabetical order
-- **Recent additions**: Acquire (A), Benevolence (B), Dedicated (D)
-- **Last verified**: 2025-10-18 23:03:52
+- **Recent additions**: Acquire (A), Benevolence (B), Dedicated (D), Ephemeral (E), Steadfast (S), Flagship (F)
+- **Last verified**: 2025-10-20 16:48:53
 
 ---
 
