@@ -1,9 +1,6 @@
 # T Vocabulary Definitions
 
-This file contains definitions and e## Tyrannical
-
-**Meaning**: Exercising power in a cruel or arbitrary way; oppressive.
-**Usage**: "The tyrannical rule of fear can be overcome by the power of love." - Oppressive control can be defeated by compassion and kindness.age for "T" words found in the inspirational quotes collection.
+This file contains definitions and example usage for "T" words found in the inspirational quotes collection.
 
 <!-- Add vocabulary words here following the format:
 ## WordName
@@ -31,6 +28,11 @@ This file contains definitions and e## Tyrannical
 
 **Meaning**: Relating to worldly as opposed to spiritual affairs; secular.
 **Usage**: "The temporal world is fleeting; focus on what truly matters." - The material world is temporary, so prioritize what is genuinely important.
+
+## Tenacious
+
+**Meaning**: Holding fast; characterized by keeping a firm hold; persistent.
+**Usage**: "Her tenacious spirit helped her overcome every obstacle." - Being determined and persistent can help you push through challenges.
 
 ## Tenacity
 
