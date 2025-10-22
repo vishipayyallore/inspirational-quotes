@@ -56,6 +56,20 @@ inspirational-quotes/
 
 ## Coding Guidelines
 
+### AI agent guidance: ReAct & concise reasoning
+
+- Use the ReAct prompting pattern: interleave brief, task-focused reasoning steps (Reason) with explicit, verifiable actions (Act). Keep each reasoning step short and factual (one or two sentences max).
+- Never expose chain-of-thought, internal deliberations, or detailed private reasoning in repository files, logs, commit messages, or user-facing outputs. Instead, provide a concise "Reasoning summary" (1-2 sentences) that explains the decision at a high level.
+- Before any tool call or file edit, include a one-line purpose/outcome statement describing why the action is being taken and the expected result. After the action, log a short action summary and the observed outcome.
+- When documenting changes (in `Scripts/Debug.md`, PR descriptions, or commit messages) follow this minimal template:
+   1. Reasoning summary: <one-line, 1-2 sentences>
+   2. Action(s) taken: <concise bullet list>
+   3. Outcome / verification: <command run or verification result>
+- Use the TODO management tool to record progress and mark one task in-progress at a time; include concise reasoning summaries for why the next step is chosen.
+
+These rules keep explanations useful and auditable while protecting internal reasoning. They are required for all automated assistants and contributors who interact with the repository.
+
+
 ### Vocabulary File Standards
 
 When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
