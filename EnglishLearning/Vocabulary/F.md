@@ -49,6 +49,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
 
+## Fortitude
+
+**Meaning**: Courage and strength of mind in the face of adversity; mental resilience.
+**Usage**: "Her fortitude during difficult times inspired everyone around her." - Staying strong and composed when challenged.
+
 ## Fragmented
 
 **Meaning**: Broken or incomplete; consisting of disconnected parts.

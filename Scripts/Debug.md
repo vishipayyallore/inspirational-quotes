@@ -88,6 +88,13 @@ Write-Output "Saved verification log to $log"
 
 ---
 
+### October 21, 2025 - Add Fortitude
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added `Fortitude` to `F.md` in correct alphabetical position (after Flaunt, before Fragmented). Ran verification and resolved related ordering issues in `C.md` and `R.md`.
+**Verification run**: 2025-10-21 11:02:44
+**F.md word count**: 14 words
+
 ## Current Vocabulary Collection Status
 
 - **Total vocabulary words**: 281+ across 26 files (A–Z)
