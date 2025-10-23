@@ -95,6 +95,15 @@ Write-Output "Saved verification log to $log"
 **Verification run**: 2025-10-21 11:02:44
 **F.md word count**: 14 words
 
+---
+
+### October 22, 2025 - Add Tenacious
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added `Tenacious` to `T.md` in correct alphabetical position (after Temporal, before Tenacity). Fixed file header formatting issue.
+**Verification run**: 2025-10-22 11:02:19
+**T.md word count**: 16 words
+
 ## Current Vocabulary Collection Status
 
 - **Total vocabulary words**: 281+ across 26 files (A–Z)
