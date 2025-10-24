@@ -104,6 +104,15 @@ Write-Output "Saved verification log to $log"
 **Verification run**: 2025-10-22 11:02:19
 **T.md word count**: 16 words
 
+---
+
+### October 24, 2025 - Add Unwavering
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added `Unwavering` to `U.md` in correct alphabetical position (after Unremarkable, before Ushered).
+**Verification run**: 2025-10-24 11:15:41
+**U.md word count**: 14 words
+
 ## Current Vocabulary Collection Status
 
 - **Total vocabulary words**: 281+ across 26 files (A–Z)
