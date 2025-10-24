@@ -64,6 +64,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Not particularly interesting or surprising; ordinary.
 **Usage**: "Transformations come from daily, unremarkable steps that no one else sees." - Significant changes often result from small, ordinary actions repeated consistently.
 
+## Unwavering
+
+**Meaning**: Steady or resolute; not wavering or changing; firm in purpose or resolve.
+**Usage**: "Her unwavering determination led her to achieve her dreams." - Maintaining steady focus and commitment helps achieve long-term goals.
+
 ## Ushered
 
 **Meaning**: To guide or escort someone to a particular place; to introduce or initiate.
