@@ -43,3 +43,8 @@ This file contains definitions and example usage for "V" words found in the insp
 
 **Meaning**: In a way that produces powerful feelings or strong, clear images in the mind.
 **Usage**: "She vividly remembers the day they met." - This emphasizes the clarity and intensity of her memory.
+
+## Virtues
+
+**Meaning**: Behavior showing high moral standards.
+**Usage**: "Patience is a virtue." - This highlights the importance of being patient as a moral quality.

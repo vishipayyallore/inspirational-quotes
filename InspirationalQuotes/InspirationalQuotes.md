@@ -19,8 +19,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
-> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous -- **Here**
-> 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
+> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
+> 1. **Mirror** the desires and values of those you wish to influence. - Anonymous -- **Here**
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
@@ -30,8 +30,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
-> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K -- **Here**
-> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
+> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K -- **Here**
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
 ## Trust Revealed by Actions
@@ -42,8 +42,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -61,8 +61,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
@@ -78,8 +78,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Smart Career Strategies
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
-> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous -- **Here**
-> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
+> 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
+> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous -- **Here**
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
@@ -123,8 +123,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
-> 1. One's true nature will eventually be revealed. - Panchatantra -- **Here**
-> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. One's true nature will eventually be revealed. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
@@ -348,8 +348,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Keep shining, because the right people will be blinded by your light. - Anonymous
 > 1. Gratitude turns what we have into enough. - Anonymous
 > 1. Positive anything is better than negative nothing. - Elbert Hubbard
-> 1. Gratitude is not only the greatest of virtues but the parent of all the others. - Cicero -- **Here**
-> 1. The more you praise and celebrate your life, the more there is in life to celebrate. - Oprah Winfrey
+> 1. Gratitude is not only the greatest of virtues but the parent of all the others. - Cicero
+> 1. The more you praise and celebrate your life, the more there is in life to celebrate. - Oprah Winfrey -- **Here**
 > 1. When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love... - Marcus Aurelius
 
 ## Creativity and Innovation
