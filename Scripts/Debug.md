@@ -122,6 +122,16 @@ Write-Output "Saved verification log to $log"
 **Verification run**: 2025-10-25 09:00:52
 **S.md word count**: 27 words
 
+---
+
+### October 25, 2025 - User additions
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: User added `Agrestic` to `A.md` (after Agnostic, before Akin) and one word to `T.md`. Fixed ordering issue by moving `Agrestic` to correct position in A.md.
+**Verification run**: 2025-10-25 20:42:24
+**A.md word count**: 27 words (was 26)
+**T.md word count**: 17 words (was 16)
+
 ## Current Vocabulary Collection Status
 
 - **Total vocabulary words**: 281+ across 26 files (A–Z)

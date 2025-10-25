@@ -64,6 +64,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: A person who believes that the existence of God or the divine is unknown or unknowable.
 **Usage**: "He remained agnostic about the afterlife." - He did not commit to any belief regarding what happens after death.
 
+## Agrestic
+
+**Meaning**: Rural; rustic; characteristic of the countryside.
+**Usage**: "The agrestic charm of the village attracted many city dwellers." - The simple, rural beauty of the village appealed to those from urban areas.
+
 ## Akin
 
 **Meaning**: Similar or related in nature.
@@ -138,8 +143,3 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
-
-## Agrestic
-
-**Meaning**: Rural; rustic; characteristic of the countryside.
-**Usage**: "The agrestic charm of the village attracted many city dwellers." - The simple, rural beauty of the village appealed to those from urban areas.
