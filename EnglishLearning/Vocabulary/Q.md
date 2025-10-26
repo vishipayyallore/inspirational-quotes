@@ -23,3 +23,8 @@ This file contains vocabulary words starting with the letter Q, along with their
 
 **Meaning**: A state of stillness, calmness, and quiet in a person or place.
 **Usage**: "In the midst of chaos, she found quietude within herself." - Finding inner peace and tranquility despite external turmoil.
+
+## Quotha
+
+**Meaning**: An expression used to repeat someone else's words, often with skepticism or disbelief.
+**Usage**: "He said he would help, quotha." - The speaker is quoting someone else's promise but expressing doubt about its sincerity.
