@@ -24,6 +24,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The occurrence and development of events by chance in a happy or beneficial way.
 **Usage**: "By serendipity, she discovered an old friend at the conference and landed a new project." - A fortunate coincidence that leads to a positive outcome.
 
+## Serene
+
+**Meaning**: Calm, peaceful, and untroubled; tranquil.
+**Usage**: "The serene lake reflected the mountains perfectly in its still waters." - A state of complete peace and quietness that brings inner calm.
+
 ## Serenity
 
 **Meaning**: A state of being calm, peaceful, and untroubled.
@@ -48,6 +53,11 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: The act of reading or glancing through quickly.
 **Usage**: "Skimming can be an effective way to get the gist of a text without delving into every detail." - This technique is useful for quickly assessing the relevance of information.
+
+## Snarf
+
+**Meaning**: To eat or consume something quickly and greedily.
+**Usage**: "He snarfed down his lunch in just a few minutes." - This implies eating in a hurried and perhaps messy manner.
 
 ## Solitude
 

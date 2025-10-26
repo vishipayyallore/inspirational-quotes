@@ -64,6 +64,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: The extent to which an idea, product, or service gains popularity or acceptance.
 **Usage**: "The new initiative gained traction quickly among the community." - The project became popular and widely accepted in a short time.
 
+## Tranquil
+
+**Meaning**: Free from disturbance; calm.
+**Usage**: "The tranquil garden was a perfect place for meditation." - A peaceful and undisturbed environment is ideal for reflection.
+
 ## Tranquility
 
 **Meaning**: A state of peace, calmness, and quietude; freedom from disturbance.
