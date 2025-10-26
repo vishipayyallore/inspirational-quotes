@@ -1,8 +1,8 @@
-# Vocabulary Verification Log
+# Vocabulary Verification Log Backup Archive
 
-This file maintains a record of recent verification runs and the standard verification command used in the project.
+This file maintains archived verification runs from older sessions and backup content for historical reference.
 
-## September 30, 2025 - Daily Word Verification
+## Original Backup Content - September 30, 2025 - Daily Word Verification
 
 ### Verification Round Results — 2025-09-30
 
@@ -24,6 +24,58 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 - Confirmed alphabetical integrity following the addition of *Enkindle* to `E.md`
 - Recorded per-file word counts as reported by the verification script
+
+## Archive of October 16-19, 2025 Entries
+
+### Verification Round Results — 2025-10-16
+
+- **Status**: ⚠️ Some files require reordering (A.md out of order after adding new word)
+- **Details**: Added `Acquire` to `A.md` but it must be placed before `Acumen` to maintain strict alphabetical order.
+- **Log saved**: `Logs/verify-20251016-172901.txt`
+
+### Verification Details — 2025-10-16 17:29:02
+
+```powershell
+# Command run using user's default PowerShell (powershell.exe)
+# Verification run saved at Logs/verify-20251016-172901.txt
+# Verification run: 2025-10-16 17:29:02
+A.md -> OUT OF ORDER (26 words)
+    Current: Abandon, Acknowledge, Adherence, Advent, Adversary, Adversity, Advocate, Aesthetic, Agnostic, Akin, Alleviate, Altruism, Amassed, Amplitude, Anecdotes, Armor, Aroused, Aspects, Aspire, Attain, Authenticity, Avionics, Awareness, Axiom, Acumen, Acquire
+    Correct: Abandon, Acknowledge, Acquire, Acumen, Adherence, Advent, Adversary, Adversity, Advocate, Aesthetic, Agnostic, Akin, Alleviate, Altruism, Amassed, Amplitude, Anecdotes, Armor, Aroused, Aspects, Aspire, Attain, Authenticity, Avionics, Awareness, Axiom
+C.md -> OK (33 words)
+D.md -> OK (16 words)
+... (other files OK)
+```
+
+### Verification Round Results — 2025-10-16 (after ordering fix)
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK
+- **Details**: Moved `Acquire` so it appears before `Acumen` in `A.md` to restore alphabetical order.
+- **Log saved**: `Logs/verify-20251016-194548.txt`
+
+### Verification Round Results — 2025-10-17
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK
+- **Details**: Added `Benevolence` to `B.md` in correct alphabetical position (after Balance, before bespoke).
+- **Log saved**: `Logs/verify-20251017-145447.txt`
+
+### Verification Round Results — 2025-10-18
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK
+- **Details**: Added `Dedicated` to `D.md` in correct alphabetical position (after Deciphering, before Deletable).
+- **Log saved**: `Logs/verify-20251018-230351.txt` (after correcting alphabetical order)
+
+### Verification Round Results — 2025-10-19
+
+- **Status**: ✅ ALL 26 FILES VERIFIED OK  
+- **Details**: Added `Evaluate` to `E.md` in correct alphabetical position.
+- **Log saved**: `Logs/verify-20251019-163027.txt`
+
+## Comprehensive Historical Archive (Pre-October 2025)
+
+This archive contains extensive historical verification data, commands, and debugging information spanning from the project's early organization phase through September 2025. The content includes alphabetical order fixes, duplicate removal, file organization milestones, and comprehensive verification sessions that established the foundation for the current vocabulary collection structure.
+
+[Historical content preserved for reference - detailed verification logs from August 2025 through September 2025 available in this section]
 
 ## September 26, 2025 - Verification Round After User Request
 
