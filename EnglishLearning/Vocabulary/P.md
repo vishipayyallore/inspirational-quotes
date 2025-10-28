@@ -55,6 +55,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A particular attitude toward or way of regarding something; a point of view.
 **Usage**: "Mindset and Perspective" - How you view and interpret situations and experiences.
 
+## Perspicacious
+
+**Meaning**: Having keen insight, discernment, or sound judgment; mentally sharp and perceptive.
+**Usage**: "Her perspicacious observations revealed the underlying issue that others had missed." - Having sharp insight allows us to see what others cannot.
+
 ## Pervaded
 
 **Meaning**: Spread throughout something; pervaded.

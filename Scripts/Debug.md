@@ -2,10 +2,10 @@
 
 This file maintains a record of recent verification runs and the standard verification command used in the project.
 
-## Current Vocabulary Collection Status (Updated 2025-10-26)
+## Recent Vocabulary Collection Status (Updated 2025-10-27)
 
 - **Total Vocabulary Files**: ALL 26 files (A.md through Z.md) are present and ready
-- **Total Vocabulary Words**: 290+ words across 26 files (per latest verification Oct 26)
+- **Total Vocabulary Words**: 295+ words across 26 files (per latest verification Oct 27)
 - **Recent Additions**:
   - October 21: Fortitude (F.md)
   - October 22: Tenacious (T.md)
@@ -13,8 +13,9 @@ This file maintains a record of recent verification runs and the standard verifi
   - October 24: Serene (S.md)
   - October 25: Agrestic (A.md)
   - October 26: Articulate (A.md)
+  - October 27: Perspicacious (P.md)
 - **Alphabetical Order Status**: ✅ ALL FILES VERIFIED OK
-- **Last Verification**: 2025-10-26 10:15:06
+- **Last Verification**: 2025-10-27 07:25:27
 
 ## Standard Verification Command
 
@@ -23,6 +24,12 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Verification Sessions
+
+### Verification Session — 2025-10-27 07:25:27
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added Perspicacious to P.md; corrected Esoteric placement in E.md
+**Result**: P.md -> OK (26 words), E.md -> OK (14 words), all 26 files in perfect alphabetical order
 
 ### Verification Session — 2025-10-26 10:15:06
 
