@@ -2,10 +2,10 @@
 
 This file maintains a record of recent verification runs and the standard verification command used in the project.
 
-## Recent Vocabulary Collection Status (Updated 2025-10-27)
+## Recent Vocabulary Collection Status (Updated 2025-10-28)
 
 - **Total Vocabulary Files**: ALL 26 files (A.md through Z.md) are present and ready
-- **Total Vocabulary Words**: 295+ words across 26 files (per latest verification Oct 27)
+- **Total Vocabulary Words**: 298+ words across 26 files (per latest verification Oct 28)
 - **Recent Additions**:
   - October 21: Fortitude (F.md)
   - October 22: Tenacious (T.md)
@@ -14,8 +14,9 @@ This file maintains a record of recent verification runs and the standard verifi
   - October 25: Agrestic (A.md)
   - October 26: Articulate (A.md)
   - October 27: Perspicacious (P.md)
+  - October 28: Resplendent (R.md), Arid (A.md), Qanat (Q.md)
 - **Alphabetical Order Status**: ✅ ALL FILES VERIFIED OK
-- **Last Verification**: 2025-10-27 07:25:27
+- **Last Verification**: 2025-10-28 16:30:51
 
 ## Standard Verification Command
 
@@ -24,6 +25,18 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Verification Sessions
+
+### Verification Session — 2025-10-28 16:30:51
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: User added Arid (A.md) and Qanat (Q.md). Fixed ordering: moved Arid before Armor, moved Qanat before Quell.
+**Result**: A.md -> OK (29 words), Q.md -> OK (5 words), all 26 files in perfect alphabetical order
+
+### Verification Session — 2025-10-28 16:21:44
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added Resplendent to R.md (positioned after Resonate and before Restraint). Also fixed prior ordering where necessary.
+**Result**: R.md -> OK (24 words), all 26 files in perfect alphabetical order
 
 ### Verification Session — 2025-10-27 07:25:27
 

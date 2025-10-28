@@ -104,6 +104,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: To evoke a feeling of shared emotion or belief; to have a lasting impact.
 **Usage**: "Her story resonates with many people." - Personal experiences can create deep connections with others.
 
+## Resplendent
+
+**Meaning**: Shining brilliantly; splendid in appearance or splendor; richly colorful or sumptuous.
+**Usage**: "The garden was resplendent with flowers in full bloom." - A vivid, impressive display that attracts admiration.
+
 ## Restraint
 
 **Meaning**: Self-control; holding back from doing something.
