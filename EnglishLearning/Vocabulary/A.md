@@ -99,6 +99,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Short, interesting, or amusing stories about real incidents or people.
 **Usage**: "Anecdotes can be powerful tools for persuasion." - Personal stories often resonate more deeply than abstract arguments.
 
+## Arid
+
+**Meaning**: Having little or no rain; too dry or barren to support vegetation.
+**Usage**: "The arid landscape was dotted with cacti and other drought-resistant plants." - Describes a dry environment where water is scarce.
+
 ## Armor
 
 **Meaning**: A protective covering or shield.

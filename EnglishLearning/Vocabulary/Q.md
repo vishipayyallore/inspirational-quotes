@@ -9,6 +9,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Qanat
+
+**Meaning**: An underground channel or conduit for transporting water, especially in arid regions.
+**Usage**: "The ancient qanat system allowed for efficient irrigation in desert areas." - Ingenious engineering solutions can transform challenging environments.
+
 ## Quell
 
 **Meaning**: To suppress or put an end to something.
