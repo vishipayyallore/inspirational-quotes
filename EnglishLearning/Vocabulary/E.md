@@ -79,3 +79,8 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Meaning**: The carrying out or putting into effect of a plan, order, or course of action.
 **Usage**: "Vision without execution is just hallucination." - Ideas without implementation are merely dreams.
+
+## Exemplar
+
+**Meaning**: A person or thing serving as a typical example or excellent model.
+**Usage**: "She is an exemplar of courage and resilience." - Highlighting someone as a prime example of positive traits.

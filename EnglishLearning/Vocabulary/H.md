@@ -18,3 +18,8 @@ This file contains definitions and example usage for "H" words found in the insp
 
 **Meaning**: In a way that relates to the whole of something rather than just its parts.  
 **Usage**: "We must approach this problem holistically." - This means considering all aspects and factors involved, not just isolated parts.
+
+## Homologate
+
+**Meaning**: To approve or confirm officially.
+**Usage**: "The new engine design was homologated by the racing officials." - The design was officially approved for use in competition.
