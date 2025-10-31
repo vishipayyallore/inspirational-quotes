@@ -14,6 +14,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: Feeling or showing caution about possible dangers or problems.
 **Usage**: "Be wary of those who promise you the world." - Be cautious of people who make grand promises without substance.
 
+## Wheedle
+
+**Meaning**: To influence or persuade someone through flattery or coaxing.
+**Usage**: "He tried to wheedle his way into her good graces with compliments." - Using charm and persuasion to gain favor.
+
 ## Wit
 
 **Meaning**: Mental sharpness and inventiveness; keen intelligence.  

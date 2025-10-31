@@ -34,6 +34,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: A collection of things lying about in an untidy mass.
 **Usage**: "Clutter can create a sense of chaos and distract from important tasks." - Keeping a tidy space can help improve focus and productivity.
 
+## Coaxing
+
+**Meaning**: Gently persuading someone to do something; using gentle and persistent persuasion.
+**Usage**: "With patient coaxing, she convinced him to try the new approach." - Gentle persuasion can be more effective than force.
+
 ## Coherence
 
 **Meaning**: The quality of being logical and consistent; the clarity and intelligibility of a text or speech.
