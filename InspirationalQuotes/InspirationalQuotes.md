@@ -10,6 +10,19 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 
+```text
+🌸 The Law of Karma 🌸
+
+🌿 Karma and Kindness
+
+When we do good for others with a genuine heart, goodness always returns — sometimes in ways we least expect. ✨
+
+And when we do wrong to others, that too finds its way back — in this life, or the next, or the one after, **until the score is settled**. 🌸
+
+
+**— Viswanatha Swamy P K**
+```
+
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous

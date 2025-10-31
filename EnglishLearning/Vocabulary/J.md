@@ -9,6 +9,16 @@ This file contains vocabulary words starting with the letter J, along with their
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Jaggery
+
+**Meaning**: A traditional unrefined sugar made from sugar cane or palm sap, commonly used in South Asian cuisine.
+**Usage**: "The dessert was sweetened with jaggery, giving it a rich, caramel-like flavor." - Using natural sweeteners for authentic taste.
+
+## Jubilant
+
+**Meaning**: Feeling or expressing great happiness and triumph.
+**Usage**: "The team was jubilant after their victory." - Celebrating with overwhelming joy and excitement.
+
 ## Judiciously
 
 **Meaning**: With good judgment or sense.
