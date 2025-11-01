@@ -35,8 +35,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
-> 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous -- **Here**
-> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
+> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous -- **Here**
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
