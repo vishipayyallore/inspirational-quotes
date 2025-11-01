@@ -12,7 +12,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 
 ```text
-🌸 The Law of Karma 🌸
+**🌸 The Law of Karma 🌸**
 
 🌿 Karma and Kindness
 
