@@ -20,7 +20,6 @@ When we do good for others with a genuine heart, goodness always returns — som
 
 And when we do wrong to others, that too finds its way back — in this life, or the next, or the one after, **until the score is settled**. 🌸
 
-
 **— Viswanatha Swamy P K**
 ```
 
