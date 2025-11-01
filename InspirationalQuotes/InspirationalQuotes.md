@@ -6,13 +6,13 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
-> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
+> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 
 ```text
-🌸 The Law of Karma 🌸
+**🌸 The Law of Karma 🌸**
 
 🌿 Karma and Kindness
 
@@ -27,7 +27,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
-> 1. **Never put too much trust in friends**; learn how to use enemies.
+> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
@@ -35,8 +35,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
-> 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous -- **Here**
-> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
+> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous -- **Here**
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
