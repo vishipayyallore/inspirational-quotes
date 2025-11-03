@@ -33,3 +33,8 @@ This file contains definitions and example usage for "N" words found in the insp
 
 **Meaning**: A gentle push or encouragement to prompt someone to take a specific action.
 **Usage**: "Sometimes, all it takes is a nudge from a friend to pursue your dreams." - A little encouragement can motivate you to follow your aspirations.
+
+## Nurture
+
+**Meaning**: To care for and encourage the growth or development of someone or something.
+**Usage**: "Great leaders nurture the potential in their team members." - Effective leadership involves helping others develop their abilities and talents.

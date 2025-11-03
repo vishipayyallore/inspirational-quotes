@@ -134,15 +134,15 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: A person who attends a royal court as a companion or adviser to the king or queen.
 **Usage**: "The courtier skillfully navigated the complexities of royal politics." - Those close to power often play intricate games of influence.
 
-## Crucial
-
-**Meaning**: Of great importance; critical.  
-**Usage**: "Time management is crucial for productivity." - Effectively managing time is essential for getting things done.
-
 ## Credence
 
 **Meaning**: Belief in or acceptance of something as true; credibility or trustworthiness.
 **Usage**: "Her expertise lent credence to the proposal." - When someone is trusted, their ideas are more likely to be accepted.
+
+## Crucial
+
+**Meaning**: Of great importance; critical.  
+**Usage**: "Time management is crucial for productivity." - Effectively managing time is essential for getting things done.
 
 ## Cryptic
 

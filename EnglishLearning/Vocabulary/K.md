@@ -9,15 +9,15 @@ This file contains definitions and example usage for "K" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
-## Kinetic
-
-**Meaning**: Relating to or resulting from motion; active and dynamic.
-**Usage**: "His kinetic energy inspired the entire team to move forward." - Describing dynamic, action-oriented enthusiasm.
-
 ## Kindred
 
 **Meaning**: Having similar origin, nature, or character; related or connected by qualities or interests.
 **Usage**: "They were kindred spirits, instantly understanding each other's thoughts." - Describes a deep connection or similarity between people.
+
+## Kinetic
+
+**Meaning**: Relating to or resulting from motion; active and dynamic.
+**Usage**: "His kinetic energy inspired the entire team to move forward." - Describing dynamic, action-oriented enthusiasm.
 
 ## Knead
 
