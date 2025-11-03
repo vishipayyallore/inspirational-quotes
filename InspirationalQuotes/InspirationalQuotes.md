@@ -20,7 +20,6 @@ When we do good for others with a genuine heart, goodness always returns — som
 
 And when we do wrong to others, that too finds its way back — in this life, or the next, or the one after, **until the score is settled**. 🌸
 
-
 **— Viswanatha Swamy P K**
 ```
 
@@ -36,17 +35,17 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
-> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous -- **Here**
-> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
+> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous -- **Here**
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
-> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K -- **Here**
+> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
 ## Trust Revealed by Actions
 
@@ -58,8 +57,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
-> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K -- **Here**
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
@@ -77,8 +76,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
-> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous -- **Here**
-> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
+> 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
+> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous -- **Here**
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
@@ -94,8 +93,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
-> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
@@ -139,8 +138,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
-> 1. Give your word with care, and keep it with honor. - Panchatantra -- **Here**
-> 1. Target the source of the enemy's power. - Panchatantra
+> 1. Give your word with care, and keep it with honor. - Panchatantra
+> 1. Target the source of the enemy's power. - Panchatantra -- **Here**
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
@@ -364,11 +363,11 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Positive anything is better than negative nothing. - Elbert Hubbard
 > 1. Gratitude is not only the greatest of virtues but the parent of all the others. - Cicero
 > 1. The more you praise and celebrate your life, the more there is in life to celebrate. - Oprah Winfrey
-> 1. When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love... - Marcus Aurelius -- **Here**
+> 1. When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love... - Marcus Aurelius
 
 ## Creativity and Innovation
 
-> 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson
+> 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson -- **Here**
 > 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
 > 1. "Creativity is intelligence having fun." - Albert Einstein
 > 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
