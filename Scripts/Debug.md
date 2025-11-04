@@ -58,3 +58,11 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 - Template "WordName" entries are excluded from verification.
 - Exit codes: 0 = All files OK, 2 = One or more files out of order.
 - Old log entries are archived to `Scripts/Debug.md.bak`.
+
+### Verification Session — 2025-11-04 10:07:11
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added Journey to `J.md` (inserted between Jaggery and Jubilant). Re-ran alphabetical verification and corrected ordering issues introduced by the prior insertion.
+**Command run**: `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"`
+**Saved log**: `Logs/verify-20251104-100711.txt`
+
