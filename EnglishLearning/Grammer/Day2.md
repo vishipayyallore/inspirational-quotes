@@ -25,14 +25,20 @@
 
 - **Grammar concept:** Present simple vs Present continuous
 - **Essentials:**
-	- Rule summary: Use present simple for routines and facts (I study English). Use present continuous for actions happening now or temporary situations (I am studying English today).
-	- Key pattern / formula: Subject + base verb (present simple) | Subject + am/is/are + verb-ing (present continuous)
+- **Mini-drills (4 x 45 sec):**
+
+- **Grammar concept:** Present simple vs Present continuous
+
+- **Essentials:**
+  - Rule summary: Use present simple for routines and facts (I study English). Use present continuous for actions happening now or temporary situations (I am studying English today).
+  - Key pattern / formula: Subject + base verb (present simple) | Subject + am/is/are + verb-ing (present continuous)
 
 - **Mini-drills (4 x 45 sec):**
- 1. Read the rule and sample sentence: "I study English every day." vs "I am studying English now."
- 2. Transform the sample into negative form: "I do not study English every day." / "I am not studying English now."
- 3. Transform it into a question: "Do you study English every day?" / "Are you studying English now?"
- 4. Create your own sentence using today’s vocabulary word: "I am taking small steps on my language-learning journey."
+
+1. Read the rule and sample sentence: "I study English every day." vs "I am studying English now."
+2. Transform the sample into negative form: "I do not study English every day." / "I am not studying English now."
+3. Transform it into a question: "Do you study English every day?" / "Are you studying English now?"
+4. Create your own sentence using today’s vocabulary word: "I am taking small steps on my language-learning journey."
 
 ### 4. Integration Wrap-Up (1 minute)
 
