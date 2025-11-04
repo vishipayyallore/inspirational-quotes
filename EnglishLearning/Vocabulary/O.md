@@ -19,6 +19,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Preoccupy or fill the mind of (someone) continually and to a troubling extent.  
 **Usage**: "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess." - Don't let your thoughts consume you unhealthily.
 
+## Olfactory
+
+**Meaning**: Relating to the sense of smell.
+**Usage**: "The olfactory experience of a place can trigger powerful memories." - Scents have the ability to evoke vivid recollections and emotions.
+
 ## Optimistic
 
 **Meaning**: Hopeful and confident about the future.  
