@@ -21,5 +21,10 @@ This file contains vocabulary words starting with the letter J, along with their
 
 ## Judiciously
 
+## Journey
+
+**Meaning**: A process of traveling from one place to another; often used metaphorically for personal growth or progress.
+**Usage**: "Every journey begins with a single step; embrace the path and its lessons." - Emphasizes steady progress and learning over time.
+
 **Meaning**: With good judgment or sense.
 **Usage**: "She approached the problem judiciously, weighing all options before deciding." - Demonstrating careful consideration in decision-making.
