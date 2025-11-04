@@ -56,3 +56,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ### Verification Session — 2025-11-04 10:07:11
 
+### Verification Session — 2025-11-04 10:40:34
+
+**Status**: ✅ ALL 26 FILES VERIFIED OK
+**Details**: Added Calque to `C.md` (inserted before Canary) and corrected ordering as needed.
+**Command run**: `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches`
+**Saved log**: `Logs/verify-20251104-104034.txt`
+
