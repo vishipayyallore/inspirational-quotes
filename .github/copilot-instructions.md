@@ -37,15 +37,15 @@ inspirational-quotes/
 └── README.md
 ```
 
-## Current Project Status (October 13, 2025)
+## Current Project Status (November 4, 2025)
 
 ### Vocabulary Collection Status
 
-- **Total Vocabulary Words**: 269 words across 26 files (per latest verification)
+- **Total Vocabulary Words**: 310+ words across 26 files (per latest verification 2025-11-04)
 - **Complete Alphabet Coverage**: ALL 26 files (A.md through Z.md) have content
-- **Recent Additions**: New words added recently: `Tangible` (T), `Zephyr` (Z)
-- **Recent Fixes**: Ordering correction applied to `S.md` (reordered entries)
-- **Verification Status**: All files verified OK (verification run: 2025-10-13)
+- **Recent Additions**: `Journey` (J), `Calque` (C) added 2025-11-04
+- **Recent Fixes**: Alphabetical ordering verified and corrected as needed
+- **Verification Status**: All files verified OK (verification run: 2025-11-04 10:40:34)
 
 ### Infrastructure Enhancements
 
@@ -115,9 +115,10 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
   pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-$(Get-Date -Format 'yyyyMMdd-HHmmss').txt"
   ```
 
-- Document all verification activities in `Scripts/Debug.md`
+- Document all verification activities in the timestamped logs in `Logs/` (e.g., `Logs/verify-<timestamp>.txt`)
 - Always exclude template "WordName" entries from verification
 - Exit codes: 0 = All files OK, 2 = One or more files out of order
+- Keep `Scripts/Debug.md` under 50 lines; use it only as a quick reference with pointers to detailed logs in `Logs/`
 
 ### Content Standards
 
@@ -167,9 +168,10 @@ This is a **CRITICAL REQUIREMENT**: The vocabulary files have undergone extensiv
 
 ### Debugging and Verification
 
-- Always update `Scripts/Debug.md` with verification commands and results
-- Include timestamps and session details for all organizational activities
-- Document any issues found and their resolutions
+- **`Scripts/Debug.md` Policy**: Keep this file under 50 lines as a concise log pointer. Store all detailed verification history in timestamped log files in `Logs/`.
+- Log recent verification runs with file paths to timestamped logs (`Logs/verify-<timestamp>.txt`) rather than full session details in Debug.md.
+- Always include the standard verification command and a brief note on how to interpret verification output.
+- Include timestamps and session details for all organizational activities in the timestamped logs, not in Debug.md.
 
 ## File Maintenance
 
