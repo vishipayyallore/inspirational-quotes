@@ -19,6 +19,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: To draw out a response, answer, or fact from someone.
 **Usage**: "Good leaders elicit the best from their teams." - Effective leaders bring out the potential in others.
 
+## Eloquent
+
+**Meaning**: Fluent, persuasive, and expressive in speaking or writing.
+**Usage**: "An eloquent speaker can move audiences with words that resonate deeply." - Powerful communication through meaningful language inspires and motivates.
+
 ## Embeddings
 
 **Meaning**: A representation of words or phrases in a continuous vector space.
