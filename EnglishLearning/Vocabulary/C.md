@@ -9,6 +9,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Calque
+
+**Meaning**: A literal translation or loan translation from one language to another, where a phrase or word is translated piece-by-piece rather than borrowed directly.
+**Usage**: "The phrase was a calque from another language, translated word-for-word into English." - Shows how languages sometimes borrow expressions by direct translation rather than adopting foreign words.
+
 ## Canary
 
 **Meaning**: A small songbird, often kept as a pet; used metaphorically to refer to a warning signal.  

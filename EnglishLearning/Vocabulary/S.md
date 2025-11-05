@@ -129,6 +129,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The fine or delicate details or nuances of something.
 **Usage**: "Understanding the subtleties of a language can greatly enhance communication." - Grasping the small details can improve how we express and interpret meaning.
 
+## Suspire
+
+**Meaning**: To sigh or breathe heavily; to take a deep breath (often poetic or archaic).
+**Usage**: "In the quiet moment, she seemed to suspire with relief and hope." - A gentle exhalation expressing deep emotion or contemplation.
+
 ## Swindler
 
 **Meaning**: A person who defrauds others by trickery.  
