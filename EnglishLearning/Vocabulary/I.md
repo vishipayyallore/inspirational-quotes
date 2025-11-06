@@ -54,12 +54,12 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Certain to happen; unavoidable.
 **Usage**: "Change is inevitable." - Transformation is a natural and unavoidable part of life.
 
+## Ingeminate
+
+**Meaning**: To repeat or say again; to reiterate or echo.
+**Usage**: "The speaker would ingeminate the key message throughout the presentation." - Repeating important points reinforces their significance and helps audiences remember them.
+
 ## Ingest
-
-**Meaning**: To take in food or drink through the mouth.
-**Usage**: "Ingesting too much sugar can lead to health problems." - Consuming excessive sugar can cause various health issues.
-
-## Initiative
 
 **Meaning**: The ability to assess and initiate things independently; the power or opportunity to act before others do.
 **Usage**: "Action and Initiative" - Taking the first step without being prompted.
