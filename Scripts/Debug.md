@@ -12,8 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
-- `Logs/verify-20251106-102245.txt` — added "Resilient" to `R.md` and "Jnana" to `J.md`
 - `Logs/verify-20251106-102535.txt` — added "Grimoire" to `G.md`
+- `Logs/verify-20251107-191449.txt` — added "Adjuvant" (A), "Colloquial" (C), "Flourish" (F) and fixed F.md ordering
 
 ## Notes
 
