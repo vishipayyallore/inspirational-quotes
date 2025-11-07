@@ -34,6 +34,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The act of following or upholding a rule, guideline, or standard.
 **Usage**: "Adherence to ethical principles is crucial in decision-making." - Sticking to moral guidelines helps ensure integrity in choices.
 
+## Adjuvant
+
+**Meaning**: A substance or treatment that enhances the effectiveness of a medical treatment; something that assists or supports.
+**Usage**: "The adjuvant therapy helped improve the patient's recovery after surgery." - Supplementary treatments can boost the effectiveness of primary medical interventions.
+
 ## Advent
 
 **Meaning**: The arrival or beginning of something significant.
