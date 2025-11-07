@@ -29,6 +29,11 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: The quality of being thankful; readiness to show appreciation.  
 **Usage**: "Gratitude turns what we have into enough." - Being thankful transforms our perception of what we possess.
 
+## Grimoire
+
+**Meaning**: A book of magic spells and invocations; a textbook of occult knowledge or magical instructions.
+**Usage**: "The ancient grimoire contained rituals and spells passed down through generations." - Referring to historical texts that preserve esoteric wisdom and magical practices.
+
 ## Grok
 
 **Meaning**: To understand something intuitively or thoroughly.

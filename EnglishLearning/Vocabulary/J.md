@@ -14,6 +14,11 @@ This file contains vocabulary words starting with the letter J, along with their
 **Meaning**: A traditional unrefined sugar made from sugar cane or palm sap, commonly used in South Asian cuisine.
 **Usage**: "The dessert was sweetened with jaggery, giving it a rich, caramel-like flavor." - Using natural sweeteners for authentic taste.
 
+## Jnana
+
+**Meaning**: Knowledge, especially spiritual or divine knowledge; wisdom gained through meditation and study (Sanskrit term).
+**Usage**: "The pursuit of jnana leads to deeper self-understanding and enlightenment." - Seeking higher knowledge brings profound personal growth.
+
 ## Journey
 
 **Meaning**: A process of traveling from one place to another; often used metaphorically for personal growth or progress.

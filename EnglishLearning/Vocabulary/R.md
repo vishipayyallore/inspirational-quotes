@@ -99,6 +99,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: The capacity to recover quickly from difficulties; toughness.
 **Usage**: "Resilience is not about overcoming, it is about becoming." - True strength isn't just surviving challenges but growing through them.
 
+## Resilient
+
+**Meaning**: Able to withstand or recover quickly from difficult conditions; flexible and adaptable.
+**Usage**: "A resilient person bounces back from setbacks stronger than before." - The ability to adapt and recover from adversity is a sign of inner strength.
+
 ## Resonate
 
 **Meaning**: To evoke a feeling of shared emotion or belief; to have a lasting impact.
