@@ -54,6 +54,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Logical and consistent; forming a unified whole.  
 **Usage**: "A coherent argument is essential for effective persuasion." - To convince others, your reasoning must be clear and well-structured.
 
+## Colloquial
+
+**Meaning**: Characteristic of informal spoken language; conversational rather than formal or literary.
+**Usage**: "The author used colloquial expressions to make the dialogue feel authentic and relatable." - Informal, everyday language can create a more natural and engaging tone in writing.
+
 ## Commitment
 
 **Meaning**: The state or quality of being dedicated to a cause or activity.

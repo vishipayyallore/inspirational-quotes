@@ -49,6 +49,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
 
+## Flourish
+
+**Meaning**: To grow or develop in a healthy or vigorous way; to thrive and prosper.
+**Usage**: "With the right environment and support, creativity can flourish." - When given proper conditions, talents and abilities can reach their full potential.
+
 ## Fortitude
 
 **Meaning**: Courage and strength of mind in the face of adversity; mental resilience.
