@@ -59,6 +59,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Showing a skillful use of underhanded tactics to achieve goals; not straightforward or honest.
 **Usage**: "A devious person may seem friendly but harbor hidden intentions." - Someone who uses dishonest or indirect methods to get what they want.
 
+## Diligent
+
+**Meaning**: Having or showing care and conscientiousness in one's work or duties; hardworking and persistent.
+**Usage**: "Diligent effort leads to mastery over time." - Consistent, careful work is the path to achieving excellence and skill.
+
 ## Disambiguate
 
 **Meaning**: To make something clear by removing ambiguity; to clarify.
