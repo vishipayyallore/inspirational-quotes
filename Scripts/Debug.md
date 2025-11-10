@@ -12,8 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
-- `Logs/verify-20251110-065701.txt` — added "Humble" to `H.md` and fixed H.md ordering
 - `Logs/verify-20251110-071639.txt` — added "Hunky-dory" to `H.md`
+- `Logs/verify-20251110-072318.txt` — added "Ambsace" to `A.md` and fixed A.md ordering
 
 ## Notes
 
