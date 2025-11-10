@@ -23,3 +23,8 @@ This file contains definitions and example usage for "H" words found in the insp
 
 **Meaning**: To approve or confirm officially.
 **Usage**: "The new engine design was homologated by the racing officials." - The design was officially approved for use in competition.
+
+## Humble
+
+**Meaning**: Having or showing a modest or low estimate of one's own importance; unpretentious and respectful.
+**Usage**: "Stay humble, stay hungry, and always be willing to learn." - Maintaining modesty and eagerness to grow leads to continuous improvement and success.
