@@ -9,6 +9,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Ebullient
+
+**Meaning**: Cheerful and full of energy; exuberant and lively.
+**Usage**: "Her ebullient personality lifted the mood of the entire team." - Enthusiastic and energetic behavior that positively influences others.
+
 ## Elevate
 
 **Meaning**: To raise or lift something to a higher position.
