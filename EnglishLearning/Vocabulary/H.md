@@ -28,3 +28,8 @@ This file contains definitions and example usage for "H" words found in the insp
 
 **Meaning**: Having or showing a modest or low estimate of one's own importance; unpretentious and respectful.
 **Usage**: "Stay humble, stay hungry, and always be willing to learn." - Maintaining modesty and eagerness to grow leads to continuous improvement and success.
+
+## Hunky-dory
+
+**Meaning**: Perfectly fine; satisfactory or in good order (informal).
+**Usage**: "Everything is hunky-dory now that we've resolved the issue." - The situation has improved and everything is working well.

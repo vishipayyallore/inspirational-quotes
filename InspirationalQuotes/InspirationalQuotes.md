@@ -25,7 +25,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Power and Influence Wisdom
 
-> 1. **Never** outshine the Master. - Anonymous
+> 1. **Never** outshine the Master. - Anonymous -- **Here**
 > 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
@@ -37,12 +37,12 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
-> 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous -- **Here**
+> 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K

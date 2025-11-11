@@ -94,6 +94,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To gather or accumulate a large amount of something over time.
 **Usage**: "Amassed a wealth of knowledge." - Collected a significant amount of information or expertise.
 
+## Ambsace
+
+**Meaning**: The lowest throw in dice (double ones); bad luck or the worst possible outcome.
+**Usage**: "His plans resulted in ambsace, the worst possible outcome he could have imagined." - When everything goes wrong and you get the least favorable result.
+
 ## Amplitude
 
 **Meaning**: The extent or range of a quality or property; breadth or scope.
