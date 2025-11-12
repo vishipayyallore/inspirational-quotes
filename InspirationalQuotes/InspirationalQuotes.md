@@ -9,6 +9,7 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
+> 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 
 ```text
@@ -25,8 +26,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Power and Influence Wisdom
 
-> 1. **Never** outshine the Master. - Anonymous -- **Here**
-> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
+> 1. **Never** outshine the Master. - Anonymous
+> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous -- **Here**
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
@@ -146,6 +147,14 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
+
+## The Irony of Life
+
+> 1. The Sad reality of life: The crooked go untouched, while the straight are constantly hammered. - Anonymous
+> 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous
+> 1. Such is life’s irony — the crooked thrive in comfort, while the straight bear the blows of integrity. - Anonymous
+> 1. The crooked stay untouched; the straight are hammered. That’s the irony of life. - Anonymous
+> 1. Life’s sad truth: the crooked go free, while the straight are hammered down. - Anonymous
 
 ## Perseverance
 
