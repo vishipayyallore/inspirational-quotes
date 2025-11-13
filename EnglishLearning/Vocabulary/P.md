@@ -85,6 +85,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Having or showing the capacity to develop into something in the future.
 **Usage**: "Every person has the potential to make a difference." - Everyone has the ability to create change and impact the world.
 
+## Pragmatic
+
+**Meaning**: Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+**Usage**: "A pragmatic approach to problem-solving focuses on what works rather than what is ideal." - Practical, realistic thinking leads to effective solutions.
+
 ## Precise
 
 **Meaning**: Marked by exactness and accuracy; clearly defined or stated.

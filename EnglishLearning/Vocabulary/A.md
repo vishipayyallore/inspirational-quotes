@@ -29,6 +29,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The ability to make good judgments and quick decisions, typically in a particular domain.
 **Usage**: "Her business acumen helped the startup thrive." - Her sharp insight and understanding of business contributed to the company's success.
 
+## Ad rem
+
+**Meaning**: To the point; relevant to the matter at hand (Latin phrase).
+**Usage**: "His comments were always ad rem, focusing directly on the core issue without digression." - Speaking directly and relevantly to the topic being discussed.
+
 ## Adherence
 
 **Meaning**: The act of following or upholding a rule, guideline, or standard.
