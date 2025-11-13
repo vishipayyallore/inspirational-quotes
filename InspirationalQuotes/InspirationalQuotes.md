@@ -27,8 +27,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
-> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous -- **Here**
-> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
@@ -43,8 +43,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Mastery in 30 Minutes a Day
 
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
-> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K -- **Here**
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
@@ -59,8 +59,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
@@ -78,8 +78,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
-> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous -- **Here**
-> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
+> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
+> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous -- **Here**
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
@@ -95,8 +95,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
-> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous -- **Here**
-> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
+> 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
+> 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous -- **Here**
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
@@ -140,8 +140,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
-> 1. Target the source of the enemy's power. - Panchatantra -- **Here**
-> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
+> 1. Target the source of the enemy's power. - Panchatantra
+> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra -- **Here**
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
@@ -376,12 +376,12 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Creativity and Innovation
 
-> 1. "Go instead where there is no path and leave a trail." - Ralph Waldo Emerson -- **Here**
-> 1. "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will." - George Bernard Shaw
-> 1. "Creativity is intelligence having fun." - Albert Einstein
-> 1. "Innovation distinguishes between a leader and a follower." - Steve Jobs
-> 1. "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." - Scott Adams
-> 1. "There is no greater danger than underestimating your opponent." - Sun Tzu
+> 1. Go instead where there is no path and leave a trail. - Ralph Waldo Emerson
+> 1. Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will. - George Bernard Shaw -- **Here**
+> 1. Creativity is intelligence having fun. - Albert Einstein
+> 1. Innovation distinguishes between a leader and a follower. - Steve Jobs
+> 1. Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep. - Scott Adams
+> 1. There is no greater danger than underestimating your opponent. - Sun Tzu
 
 ## Courage and Resilience
 
