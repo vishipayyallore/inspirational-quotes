@@ -19,6 +19,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
 **Usage**: "Small acts of benevolence can change someone's day." - Even brief, kind actions add up and inspire those around you.
 
+## Benevolent
+
+**Meaning**: Well-meaning and kindly; showing goodwill and generosity.
+**Usage**: "A benevolent leader cares deeply for the wellbeing of their team." - Compassionate leadership fosters trust and loyalty.
+
 ## bespoke
 
 **Meaning**: Made for a particular customer or user; custom-made.
