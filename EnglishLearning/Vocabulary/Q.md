@@ -29,6 +29,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Meaning**: A state of stillness, calmness, and quiet in a person or place.
 **Usage**: "In the midst of chaos, she found quietude within herself." - Finding inner peace and tranquility despite external turmoil.
 
+## Quintessential
+
+**Meaning**: Representing the most perfect or typical example of a quality or class; the pure essence of something.
+**Usage**: "She was the quintessential leader, embodying wisdom, compassion, and strength." - Being the ideal or perfect embodiment of leadership qualities.
+
 ## Quotha
 
 **Meaning**: An expression used to repeat someone else's words, often with skepticism or disbelief.
