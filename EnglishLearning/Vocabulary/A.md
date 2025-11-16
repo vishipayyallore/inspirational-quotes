@@ -14,6 +14,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To leave behind or give up completely.
 **Usage**: "Never abandon your dreams." - Always hold on to your aspirations, no matter the challenges you face.
 
+## Acedia
+
+**Meaning**: Spiritual or mental sloth; a state of listlessness or torpor, often linked to apathy or depression.
+**Usage**: "Overcome acedia by finding small, meaningful tasks to reconnect with purpose." - A reminder to combat apathy with intentional action.
+
 ## Acknowledge
 
 **Meaning**: To recognize the existence, truth, or validity of something.
@@ -23,7 +28,7 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: To obtain or gain possession of something through effort or experience.
 **Usage**: "Acquire knowledge one step at a time." - Learning is a gradual process; steady effort leads to new understanding.
-
+ 
 ## Acumen
 
 **Meaning**: The ability to make good judgments and quick decisions, typically in a particular domain.
@@ -78,6 +83,11 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: Rural; rustic; characteristic of the countryside.
 **Usage**: "The agrestic charm of the village attracted many city dwellers." - The simple, rural beauty of the village appealed to those from urban areas.
+
+## Akimbo
+
+**Meaning**: With hands on the hips and elbows turned outward; a stance expressing confidence or defiance.
+**Usage**: "She stood akimbo, ready to face the challenge." - Conveys readiness and assertiveness in body language.
 
 ## Akin
 

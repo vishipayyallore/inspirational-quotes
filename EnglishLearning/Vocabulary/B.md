@@ -14,6 +14,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A state of equilibrium or equal distribution of weight or force.
 **Usage**: "Balance is key to a fulfilling life." - Finding harmony between different aspects of life is essential for happiness.
 
+## Balneal
+
+**Meaning**: Relating to baths or bathing; used to describe something therapeutic or suitable for bathing.
+**Usage**: "The balneal springs drew visitors seeking rest and recovery." - Refers to places known for restorative baths.
+
 ## Benevolence
 
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
@@ -48,6 +53,11 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: To take air into the lungs and then expel it; to inhale and exhale.
 **Usage**: "Take a moment to breathe and relax." - Pausing to inhale and exhale can help reduce stress and clear your mind.
+
+## Brindled
+
+**Meaning**: Having a streaked or mottled pattern of darker color on a lighter background (often used for animal fur).
+**Usage**: "The brindled coat of the hound showed its unique markings." - Describes a textured, striped appearance in fur or fabric.
 
 ## Brittle
 
