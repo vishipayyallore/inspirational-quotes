@@ -9,6 +9,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Sagacious
+
+**Meaning**: Having or showing keen mental discernment and good judgment; wise and insightful.
+**Usage**: "Her sagacious counsel helped the team navigate difficult decisions with confidence." - Highlights wisdom and sound judgment in complex situations.
+
 ## Salient
 
 **Meaning**: Most noticeable or important.
