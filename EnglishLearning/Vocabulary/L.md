@@ -14,6 +14,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Existing but not yet developed or manifest; hidden or concealed.
 **Usage**: "Latent talent will emerge with the right opportunities." - Hidden abilities can be revealed when the conditions are favorable.
 
+## Luminous
+
+**Meaning**: Emitting or reflecting light; bright.
+**Usage**: "The lighthouse stood luminous against the fog." - Describes something giving off light or glowing.
+
 ## Lumps
 
 **Meaning**: A compact mass of a substance, especially one without a definite or regular shape.
