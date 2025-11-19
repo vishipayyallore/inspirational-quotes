@@ -44,6 +44,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Complete; utter; absolute.
 **Usage**: "The sheer volume of information available today is overwhelming." - The total amount of information is so great that it is difficult to process.
 
+## Shoved
+
+**Meaning**: Pushed someone or something roughly or forcefully.
+**Usage**: "He felt shoved aside in the meeting, but chose to respond with calm confidence instead." - Describes being pushed away or ignored, while highlighting a composed reaction.
+
 ## Skewed
 
 **Meaning**: Distorted or biased in a particular direction.
