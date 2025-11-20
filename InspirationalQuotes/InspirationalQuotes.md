@@ -29,8 +29,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Never** outshine the Master. - Anonymous
 > 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
-> 1. **Always** say less than necessary. - Anonymous -- **Here**
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
