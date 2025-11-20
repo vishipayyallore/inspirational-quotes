@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2025-11-19 10:19:29
+**Last verification**: 2025-11-20 09:57:13
 
 ## Standard Verification Command
 
@@ -12,8 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
-- `Logs/verify-20251119-101929.txt` — added "Shoved" to `S.md`
-- `Logs/verify-20251119-101554.txt` — added "Permutation" to `P.md`
+- `Logs/verify-20251120-095713.txt` — added "Resolute" to `R.md`
+- `Logs/verify-20251120-095236.txt` — added "Fortitude" to `F.md`
 
 ## Notes
 
