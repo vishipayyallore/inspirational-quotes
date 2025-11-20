@@ -29,6 +29,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Spread throughout something; pervaded.
 **Usage**: "The aroma of fresh coffee permeated the room." - The smell of coffee filled the entire space.
 
+## Permutation
+
+**Meaning**: One of the many possible arrangements or orderings of a set of items; in mathematics, an ordered arrangement where order matters.
+**Usage**: "After trying every permutation of tasks, they finally found an efficient schedule." - Emphasizes exploring different orders to discover the most effective arrangement.
+
 ## Perpetuate
 
 **Meaning**: To make something continue indefinitely; to preserve from extinction or oblivion.
@@ -79,6 +84,11 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: A significant change in direction, strategy, or approach.
 **Usage**: "Career paths are rarely linear; embrace detours and pivots." - Be willing to change direction when necessary in your career.
+
+## Plenitude
+
+**Meaning**: A large or abundant amount; the state of being full or complete.
+**Usage**: "She recognized a plenitude of opportunities around her once she shifted her mindset." - Highlights an abundance that becomes visible with a change in perspective.
 
 ## Potential
 
