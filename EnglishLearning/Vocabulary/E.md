@@ -75,6 +75,11 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Usage**: "She faced the sudden changes with surprising equanimity, helping others stay calm as well." - Stresses the value of staying composed under pressure.
 
+## Equable
+
+**Meaning**: Calm and even-tempered; not easily disturbed, or not varying much.
+**Usage**: "Maintaining an equable mindset helps you navigate challenges without losing focus." - Encourages steady emotional balance despite ups and downs.
+
 ## Esoteric
 
 **Meaning**: Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
