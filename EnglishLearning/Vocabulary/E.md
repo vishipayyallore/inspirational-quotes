@@ -69,6 +69,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Occurring in a series of separate parts or events.
 **Usage**: "Her memories of the trip were episodic, each moment vivid yet disconnected." - Recollections that come in fragments rather than a continuous narrative.
 
+## Equable
+
+**Meaning**: Calm and even-tempered; not easily disturbed, or not varying much.
+**Usage**: "Maintaining an equable mindset helps you navigate challenges without losing focus." - Encourages steady emotional balance despite ups and downs.
+
 ## Equanimity
 
 **Meaning**: Mental calmness, composure, and evenness of temper, especially in difficult situations.

@@ -29,6 +29,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Hopeful and confident about the future.  
 **Usage**: "Choose to be optimistic; it feels better." - Deciding to have a positive outlook improves your experience.
 
+## Osmosis
+
+**Meaning**: A gradual, often unconscious process of learning or absorbing ideas and knowledge through constant exposure.
+**Usage**: "By staying close to motivated learners, you grow by osmosis, picking up good habits without even noticing." - Emphasizes silent learning through environment and association.
+
 ## Ostentatiously
 
 **Meaning**: In a pretentious or showy way designed to impress.
