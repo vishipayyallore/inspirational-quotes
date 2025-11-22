@@ -14,6 +14,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Existing but not yet developed or manifest; hidden or concealed.
 **Usage**: "Latent talent will emerge with the right opportunities." - Hidden abilities can be revealed when the conditions are favorable.
 
+## Liminal
+
+**Meaning**: Relating to a transitional or in-between state, space, or phase.
+**Usage**: "In the liminal moments between doubt and action, your future is quietly being shaped." - Highlights the power of transition phases in personal growth.
+
 ## Luminous
 
 **Meaning**: Emitting or reflecting light; bright.
