@@ -61,8 +61,13 @@ This file contains definitions and example usage for "I" words found in the insp
 
 ## Ingest
 
-**Meaning**: The ability to assess and initiate things independently; the power or opportunity to act before others do.
-**Usage**: "Action and Initiative" - Taking the first step without being prompted.
+**Meaning**: To take in something, especially food, drink, or information.
+**Usage**: "Each day you ingest new ideas, your perspective expands just a little more." - Links the act of taking things in with gradual growth and learning.
+
+## Ineffable
+
+**Meaning**: Too great, extreme, or beautiful to be expressed or described in words.
+**Usage**: "There is an ineffable quiet that settles over you when a difficult habit finally becomes effortless." - Connects the indescribable feeling to personal growth and consistency.
 
 ## Instigating
 
