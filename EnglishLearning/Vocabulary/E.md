@@ -80,6 +80,17 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Usage**: "She faced the sudden changes with surprising equanimity, helping others stay calm as well." - Stresses the value of staying composed under pressure.
 
+## Equanimity
+
+**Meaning**: Mental calmness, composure, and evenness of temper, especially in difficult situations.
+
+**Usage**: "She faced the sudden changes with surprising equanimity, helping others stay calm as well." - Stresses the value of staying composed under pressure.
+
+## Equanimous
+
+**Meaning**: Calm, composed, and even-tempered, especially in difficult situations.
+**Usage**: "By returning to her breath, she stayed equanimous through the day’s ups and downs." - Links emotional steadiness with simple, repeatable habits.
+
 ## Esoteric
 
 **Meaning**: Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
