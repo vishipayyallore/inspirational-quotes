@@ -33,3 +33,8 @@ This file contains definitions and example usage for "M" words found in the insp
 
 **Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
 **Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
+
+## Mussitate
+
+**Meaning**: To speak softly under your breath; to murmur or mutter quietly.
+**Usage**: "Instead of mussitating doubts to himself, he chose to write them down and turn each into a small, clear next step." - Connects quiet, uncertain thoughts with deliberate, constructive action.
