@@ -44,6 +44,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Not able to be identified as different or distinct; identical.
 **Usage**: "The two paintings were indistinguishable from each other." - The artworks were so similar that they could not be told apart.
 
+## Ineffable
+
+**Meaning**: Too great, extreme, or beautiful to be expressed or described in words.
+**Usage**: "There is an ineffable quiet that settles over you when a difficult habit finally becomes effortless." - Connects the indescribable feeling to personal growth and consistency.
+
 ## Inevitable
 
 **Meaning**: Certain to happen; unavoidable.
@@ -63,11 +68,6 @@ This file contains definitions and example usage for "I" words found in the insp
 
 **Meaning**: To take in something, especially food, drink, or information.
 **Usage**: "Each day you ingest new ideas, your perspective expands just a little more." - Links the act of taking things in with gradual growth and learning.
-
-## Ineffable
-
-**Meaning**: Too great, extreme, or beautiful to be expressed or described in words.
-**Usage**: "There is an ineffable quiet that settles over you when a difficult habit finally becomes effortless." - Connects the indescribable feeling to personal growth and consistency.
 
 ## Instigating
 
