@@ -49,6 +49,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Edited or prepared for publication by removing sensitive information.
 **Usage**: "The document was redacted to protect confidential information." - Sensitive details were removed to ensure privacy and security.
 
+## Redaction
+
+**Meaning**: The process of editing a text by removing or obscuring sensitive or unnecessary information before sharing it.
+**Usage**: "Thoughtful redaction is like emotional editing—keep what serves your growth and quietly omit what no longer helps." - Links careful removal in writing to intentional mental and emotional filtering.
+
 ## Reinforce
 
 **Meaning**: To strengthen or support an idea, behavior, or structure.
