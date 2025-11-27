@@ -129,6 +129,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Short, interesting, or amusing stories about real incidents or people.
 **Usage**: "Anecdotes can be powerful tools for persuasion." - Personal stories often resonate more deeply than abstract arguments.
 
+## Anonymize
+
+**Meaning**: To remove or hide identifying details so that a person or source cannot be recognized.
+**Usage**: "Before sharing his journal with others, he chose to anonymize names so the focus stayed on the lessons, not the people." - Connects privacy with keeping attention on growth and insight.
+
 ## Arid
 
 **Meaning**: Having little or no rain; too dry or barren to support vegetation.

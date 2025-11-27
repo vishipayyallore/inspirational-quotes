@@ -69,6 +69,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To eat or consume something quickly and greedily.
 **Usage**: "He snarfed down his lunch in just a few minutes." - This implies eating in a hurried and perhaps messy manner.
 
+## Stoic
+
+**Meaning**: Showing little or no emotion, especially when facing pain, hardship, or difficulty; calmly accepting what happens.
+**Usage**: "She stayed stoic through the setbacks, quietly turning each one into a lesson instead of a complaint." - Connects emotional steadiness with growth-focused reflection.
+
 ## Solitude
 
 **Meaning**: The state or situation of being alone.  

@@ -32,8 +32,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
-> 1. **Win through your actions**, never through argument. - Anonymous -- **Here**
-> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
+> 1. **Win through your actions**, never through argument. - Anonymous
+> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous -- **Here**
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
@@ -42,8 +42,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
@@ -63,8 +63,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
-> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
+> 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
+> 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K -- **Here**
 > 1. Everyone wears a mask of innocence, until their true face is revealed. — Viswanatha Swamy P K
 
 ## Life Lessons
@@ -82,8 +82,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
-> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous -- **Here**
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
@@ -98,8 +98,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
-> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous -- **Here**
-> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
+> 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
+> 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous -- **Here**
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
 > 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
@@ -143,16 +143,16 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
-> 1. Greed is destructive. - Panchatantra -- **Here**
-> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
+> 1. Greed is destructive. - Panchatantra
+> 1. Excessive desire for wealth or possessions is harmful. - Panchatantra -- **Here**
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
 > 1. Never advise fools. - Panchatantra
 
 ## The Irony of Life
 
 > 1. The Sad reality of life: The crooked go untouched, while the straight are constantly hammered. - Anonymous
-> 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous -- **Here**
-> 1. Such is life’s irony — the crooked thrive in comfort, while the straight bear the blows of integrity. - Anonymous
+> 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous
+> 1. Such is life’s irony — the crooked thrive in comfort, while the straight bear the blows of integrity. - Anonymous -- **Here**
 > 1. The crooked stay untouched; the straight are hammered. That’s the irony of life. - Anonymous
 > 1. Life’s sad truth: the crooked go free, while the straight are hammered down. - Anonymous
 
@@ -379,8 +379,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Go instead where there is no path and leave a trail. - Ralph Waldo Emerson
 > 1. Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will. - George Bernard Shaw
 > 1. Creativity is intelligence having fun. - Albert Einstein
-> 1. Innovation distinguishes between a leader and a follower. - Steve Jobs -- **Here**
-> 1. Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep. - Scott Adams
+> 1. Innovation distinguishes between a leader and a follower. - Steve Jobs
+> 1. Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep. - Scott Adams -- **Here**
 > 1. There is no greater danger than underestimating your opponent. - Sun Tzu
 
 ## Courage and Resilience
