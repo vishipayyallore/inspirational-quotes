@@ -144,6 +144,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The fine or delicate details or nuances of something.
 **Usage**: "Understanding the subtleties of a language can greatly enhance communication." - Grasping the small details can improve how we express and interpret meaning.
 
+## Solipsism
+
+**Meaning**: The belief or attitude that only one’s own mind, experiences, or perspective are real or truly important.
+**Usage**: "Daily reflection guards you from quiet solipsism, reminding you that other lives and perspectives are as real as your own." - Warns against becoming trapped in a self-centered view of the world.
+
 ## Suspire
 
 **Meaning**: To sigh or breathe heavily; to take a deep breath (often poetic or archaic).
