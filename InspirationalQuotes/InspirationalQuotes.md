@@ -33,8 +33,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
-> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous -- **Here**
-> 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
+> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
+> 1. **Mirror** the desires and values of those you wish to influence. - Anonymous -- **Here**
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
