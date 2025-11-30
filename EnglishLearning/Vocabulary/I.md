@@ -9,6 +9,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Iiwi
+
+**Meaning**: A scarlet Hawaiian honeycreeper with black wings and tail and a long, curved bill.
+**Usage**: "The brilliant scarlet plumage of the iiwi stands out against the green canopy." - Describes the bird's striking appearance in its natural habitat.
+
 ## Illustrate
 
 **Meaning**: To explain or make something clear by using examples, charts, or pictures.

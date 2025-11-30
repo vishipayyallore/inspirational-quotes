@@ -14,6 +14,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To leave behind or give up completely.
 **Usage**: "Never abandon your dreams." - Always hold on to your aspirations, no matter the challenges you face.
 
+## Acculturation
+
+**Meaning**: The process of cultural and psychological change that results from the meeting and blending of different cultures.
+**Usage**: "Through gentle acculturation, new habits slowly feel natural instead of forced." - Connects cultural adaptation with the way new routines become part of who you are.
+
 ## Acedia
 
 **Meaning**: Spiritual or mental sloth; a state of listlessness or torpor, often linked to apathy or depression.
@@ -28,11 +33,6 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: To obtain or gain possession of something through effort or experience.
 **Usage**: "Acquire knowledge one step at a time." - Learning is a gradual process; steady effort leads to new understanding.
- 
-## Acculturation
-
-**Meaning**: The process of cultural and psychological change that results from the meeting and blending of different cultures.
-**Usage**: "Through gentle acculturation, new habits slowly feel natural instead of forced." - Connects cultural adaptation with the way new routines become part of who you are.
 
 ## Acumen
 
