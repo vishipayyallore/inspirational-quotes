@@ -48,3 +48,8 @@ This file contains definitions and example usage for "V" words found in the insp
 
 **Meaning**: In a way that produces powerful feelings or strong, clear images in the mind.
 **Usage**: "She vividly remembers the day they met." - This emphasizes the clarity and intensity of her memory.
+
+## Voracious
+
+**Meaning**: Having a very eager approach to an activity; extremely hungry for knowledge, experience, or food.
+**Usage**: "Be a voracious learner, always hungry for new insights." - Encourages actively and eagerly seeking knowledge every day.
