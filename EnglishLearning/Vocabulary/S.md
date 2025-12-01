@@ -69,10 +69,10 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To eat or consume something quickly and greedily.
 **Usage**: "He snarfed down his lunch in just a few minutes." - This implies eating in a hurried and perhaps messy manner.
 
-## Stoic
+## Solipsism
 
-**Meaning**: Showing little or no emotion, especially when facing pain, hardship, or difficulty; calmly accepting what happens.
-**Usage**: "She stayed stoic through the setbacks, quietly turning each one into a lesson instead of a complaint." - Connects emotional steadiness with growth-focused reflection.
+**Meaning**: The belief or attitude that only one’s own mind, experiences, or perspective are real or truly important.
+**Usage**: "Daily reflection guards you from quiet solipsism, reminding you that other lives and perspectives are as real as your own." - Warns against becoming trapped in a self-centered view of the world.
 
 ## Solitude
 
@@ -99,15 +99,15 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The range of different frequencies or wavelengths of a signal.
 **Usage**: "The spectrum of light visible to the human eye is just a small part of the electromagnetic spectrum." - The full range of light waves extends beyond what we can see.
 
-## Spooky
-
-**Meaning**: Strange and frightening.
-**Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
-
 ## Splurge
 
 **Meaning**: To spend money or time freely or extravagantly, often on something non-essential.
 **Usage**: "If you splurge, splurge on time—give an extra hour to the habit that shapes your future." - Reframes indulgence as investing generously in growth.
+
+## Spooky
+
+**Meaning**: Strange and frightening.
+**Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
 
 ## Stalwarts
 
@@ -134,25 +134,20 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Involving a random variable or process; characterized by randomness or probability.
 **Usage**: "Stochastic models are used in finance to predict market behavior." - These models incorporate randomness to simulate and analyze complex systems.
 
+## Stoic
+
+**Meaning**: Showing little or no emotion, especially when facing pain, hardship, or difficulty; calmly accepting what happens.
+**Usage**: "She stayed stoic through the setbacks, quietly turning each one into a lesson instead of a complaint." - Connects emotional steadiness with growth-focused reflection.
+
 ## Straying
 
 **Meaning**: Moving away from the correct path or direction; wandering.
 **Usage**: "Straying from your goals can lead to confusion and lack of purpose." - Losing focus on your objectives can create uncertainty in your life.
 
-## Subtle
-
-**Meaning**: Delicate or precise as to be difficult to analyze or describe.
-**Usage**: "There was a subtle difference between the two proposals." - This indicates that the distinction is not immediately obvious and requires careful consideration.
-
 ## Subtleties
 
 **Meaning**: The fine or delicate details or nuances of something.
 **Usage**: "Understanding the subtleties of a language can greatly enhance communication." - Grasping the small details can improve how we express and interpret meaning.
-
-## Solipsism
-
-**Meaning**: The belief or attitude that only one’s own mind, experiences, or perspective are real or truly important.
-**Usage**: "Daily reflection guards you from quiet solipsism, reminding you that other lives and perspectives are as real as your own." - Warns against becoming trapped in a self-centered view of the world.
 
 ## Suspire
 

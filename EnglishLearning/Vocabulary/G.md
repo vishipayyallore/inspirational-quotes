@@ -14,15 +14,15 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: To gather or collect something, especially information or approval.
 **Usage**: "She garnered support from her peers for the project." - This indicates that she collected or received support from others.
 
-## Gerund
-
-**Meaning**: A verb form that functions as a noun, typically ending in -ing.
-**Usage**: "In the sentence 'Swimming is fun,' 'swimming' is a gerund." - Here, 'swimming' acts as a noun, representing the activity itself.
-
 ## Gastronomy
 
 **Meaning**: The art or practice of choosing, cooking, and enjoying good food.
 **Usage**: "Treat your learning like gastronomy: savor concepts slowly instead of splurging on information you will never digest." - Connects mindful study with mindful eating.
+
+## Gerund
+
+**Meaning**: A verb form that functions as a noun, typically ending in -ing.
+**Usage**: "In the sentence 'Swimming is fun,' 'swimming' is a gerund." - Here, 'swimming' acts as a noun, representing the activity itself.
 
 ## Glisten
 

@@ -24,15 +24,15 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Relating to the sense of smell.
 **Usage**: "The olfactory experience of a place can trigger powerful memories." - Scents have the ability to evoke vivid recollections and emotions.
 
-## Orthoepy
-
-**Meaning**: The correct or accepted pronunciation of words.
-**Usage**: "Treat orthoepy as a quiet form of respect—getting someone’s name right shows you believe their story matters." - Links correct pronunciation with care for people.
-
 ## Optimistic
 
 **Meaning**: Hopeful and confident about the future.  
 **Usage**: "Choose to be optimistic; it feels better." - Deciding to have a positive outlook improves your experience.
+
+## Orthoepy
+
+**Meaning**: The correct or accepted pronunciation of words.
+**Usage**: "Treat orthoepy as a quiet form of respect—getting someone’s name right shows you believe their story matters." - Links correct pronunciation with care for people.
 
 ## Osmosis
 

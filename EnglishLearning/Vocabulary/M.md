@@ -19,6 +19,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Of only moderate quality; not very good.
 **Usage**: "Mediocre is the enemy of greatness." - Settling for mediocrity can prevent you from achieving greatness.
 
+## Mellifluous
+
+**Meaning**: (of a voice or words) sweet or musical; pleasant to hear.
+**Usage**: "The mellifluous tones of the cello calmed the audience instantly." - Describes a sound that is smooth, flowing, and pleasing to the ear.
+
 ## Metaphors
 
 **Meaning**: Figures of speech that describe a subject by asserting that it is, on some point of comparison, the same as another otherwise unrelated object.
