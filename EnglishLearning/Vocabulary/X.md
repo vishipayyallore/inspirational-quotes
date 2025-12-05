@@ -13,3 +13,8 @@ This file contains vocabulary words starting with the letter X, along with their
 
 **Meaning**: Dislike of or prejudice against people from other countries.
 **Usage**: "Xenophobia can lead to division and conflict." - Fear or hatred of those from different backgrounds can harm societal cohesion.
+
+## Xenial
+
+**Meaning**: Relating to hospitality, especially being warm and friendly to guests or strangers.
+**Usage**: "Cultivate a xenial spirit, welcoming new people and ideas into your life." - Encourages openness and kindness toward others and fresh perspectives.
