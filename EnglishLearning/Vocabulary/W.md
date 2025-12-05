@@ -9,6 +9,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Wanderlust
+
+**Meaning**: A strong desire or impulse to travel and explore the world.
+**Usage**: "Let your wanderlust guide you to new experiences and perspectives." - Encourages seeking growth by exploring beyond familiar places.
+
 ## Wary
 
 **Meaning**: Feeling or showing caution about possible dangers or problems.
