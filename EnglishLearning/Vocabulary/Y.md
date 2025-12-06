@@ -28,3 +28,8 @@ This file contains vocabulary words starting with the letter Y, along with their
 
 **Meaning**: At some distance in the direction indicated; over there.
 **Usage**: "The answers you seek are yonder, just beyond your current understanding." - Encouragement to look beyond immediate perceptions for deeper insights.
+
+## Youthful
+
+**Meaning**: Remaining young and energetic; fresh; vigorous.
+**Usage**: "Maintain a youthful spirit of curiosity regardless of your age." - Encourages keeping an active, eager mind and heart throughout life.
