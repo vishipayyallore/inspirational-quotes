@@ -23,3 +23,8 @@ This file contains vocabulary words starting with the letter Z, along with their
 
 **Meaning**: A gentle, mild breeze; a light west wind (figuratively: a pleasant, refreshing influence).
 **Usage**: "A zephyr of kindness can change the atmosphere in a room." - Small, gentle actions often have an outsized positive effect.
+
+## Zest
+
+**Meaning**: Great enthusiasm and energy.
+**Usage**: "Approach every challenge with zest, and even difficulties become adventures." - Encourages tackling life with high energy and a positive spirit.
