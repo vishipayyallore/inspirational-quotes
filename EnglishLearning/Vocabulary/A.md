@@ -114,6 +114,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To gather or accumulate a large amount of something over time.
 **Usage**: "Amassed a wealth of knowledge." - Collected a significant amount of information or expertise.
 
+## Ameliorate
+
+**Meaning**: To make something better or more tolerable; to improve a difficult situation.
+**Usage**: "Each small habit you change can ameliorate your day." - Emphasizes that gradual improvements can make life noticeably better over time.
+
 ## Ambsace
 
 **Meaning**: The lowest throw in dice (double ones); bad luck or the worst possible outcome.

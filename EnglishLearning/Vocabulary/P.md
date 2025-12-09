@@ -19,6 +19,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: More important than anything else; supreme.
 **Usage**: "Safety is paramount in any workplace." - Ensuring safety is the most important consideration in a work environment.
 
+## Parsimony
+
+**Meaning**: Extreme unwillingness to spend resources, especially money; careful and sparing use of what one has.
+**Usage**: "Practice parsimony with your time and attention so they are not squandered on what does not matter." - Encourages being frugal with energy and focus, not just money.
+
 ## Patron
 
 **Meaning**: A person who gives financial or other support to a person, organization, or cause.

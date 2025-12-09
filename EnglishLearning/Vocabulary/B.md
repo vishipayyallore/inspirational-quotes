@@ -19,6 +19,14 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Relating to baths or bathing; used to describe something therapeutic or suitable for bathing.
 **Usage**: "The balneal springs drew visitors seeking rest and recovery." - Refers to places known for restorative baths.
 
+## Balustrade
+
+**Meaning**: A row of small columns topped by a rail, often used as a protective barrier on balconies, staircases, or terraces.
+**Usage**: "Every small habit is like a balustrade, quietly guarding your progress from slipping backward." - Uses the image of a railing to show how steady routines protect your growth.
+
+**Meaning**: Relating to baths or bathing; used to describe something therapeutic or suitable for bathing.
+**Usage**: "The balneal springs drew visitors seeking rest and recovery." - Refers to places known for restorative baths.
+
 ## Benevolence
 
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
