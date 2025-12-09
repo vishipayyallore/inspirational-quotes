@@ -9,6 +9,11 @@ This file contains definitions and example usage for "K" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Kaleidoscopic
+
+**Meaning**: Having constantly changing patterns, elements, or colors; full of variety and movement.
+**Usage**: "Your life is a kaleidoscopic journey—each small turn reveals a new pattern of possibilities." - Encourages seeing change and diversity of experiences as something beautiful and enriching.
+
 ## Kindred
 
 **Meaning**: Having similar origin, nature, or character; related or connected by qualities or interests.
