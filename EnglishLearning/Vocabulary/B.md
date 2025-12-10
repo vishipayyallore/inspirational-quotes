@@ -24,9 +24,6 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A row of small columns topped by a rail, often used as a protective barrier on balconies, staircases, or terraces.
 **Usage**: "Every small habit is like a balustrade, quietly guarding your progress from slipping backward." - Uses the image of a railing to show how steady routines protect your growth.
 
-**Meaning**: Relating to baths or bathing; used to describe something therapeutic or suitable for bathing.
-**Usage**: "The balneal springs drew visitors seeking rest and recovery." - Refers to places known for restorative baths.
-
 ## Benevolence
 
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
@@ -46,6 +43,11 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Lacking strong features or characteristics and therefore uninteresting.
 **Usage**: "A bland personality can make it difficult to connect with others." - Someone who is uninteresting may struggle to form relationships.
+
+## Boscage
+
+**Meaning**: A mass of trees, shrubs, or foliage; a shady, wooded area.
+**Usage**: "When life feels harsh and exposed, seek a boscage of quiet habits where your strength can regrow in the shade." - Encourages finding a protected space of routine and reflection to recover.
 
 ## Boundaries
 
