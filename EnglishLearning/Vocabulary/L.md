@@ -19,6 +19,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Relating to a transitional or in-between state, space, or phase.
 **Usage**: "In the liminal moments between doubt and action, your future is quietly being shaped." - Highlights the power of transition phases in personal growth.
 
+## Lionhearted
+
+**Meaning**: Brave and determined in the face of fear or difficulty; courageous.
+**Usage**: "Be lionhearted when setbacks roar—meet them with steady courage and keep moving forward." - Encourages facing challenges boldly instead of retreating.
+
 ## Luminous
 
 **Meaning**: Emitting or reflecting light; bright.
