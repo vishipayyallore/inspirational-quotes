@@ -94,6 +94,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Pleasant or agreeable because suited to one's nature or tastes; having a friendly, sociable disposition.  
 **Usage**: "A congenial work environment fosters creativity and productivity." - A pleasant workplace that suits people's preferences helps them work better.
 
+## Consanguinity
+
+**Meaning**: A close connection or kinship, especially by blood or shared family lineage.
+**Usage**: "True consanguinity is not just in bloodlines, but in the shared values and virtues we choose to live by." - Emphasizes that real closeness comes from common principles as much as from ancestry.
+
 ## Consistency
 
 **Meaning**: The quality of always behaving in the same way or of having the same opinions, standard, etc.  
