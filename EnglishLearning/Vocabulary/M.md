@@ -34,15 +34,15 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Showing great attention to detail; very careful and precise.
 **Usage**: "Meticulous planning is essential for success." - Careful and detailed planning can lead to better outcomes.
 
-## Monotheism
-
-**Meaning**: The belief in the existence of only one God.
-**Usage**: "Whether or not you embrace monotheism, live as if your single highest value is worth serving with your whole life." - Uses the idea of one God to emphasize dedicating yourself to one unifying principle.
-
 ## Mindfulness
 
 **Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
 **Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
+
+## Monotheism
+
+**Meaning**: The belief in the existence of only one God.
+**Usage**: "Whether or not you embrace monotheism, live as if your single highest value is worth serving with your whole life." - Uses the idea of one God to emphasize dedicating yourself to one unifying principle.
 
 ## Mussitate
 
