@@ -24,11 +24,6 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A row of small columns topped by a rail, often used as a protective barrier on balconies, staircases, or terraces.
 **Usage**: "Every small habit is like a balustrade, quietly guarding your progress from slipping backward." - Uses the image of a railing to show how steady routines protect your growth.
 
-## Bergschrund
-
-**Meaning**: A deep crevasse that forms where moving glacier ice pulls away from the stagnant ice or rock above it, often marking a dramatic boundary between stability and movement.
-**Usage**: "Every major change in life has a bergschrund—a scary crack between where you stand now and the moving glacier of who you are becoming; cross it carefully, but do not let it stop you." - Uses the image of a bergschrund to symbolize the daunting gap between comfort and growth.
-
 ## Benevolence
 
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
@@ -38,6 +33,11 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Well-meaning and kindly; showing goodwill and generosity.
 **Usage**: "A benevolent leader cares deeply for the wellbeing of their team." - Compassionate leadership fosters trust and loyalty.
+
+## Bergschrund
+
+**Meaning**: A deep crevasse that forms where moving glacier ice pulls away from the stagnant ice or rock above it, often marking a dramatic boundary between stability and movement.
+**Usage**: "Every major change in life has a bergschrund—a scary crack between where you stand now and the moving glacier of who you are becoming; cross it carefully, but do not let it stop you." - Uses the image of a bergschrund to symbolize the daunting gap between comfort and growth.
 
 ## bespoke
 
