@@ -149,6 +149,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Moving away from the correct path or direction; wandering.
 **Usage**: "Straying from your goals can lead to confusion and lack of purpose." - Losing focus on your objectives can create uncertainty in your life.
 
+## Subfusc
+
+**Meaning**: Dull, drab, or gloomy in appearance; lacking brightness or liveliness.
+**Usage**: "Even on the most subfusc days, a single deliberate act of kindness can light up the room and your own outlook." - Uses a gloomy setting to highlight how small positive actions can transform the mood.
+
 ## Subtleties
 
 **Meaning**: The fine or delicate details or nuances of something.

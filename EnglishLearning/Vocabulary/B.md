@@ -34,6 +34,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Well-meaning and kindly; showing goodwill and generosity.
 **Usage**: "A benevolent leader cares deeply for the wellbeing of their team." - Compassionate leadership fosters trust and loyalty.
 
+## Bergschrund
+
+**Meaning**: A deep crevasse that forms where moving glacier ice pulls away from the stagnant ice or rock above it, often marking a dramatic boundary between stability and movement.
+**Usage**: "Every major change in life has a bergschrund—a scary crack between where you stand now and the moving glacier of who you are becoming; cross it carefully, but do not let it stop you." - Uses the image of a bergschrund to symbolize the daunting gap between comfort and growth.
+
 ## bespoke
 
 **Meaning**: Made for a particular customer or user; custom-made.
