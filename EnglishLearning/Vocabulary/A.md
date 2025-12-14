@@ -89,11 +89,6 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Rural; rustic; characteristic of the countryside.
 **Usage**: "The agrestic charm of the village attracted many city dwellers." - The simple, rural beauty of the village appealed to those from urban areas.
 
-## Archaic
-
-**Meaning**: Very old or old-fashioned; belonging to an earlier period in history.
-**Usage**: "Some archaic words, like 'prithee,' carry a charm that modern language lacks—reviving them reminds us of continuity." - Highlights how old expressions can enrich and connect us to the past.
-
 ## Akimbo
 
 **Meaning**: With hands on the hips and elbows turned outward; a stance expressing confidence or defiance.
@@ -143,6 +138,11 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: To remove or hide identifying details so that a person or source cannot be recognized.
 **Usage**: "Before sharing his journal with others, he chose to anonymize names so the focus stayed on the lessons, not the people." - Connects privacy with keeping attention on growth and insight.
+
+## Archaic
+
+**Meaning**: Very old or old-fashioned; belonging to an earlier period in history.
+**Usage**: "Some archaic words, like 'prithee,' carry a charm that modern language lacks—reviving them reminds us of continuity." - Highlights how old expressions can enrich and connect us to the past.
 
 ## Arid
 
