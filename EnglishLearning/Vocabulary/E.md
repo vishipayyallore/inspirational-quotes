@@ -14,6 +14,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Cheerful and full of energy; exuberant and lively.
 **Usage**: "Her ebullient personality lifted the mood of the entire team." - Enthusiastic and energetic behavior that positively influences others.
 
+## Effulgent
+
+**Meaning**: Shining brightly; radiant and brilliantly glowing.
+**Usage**: "Let your efforts become effulgent—consistent small wins eventually blaze with undeniable light." - Encourages persistence, showing that steady work will shine brilliantly over time.
+
 ## Elevate
 
 **Meaning**: To raise or lift something to a higher position.
