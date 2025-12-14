@@ -69,6 +69,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Feeling or showing sympathy and concern for others.  
 **Usage**: "It is to be useful, to be honorable, to be compassionate, to have it made some difference that you have lived and lived well." - Being kind and concerned about others' suffering is part of living well.
 
+## Comport
+
+**Meaning**: To conduct or behave oneself in a specified way; to carry oneself with a certain manner or bearing.
+**Usage**: "Comport yourself with dignity, even when no one is watching—character is built in private moments." - Encourages acting with integrity and grace at all times, not just in public.
+
 ## Comprehensive
 
 **Meaning**: Including all or nearly all elements or aspects of something.  
