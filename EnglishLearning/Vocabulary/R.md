@@ -54,6 +54,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: The process of editing a text by removing or obscuring sensitive or unnecessary information before sharing it.
 **Usage**: "Thoughtful redaction is like emotional editing—keep what serves your growth and quietly omit what no longer helps." - Links careful removal in writing to intentional mental and emotional filtering.
 
+## Regnant
+
+**Meaning**: Reigning; ruling; currently dominant or prevalent.
+**Usage**: "Make kindness the regnant principle of your daily actions, and watch how your environment transforms." - Encourages letting a positive value hold supreme influence over behavior.
+
 ## Reinforce
 
 **Meaning**: To strengthen or support an idea, behavior, or structure.

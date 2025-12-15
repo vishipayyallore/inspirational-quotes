@@ -145,6 +145,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A substance used to prepare a surface for painting or other treatment.
 **Usage**: "A good primer is essential for a smooth finish." - Using a quality base coat is important for achieving a polished result.
 
+## Prithee
+
+**Meaning**: An archaic or poetic way of saying "please" or "I pray thee"; used to express a polite request.
+**Usage**: "Prithee, take a moment each day to reflect on your blessings before rushing forward." - An elegant, gentle plea encouraging daily gratitude.
+
 ## Proactive
 
 **Meaning**: Creating or controlling a situation rather than just responding to it after it has happened.
