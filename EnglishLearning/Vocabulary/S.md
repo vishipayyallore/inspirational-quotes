@@ -29,6 +29,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Relating to meaning in language or logic.
 **Usage**: "Semantic understanding is key to effective communication." - Grasping the meaning behind words is essential for conveying ideas clearly.
 
+## Sempiternal
+
+**Meaning**: Eternal and unchanging; everlasting, with no beginning or end.
+**Usage**: "Let your core values be sempiternal—while tactics may shift, your guiding principles remain timeless." - Encourages anchoring life around enduring beliefs that outlast temporary trends.
+
 ## Serendipity
 
 **Meaning**: The occurrence and development of events by chance in a happy or beneficial way.
@@ -53,6 +58,11 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: Pushed someone or something roughly or forcefully.
 **Usage**: "He felt shoved aside in the meeting, but chose to respond with calm confidence instead." - Describes being pushed away or ignored, while highlighting a composed reaction.
+
+## Simile
+
+**Meaning**: A figure of speech comparing two different things using "like" or "as" to highlight a shared quality.
+**Usage**: "Life is like a garden—tend it daily, and beauty will bloom in time." - Uses a simile to show how consistent care yields rewarding results.
 
 ## Skewed
 
