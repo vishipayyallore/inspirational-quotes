@@ -34,6 +34,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The quality of being clear and easily understood; transparency.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Creative thinking requires a clear, uncluttered mind.
 
+## Clishmaclaver
+
+**Meaning**: Idle talk, gossip, or trivial chatter (Scottish dialect).
+**Usage**: "Skip the clishmaclaver and spend your words on conversations that matter." - Encourages focusing on meaningful dialogue instead of wasting time on gossip.
+
 ## Clutter
 
 **Meaning**: A collection of things lying about in an untidy mass.
