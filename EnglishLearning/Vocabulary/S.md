@@ -19,10 +19,20 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Most noticeable or important.
 **Usage**: "The salient features of the landscape were highlighted in the painting." - The most prominent aspects were emphasized in the artwork.
 
+## Sanguine
+
+**Meaning**: Optimistic or positive, especially in a difficult situation; cheerfully confident about the future.
+**Usage**: "Stay sanguine through setbacks—your hopeful outlook often becomes a self-fulfilling prophecy." - Encourages maintaining optimism because positive expectations can shape positive outcomes.
+
 ## Semantic
 
 **Meaning**: Relating to meaning in language or logic.
 **Usage**: "Semantic understanding is key to effective communication." - Grasping the meaning behind words is essential for conveying ideas clearly.
+
+## Sempiternal
+
+**Meaning**: Eternal and unchanging; everlasting, with no beginning or end.
+**Usage**: "Let your core values be sempiternal—while tactics may shift, your guiding principles remain timeless." - Encourages anchoring life around enduring beliefs that outlast temporary trends.
 
 ## Serendipity
 
@@ -48,6 +58,11 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: Pushed someone or something roughly or forcefully.
 **Usage**: "He felt shoved aside in the meeting, but chose to respond with calm confidence instead." - Describes being pushed away or ignored, while highlighting a composed reaction.
+
+## Simile
+
+**Meaning**: A figure of speech comparing two different things using "like" or "as" to highlight a shared quality.
+**Usage**: "Life is like a garden—tend it daily, and beauty will bloom in time." - Uses a simile to show how consistent care yields rewarding results.
 
 ## Skewed
 
