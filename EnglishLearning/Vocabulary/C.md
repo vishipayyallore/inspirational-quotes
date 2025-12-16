@@ -164,6 +164,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Belief in or acceptance of something as true; credibility or trustworthiness.
 **Usage**: "Her expertise lent credence to the proposal." - When someone is trusted, their ideas are more likely to be accepted.
 
+## Crepitate
+
+**Meaning**: To make a crackling or popping sound, like a fire or joints snapping.
+**Usage**: "Let old doubts crepitate and burn away as you build new habits—each small pop is progress leaving room for growth." - Uses the crackling image to represent shedding old limitations.
+
 ## Crucial
 
 **Meaning**: Of great importance; critical.  
