@@ -59,6 +59,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Showing a skillful use of underhanded tactics to achieve goals; not straightforward or honest.
 **Usage**: "A devious person may seem friendly but harbor hidden intentions." - Someone who uses dishonest or indirect methods to get what they want.
 
+## Diaphanous
+
+**Meaning**: Light, delicate, and translucent; so fine as to be almost transparent.
+**Usage**: "Strip away diaphanous excuses and face your true priorities—clarity comes when nothing hides the light." - Encourages removing flimsy barriers to reveal what really matters.
+
 ## Diligent
 
 **Meaning**: Having or showing care and conscientiousness in one's work or duties; hardworking and persistent.
