@@ -24,6 +24,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Optimistic or positive, especially in a difficult situation; cheerfully confident about the future.
 **Usage**: "Stay sanguine through setbacks—your hopeful outlook often becomes a self-fulfilling prophecy." - Encourages maintaining optimism because positive expectations can shape positive outcomes.
 
+## Scry
+
+**Meaning**: To foretell the future by gazing into a reflective surface such as a crystal ball or mirror; to divine or predict.
+**Usage**: "You cannot scry the future, but you can shape it—each deliberate action today writes tomorrow's story." - Encourages focusing on present effort rather than trying to predict what lies ahead.
+
 ## Semantic
 
 **Meaning**: Relating to meaning in language or logic.
