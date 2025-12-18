@@ -44,6 +44,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: Not real or true; imaginary or fabricated.
 **Usage**: "The story was entirely fictitious, created for entertainment." - The narrative was made up and not based on real events.
 
+## Figgy pudding
+
+**Meaning**: A traditional English steamed pudding made with figs, suet, and spices, often associated with Christmas celebrations and carols.
+**Usage**: "Like figgy pudding at a holiday feast, small traditions bring sweetness to the seasons of life—cherish them." - Uses a festive treat to remind us that rituals and traditions add warmth to our lives.
+
 ## Flagship
 
 **Meaning**: The most important or leading item in a group, often used to describe a company's best product or service.

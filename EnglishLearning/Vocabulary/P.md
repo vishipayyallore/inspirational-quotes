@@ -90,6 +90,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.
 **Usage**: "The phenomenon of climate change is affecting us all." - The observable changes in climate patterns are a pressing global issue.
 
+## Piquant
+
+**Meaning**: Having a pleasantly sharp or appetizing taste; stimulating or exciting to the mind.
+**Usage**: "Add a piquant twist to your routine—small surprises keep motivation fresh and the journey interesting." - Encourages spicing up daily habits to prevent staleness and maintain engagement.
+
 ## Pivot
 
 **Meaning**: A significant change in direction, strategy, or approach.
