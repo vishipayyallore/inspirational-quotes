@@ -34,6 +34,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To understand something deeply or completely.
 **Usage**: "She couldn't fathom the complexity of the puzzle." - Fully comprehend intricate ideas or problems.
 
+## Felicity
+
+**Meaning**: Intense happiness; the ability to find appropriate expression for one's thoughts; a pleasing manner or style.
+**Usage**: "True felicity comes not from possessions but from purpose—find what matters and joy follows." - Connects deep happiness to living with meaning rather than accumulating things.
+
 ## Fictitious
 
 **Meaning**: Not real or true; imaginary or fabricated.
