@@ -90,6 +90,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.
 **Usage**: "The phenomenon of climate change is affecting us all." - The observable changes in climate patterns are a pressing global issue.
 
+## Phillumenist
+
+**Meaning**: A person who collects matchboxes, matchbox labels, or other match-related items as a hobby.
+**Usage**: "Like a phillumenist carefully curating each matchbox, we should collect meaningful experiences that spark joy and light our path forward." - Just as collectors preserve small treasures, we should gather moments that ignite our passion.
+
 ## Piquant
 
 **Meaning**: Having a pleasantly sharp or appetizing taste; stimulating or exciting to the mind.
