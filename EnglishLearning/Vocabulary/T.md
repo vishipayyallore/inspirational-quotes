@@ -44,6 +44,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A principle or belief, especially one of the main principles of a religion or philosophy.
 **Usage**: "The tenet of 'treat others as you wish to be treated' is a universal truth." - The principle of reciprocity is a fundamental truth across cultures.
 
+## Tergiversate
+
+**Meaning**: To change one’s opinions or behavior repeatedly; to be evasive or equivocal.
+**Usage**: "Don’t tergiversate when it’s time to act—choose a direction and move forward." - Highlights that progress requires commitment over hesitation.
+
 ## Thematic
 
 **Meaning**: Relating to or based on a theme.
