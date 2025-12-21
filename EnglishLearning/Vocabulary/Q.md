@@ -29,6 +29,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Meaning**: A state of stillness, calmness, and quiet in a person or place.
 **Usage**: "In the midst of chaos, she found quietude within herself." - Finding inner peace and tranquility despite external turmoil.
 
+## Quiescent
+
+**Meaning**: In a state of inactivity, rest, or dormancy; quiet and still.
+**Usage**: "The project lay quiescent for months, until one small step brought it back to life." - Shows how steady action can reawaken stalled progress.
+
 ## Quintessence
 
 **Meaning**: The purest, most essential, or most perfect form of something.

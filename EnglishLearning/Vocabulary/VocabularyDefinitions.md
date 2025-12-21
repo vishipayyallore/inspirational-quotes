@@ -20,7 +20,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [N Vocabulary](./N.md) - Words like Neutralize
 - [O Vocabulary](./O.md) - Words like Obsess, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Persistence, Perspective, Pivot
-- [Q Vocabulary](./Q.md) - Ready for vocabulary words
+- [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quiescent
 - [R Vocabulary](./R.md) - Words like Reciprocate, Resilience, Restraint
 - [S Vocabulary](./S.md) - Words like Solitude, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tangible, Transient, Triumph
