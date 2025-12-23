@@ -59,6 +59,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: To involve something as a necessary or inevitable part or consequence.
 **Usage**: "Success entails hard work and dedication." - Achieving success requires effort and commitment.
 
+## Euphonious
+
+**Meaning**: Pleasant to hear; having a smooth, musical sound.
+**Usage**: "Her euphonious voice made the simple poem feel unforgettable." - Describes speech or sound that is especially pleasing.
+
 ## Envy
 
 **Meaning**: A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.

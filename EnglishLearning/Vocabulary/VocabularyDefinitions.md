@@ -8,14 +8,14 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [B Vocabulary](./B.md) - Words like Burnout
 - [C Vocabulary](./C.md) - Words like Charm, Clarity, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
-- [E Vocabulary](./E.md) - Words like Elevate, Enkindle, Execution
+- [E Vocabulary](./E.md) - Words like Elevate, Enkindle, Euphonious, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Fathom, Flattery
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
 - [J Vocabulary](./J.md) - Ready for vocabulary words
 - [K Vocabulary](./K.md) - Words like Knead
-- [L Vocabulary](./L.md) - Words like Latent, Lucid
+- [L Vocabulary](./L.md) - Words like Latent
 - [M Vocabulary](./M.md) - Words like Meddle, Mindfulness
 - [N Vocabulary](./N.md) - Words like Neutralize
 - [O Vocabulary](./O.md) - Words like Obsess, Optimistic, Overwhelm
