@@ -179,11 +179,6 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Having a meaning that is mysterious or obscure.
 **Usage**: "The message was cryptic, leaving everyone puzzled about its true intent." - Ambiguous or hidden meanings can create intrigue or confusion.
 
-## Cultivate
-
-**Meaning**: To develop or improve something over time through care, effort, and attention; to nurture growth.
-**Usage**: "Small habits make the biggest changes. Cultivate daily practices that align with your goals." - Growing and developing positive habits requires consistent effort and attention.
-
 ## Culminating
 
 **Meaning**: Reaching a climax or point of highest development.
@@ -193,6 +188,11 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: The highest point or climax of something, especially as attained after a long time.
 **Usage**: "The culmination of years of hard work was the successful launch of the product." - Achieving a significant goal often requires sustained effort over time.
+
+## Cultivate
+
+**Meaning**: To develop or improve something over time through care, effort, and attention; to nurture growth.
+**Usage**: "Small habits make the biggest changes. Cultivate daily practices that align with your goals." - Growing and developing positive habits requires consistent effort and attention.
 
 ## Cunning
 
