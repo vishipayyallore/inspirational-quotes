@@ -24,6 +24,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Brave and determined in the face of fear or difficulty; courageous.
 **Usage**: "Be lionhearted when setbacks roar—meet them with steady courage and keep moving forward." - Encourages facing challenges boldly instead of retreating.
 
+## Lucid
+
+**Meaning**: Clear and easy to understand; expressed plainly.
+**Usage**: "After reviewing the notes, he gave a lucid explanation of the plan." - Shows ideas communicated clearly without confusion.
+
 ## Luminous
 
 **Meaning**: Emitting or reflecting light; bright.

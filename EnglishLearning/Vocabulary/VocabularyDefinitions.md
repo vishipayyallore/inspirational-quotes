@@ -15,7 +15,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
 - [J Vocabulary](./J.md) - Ready for vocabulary words
 - [K Vocabulary](./K.md) - Words like Knead
-- [L Vocabulary](./L.md) - Words like Latent
+- [L Vocabulary](./L.md) - Words like Latent, Lucid
 - [M Vocabulary](./M.md) - Words like Meddle, Mindfulness
 - [N Vocabulary](./N.md) - Words like Neutralize
 - [O Vocabulary](./O.md) - Words like Obsess, Optimistic, Overwhelm
