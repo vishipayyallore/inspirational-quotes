@@ -104,6 +104,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To make something less severe or more bearable.
 **Usage**: "Alleviate suffering through compassion and kindness." - Reduce pain or hardship by showing empathy and care for others.
 
+## Alpenglow
+
+**Meaning**: A reddish or golden glow seen on mountains (or clouds) around sunrise or sunset.
+**Usage**: "The alpenglow on the peaks reminded her that every day begins with light, even after a hard night." - Uses the image of warm mountain light to reinforce hope and renewal.
+
 ## Altruism
 
 **Meaning**: The selfless concern for the well-being of others; unselfishness.
