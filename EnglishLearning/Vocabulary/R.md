@@ -9,6 +9,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Radiance
+
+**Meaning**: Brightness or light that seems to shine outward; a glowing quality.
+**Usage**: "Her radiance lifted the room." - A warm, positive presence can encourage others.
+
 ## Ramble
 
 **Meaning**: To speak or write at length in a confused or inconsequential way.
