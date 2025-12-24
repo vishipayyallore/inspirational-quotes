@@ -44,6 +44,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
 **Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
 
+## Moxie
+
+**Meaning**: Courage, determination, and energetic confidence; bold spirit.
+**Usage**: "She tackled the challenge with moxie." - A confident, determined attitude helps you push through difficulty.
+
 ## Monotheism
 
 **Meaning**: The belief in the existence of only one God.

@@ -16,7 +16,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [J Vocabulary](./J.md) - Ready for vocabulary words
 - [K Vocabulary](./K.md) - Words like Knead
 - [L Vocabulary](./L.md) - Words like Latent
-- [M Vocabulary](./M.md) - Words like Meddle, Mindfulness
+- [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moxie
 - [N Vocabulary](./N.md) - Words like Neutralize
 - [O Vocabulary](./O.md) - Words like Obsess, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Persistence, Perspective, Pivot
