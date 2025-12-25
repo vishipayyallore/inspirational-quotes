@@ -24,6 +24,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: A mathematical structure formed by a collection of vectors.
 **Usage**: "Vector spaces are fundamental in linear algebra." - These spaces are essential for understanding linear relationships in mathematics.
 
+## Vehement
+
+**Meaning**: Showing strong feeling; forceful, intense, or passionate.
+**Usage**: "He made a vehement case for honesty." - Strong convictions can be expressed with intensity while staying respectful.
+
 ## Verisimilitude
 
 **Meaning**: The appearance of being true or real; the quality that makes something (especially a story or representation) seem lifelike and believable.

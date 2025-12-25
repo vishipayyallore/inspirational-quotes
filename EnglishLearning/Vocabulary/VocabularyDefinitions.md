@@ -16,16 +16,16 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [J Vocabulary](./J.md) - Ready for vocabulary words
 - [K Vocabulary](./K.md) - Words like Knead
 - [L Vocabulary](./L.md) - Words like Latent
-- [M Vocabulary](./M.md) - Words like Meddle, Mindfulness
+- [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moxie
 - [N Vocabulary](./N.md) - Words like Neutralize
 - [O Vocabulary](./O.md) - Words like Obsess, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Persistence, Perspective, Pivot
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude
-- [R Vocabulary](./R.md) - Words like Reciprocate, Resilience, Restraint
+- [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resilience, Restraint
 - [S Vocabulary](./S.md) - Words like Solitude, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
-- [V Vocabulary](./V.md) - Words like Vision, Vector
+- [V Vocabulary](./V.md) - Words like Vision, Vector, Vehement
 - [W Vocabulary](./W.md) - Words like Wit
 - [X Vocabulary](./X.md) - Ready for vocabulary words
 - [Y Vocabulary](./Y.md) - Words like Yearn, Yield

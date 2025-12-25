@@ -49,6 +49,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: The belief in the existence of only one God.
 **Usage**: "Whether or not you embrace monotheism, live as if your single highest value is worth serving with your whole life." - Uses the idea of one God to emphasize dedicating yourself to one unifying principle.
 
+## Moxie
+
+**Meaning**: Courage, determination, and energetic confidence; bold spirit.
+**Usage**: "She tackled the challenge with moxie." - A confident, determined attitude helps you push through difficulty.
+
 ## Mussitate
 
 **Meaning**: To speak softly under your breath; to murmur or mutter quietly.
