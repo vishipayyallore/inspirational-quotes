@@ -34,6 +34,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The quality of being clear and easily understood; transparency.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Creative thinking requires a clear, uncluttered mind.
 
+## Clement
+
+**Meaning**: Mild and pleasant (often describing weather); or showing mercy and gentleness.
+**Usage**: "Be clement in your judgments, and firm in your principles." - Encourages kindness toward people while staying true to what is right.
+
 ## Clishmaclaver
 
 **Meaning**: Idle talk, gossip, or trivial chatter (Scottish dialect).
