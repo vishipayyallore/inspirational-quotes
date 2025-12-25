@@ -28,7 +28,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [V Vocabulary](./V.md) - Words like Vision, Vector, Vehement
 - [W Vocabulary](./W.md) - Words like Wit
 - [X Vocabulary](./X.md) - Ready for vocabulary words
-- [Y Vocabulary](./Y.md) - Words like Yearn, Yield
+- [Y Vocabulary](./Y.md) - Words like Yearn, Yield, Yuletide
 - [Z Vocabulary](./Z.md) - Words like Zeal, Zephyr
 
 ## How to Use This Collection

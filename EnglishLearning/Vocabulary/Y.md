@@ -33,3 +33,8 @@ This file contains vocabulary words starting with the letter Y, along with their
 
 **Meaning**: Remaining young and energetic; fresh; vigorous.
 **Usage**: "Maintain a youthful spirit of curiosity regardless of your age." - Encourages keeping an active, eager mind and heart throughout life.
+
+## Yuletide
+
+**Meaning**: The Christmas season; a festive period around Christmas.
+**Usage**: "Let the spirit of Yuletide remind you to give generously and hope steadily." - Uses the season as a cue for kindness and renewal.
