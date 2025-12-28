@@ -24,6 +24,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: A specialized segment of the market for a particular kind of product or service.
 **Usage**: "Finding your niche is essential for success in a competitive landscape." - Identifying a specific area where you can excel is key to standing out.
 
+## Nimble
+
+**Meaning**: Quick and light in movement or action; able to think and understand quickly.
+**Usage**: "Stay nimble in your thinking; small adjustments today can prevent big regrets tomorrow." - Encourages adaptability and flexible decision-making.
+
 ## Nostalgia
 
 **Meaning**: A sentimental longing or wistful affection for the past, often for a time or place associated with happy memories.
