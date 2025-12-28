@@ -29,15 +29,15 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: To draw out a response, answer, or fact from someone.
 **Usage**: "Good leaders elicit the best from their teams." - Effective leaders bring out the potential in others.
 
-## Elucidate
-
-**Meaning**: To make something clear; to explain.
-**Usage**: "He took a moment to elucidate the plan so everyone understood their next step." - To clarify an idea by explaining it plainly.
-
 ## Eloquent
 
 **Meaning**: Fluent, persuasive, and expressive in speaking or writing.
 **Usage**: "An eloquent speaker can move audiences with words that resonate deeply." - Powerful communication through meaningful language inspires and motivates.
+
+## Elucidate
+
+**Meaning**: To make something clear; to explain.
+**Usage**: "He took a moment to elucidate the plan so everyone understood their next step." - To clarify an idea by explaining it plainly.
 
 ## Embeddings
 

@@ -104,6 +104,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The state or situation of being alone.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Being alone with your thoughts can foster creative thinking.
 
+## Sotto voce
+
+**Meaning**: In a quiet voice; in an undertone, often so as not to be overheard.
+**Usage**: "She said it sotto voce, not to hide the truth, but to keep the moment gentle." - Speaking softly to avoid drawing attention.
+
 ## Sparingly
 
 **Meaning**: In a restricted or infrequent manner.
