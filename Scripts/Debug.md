@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2025-12-26 10:00:50
+**Last verification**: 2025-12-28 00:00:00
 
 ## Standard Verification Command
 
@@ -18,6 +18,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 - `Logs/verify-20251223-160223.txt` — fixed `E.md` ordering; added "Alpenglow" (A), "Euphonious" (E)
 - `Logs/verify-20251121-125834.txt` — added "Quixotic" to `Q.md` and "Osmosis" to `O.md`
 - `Logs/verify-20251121-122333.txt` — added "Equable" to `E.md`
+
+- `Logs/verify-20251228-000000.txt` — added "Elucidate" (E); ordering verified OK
 
 ## Notes
 
