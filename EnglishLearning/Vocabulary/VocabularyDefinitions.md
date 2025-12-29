@@ -8,7 +8,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [B Vocabulary](./B.md) - Words like Burnout
 - [C Vocabulary](./C.md) - Words like Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
-- [E Vocabulary](./E.md) - Words like Elevate, Enkindle, Euphonious, Execution
+- [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Euphonious, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Fathom, Flattery
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
@@ -22,7 +22,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [P Vocabulary](./P.md) - Words like Persistence, Perspective, Pivot
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resilience, Restraint
-- [S Vocabulary](./S.md) - Words like Solitude, Swindler
+- [S Vocabulary](./S.md) - Words like Solitude, Sotto voce, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Vision, Vector, Vehement

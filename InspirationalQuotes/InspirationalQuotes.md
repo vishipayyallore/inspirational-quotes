@@ -6,9 +6,9 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
-> 1. **Never** put too much trust in friends. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
-> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous -- **Here**
+> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 
@@ -36,8 +36,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
-> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous -- **Here**
-> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
+> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous -- **Here**
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
 ## Mastery in 30 Minutes a Day
@@ -380,8 +380,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last you create what you will. - George Bernard Shaw
 > 1. Creativity is intelligence having fun. - Albert Einstein
 > 1. Innovation distinguishes between a leader and a follower. - Steve Jobs
-> 1. Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep. - Scott Adams -- **Here**
-> 1. There is no greater danger than underestimating your opponent. - Sun Tzu
+> 1. Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep. - Scott Adams
+> 1. There is no greater danger than underestimating your opponent. - Sun Tzu -- **Here**
 
 ## Courage and Resilience
 

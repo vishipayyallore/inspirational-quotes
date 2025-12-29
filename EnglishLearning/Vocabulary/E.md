@@ -34,6 +34,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Fluent, persuasive, and expressive in speaking or writing.
 **Usage**: "An eloquent speaker can move audiences with words that resonate deeply." - Powerful communication through meaningful language inspires and motivates.
 
+## Elucidate
+
+**Meaning**: To make something clear; to explain.
+**Usage**: "He took a moment to elucidate the plan so everyone understood their next step." - To clarify an idea by explaining it plainly.
+
 ## Embeddings
 
 **Meaning**: A representation of words or phrases in a continuous vector space.
