@@ -29,6 +29,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To make fantastic; to represent as fantastic or to indulge in fantasy.
 **Usage**: "The author's ability to fantasticate the ordinary made the story captivating." - Transforming mundane details into imaginative narratives creates engaging storytelling.
 
+## Farrago
+
+**Meaning**: A confused mixture; a jumbled assortment of things.
+**Usage**: "His notes were a farrago of ideas, but one clear theme emerged after review." - Sorting a messy mix can reveal what matters.
+
 ## Fathom
 
 **Meaning**: To understand something deeply or completely.
