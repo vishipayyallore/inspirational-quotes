@@ -14,6 +14,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Generous, forgiving, and noble in spirit, especially toward someone less powerful or a former opponent.
 **Usage**: "Choose the magnanimous response when you are wronged, and you free yourself from bitterness while lifting others with your generosity." - Encourages responding to hurt or conflict with generosity and noble character.
 
+## Mascot
+
+**Meaning**: A person, animal, or object believed to bring good luck, or a character/symbol that represents a group, team, school, or organization.
+**Usage**: "Let your values be your mascot—something you carry into every challenge to remind you who you want to become." - Uses the idea of a mascot to emphasize identity and motivation.
+
 ## Meddle
 
 **Meaning**: Interfere in something that is not one's concern.  
