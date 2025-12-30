@@ -129,6 +129,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: To evoke a feeling of shared emotion or belief; to have a lasting impact.
 **Usage**: "Her story resonates with many people." - Personal experiences can create deep connections with others.
 
+## Resourceful
+
+**Meaning**: Able to find quick and clever ways to overcome difficulties; good at solving problems with what is available.
+**Usage**: "When the plan fell apart, she stayed resourceful and found a simple workaround." - Using creativity and calm thinking helps you handle setbacks.
+
 ## Resplendent
 
 **Meaning**: Shining brilliantly; splendid in appearance or splendor; richly colorful or sumptuous.

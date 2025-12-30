@@ -79,6 +79,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Easily broken or damaged; fragile.
 **Usage**: "Her confidence was brittle after the criticism." - A lack of resilience can make one vulnerable to setbacks.
 
+## Brumal
+
+**Meaning**: Relating to winter; wintry or characteristic of the winter season.
+**Usage**: "Even in a brumal season, keep one small habit alive each day." - Encourages steady effort during difficult or gloomy times.
+
 ## Burnout
 
 **Meaning**: Physical or mental collapse caused by overwork or stress.  
