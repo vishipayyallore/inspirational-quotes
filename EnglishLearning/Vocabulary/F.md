@@ -14,6 +14,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To invent or concoct something, typically with deceitful intent.
 **Usage**: "He had to fabricate a story to explain his absence." - Sometimes people create false narratives to cover up the truth.
 
+## Facetious
+
+**Meaning**: Joking or humorous, often inappropriately; not meant to be taken seriously.
+**Usage**: "His facetious comment about the situation lightened the mood, though some didn't catch the humor." - Using humor to deflect from serious matters can be both helpful and risky.
+
 ## Facets
 
 **Meaning**: A particular aspect or feature of something.
