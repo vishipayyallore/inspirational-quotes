@@ -48,3 +48,8 @@ This file contains vocabulary words starting with the letter Q, along with their
 
 **Meaning**: An expression used to repeat someone else's words, often with skepticism or disbelief.
 **Usage**: "He said he would help, quotha." - The speaker is quoting someone else's promise but expressing doubt about its sincerity.
+
+## Quotidian
+
+**Meaning**: Ordinary or everyday; occurring daily.
+**Usage**: "Greatness is built in the quotidian choices you repeat when no one is watching." - Daily habits, not rare moments, shape lasting character.
