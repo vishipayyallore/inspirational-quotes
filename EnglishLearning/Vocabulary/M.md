@@ -49,6 +49,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  
 **Usage**: "Mindfulness and Presence" - Being fully aware and engaged in the current moment.
 
+## Momentum
+
+**Meaning**: The force or drive that keeps something moving or progressing; increasing progress created by continued effort.
+**Usage**: "Build momentum with small wins each day, and soon progress feels inevitable." - Shows how consistent action compounds into faster progress over time.
+
 ## Monotheism
 
 **Meaning**: The belief in the existence of only one God.
