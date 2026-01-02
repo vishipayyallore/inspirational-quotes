@@ -14,6 +14,11 @@ This file contains vocabulary words starting with the letter Z, along with their
 **Meaning**: Great energy or enthusiasm in pursuit of a cause or objective.
 **Usage**: "Her zeal for learning was infectious." - A passionate commitment to education can inspire others.
 
+## Zeitgeist
+
+**Meaning**: The general spirit, mood, or beliefs of a particular time or era.
+**Usage**: "To rise above the zeitgeist, choose your values deliberately instead of drifting with the crowd." - Encourages independent thinking and principled choices.
+
 ## Zenith
 
 **Meaning**: The highest point or peak of something, especially success, power, or achievement.
