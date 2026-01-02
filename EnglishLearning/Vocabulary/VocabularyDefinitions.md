@@ -18,7 +18,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [L Vocabulary](./L.md) - Words like Latent
 - [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moxie
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
-- [O Vocabulary](./O.md) - Words like Obsess, Optimistic, Overwhelm
+- [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Persistence, Perspective, Pivot
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint
