@@ -19,12 +19,12 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
 
-### Day 4 -- **Here**
+### Day 4
 
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 > 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
 
-### Day 5
+### Day 5 -- **Here**
 
 > 1. **Make your reputation unassailable; guard it with your life.** - Anonymous
 
@@ -53,14 +53,14 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
-> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous -- **Here**
-> 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
+> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
+> 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous -- **Here**
 
 ## Mastery in 30 Minutes a Day
 
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
-> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K -- **Here**
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
