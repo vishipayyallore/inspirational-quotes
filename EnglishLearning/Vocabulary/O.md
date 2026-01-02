@@ -9,6 +9,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Obdurate
+
+**Meaning**: Stubbornly refusing to change one's opinion or course of action.
+**Usage**: "He remained obdurate in the face of feedback, until evidence finally softened his stance." - Shows a stubborn resistance to change.
+
 ## Obscured
 
 **Meaning**: Not clear or hard to perceive.  
