@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-01-02 23:13:27
+**Last verification**: 2026-01-03 11:09:46
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- `Logs/verify-20260103-110945.txt` — added "Aphorism" (A) and "Reverie" (R); ordering verified OK
 - `Logs/verify-20260102-231326.txt` — added "Obdurate" (O); ordering verified OK
 - `Logs/verify-20260101-001007.txt` — added "Zeitgeist" (Z); ordering verified OK
 - `Logs/verify-20260101-000646.txt` — added "Quotidian" (Q); ordering verified OK
