@@ -4,7 +4,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 ## Available Letter Files
 
-- [A Vocabulary](./A.md) - Words like Adversary, Advocate, Adversity, Alpenglow
+- [A Vocabulary](./A.md) - Words like Adversary, Advocate, Adversity, Alpenglow, Aphorism
 - [B Vocabulary](./B.md) - Words like Brumal, Burnout
 - [C Vocabulary](./C.md) - Words like Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
