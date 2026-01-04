@@ -154,6 +154,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: To feel deep respect or admiration for something or someone.
 **Usage**: "Many people revere their mentors." - Acknowledging and valuing those who guide us is important.
 
+## Reverie
+
+**Meaning**: A state of being pleasantly lost in one's thoughts; a daydream.
+**Usage**: "In a quiet reverie, she pictured the life she was building." - A calm daydream can help clarify goals and renew motivation.
+
 ## Rhetoric
 
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
