@@ -13,7 +13,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
-- [J Vocabulary](./J.md) - Words like Journey, Jollification
+- [J Vocabulary](./J.md) - Words like Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Knead
 - [L Vocabulary](./L.md) - Words like Latent
 - [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moxie
