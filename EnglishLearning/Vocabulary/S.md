@@ -84,6 +84,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Informal; to depart or leave quickly, often to escape an awkward, unhelpful, or unproductive situation.
 **Usage**: "When negativity takes over the room, skiddoo and protect your peace." - Encourages stepping away swiftly from environments that drain your energy.
 
+## Skosh
+
+**Meaning**: A small amount; a little bit (informal, originally from Japanese).
+**Usage**: "Just a skosh more practice each day can compound into real progress." - Small consistent effort adds up over time.
+
 ## Skim
 
 **Meaning**: To read or glance through quickly.
