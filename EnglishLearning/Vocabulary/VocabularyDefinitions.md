@@ -9,7 +9,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [C Vocabulary](./C.md) - Words like Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Euphonious, Execution
-- [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, Flattery
+- [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
@@ -23,7 +23,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint, Reverie
 - [S Vocabulary](./S.md) - Words like Skosh, Solitude, Sotto voce, Swindler
-- [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Transient, Triumph
+- [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Vision, Vector, Vehement
 - [W Vocabulary](./W.md) - Words like Wit

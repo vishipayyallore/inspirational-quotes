@@ -74,6 +74,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
 
+## First-Foot
+
+**Meaning**: The first person to enter a home after midnight on New Year’s Day (a tradition in parts of the UK), believed to bring luck.
+**Usage**: "As the first-foot crossed the threshold, everyone smiled—some traditions remind us to start the year with warmth and hope." - Uses the custom as a symbol of fresh beginnings.
+
 ## Flourish
 
 **Meaning**: To grow or develop in a healthy or vigorous way; to thrive and prosper.
