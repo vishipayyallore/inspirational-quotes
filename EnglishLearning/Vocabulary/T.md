@@ -59,6 +59,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A petty quarrel or argument.
 **Usage**: "They had a tiff over who would do the dishes." - A minor disagreement occurred regarding a trivial matter.
 
+## Threshold
+
+**Meaning**: A point of entry or beginning; a level or point at which something starts to happen or change.
+**Usage**: "You’re on the threshold of change—take the next small step and let momentum do the rest." - Frames a new beginning as an actionable moment.
+
 ## Tonality
 
 **Meaning**: The character or attitude of a place, piece of writing, situation, etc.

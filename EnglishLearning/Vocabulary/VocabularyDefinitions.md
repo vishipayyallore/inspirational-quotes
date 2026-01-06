@@ -9,21 +9,21 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [C Vocabulary](./C.md) - Words like Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Euphonious, Execution
-- [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, Flattery
+- [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
-- [J Vocabulary](./J.md) - Words like Journey, Jollification
+- [J Vocabulary](./J.md) - Words like Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Knead
 - [L Vocabulary](./L.md) - Words like Latent
-- [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moxie
+- [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moschate, Moxie
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Persistence, Perspective, Pivot
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint, Reverie
-- [S Vocabulary](./S.md) - Words like Solitude, Sotto voce, Swindler
-- [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Transient, Triumph
+- [S Vocabulary](./S.md) - Words like Skosh, Solitude, Sotto voce, Swindler
+- [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Vision, Vector, Vehement
 - [W Vocabulary](./W.md) - Words like Wit

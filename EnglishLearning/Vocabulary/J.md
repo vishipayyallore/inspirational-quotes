@@ -29,6 +29,11 @@ This file contains vocabulary words starting with the letter J, along with their
 **Meaning**: A process of traveling from one place to another; often used metaphorically for personal growth or progress.
 **Usage**: "Every journey begins with a single step; embrace the path and its lessons." - Emphasizes steady progress and learning over time.
 
+## Jovial
+
+**Meaning**: Cheerful and friendly; full of good humor.
+**Usage**: "He stayed jovial even under pressure, lifting the whole team’s mood." - A positive attitude can be contagious and motivating.
+
 ## Jubilant
 
 **Meaning**: Feeling or expressing great happiness and triumph.

@@ -59,6 +59,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: The belief in the existence of only one God.
 **Usage**: "Whether or not you embrace monotheism, live as if your single highest value is worth serving with your whole life." - Uses the idea of one God to emphasize dedicating yourself to one unifying principle.
 
+## Moschate
+
+**Meaning**: Having a musky smell; musky.
+**Usage**: "The moschate scent of the forest after rain made the walk unforgettable." - Describes a rich, musky fragrance.
+
 ## Moxie
 
 **Meaning**: Courage, determination, and energetic confidence; bold spirit.
