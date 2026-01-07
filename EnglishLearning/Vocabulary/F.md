@@ -59,6 +59,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: A traditional English steamed pudding made with figs, suet, and spices, often associated with Christmas celebrations and carols.
 **Usage**: "Like figgy pudding at a holiday feast, small traditions bring sweetness to the seasons of life—cherish them." - Uses a festive treat to remind us that rituals and traditions add warmth to our lives.
 
+## First-Foot
+
+**Meaning**: The first person to enter a home after midnight on New Year’s Day (a tradition in parts of the UK), believed to bring luck.
+**Usage**: "As the first-foot crossed the threshold, everyone smiled—some traditions remind us to start the year with warmth and hope." - Uses the custom as a symbol of fresh beginnings.
+
 ## Flagship
 
 **Meaning**: The most important or leading item in a group, often used to describe a company's best product or service.
@@ -73,11 +78,6 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
-
-## First-Foot
-
-**Meaning**: The first person to enter a home after midnight on New Year’s Day (a tradition in parts of the UK), believed to bring luck.
-**Usage**: "As the first-foot crossed the threshold, everyone smiled—some traditions remind us to start the year with warmth and hope." - Uses the custom as a symbol of fresh beginnings.
 
 ## Flourish
 
