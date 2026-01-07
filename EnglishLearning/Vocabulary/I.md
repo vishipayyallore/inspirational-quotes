@@ -89,6 +89,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: The quality of being honest and having strong moral principles.
 **Usage**: "Give your word with care, and keep it with honor." - Make promises thoughtfully and fulfill them with integrity.
 
+## Interlard
+
+**Meaning**: To mix or insert something at intervals among something else; to intersperse.
+**Usage**: "Interlard your practice with small challenges, and the routine stays fresh while your skills steadily grow." - Shows how spacing harder tasks among easier ones keeps progress engaging.
+
 ## Intimidate
 
 **Meaning**: To frighten or overawe someone, especially in order to make them do what one wants.

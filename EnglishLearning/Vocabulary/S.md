@@ -189,6 +189,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Dull, drab, or gloomy in appearance; lacking brightness or liveliness.
 **Usage**: "Even on the most subfusc days, a single deliberate act of kindness can light up the room and your own outlook." - Uses a gloomy setting to highlight how small positive actions can transform the mood.
 
+## Sublime
+
+**Meaning**: Of such excellence, grandeur, or beauty as to inspire great admiration or awe.
+**Usage**: "Her courage in the face of loss was sublime, turning pain into purpose." - Describes something remarkably uplifting or awe-inspiring.
+
 ## Subtleties
 
 **Meaning**: The fine or delicate details or nuances of something.

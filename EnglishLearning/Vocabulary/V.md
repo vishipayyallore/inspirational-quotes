@@ -44,6 +44,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Mental sharpness and inventiveness; keen intelligence.
 **Usage**: "Vision can overcome even the most powerful adversaries." - Clever thinking can defeat even strong opponents.
 
+## Vituperate
+
+**Meaning**: To blame or insult someone (or yourself) in strong, harsh language.
+**Usage**: "Don’t vituperate yourself for a setback—notice it, learn from it, and return to the work." - Replaces harsh self-criticism with constructive reflection.
+
 ## Vivid
 
 **Meaning**: Producing powerful feelings or strong, clear images in the mind.
