@@ -19,7 +19,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moschate, Moxie
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
-- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Pivot
+- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Pivot, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint, Reverie
 - [S Vocabulary](./S.md) - Words like Skosh, Solitude, Sotto voce, Succinct, Swindler
