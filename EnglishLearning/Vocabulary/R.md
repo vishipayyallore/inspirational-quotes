@@ -144,15 +144,15 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Self-control; holding back from doing something.
 **Usage**: "True power is restraint." - Real strength is shown by controlling your reactions, not by impulsively responding.
 
-## Reticent
-
-**Meaning**: Not revealing one's thoughts or feelings readily; reserved; quiet.
-**Usage**: "Though reticent at first, he let his work speak—steady effort often communicates more than words." - Highlights quiet confidence and consistent action.
-
 ## Retain
 
 **Meaning**: To keep possession of; to continue to have.
 **Usage**: "Retain your sense of wonder." - Keep your curiosity and amazement at the world around you.
+
+## Reticent
+
+**Meaning**: Not revealing one's thoughts or feelings readily; reserved; quiet.
+**Usage**: "Though reticent at first, he let his work speak—steady effort often communicates more than words." - Highlights quiet confidence and consistent action.
 
 ## Revere
 

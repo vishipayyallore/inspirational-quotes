@@ -9,6 +9,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Caesura
+
+**Meaning**: A pause or break in a line of poetry (often marked by punctuation), or more generally, a natural pause in speech or music.
+**Usage**: "Treat setbacks as a caesura, not an ending—a pause that helps you breathe, reflect, and return with renewed focus." - Frames a pause as part of forward progress.
+
 ## Calque
 
 **Meaning**: A literal translation or loan translation from one language to another, where a phrase or word is translated piece-by-piece rather than borrowed directly.
@@ -23,11 +28,6 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: To provide food and drink, typically at social events; to supply what is needed or required.  
 **Usage**: "The event was a success thanks to the caterers who provided delicious food." - Good catering can enhance the experience of any gathering.
-
-## Caesura
-
-**Meaning**: A pause or break in a line of poetry (often marked by punctuation), or more generally, a natural pause in speech or music.
-**Usage**: "Treat setbacks as a caesura, not an ending—a pause that helps you breathe, reflect, and return with renewed focus." - Frames a pause as part of forward progress.
 
 ## Charm
 
