@@ -190,6 +190,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Close in space, time, or relationship.
 **Usage**: "The proximate cause of the accident was a mechanical failure." - The immediate reason for the incident was a breakdown in the machinery.
 
+## Pulchritude
+
+**Meaning**: Beauty, especially physical beauty; attractiveness.
+**Usage**: "She spoke of the pulchritude of small, ordinary moments—proof that beauty is often found in daily life." - Highlights noticing beauty in everyday experiences.
+
 ## Purpose
 
 **Meaning**: The reason for which something is done or created or for which something exists.

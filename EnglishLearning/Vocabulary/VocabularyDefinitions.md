@@ -6,7 +6,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 - [A Vocabulary](./A.md) - Words like Adversary, Advocate, Adversity, Alpenglow, Aphorism
 - [B Vocabulary](./B.md) - Words like Brumal, Burnout
-- [C Vocabulary](./C.md) - Words like Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
+- [C Vocabulary](./C.md) - Words like Caesura, Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Euphonious, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery
@@ -19,9 +19,9 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moschate, Moxie
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
-- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Pivot
+- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Pivot, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
-- [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint, Reverie
+- [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint, Reticent, Reverie
 - [S Vocabulary](./S.md) - Words like Skosh, Solitude, Sotto voce, Succinct, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
