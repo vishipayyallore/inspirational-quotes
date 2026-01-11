@@ -24,6 +24,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: To influence or persuade someone through flattery or coaxing.
 **Usage**: "He tried to wheedle his way into her good graces with compliments." - Using charm and persuasion to gain favor.
 
+## Wistful
+
+**Meaning**: Having or showing a gentle sadness and longing for something in the past.
+**Usage**: "She felt wistful as she reread her old journal, grateful for how far she had come." - Reflecting on the past with a mix of longing and appreciation.
+
 ## Wit
 
 **Meaning**: Mental sharpness and inventiveness; keen intelligence.  

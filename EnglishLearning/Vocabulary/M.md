@@ -34,6 +34,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: (of a voice or words) sweet or musical; pleasant to hear.
 **Usage**: "The mellifluous tones of the cello calmed the audience instantly." - Describes a sound that is smooth, flowing, and pleasing to the ear.
 
+## Mephitic
+
+**Meaning**: Foul-smelling; noxious; offensive to the senses.
+**Usage**: "He stepped away from the mephitic smoke and chose the clear air of better habits." - Uses the idea of something poisonous to emphasize moving away from harmful influences.
+
 ## Metaphors
 
 **Meaning**: Figures of speech that describe a subject by asserting that it is, on some point of comparison, the same as another otherwise unrelated object.

@@ -16,7 +16,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [J Vocabulary](./J.md) - Words like Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Knead
 - [L Vocabulary](./L.md) - Words like Latent
-- [M Vocabulary](./M.md) - Words like Meddle, Mindfulness, Moschate, Moxie
+- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Monotheism, Moschate, Moxie, Mussitate
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Pivot, Pulchritude
@@ -26,7 +26,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Vision, Vector, Vehement, Veracity
-- [W Vocabulary](./W.md) - Words like Wit
+- [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Wheedle, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Ready for vocabulary words
 - [Y Vocabulary](./Y.md) - Words like Yearn, Yield, Yuletide
 - [Z Vocabulary](./Z.md) - Words like Zeal, Zeitgeist, Zephyr
