@@ -104,6 +104,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To eat or consume something quickly and greedily.
 **Usage**: "He snarfed down his lunch in just a few minutes." - This implies eating in a hurried and perhaps messy manner.
 
+## Sockeroo
+
+**Meaning**: Informal: a hard hit or punch; by extension, a sudden, forceful impact.
+**Usage**: "The unexpected criticism felt like a sockeroo, but she paused, learned, and responded with calm clarity." - Uses the word figuratively to show a jarring setback.
+
 ## Solipsism
 
 **Meaning**: The belief or attitude that only one’s own mind, experiences, or perspective are real or truly important.

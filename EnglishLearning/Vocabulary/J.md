@@ -19,6 +19,11 @@ This file contains vocabulary words starting with the letter J, along with their
 **Meaning**: Knowledge, especially spiritual or divine knowledge; wisdom gained through meditation and study (Sanskrit term).
 **Usage**: "The pursuit of jnana leads to deeper self-understanding and enlightenment." - Seeking higher knowledge brings profound personal growth.
 
+## Jocund
+
+**Meaning**: Cheerful and lighthearted; merry.
+**Usage**: "Even in uncertainty, he stayed jocund, choosing gratitude over worry." - Shows a bright, upbeat attitude despite challenges.
+
 ## Jollification
 
 **Meaning**: The act of celebrating noisily; merrymaking or lively enjoyment.

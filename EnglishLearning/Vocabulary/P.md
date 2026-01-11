@@ -155,6 +155,16 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Widespread in a particular area or at a particular time.
 **Usage**: "Misunderstandings are prevalent in communication." - Many people experience confusion in conversations.
 
+## Preventative
+
+**Meaning**: Intended to prevent something, especially illness or problems; preventive (a common variant spelling).
+**Usage**: "A preventative routine—sleep, movement, and reflection—can stop stress from becoming burnout." - Emphasizes taking steps early to avoid a larger problem.
+
+## Preventive
+
+**Meaning**: Intended to stop something from happening; designed to prevent harm, disease, or failure.
+**Usage**: "Preventive habits, practiced daily, protect your future self." - Highlights habits that reduce risk before trouble starts.
+
 ## Primer
 
 **Meaning**: A substance used to prepare a surface for painting or other treatment.
