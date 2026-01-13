@@ -34,6 +34,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: Mental sharpness and inventiveness; keen intelligence.  
 **Usage**: "Wit can overcome even the most powerful adversaries." - Clever thinking can defeat even strong opponents.
 
+## Wisdom
+
+**Meaning**: The quality of having experience, knowledge, and good judgment; the ability to apply knowledge and experience to make sound decisions.
+**Usage**: "True wisdom comes not from knowing everything, but from understanding what matters most." - Genuine wisdom involves discerning what is truly important and making decisions based on that understanding.
+
 ## Wizardry
 
 **Meaning**: The art or practice of magic; extraordinary skill or ingenuity.
