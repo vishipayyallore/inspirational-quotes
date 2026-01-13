@@ -13,16 +13,16 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
-- [J Vocabulary](./J.md) - Words like Journey, Jollification, Jovial
+- [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Knead
 - [L Vocabulary](./L.md) - Words like Latent
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Monotheism, Moschate, Moxie, Mussitate
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
-- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Pivot, Pulchritude
+- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Preventive, Pivot, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint, Reticent, Reverie, Ruminate
-- [S Vocabulary](./S.md) - Words like Skosh, Solitude, Sotto voce, Succinct, Swindler
+- [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sotto voce, Succinct, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transient, Triumph
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Vision, Vector, Vehement, Veracity
