@@ -14,6 +14,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: Just beginning to develop; emerging or in the earliest stage of growth.
 **Usage**: "Protect your nascent ideas—they need quiet nurturing before they can withstand criticism." - Encourages safeguarding new ventures and thoughts until they gain strength.
 
+## Nebulous
+
+**Meaning**: Unclear, vague, or ill-defined; lacking a clear or precise form or outline.
+**Usage**: "Don't let your goals remain nebulous; define them clearly to make progress toward achieving them." - When objectives are vague, it's difficult to take concrete action toward them.
+
 ## Neutralize
 
 **Meaning**: Render ineffective or harmless by applying an opposite force or effect.  
