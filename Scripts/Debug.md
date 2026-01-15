@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-01-13 12:29:21
+**Last verification**: 2026-01-15 11:03:09
 
 ## Standard Verification Command
 
@@ -12,9 +12,9 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- `Logs/verify-20260115-110309.txt` — added "Harmony" (H); ordering verified OK
 - `Logs/verify-20260113-122921.txt` — added "Wisdom" (W); fixed alphabetical ordering; verified OK
 - `Logs/verify-20260110-102323.txt` — added "Wistful" (W) and "Mephitic" (M); ordering verified OK
-- `Logs/verify-20260109-103517.txt` — added "Veracity" (V); ordering verified OK
 - `Logs/verify-20260108-225247.txt` — added "Caesura" (C) and "Reticent" (R); ordering verified OK
 - `Logs/verify-20260107-104614.txt` — added "Panglossian" (P); fixed ordering in F/S/T; ordering verified OK
 - `Logs/verify-20260106-124851.txt` — added "Interlard" (I) and "Vituperate" (V); ordering verified OK

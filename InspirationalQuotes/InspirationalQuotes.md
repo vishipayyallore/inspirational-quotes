@@ -5,8 +5,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily Wisdom
 
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
-> 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous -- **Here**
-> 1. **Never** put too much trust in friends. - Anonymous
+> 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
@@ -33,8 +33,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Power and Influence Wisdom
 
-> 1. **Never** outshine the Master. - Anonymous -- **Here**
-> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
+> 1. **Never** outshine the Master. - Anonymous
+> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous -- **Here**
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
@@ -52,12 +52,12 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
-> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K -- **Here**
-> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
+> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K -- **Here**
 
 ## Trust Revealed by Actions
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
@@ -72,7 +72,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
-> 1. Everyone wears a mask of innocence, until their true face is revealed. — Viswanatha Swamy P K -- **Here**
+> 1. Everyone wears a mask of innocence, until their true face is revealed. — Viswanatha Swamy P K
 
 ## Life Lessons
 
