@@ -91,8 +91,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
-> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous -- **Here**
-> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
+> 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
+> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous -- **Here**
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
 > 1. **If you fail to plan**, you plan to fail. - Anonymous
 
@@ -107,8 +107,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
-> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous -- **Here**
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
+> 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
@@ -152,8 +152,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
-> 1. A fool's ears are deaf to wisdom. - Panchatantra -- **Here**
-> 1. Never advise fools. - Panchatantra
+> 1. A fool's ears are deaf to wisdom. - Panchatantra
+> 1. Never advise fools. - Panchatantra -- **Here**
 
 ## Perseverance
 
@@ -384,19 +384,19 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Courage and Resilience
 
-> 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela -- **Here**
-> 1. "The only way to deal with fear is to face it head on." - Anonymous
-> 1. "Resilience is not about overcoming, but becoming." - Sheryl Sandberg
-> 1. "Resilience is the capacity to recover quickly from difficulties; toughness." - Anonymous
-> 1. "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change." - Charles Darwin
-> 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-> 1. "It does not do to dwell on dreams and forget to live." - J.K. Rowling
-> 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
-> 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
-> 1. "Courage is not the absence of fear, but the triumph over it." - Nelson Mandela
-> 1. "It does not do to dwell on dreams and forget to live." - J.K. Rowling
-> 1. "We are not defined by the challenges we face but by how we rise to meet them." - Anonymous
-> 1. "The brave may not live forever, but the cautious do not live at all." - Richard Branson
+> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela -- **Here**
+> 1. The only way to deal with fear is to face it head on. - Anonymous
+> 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg
+> 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous
+> 1. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
+> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
+> 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling
+> 1. We are not defined by the challenges we face but by how we rise to meet them. - Anonymous
+> 1. The brave may not live forever, but the cautious do not live at all. - Richard Branson
+> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
+> 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling
+> 1. We are not defined by the challenges we face but by how we rise to meet them. - Anonymous
+> 1. The brave may not live forever, but the cautious do not live at all. - Richard Branson
 
 ## Wisdom and Insight
 
