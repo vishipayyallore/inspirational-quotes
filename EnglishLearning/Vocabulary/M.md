@@ -59,6 +59,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: The force or drive that keeps something moving or progressing; increasing progress created by continued effort.
 **Usage**: "Build momentum with small wins each day, and soon progress feels inevitable." - Shows how consistent action compounds into faster progress over time.
 
+## Mondegreen
+
+**Meaning**: A word or phrase that results from mishearing something (especially song lyrics or spoken lines), creating a new and often amusing meaning.
+**Usage**: "When you catch a mondegreen in your favorite song, smile and listen again—mistakes are a friendly way to learn." - Encourages curiosity and learning from misunderstandings.
+
 ## Monotheism
 
 **Meaning**: The belief in the existence of only one God.

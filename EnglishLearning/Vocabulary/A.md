@@ -149,6 +149,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: A short, memorable saying that expresses a general truth or wise observation.
 **Usage**: "He kept an aphorism on his desk: 'Small steps, taken daily, become big change.'" - A concise saying can guide habits and mindset.
 
+## Apocope
+
+**Meaning**: The shortening of a word by dropping one or more sounds (usually at the end), especially in informal speech.
+**Usage**: "In casual conversation, we often use apocope—like saying 'info' instead of 'information'—to communicate quickly." - Shows how everyday shortcuts can make speech more efficient.
+
 ## Archaic
 
 **Meaning**: Very old or old-fashioned; belonging to an earlier period in history.

@@ -84,6 +84,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To grow or develop in a healthy or vigorous way; to thrive and prosper.
 **Usage**: "With the right environment and support, creativity can flourish." - When given proper conditions, talents and abilities can reach their full potential.
 
+## Flummox
+
+**Meaning**: To confuse or perplex someone; to leave someone unsure how to proceed.
+**Usage**: "The unexpected question flummoxed him, but he paused, took a breath, and responded thoughtfully." - Staying calm helps you regain clarity when surprised.
+
 ## Fortitude
 
 **Meaning**: Courage and strength of mind in the face of adversity; mental resilience.
