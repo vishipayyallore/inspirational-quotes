@@ -4,19 +4,19 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 ## Available Letter Files
 
-- [A Vocabulary](./A.md) - Words like Adversary, Advocate, Adversity, Alpenglow, Aphorism
+- [A Vocabulary](./A.md) - Words like Adversary, Advocate, Adversity, Alpenglow, Aphorism, Apocope
 - [B Vocabulary](./B.md) - Words like Brumal, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Euphonious, Execution
-- [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery
+- [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude
 - [H Vocabulary](./H.md) - Words like Hallucination
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Knead
 - [L Vocabulary](./L.md) - Words like Latent
-- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Monotheism, Moschate, Moxie, Mussitate
+- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mussitate
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Preventive, Pivot, Pulchritude
