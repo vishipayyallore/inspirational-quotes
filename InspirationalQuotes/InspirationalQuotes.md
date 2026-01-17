@@ -6,8 +6,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
-> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
-> 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous
+> 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous -- **Here**
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
@@ -34,8 +34,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
-> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous -- **Here**
-> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
@@ -49,16 +49,16 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
-> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K -- **Here**
+> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
 ## Trust Revealed by Actions
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
@@ -92,8 +92,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
-> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous -- **Here**
-> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
+> 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
+> 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous -- **Here**
 > 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
@@ -108,8 +108,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous -- **Here**
-> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
+> 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous -- **Here**
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
@@ -138,7 +138,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra -- **Here**
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
@@ -153,7 +153,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
-> 1. Never advise fools. - Panchatantra -- **Here**
+> 1. Never advise fools. - Panchatantra
 
 ## Perseverance
 
@@ -384,9 +384,9 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Courage and Resilience
 
-> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela -- **Here**
+> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
 > 1. The only way to deal with fear is to face it head on. - Anonymous
-> 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg
+> 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg -- **Here**
 > 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous
 > 1. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
 > 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela

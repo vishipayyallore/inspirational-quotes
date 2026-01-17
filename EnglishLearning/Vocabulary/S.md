@@ -14,6 +14,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Having or showing keen mental discernment and good judgment; wise and insightful.
 **Usage**: "Her sagacious counsel helped the team navigate difficult decisions with confidence." - Highlights wisdom and sound judgment in complex situations.
 
+## Sagittate
+
+**Meaning**: Shaped like an arrowhead; having a triangular or arrow-like form, typically with two pointed lobes at the base.
+**Usage**: "The sagittate leaves of the plant pointed skyward like natural arrows." - Describes a distinctive arrow-shaped botanical feature.
+
 ## Salient
 
 **Meaning**: Most noticeable or important.
