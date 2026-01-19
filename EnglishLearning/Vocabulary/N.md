@@ -39,6 +39,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: A sentimental longing or wistful affection for the past, often for a time or place associated with happy memories.
 **Usage**: "Let nostalgia remind you how far you have come, not convince you that your best days are behind you." - Uses warm memories as fuel for present growth instead of regret.
 
+## Novaturient
+
+**Meaning**: Desiring or seeking powerful change in one's life, behavior, or situation.
+**Usage**: "Embrace that novaturient feeling; let the desire for change drive you to reinvent your path." - Validates the urge for personal transformation as a catalyst for action.
+
 ## Nuanced
 
 **Meaning**: Characterized by subtle shades of meaning or expression.
