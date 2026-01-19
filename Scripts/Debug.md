@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- `Logs/verify-20260119-172823.txt` — added "Transcend" (T); ordering verified OK
 - `Logs/verify-20260118-003825.txt` — added "Novaturient" (N); ordering verified OK
 - `Logs/verify-20260117-103803.txt` — added "Apocope" (A), "Flummox" (F), "Mondegreen" (M); ordering verified OK
 - `Logs/verify-20260115-110309.txt` — added "Harmony" (H); ordering verified OK
