@@ -386,8 +386,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
 > 1. The only way to deal with fear is to face it head on. - Anonymous
-> 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg -- **Here**
-> 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous
+> 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg
+> 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous -- **Here**
 > 1. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
 > 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
 > 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling
