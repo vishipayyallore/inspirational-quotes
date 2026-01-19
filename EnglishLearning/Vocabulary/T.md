@@ -84,6 +84,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A state of peace, calmness, and quietude; freedom from disturbance.
 **Usage**: "In moments of tranquility, we often find our greatest insights." - Peaceful, undisturbed moments often lead to our most profound realizations.
 
+## Transcend
+
+**Meaning**: To go beyond the range or limits of something; to surpass.
+**Usage**: "To grow, you must transcend your current limitations and embrace the unknown." - Encourages pushing beyond boundaries to achieve personal growth.
+
 ## Transient
 
 **Meaning**: Lasting only for a short time; impermanent.
