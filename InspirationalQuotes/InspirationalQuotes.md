@@ -7,8 +7,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
-> 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous -- **Here**
-> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
+> 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
+> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous -- **Here**
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 > 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
@@ -35,8 +35,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. **Never** outshine the Master. - Anonymous
 > 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
-> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
-> 1. **Always** say less than necessary. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous -- **Here**
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
@@ -49,8 +49,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
@@ -58,8 +58,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Trust Revealed by Actions
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
-> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K -- **Here**
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
@@ -386,8 +386,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
 > 1. The only way to deal with fear is to face it head on. - Anonymous
-> 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg -- **Here**
-> 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous
+> 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg
+> 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous -- **Here**
 > 1. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
 > 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
 > 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling
