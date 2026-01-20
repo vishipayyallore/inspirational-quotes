@@ -9,6 +9,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Laconic
+
+**Meaning**: Using very few words; brief and direct.
+**Usage**: "His laconic reply ended the argument without drama." - Shows a concise, no-nonsense way of speaking.
+
 ## Latent
 
 **Meaning**: Existing but not yet developed or manifest; hidden or concealed.
