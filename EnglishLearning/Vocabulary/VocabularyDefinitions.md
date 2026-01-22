@@ -15,7 +15,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [I Vocabulary](./I.md) - Words like Inevitable, Initiative, Integrity, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Knead
-- [L Vocabulary](./L.md) - Words like Latent
+- [L Vocabulary](./L.md) - Words like Laconic, Latent, Liminal, Lionhearted, Lucid, Luminous, Lumps
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mussitate
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm

@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-01-18 00:38:26
+**Last verification**: 2026-01-20 14:19:46
 
 ## Standard Verification Command
 
@@ -12,10 +12,11 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- `Logs/verify-20260120-141946.txt` — added "Laconic" (L); ordering verified OK
 - `Logs/verify-20260119-172823.txt` — added "Transcend" (T); ordering verified OK
 - `Logs/verify-20260118-003825.txt` — added "Novaturient" (N); ordering verified OK
 - `Logs/verify-20260117-103803.txt` — added "Apocope" (A), "Flummox" (F), "Mondegreen" (M); ordering verified OK
-- `Logs/verify-20260115-110309.txt` — added "Harmony" (H); ordering verified OK
+- `Logs/verify-20260115-110353.txt` — added "Harmony" (H); ordering verified OK
 - `Logs/verify-20260113-122921.txt` — added "Wisdom" (W); fixed alphabetical ordering; verified OK
 - `Logs/verify-20260110-102323.txt` — added "Wistful" (W) and "Mephitic" (M); ordering verified OK
 - `Logs/verify-20260108-225247.txt` — added "Caesura" (C) and "Reticent" (R); ordering verified OK
@@ -26,14 +27,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 - `Logs/verify-20260102-231326.txt` — added "Obdurate" (O); ordering verified OK
 - `Logs/verify-20260101-001007.txt` — added "Zeitgeist" (Z); ordering verified OK
 - `Logs/verify-20260101-000646.txt` — added "Quotidian" (Q); ordering verified OK
-- `Logs/verify-20251231-184127.txt` — added "Momentum" (M) and "Simonize" (S); ordering verified OK
-- `Logs/verify-20251230-073625.txt` — added "Mascot" (M); ordering verified OK
-- `Logs/verify-20251226-100050.txt` — added "Nimble" (N); ordering verified OK
-- `Logs/verify-20251225-142101.txt` — added "Clement" (C) and "Yuletide" (Y); ordering verified OK
-- `Logs/verify-20251224-150109.txt` — added "Radiance" (R), "Moxie" (M), "Vehement" (V); ordering verified OK
-- `Logs/verify-20251223-160223.txt` — fixed `E.md` ordering; added "Alpenglow" (A), "Euphonious" (E)
-- `Logs/verify-20251121-125834.txt` — added "Quixotic" to `Q.md` and "Osmosis" to `O.md`
-- `Logs/verify-20251121-122333.txt` — added "Equable" to `E.md`
 
 ## Notes
 
