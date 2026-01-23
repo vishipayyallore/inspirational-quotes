@@ -29,6 +29,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Showing strong feeling; forceful, intense, or passionate.
 **Usage**: "He made a vehement case for honesty." - Strong convictions can be expressed with intensity while staying respectful.
 
+## Velleity
+
+**Meaning**: A wish or inclination not strong enough to lead to action.
+**Usage**: "Turning a velleity into a virtue requires the first step of action." - Wishing alone changes nothing; only doing makes a difference.
+
 ## Veracity
 
 **Meaning**: Truthfulness; accuracy or conformity to the facts.
