@@ -59,6 +59,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A point of entry or beginning; a level or point at which something starts to happen or change.
 **Usage**: "You’re on the threshold of change—take the next small step and let momentum do the rest." - Frames a new beginning as an actionable moment.
 
+## Tirade
+
+**Meaning**: A long, angry speech of criticism or accusation.
+**Usage**: "Rather than launching into a tirade, take a moment to respond calmly and constructively." - Encourages measured, thoughtful responses instead of emotional outbursts.
+
 ## Tiff
 
 **Meaning**: A petty quarrel or argument.
