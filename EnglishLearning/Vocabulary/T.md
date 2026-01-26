@@ -64,6 +64,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A petty quarrel or argument.
 **Usage**: "They had a tiff over who would do the dishes." - A minor disagreement occurred regarding a trivial matter.
 
+## Tirade
+
+**Meaning**: A long, angry speech of criticism or accusation.
+**Usage**: "Rather than launching into a tirade, take a moment to respond calmly and constructively." - Encourages measured, thoughtful responses instead of emotional outbursts.
+
 ## Tonality
 
 **Meaning**: The character or attitude of a place, piece of writing, situation, etc.
