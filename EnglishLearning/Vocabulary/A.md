@@ -44,6 +44,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To the point; relevant to the matter at hand (Latin phrase).
 **Usage**: "His comments were always ad rem, focusing directly on the core issue without digression." - Speaking directly and relevantly to the topic being discussed.
 
+## Anatine
+
+**Meaning**: Relating to or resembling ducks; duck-like.
+**Usage**: "The anatine waddle of the young bird made everyone smile." - Describes characteristics or movements that are similar to those of ducks.
+
 ## Adherence
 
 **Meaning**: The act of following or upholding a rule, guideline, or standard.

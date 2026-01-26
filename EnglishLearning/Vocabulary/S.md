@@ -29,6 +29,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Optimistic or positive, especially in a difficult situation; cheerfully confident about the future.
 **Usage**: "Stay sanguine through setbacks—your hopeful outlook often becomes a self-fulfilling prophecy." - Encourages maintaining optimism because positive expectations can shape positive outcomes.
 
+## Scofflaw
+
+**Meaning**: A person who flouts the law, especially one who fails to comply with a law that is difficult to enforce effectively.
+**Usage**: "Don't be a scofflaw when it comes to your own commitments—honor the promises you make to yourself." - Encourages respecting personal commitments with the same seriousness as legal obligations.
+
 ## Scry
 
 **Meaning**: To foretell the future by gazing into a reflective surface such as a crystal ball or mirror; to divine or predict.

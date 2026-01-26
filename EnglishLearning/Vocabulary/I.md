@@ -74,6 +74,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: To take in something, especially food, drink, or information.
 **Usage**: "Each day you ingest new ideas, your perspective expands just a little more." - Links the act of taking things in with gradual growth and learning.
 
+## Inure
+
+**Meaning**: To accustom someone to something unpleasant, especially by prolonged exposure; to become toughened or desensitized.
+**Usage**: "Inure yourself to discomfort through small daily challenges, and resilience becomes second nature." - Emphasizes building tolerance through consistent, gradual exposure.
+
 ## Instigating
 
 **Meaning**: Causing or inciting an action or event.

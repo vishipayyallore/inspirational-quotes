@@ -44,6 +44,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Mild and pleasant (often describing weather); or showing mercy and gentleness.
 **Usage**: "Be clement in your judgments, and firm in your principles." - Encourages kindness toward people while staying true to what is right.
 
+## Circumambient
+
+**Meaning**: Surrounding on all sides; encompassing or enveloping something from every direction.
+**Usage**: "The circumambient support of friends and mentors creates an environment where growth becomes inevitable." - Describes how surrounding influences can nurture development.
+
 ## Clishmaclaver
 
 **Meaning**: Idle talk, gossip, or trivial chatter (Scottish dialect).

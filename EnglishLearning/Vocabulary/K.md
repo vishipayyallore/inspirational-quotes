@@ -28,3 +28,8 @@ This file contains definitions and example usage for "K" words found in the insp
 
 **Definition:** To work dough or clay into a uniform mixture by pressing, folding, and stretching.
 **Example Usage:** "She learned to knead the dough until it was smooth and elastic."
+
+## Krummholz
+
+**Meaning**: Stunted, wind-deformed trees that grow at high altitudes or in harsh conditions near the tree line.
+**Usage**: "Like krummholz clinging to a mountainside, your persistence in tough conditions shapes you into something uniquely strong." - Uses the image of hardy, bent trees to symbolize resilience in adversity.

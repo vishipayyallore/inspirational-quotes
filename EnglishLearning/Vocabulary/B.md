@@ -54,6 +54,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A mass of trees, shrubs, or foliage; a shady, wooded area.
 **Usage**: "When life feels harsh and exposed, seek a boscage of quiet habits where your strength can regrow in the shade." - Encourages finding a protected space of routine and reflection to recover.
 
+## Boustrophedon
+
+**Meaning**: A style of writing in which alternate lines are written in opposite directions (left-to-right, then right-to-left), resembling the path of an ox plowing a field.
+**Usage**: "Sometimes progress is not a straight line but boustrophedon—alternating back and forth, yet still covering the ground steadily." - Uses the ancient writing method to illustrate non-linear but consistent advancement.
+
 ## Boundaries
 
 **Meaning**: A limit of a subject or sphere of activity; a dividing line.
