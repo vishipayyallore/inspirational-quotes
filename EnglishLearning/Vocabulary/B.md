@@ -59,6 +59,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A limit of a subject or sphere of activity; a dividing line.
 **Usage**: "Setting boundaries is essential for self-care." - Knowing where to draw the line in relationships and responsibilities is important for mental health.
 
+## Boustrophedon
+
+**Meaning**: A style of writing in which alternate lines are written in opposite directions (left-to-right, then right-to-left), resembling the path of an ox plowing a field.
+**Usage**: "Sometimes progress is not a straight line but boustrophedon—alternating back and forth, yet still covering the ground steadily." - Uses the ancient writing method to illustrate non-linear but consistent advancement.
+
 ## Bragging
 
 **Meaning**: Boastful or arrogant behavior; talking about one's achievements or possessions in a way that shows too much pride.

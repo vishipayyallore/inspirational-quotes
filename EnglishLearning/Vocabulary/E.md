@@ -95,6 +95,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Calm, composed, and even-tempered, especially in difficult situations.
 **Usage**: "By returning to her breath, she stayed equanimous through the day’s ups and downs." - Links emotional steadiness with simple, repeatable habits.
 
+## Erudite
+
+**Meaning**: Having or showing great knowledge, gained from studying.
+**Usage**: "Her erudite insight turned a simple question into a thoughtful discussion." - Highlights deep knowledge applied with clarity.
+
 ## Esoteric
 
 **Meaning**: Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.

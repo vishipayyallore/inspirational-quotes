@@ -34,6 +34,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The power or quality of pleasing or delighting people; attractiveness.
 **Usage**: "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." - Don't be deceived by someone's pleasing or attractive manner.
 
+## Circumambient
+
+**Meaning**: Surrounding on all sides; encompassing or enveloping something from every direction.
+**Usage**: "The circumambient support of friends and mentors creates an environment where growth becomes inevitable." - Describes how surrounding influences can nurture development.
+
 ## Clarity
 
 **Meaning**: The quality of being clear and easily understood; transparency.  
