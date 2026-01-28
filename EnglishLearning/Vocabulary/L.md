@@ -29,6 +29,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Brave and determined in the face of fear or difficulty; courageous.
 **Usage**: "Be lionhearted when setbacks roar—meet them with steady courage and keep moving forward." - Encourages facing challenges boldly instead of retreating.
 
+## Loquacious
+
+**Meaning**: Tending to talk a great deal; talkative.
+**Usage**: "Her loquacious storytelling turned a short meeting into a lively exchange." - Shows someone speaking at length in an energetic way.
+
 ## Lucid
 
 **Meaning**: Clear and easy to understand; expressed plainly.

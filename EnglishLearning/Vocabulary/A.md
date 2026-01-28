@@ -189,6 +189,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To have a strong desire to achieve or reach something.
 **Usage**: "Aspire to inspire before you expire." - Aim to motivate and uplift others during your lifetime.
 
+## Atiptoe
+
+**Meaning**: On tiptoe; moving quietly or cautiously.
+**Usage**: "She moved atiptoe through the quiet hall to avoid waking anyone." - Describes careful, quiet movement.
+
 ## Attain
 
 **Meaning**: To achieve or reach a goal or desired outcome.
