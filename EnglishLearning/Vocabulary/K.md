@@ -24,6 +24,11 @@ This file contains definitions and example usage for "K" words found in the insp
 **Meaning**: Relating to or resulting from motion; active and dynamic.
 **Usage**: "His kinetic energy inspired the entire team to move forward." - Describing dynamic, action-oriented enthusiasm.
 
+## Kismet
+
+**Meaning**: Fate or destiny; the feeling that events are guided by forces beyond your control.
+**Usage**: "What looked like a setback felt like kismet in disguise—it pushed her toward the path she was meant to take." - Shows how an unexpected event can be seen as destiny guiding growth.
+
 ## Knead
 
 **Definition:** To work dough or clay into a uniform mixture by pressing, folding, and stretching.
