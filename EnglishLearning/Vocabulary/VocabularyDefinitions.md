@@ -18,8 +18,8 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [L Vocabulary](./L.md) - Words like Laconic, Latent, Liminal, Lionhearted, Loquacious, Lucid, Luminous, Lumps
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mussitate
 - [N Vocabulary](./N.md) - Words like Neutralize, Nimble
-- [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Optimistic, Overwhelm
-- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Preventive, Pivot, Pulchritude
+- [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Opaque, Optimistic, Overwhelm
+- [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Plage, Preventive, Pivot, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Restraint, Reticent, Reverie, Ruminate
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sotto voce, Succinct, Swindler

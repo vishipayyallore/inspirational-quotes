@@ -29,6 +29,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Relating to the sense of smell.
 **Usage**: "The olfactory experience of a place can trigger powerful memories." - Scents have the ability to evoke vivid recollections and emotions.
 
+## Opaque
+
+**Meaning**: Not able to be seen through; not transparent; hard to understand.
+**Usage**: "Sometimes the path forward seems opaque, but trust that each step will clear the fog." - Even when the future isn't clear, keep moving forward.
+
 ## Optimistic
 
 **Meaning**: Hopeful and confident about the future.  
