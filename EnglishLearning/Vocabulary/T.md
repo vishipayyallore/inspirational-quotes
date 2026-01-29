@@ -109,6 +109,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: Of little value or importance.
 **Usage**: "Don't sweat the trivial things in life." - Avoid getting upset over minor issues that don't really matter.
 
+## Tutoyer
+
+**Meaning**: To address someone informally; to be on familiar, friendly terms with someone (from French).
+**Usage**: "Once you tutoyer someone, the relationship shifts from formal distance to genuine connection." - Using informal address signals closeness and trust in a relationship.
+
 ## Tyrannical
 
 **Meaning**: Exercising power in a cruel or arbitrary way.
