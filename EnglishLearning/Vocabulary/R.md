@@ -119,6 +119,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Able to withstand or recover quickly from difficult conditions; flexible and adaptable.
 **Usage**: "A resilient person bounces back from setbacks stronger than before." - The ability to adapt and recover from adversity is a sign of inner strength.
 
+## Resolve
+
+**Meaning**: Firm determination to do something; a decision made with clarity and commitment.
+**Usage**: "With resolve, she practiced ten minutes daily until the habit felt effortless." - Determination helps you stay consistent when motivation fades.
+
 ## Resolute
 
 **Meaning**: Firm and determined; unwavering in purpose or decision.
