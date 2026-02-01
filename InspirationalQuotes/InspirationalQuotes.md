@@ -10,8 +10,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
-> 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous -- **Here**
-> 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
+> 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
+> 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous -- **Here**
 > 1. **Make your reputation unassailable; guard it with your life.** - Anonymous
 > 1. The Sad reality of life: The crooked go untouched, while the straight are constantly hammered. - Anonymous
 > 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous
