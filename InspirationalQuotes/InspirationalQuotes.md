@@ -9,8 +9,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
-> 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous -- **Here**
-> 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
+> 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
+> 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous -- **Here**
 > 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
 > 1. **Make your reputation unassailable; guard it with your life.** - Anonymous
 > 1. The Sad reality of life: The crooked go untouched, while the straight are constantly hammered. - Anonymous
@@ -37,8 +37,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
-> 1. **So much depends** on reputation; guard it with your life. - Anonymous -- **Here**
-> 1. **Court attention** at all costs. - Anonymous
+> 1. **So much depends** on reputation; guard it with your life. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous -- **Here**
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
@@ -51,8 +51,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
-> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K -- **Here**
-> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
+> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K -- **Here**
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
 ## Trust Revealed by Actions
@@ -60,8 +60,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
-> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
+> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
+> 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K

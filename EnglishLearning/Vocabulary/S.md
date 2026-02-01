@@ -129,6 +129,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The state or situation of being alone.  
 **Usage**: "True creativity comes from mental clarity, solitude, and freedom." - Being alone with your thoughts can foster creative thinking.
 
+## Sonder
+
+**Meaning**: The realization that each random passerby has a life as vivid and complex as your own.
+**Usage**: "Practicing sonder makes you kinder—every face you see is carrying a full story." - Encourages empathy by remembering others have rich inner lives.
+
 ## Sotto voce
 
 **Meaning**: In a quiet voice; in an undertone, often so as not to be overheard.

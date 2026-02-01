@@ -22,7 +22,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Plage, Preventive, Pivot, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie, Ruminate
-- [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sotto voce, Succinct, Swindler
+- [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transcend, Transient, Triumph, Tutoyer
 - [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Velleity, Vision, Vector, Vehement, Veracity
