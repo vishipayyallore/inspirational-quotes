@@ -124,6 +124,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Firm and determined; unwavering in purpose or decision.
 **Usage**: "Stay resolute in your learning, even when progress feels slow." - Encourages steady commitment despite challenges or delays.
 
+## Resolve
+
+**Meaning**: Firm determination to do something; a decision made with clarity and commitment.
+**Usage**: "With resolve, she practiced ten minutes daily until the habit felt effortless." - Determination helps you stay consistent when motivation fades.
+
 ## Resonate
 
 **Meaning**: To evoke a feeling of shared emotion or belief; to have a lasting impact.

@@ -83,3 +83,8 @@ This file contains definitions and example usage for "M" words found in the insp
 
 **Meaning**: To speak softly under your breath; to murmur or mutter quietly.
 **Usage**: "Instead of mussitating doubts to himself, he chose to write them down and turn each into a small, clear next step." - Connects quiet, uncertain thoughts with deliberate, constructive action.
+
+## Mythomania
+
+**Meaning**: A tendency to lie habitually or compulsively; pathological lying.
+**Usage**: "He learned to replace mythomania with honesty, because trust grows only where truth is practiced." - Stresses that consistent truth-telling builds credibility and strong relationships.
