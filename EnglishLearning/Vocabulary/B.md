@@ -24,6 +24,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A row of small columns topped by a rail, often used as a protective barrier on balconies, staircases, or terraces.
 **Usage**: "Every small habit is like a balustrade, quietly guarding your progress from slipping backward." - Uses the image of a railing to show how steady routines protect your growth.
 
+## Beacon
+
+**Meaning**: A light or fire on a hill or tower serving as a signal or warning; a source of guidance or inspiration.
+**Usage**: "Her wisdom served as a beacon during difficult times." - Someone who provides direction and hope can inspire others to find their way.
+
 ## Benevolence
 
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
