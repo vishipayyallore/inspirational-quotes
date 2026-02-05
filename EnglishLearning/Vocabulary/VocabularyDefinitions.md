@@ -24,7 +24,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie, Ruminate
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transcend, Transient, Triumph, Tutoyer
-- [U Vocabulary](./U.md) - Words like Understanding, Unique, Unlocking
+- [U Vocabulary](./U.md) - Words like Ubiquitous, Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Velleity, Vision, Vector, Vehement, Veracity
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Wheedle, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Ready for vocabulary words

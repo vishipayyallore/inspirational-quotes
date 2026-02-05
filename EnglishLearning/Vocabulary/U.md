@@ -9,6 +9,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Ubiquitous
+
+**Meaning**: Present, appearing, or found everywhere.
+**Usage**: "Smartphones have become ubiquitous in daily life." - The devices are seen and used almost everywhere.
+
 ## Unassailable
 
 **Meaning**: Unable to be attacked, questioned, or defeated; secure.
