@@ -54,6 +54,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Lacking strong features or characteristics and therefore uninteresting.
 **Usage**: "A bland personality can make it difficult to connect with others." - Someone who is uninteresting may struggle to form relationships.
 
+## Bliss
+
+**Meaning**: Perfect happiness; great joy.
+**Usage**: "Follow your bliss and the universe will open doors for you." - Pursuing your true passion leads to opportunities and fulfillment.
+
 ## Boscage
 
 **Meaning**: A mass of trees, shrubs, or foliage; a shady, wooded area.
