@@ -39,6 +39,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Truthfulness; accuracy or conformity to the facts.
 **Usage**: "Practice veracity in small things, and your words will carry weight in big moments." - Honesty builds trust over time.
 
+## Verdant
+
+**Meaning**: Green with grass or other rich vegetation; lush and flourishing.
+**Usage**: "The verdant hills reminded her that growth requires both time and nourishment." - Connects natural abundance with personal development and patience.
+
 ## Verisimilitude
 
 **Meaning**: The appearance of being true or real; the quality that makes something (especially a story or representation) seem lifelike and believable.
