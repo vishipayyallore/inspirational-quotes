@@ -49,6 +49,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: Intense happiness; the ability to find appropriate expression for one's thoughts; a pleasing manner or style.
 **Usage**: "True felicity comes not from possessions but from purpose—find what matters and joy follows." - Connects deep happiness to living with meaning rather than accumulating things.
 
+## Fervent
+
+**Meaning**: Having or displaying a passionate intensity; showing great warmth or earnestness of feeling.
+**Usage**: "Her fervent dedication to education inspired countless students to pursue their dreams." - Describes someone who approaches their work or beliefs with deep passion and commitment.
+
 ## Fictitious
 
 **Meaning**: Not real or true; imaginary or fabricated.
