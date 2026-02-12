@@ -6,8 +6,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 
 > 1. **Authority** must come before **responsibility**. - Anonymous
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
-> 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous -- **Here**
-> 1. **Never** put too much trust in friends. - Anonymous
+> 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
+> 1. **Never** put too much trust in friends. - Anonymous -- **Here**
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
@@ -40,8 +40,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
-> 1. **Win through your actions**, never through argument. - Anonymous -- **Here**
-> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
+> 1. **Win through your actions**, never through argument. - Anonymous
+> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous -- **Here**
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
@@ -50,11 +50,11 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
-> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K -- **Here**
+> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
 ## Trust Revealed by Actions
 
@@ -63,8 +63,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -77,7 +77,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Life Lessons
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
@@ -95,7 +95,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
 > 1. Your reputation is one of your most valuable assets. It can take years to build and seconds to destroy. **Guard it carefully**. - Anonymous
-> 1. **If you fail to plan**, you plan to fail. - Anonymous -- **Here**
+> 1. **If you fail to plan**, you plan to fail. - Anonymous
 
 ## Smart Career Strategies
 
