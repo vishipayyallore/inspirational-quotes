@@ -79,6 +79,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: To recognize or find out; to distinguish with difficulty by sight or by the intellect.
 **Usage**: "Be wary of the sweet words of a swindler." - The ability to discern true intentions behind pleasant words.
 
+## Discernment
+
+**Meaning**: The ability to judge well; insight and perceptiveness in making good decisions; the quality of being able to distinguish between right and wrong, truth and falsehood.
+**Usage**: "True discernment comes from experience and reflection, not from rushing to judgment." - Wisdom and good judgment develop through thoughtful consideration and learning from past experiences.
+
 ## Discontent
 
 **Meaning**: Dissatisfaction with one's circumstances; a feeling of unhappiness or dissatisfaction.
