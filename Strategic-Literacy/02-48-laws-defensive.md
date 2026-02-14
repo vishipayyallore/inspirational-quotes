@@ -11,7 +11,7 @@ This repository contains my personal defensive reflections while reading `The 48
 
 ## 1. Never Outshine the Master
 
-Defensive Insight: Visible superiority can trigger insecurity in leadership—manage upward ego carefully by crediting mentors for your technical breakthroughs.
+Defensive Insight: Visible superiority can trigger insecurity in leadership — manage upward ego carefully by visibly aligning your contributions with leadership support.
 
 ## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
@@ -131,7 +131,7 @@ Defensive Insight: Calm delivery enhances perceived mastery.
 
 ## 31. Control the Options
 
-Defensive Insight: Framing choices shapes outcomes. Present structured alternatives with clear recommendation.
+Defensive Insight: Framing choices shapes outcomes. Present structured alternatives with a clearly justified recommendation.
 
 ## 32. Play to People’s Fantasies
 
@@ -203,7 +203,7 @@ Defensive Insight: Adaptability prevents strategic predictability—identify as 
 
 ---
 
-### 🏛️ War & Power Integration
+### 🏛️ Power & War Integration
 
 You now have:
 
