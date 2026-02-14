@@ -39,6 +39,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Clear and easy to understand; expressed plainly.
 **Usage**: "After reviewing the notes, he gave a lucid explanation of the plan." - Shows ideas communicated clearly without confusion.
 
+## Luminary
+
+**Meaning**: A person who inspires or influences others significantly, especially in a particular field.
+**Usage**: "Every community needs a luminary who turns vision into shared progress." - Highlights a person whose leadership and insight motivate others.
+
 ## Luminous
 
 **Meaning**: Emitting or reflecting light; bright.
