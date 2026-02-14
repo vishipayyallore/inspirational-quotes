@@ -8,8 +8,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
-> 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous -- **Here**
-> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
+> 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
+> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous -- **Here**
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 > 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
@@ -41,8 +41,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
-> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous -- **Here**
-> 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
+> 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
+> 1. **Mirror** the desires and values of those you wish to influence. - Anonymous -- **Here**
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
@@ -50,8 +50,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Mastery in 30 Minutes a Day
 
-> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K -- **Here**
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
@@ -65,8 +65,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K -- **Here**
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
@@ -77,8 +77,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Life Lessons
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous -- **Here**
-> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous -- **Here**
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
