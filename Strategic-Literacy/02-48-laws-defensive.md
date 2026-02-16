@@ -11,7 +11,17 @@ This repository contains my personal defensive reflections while reading `The 48
 
 ## 1. Never Outshine the Master
 
-Defensive Insight: Visible superiority can trigger insecurity in leadership — manage upward ego carefully by visibly aligning your contributions with leadership support.
+### Core Principle (Personal Interpretation)
+
+In hierarchical systems, visible superiority can threaten authority and trigger defensive responses from those above you.
+
+### Defensive Insight
+
+Visible competence can be perceived as competitive threat — align your contributions with leadership vision and distribute credit strategically.
+
+### Reflection Prompt
+
+Where in my current environment could competence be misinterpreted as competition?
 
 ## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
