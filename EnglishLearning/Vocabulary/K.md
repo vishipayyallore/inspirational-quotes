@@ -14,6 +14,11 @@ This file contains definitions and example usage for "K" words found in the insp
 **Meaning**: Having constantly changing patterns, elements, or colors; full of variety and movement.
 **Usage**: "Your life is a kaleidoscopic journey—each small turn reveals a new pattern of possibilities." - Encourages seeing change and diversity of experiences as something beautiful and enriching.
 
+## Keen
+
+**Meaning**: Having or showing eagerness, enthusiasm, or intense interest; also, having a sharp edge or intellectually sharp.
+**Usage**: "She was keen to learn new skills and improve her abilities every day." - Describes someone who is enthusiastic and eager to pursue growth and knowledge.
+
 ## Kindred
 
 **Meaning**: Having similar origin, nature, or character; related or connected by qualities or interests.

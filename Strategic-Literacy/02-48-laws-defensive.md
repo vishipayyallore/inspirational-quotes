@@ -11,21 +11,31 @@ This repository contains my personal defensive reflections while reading `The 48
 
 ## 1. Never Outshine the Master
 
-### Core Principle (Personal Interpretation)
+### 1.1. Core Principle (Personal Interpretation)
 
 In hierarchical systems, visible superiority can threaten authority and trigger defensive responses from those above you.
 
-### Defensive Insight
+### 1.2. Defensive Insight
 
 Visible competence can be perceived as competitive threat — align your contributions with leadership vision and distribute credit strategically.
 
-### Reflection Prompt
+### 1.3. Reflection Prompt
 
 Where in my current environment could competence be misinterpreted as competition?
 
 ## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
-Defensive Insight: Workplace alliances shift; diversify trust and avoid emotional dependency. Maintain professional bridges even with those who oppose your technical views.
+### 2.1. Core Principle (Personal Interpretation)
+
+Workplace relationships are influenced by incentives, not loyalty. Alignment today does not guarantee alignment tomorrow.
+
+### 2.2. Defensive Insight
+
+Diversify trust and avoid emotional dependency in professional settings. Maintain professional bridges even with those who challenge your views — structured opposition often provides strategic clarity.
+
+### 2.3. Reflection Prompt
+
+Am I over-relying on personal rapport where incentive alignment should be my primary safeguard?
 
 ## 3. Conceal Your Intentions
 
