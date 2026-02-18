@@ -105,6 +105,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
 **Usage**: "His esoteric knowledge of ancient philosophy made him a sought-after scholar." - Specialized or hard-to-understand knowledge can make one an expert in their field.
 
+## Eudaimonia
+
+**Meaning**: A state of human flourishing and well-being achieved through living with virtue and purpose.
+**Usage**: "Lasting success feels like eudaimonia when your goals align with your values." - Highlights fulfillment that comes from meaningful, principled living.
+
 ## Euphonious
 
 **Meaning**: Pleasant to hear; having a smooth, musical sound.
