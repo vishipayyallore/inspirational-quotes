@@ -19,6 +19,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: An experience involving the apparent perception of something not present.  
 **Usage**: "Vision without execution is just hallucination." - Ideas that aren't implemented remain only in your imagination.
 
+## Harbinger
+
+**Meaning**: A person or thing that announces or signals the approach of another; a forerunner or omen.
+**Usage**: "Early morning enthusiasm is often a harbinger of a productive day." - When you start the day with energy and optimism, it signals that good things are likely to follow.
+
 ## Harmony
 
 **Meaning**: A pleasing combination of elements working together; agreement, accord, or peaceful coexistence.

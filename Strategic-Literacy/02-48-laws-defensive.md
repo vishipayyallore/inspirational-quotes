@@ -39,7 +39,17 @@ Am I over-relying on personal rapport where incentive alignment should be my pri
 
 ## 3. Conceal Your Intentions
 
-Defensive Insight: Do not reveal strategy prematurely—information asymmetry protects leverage. Share the "what" of your results, but guard the "how" of your proprietary logic.
+### 3.1. Core Principle (Personal Interpretation)
+
+In competitive or hierarchical environments, premature disclosure of strategy reduces leverage and invites interference.
+
+### 3.2. Defensive Insight
+
+Do not reveal strategic direction before alignment and timing are secured. Share outcomes and value ("what"), but protect methodology and sequencing ("how") until execution is stabilized.
+
+### 3.3. Reflection Prompt
+
+Have I shared long-term plans in environments where incentives are not fully aligned?
 
 ## 4. Always Say Less Than Necessary
 

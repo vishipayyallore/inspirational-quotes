@@ -11,8 +11,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
-> 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous -- **Here**
-> 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
+> 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
+> 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous -- **Here**
 > 1. **Make your reputation unassailable; guard it with your life.** - Anonymous
 > 1. The Sad reality of life: The crooked go untouched, while the straight are constantly hammered. - Anonymous
 > 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous
@@ -43,8 +43,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
-> 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous -- **Here**
-> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
+> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous -- **Here**
 > 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
@@ -52,8 +52,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
-> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K -- **Here**
-> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
+> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K -- **Here**
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
 ## Trust Revealed by Actions
@@ -67,8 +67,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
-> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
 > 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
@@ -79,8 +79,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
-> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous -- **Here**
-> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
+> 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
+> 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous -- **Here**
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
@@ -389,8 +389,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The only way to deal with fear is to face it head on. - Anonymous
 > 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg
 > 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous
-> 1. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin -- **Here**
-> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
+> 1. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
+> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela -- **Here**
 > 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling
 > 1. We are not defined by the challenges we face but by how we rise to meet them. - Anonymous
 > 1. The brave may not live forever, but the cautious do not live at all. - Richard Branson

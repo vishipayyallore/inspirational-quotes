@@ -53,3 +53,8 @@ This file contains definitions and example usage for "L" words found in the insp
 
 **Meaning**: A compact mass of a substance, especially one without a definite or regular shape.
 **Usage**: "Life's challenges can feel like lumps in the road." - Obstacles may be unexpected and irregular, but they are a natural part of the journey.
+
+## Lunation
+
+**Meaning**: The interval from one new moon to the next; a complete lunar cycle.
+**Usage**: "Real change may take a full lunation—quiet daily effort before the new phase becomes visible." - Reminds us that growth often appears gradually over time.

@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-02-12 12:32:21
+**Last verification**: 2026-02-17 07:44:09
 
 ## Standard Verification Command
 
@@ -12,6 +12,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-02-17
+	- Reasoning summary: Added today's unique word to H.
+	- Action(s) taken: Added "Harbinger" (forerunner or signal); initially placed incorrectly after Harmony, corrected to proper position after Hallucination; ran verification (Logs/verify-20260217-074409.txt).
+	- Outcome / verification: Ordering verified OK after correction.
 - 2026-02-12
 	- Reasoning summary: Added today's unique word to D.
 	- Action(s) taken: Added "Discernment" (ability to judge well); ran verification (Logs/verify-20260212-123221.txt).
@@ -35,19 +39,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 - `Logs/verify-20260126-175039.txt` — added "Boustrophedon" (B), "Inure" (I), "Scofflaw" (S), "Anatine" (A), "Krummholz" (K), "Circumambient" (C), "Hypethral" (H); ordering verified OK
 - `Logs/verify-20260126-122715.txt` — added "Erudite" (E); ordering verified OK
 - `Logs/verify-20260120-141946.txt` — added "Laconic" (L); ordering verified OK
-- `Logs/verify-20260119-172823.txt` — added "Transcend" (T); ordering verified OK
-- `Logs/verify-20260118-003825.txt` — added "Novaturient" (N); ordering verified OK
-- `Logs/verify-20260117-103803.txt` — added "Apocope" (A), "Flummox" (F), "Mondegreen" (M); ordering verified OK
-- `Logs/verify-20260115-110353.txt` — added "Harmony" (H); ordering verified OK
-- `Logs/verify-20260113-122921.txt` — added "Wisdom" (W); fixed alphabetical ordering; verified OK
-- `Logs/verify-20260110-102323.txt` — added "Wistful" (W) and "Mephitic" (M); ordering verified OK
-- `Logs/verify-20260108-225247.txt` — added "Caesura" (C) and "Reticent" (R); ordering verified OK
-- `Logs/verify-20260107-104614.txt` — added "Panglossian" (P); fixed ordering in F/S/T; ordering verified OK
-- `Logs/verify-20260106-124851.txt` — added "Interlard" (I) and "Vituperate" (V); ordering verified OK
-- `Logs/verify-20260105-181006.txt` — added "First-Foot" (F), "Jovial" (J), "Moschate" (M), "Skosh" (S), "Threshold" (T); ordering verified OK
-- `Logs/verify-20260103-110945.txt` — added "Aphorism" (A) and "Reverie" (R); ordering verified OK
-- `Logs/verify-20260102-231326.txt` — added "Obdurate" (O); ordering verified OK
-- `Logs/verify-20260101-001007.txt` — added "Zeitgeist" (Z); ordering verified OK
 - `Logs/verify-20260101-000646.txt` — added "Quotidian" (Q); ordering verified OK
 
 ## Notes
