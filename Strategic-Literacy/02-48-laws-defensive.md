@@ -53,7 +53,17 @@ Have I shared long-term plans in environments where incentives are not fully ali
 
 ## 4. Always Say Less Than Necessary
 
-Defensive Insight: Over-explaining reduces perceived authority and creates attack surface. Silence in meetings often forces others to reveal their own hidden agendas.
+### 4.1. Core Principle (Personal Interpretation)
+
+Excessive explanation dilutes authority and exposes unnecessary surface area for criticism or manipulation.
+
+### 4.2. Defensive Insight
+
+Speak with precision and intentional brevity. Over-communication can unintentionally signal insecurity or create openings for opposition; controlled silence often shifts informational advantage to you.
+
+### 4.3. Reflection Prompt
+
+In recent discussions, have I spoken to clarify value — or to seek validation?
 
 ## 5. So Much Depends on Reputation — Guard It With Your Life
 
