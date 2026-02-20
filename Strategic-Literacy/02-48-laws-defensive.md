@@ -67,7 +67,17 @@ In recent discussions, have I spoken to clarify value — or to seek validation?
 
 ## 5. So Much Depends on Reputation — Guard It With Your Life
 
-Defensive Insight: Reputation compounds silently; one narrative loss can undo years of credibility. Proactively manage the "metadata" of your professional persona.
+### 5.1. Core Principle (Personal Interpretation)
+
+Reputation is a long-term asset built through consistent signals. It shapes perception before your work is evaluated and often determines how your actions are interpreted.
+
+### 5.2. Defensive Insight
+
+Reputation compounds silently; one unmanaged narrative can undermine years of credibility. Proactively manage the visible signals, associations, and outcomes that define your professional identity.
+
+### 5.3. Reflection Prompt
+
+What signals am I currently emitting that may be shaping my reputation without my awareness?
 
 ## 6. Court Attention at All Costs
 
