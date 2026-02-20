@@ -24,6 +24,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: To influence or persuade someone through flattery or coaxing.
 **Usage**: "He tried to wheedle his way into her good graces with compliments." - Using charm and persuasion to gain favor.
 
+## Wholesome
+
+**Meaning**: Conducive to or promoting moral, mental, or physical health and well-being; beneficial and positive in nature.
+**Usage**: "Choose wholesome habits that nourish both body and spirit—growth flourishes where goodness takes root." - Emphasizes selecting healthy practices that support overall well-being and personal development.
+
 ## Wisdom
 
 **Meaning**: The quality of having experience, knowledge, and good judgment; the ability to apply knowledge and experience to make sound decisions.
