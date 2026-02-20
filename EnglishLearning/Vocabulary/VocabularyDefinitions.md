@@ -17,7 +17,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [K Vocabulary](./K.md) - Words like Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Latent, Liminal, Lionhearted, Loquacious, Lucid, Luminary, Luminous, Lumps
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mussitate, Mythomania
-- [N Vocabulary](./N.md) - Words like Neutralize, Nimble
+- [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Opaque, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Plage, Preventive, Pivot, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian

@@ -59,6 +59,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: A gentle push or encouragement to prompt someone to take a specific action.
 **Usage**: "Sometimes, all it takes is a nudge from a friend to pursue your dreams." - A little encouragement can motivate you to follow your aspirations.
 
+## Numinous
+
+**Meaning**: Having a strong spiritual quality; inspiring awe, reverence, or a sense of the sacred or transcendent.
+**Usage**: "Stand in nature long enough and you will encounter something numinous—a reminder that there is more to life than what the eye can see." - Encourages pausing to experience the profound and mysterious dimensions of existence.
+
 ## Nurture
 
 **Meaning**: To care for and encourage the growth or development of someone or something.
