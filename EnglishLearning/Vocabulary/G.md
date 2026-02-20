@@ -39,6 +39,11 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: A book of magic spells and invocations; a textbook of occult knowledge or magical instructions.
 **Usage**: "The ancient grimoire contained rituals and spells passed down through generations." - Referring to historical texts that preserve esoteric wisdom and magical practices.
 
+## Grit
+
+**Meaning**: Courage, resolve, and strength of character; the ability to persevere through challenges with determination.
+**Usage**: "True grit isn't about never falling—it's about rising each time with renewed purpose and unshakable resolve." - Emphasizes that perseverance through adversity defines true strength of character.
+
 ## Grok
 
 **Meaning**: To understand something intuitively or thoroughly.
