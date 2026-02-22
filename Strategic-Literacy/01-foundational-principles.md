@@ -12,8 +12,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
 > 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
-> 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous -- **Here**
-> 1. **Make your reputation unassailable; guard it with your life.** - Anonymous
+> 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
+> 1. **Make your reputation unassailable; guard it with your life.** - Anonymous -- **Here**
 > 1. The Sad reality of life: The crooked go untouched, while the straight are constantly hammered. - Anonymous
 > 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous
 > 1. Such is life’s irony — the crooked thrive in comfort, while the straight bear the blows of integrity. - Anonymous
@@ -44,8 +44,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
-> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous -- **Here**
-> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
+> 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
+> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous -- **Here**
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
 ## Mastery in 30 Minutes a Day
@@ -53,8 +53,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
-> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K -- **Here**
-> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
+> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K -- **Here**
 
 ## Trust Revealed by Actions
 
@@ -68,8 +68,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
-> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K -- **Here**
-> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
+> 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
+> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K -- **Here**
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K

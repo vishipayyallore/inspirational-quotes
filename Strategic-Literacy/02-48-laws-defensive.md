@@ -5,7 +5,7 @@ Year: 1998
 
 ## 📌 Note / Disclaimer
 
-This repository contains my personal defensive reflections while reading `The 48 Laws of Power` by Robert Greene. I am reading the original work directly from the published book. This document does NOT reproduce, summarize, paraphrase, or reinterpret the author's content. Each entry below is an independent corporate-awareness insight written in my own words, intended for professional risk literacy and strategic self-protection.
+This repository contains my personal defensive reflections while reading *The 48 Laws of Power* by Robert Greene. I am reading the original work directly from the published book. This document does NOT reproduce, summarize, paraphrase, or reinterpret the author's content. Each entry below is an independent corporate-awareness insight written in my own words, intended for professional risk literacy and strategic self-protection.
 
 ---
 
@@ -13,29 +13,33 @@ This repository contains my personal defensive reflections while reading `The 48
 
 ### 1.1. Core Principle (Personal Interpretation)
 
-In hierarchical systems, visible superiority can threaten authority and trigger defensive responses from those above you.
+In hierarchical systems, visible superiority can threaten authority and trigger defensive reactions from those above you.
 
 ### 1.2. Defensive Insight
 
-Visible competence can be perceived as competitive threat — align your contributions with leadership vision and distribute credit strategically.
+Visible competence may be interpreted as competitive threat. Align contributions with leadership vision and distribute credit strategically to reduce perceived rivalry.
 
 ### 1.3. Reflection Prompt
 
 Where in my current environment could competence be misinterpreted as competition?
 
+---
+
 ## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
 ### 2.1. Core Principle (Personal Interpretation)
 
-Workplace relationships are influenced by incentives, not loyalty. Alignment today does not guarantee alignment tomorrow.
+Workplace relationships are governed by incentives, not loyalty. Alignment today does not guarantee alignment tomorrow.
 
 ### 2.2. Defensive Insight
 
-Diversify trust and avoid emotional dependency in professional settings. Maintain professional bridges even with those who challenge your views — structured opposition often provides strategic clarity.
+Diversify trust and avoid emotional dependency in professional settings. Maintain professional bridges even with those who challenge you — structured opposition can create strategic clarity.
 
 ### 2.3. Reflection Prompt
 
 Am I over-relying on personal rapport where incentive alignment should be my primary safeguard?
+
+---
 
 ## 3. Conceal Your Intentions
 
@@ -45,33 +49,63 @@ In competitive or hierarchical environments, premature disclosure of strategy re
 
 ### 3.2. Defensive Insight
 
-Do not reveal strategic direction before alignment and timing are secured. Share outcomes and value ("what"), but protect methodology and sequencing ("how") until execution is stabilized.
+Do not reveal strategic direction before alignment and timing are secured. Share outcomes and value ("what"), but protect methodology and sequencing ("how") until execution stabilizes.
 
 ### 3.3. Reflection Prompt
 
 Have I shared long-term plans in environments where incentives are not fully aligned?
 
+---
+
 ## 4. Always Say Less Than Necessary
 
 ### 4.1. Core Principle (Personal Interpretation)
 
-Excessive explanation dilutes authority and exposes unnecessary surface area for criticism or manipulation.
+Excessive explanation dilutes authority and increases exposure to criticism, reinterpretation, or manipulation.
 
 ### 4.2. Defensive Insight
 
-Speak with precision and intentional brevity. Over-communication can unintentionally signal insecurity or create openings for opposition; controlled silence often shifts informational advantage to you.
+Speak with precision and intentional brevity. Over-communication can signal insecurity or create openings for opposition. Controlled silence often preserves informational advantage.
 
 ### 4.3. Reflection Prompt
 
 In recent discussions, have I spoken to clarify value — or to seek validation?
 
+---
+
 ## 5. So Much Depends on Reputation — Guard It With Your Life
 
-Defensive Insight: Reputation compounds silently; one narrative loss can undo years of credibility. Proactively manage the "metadata" of your professional persona.
+### 5.1. Core Principle (Personal Interpretation)
+
+Reputation is a long-term asset built through consistent signals. It shapes perception before your work is evaluated and often determines how actions are interpreted.
+
+### 5.2. Defensive Insight
+
+Reputation compounds silently; one unmanaged narrative can undermine years of credibility. Proactively manage visible signals, associations, and outcomes that define your professional identity.
+
+### 5.3. Reflection Prompt
+
+What signals am I currently emitting that may be shaping my reputation without my awareness?
+
+---
 
 ## 6. Court Attention at All Costs
 
-Defensive Insight: Visibility drives influence—ensure your work is documented and seen. High-quality work that remains invisible is a strategic vulnerability.
+### 6.1. Core Principle (Personal Interpretation)
+
+In professional ecosystems, attention precedes influence. Work that is not visible does not meaningfully exist within the perception economy.
+
+### 6.2. Defensive Insight
+
+Visibility is not vanity — it is signal amplification.
+
+Ensure contributions are documented, demonstrated, and intentionally surfaced to relevant stakeholders. Define impact clearly and establish attribution pathways.
+
+High-quality work that remains invisible is vulnerable to appropriation, misinterpretation, or neglect. Visibility must be engineered, not left to chance.
+
+### 6.3. Reflection Prompt
+
+Is my work strategically visible to decision-makers — or only observable to peers?
 
 ## 7. Get Others to Do the Work for You, but Always Take the Credit
 
