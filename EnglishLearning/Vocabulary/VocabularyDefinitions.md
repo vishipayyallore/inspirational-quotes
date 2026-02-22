@@ -5,7 +5,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 ## Available Letter Files
 
 - [A Vocabulary](./A.md) - Words like Adversary, Advocate, Adversity, Alpenglow, Aphorism, Apocope, Atiptoe
-- [B Vocabulary](./B.md) - Words like Bliss, Brumal, Burnout
+- [B Vocabulary](./B.md) - Words like Bliss, Brevity, Brumal, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Erudite, Euphonious, Execution
