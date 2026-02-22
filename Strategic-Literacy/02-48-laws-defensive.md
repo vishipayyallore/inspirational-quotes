@@ -107,9 +107,27 @@ High-quality work that remains invisible is vulnerable to appropriation, misinte
 
 Is my work strategically visible to decision-makers — or only observable to peers?
 
+---
+
 ## 7. Get Others to Do the Work for You, but Always Take the Credit
 
-Defensive Insight: Protect ownership through written traceability and stakeholder visibility. Use version control and project logs to anchor your contributions.
+### 7.1. Core Principle (Personal Interpretation)
+
+In collaborative environments, effort and recognition are not automatically linked. Credit often flows toward visibility, authority, or narrative control rather than effort alone.
+
+### 7.2. Defensive Insight
+
+Protect ownership through structured traceability and stakeholder visibility.
+
+Document contributions in writing. Use version control systems, meeting notes, decision logs, and milestone summaries to anchor attribution. Ensure your role in ideation, execution, and impact is visible in formal communication channels.
+
+In environments where credit is competitive, undocumented contribution is strategically exposed.
+
+### 7.3. Reflection Prompt
+
+Are my contributions objectively traceable — or dependent on others' acknowledgment?
+
+---
 
 ## 8. Make Other People Come to You — Use Bait If Necessary
 
