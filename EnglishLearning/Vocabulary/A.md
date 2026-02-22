@@ -44,11 +44,6 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To the point; relevant to the matter at hand (Latin phrase).
 **Usage**: "His comments were always ad rem, focusing directly on the core issue without digression." - Speaking directly and relevantly to the topic being discussed.
 
-## Adret
-
-**Meaning**: The sun-facing slope of a mountain, especially in alpine regions.
-**Usage**: "When progress felt cold and slow, she chose the adret path—moving toward the light one steady step at a time." - Suggests choosing conditions that support growth and momentum.
-
 ## Adherence
 
 **Meaning**: The act of following or upholding a rule, guideline, or standard.
@@ -58,6 +53,11 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A substance or treatment that enhances the effectiveness of a medical treatment; something that assists or supports.
 **Usage**: "The adjuvant therapy helped improve the patient's recovery after surgery." - Supplementary treatments can boost the effectiveness of primary medical interventions.
+
+## Adret
+
+**Meaning**: The sun-facing slope of a mountain, especially in alpine regions.
+**Usage**: "When progress felt cold and slow, she chose the adret path—moving toward the light one steady step at a time." - Suggests choosing conditions that support growth and momentum.
 
 ## Advent
 
