@@ -84,6 +84,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: To take air into the lungs and then expel it; to inhale and exhale.
 **Usage**: "Take a moment to breathe and relax." - Pausing to inhale and exhale can help reduce stress and clear your mind.
 
+## Brevity
+
+**Meaning**: The quality of being brief and concise; shortness of time or expression.
+**Usage**: "Brevity is the soul of wit." - Expressing ideas in few, well-chosen words often has more impact than lengthy explanations.
+
 ## Brindled
 
 **Meaning**: Having a streaked or mottled pattern of darker color on a lighter background (often used for animal fur).
