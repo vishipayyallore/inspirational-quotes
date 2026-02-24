@@ -104,6 +104,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: The rise and fall in the pitch of the voice in speech.
 **Usage**: "Intonation can change the meaning of a sentence." - The way you say something can affect its interpretation.
 
+## Intrepid
+
+**Meaning**: Fearless and adventurous; resolutely courageous in the face of danger or difficulty.
+**Usage**: "Be intrepid in pursuit of what matters—courage is not the absence of fear but the decision to act despite it." - Encourages bold action even when uncertainty or risk is present.
+
 ## Intricacies
 
 **Meaning**: The quality of being intricate; complex details or elements.
