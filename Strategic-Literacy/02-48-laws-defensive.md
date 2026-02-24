@@ -131,7 +131,21 @@ Are my contributions objectively traceable — or dependent on others' acknowled
 
 ## 8. Make Other People Come to You — Use Bait If Necessary
 
-Defensive Insight: Strategic positioning reduces chasing—create value gravity by mastering rare, high-demand skills such as specialized GenAI architectures.
+### 8.1. Core Principle (Personal Interpretation)
+
+Leverage increases when others seek your capability rather than when you chase validation or opportunity. Scarcity and specialization create pull.
+
+### 8.2. Defensive Insight
+
+Strategic positioning reduces the need for pursuit. Build rare, high-value capabilities and domain depth that create professional gravity. When your expertise solves critical problems, influence flows toward you organically.
+
+Avoid signaling neediness through overexposure or constant availability; controlled accessibility increases perceived value.
+
+### 8.3. Reflection Prompt
+
+Am I building capabilities that create pull — or am I relying on effort and visibility alone to generate opportunity?
+
+---
 
 ## 9. Win Through Your Actions, Never Through Argument
 
