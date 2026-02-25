@@ -63,3 +63,8 @@ This file contains definitions and example usage for "L" words found in the insp
 
 **Meaning**: The interval from one new moon to the next; a complete lunar cycle.
 **Usage**: "Real change may take a full lunation—quiet daily effort before the new phase becomes visible." - Reminds us that growth often appears gradually over time.
+
+## Lyricism
+
+**Meaning**: A quality of expression that is poetic, musical, and emotionally vivid.
+**Usage**: "Her lyricism turned a simple message into something that stayed with everyone all day." - Shows language used in a graceful, expressive way that makes ideas memorable.
