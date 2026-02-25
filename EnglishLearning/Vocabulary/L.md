@@ -29,6 +29,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Brave and determined in the face of fear or difficulty; courageous.
 **Usage**: "Be lionhearted when setbacks roar—meet them with steady courage and keep moving forward." - Encourages facing challenges boldly instead of retreating.
 
+## Lodestar
+
+**Meaning**: A star used as a point of reference for navigation; a person or principle that serves as a guide or inspiration.
+**Usage**: "Let your core values be your lodestar—when paths multiply and choices blur, they will always point you true." - Encourages using deeply held principles as a compass during uncertain times.
+
 ## Loquacious
 
 **Meaning**: Tending to talk a great deal; talkative.
