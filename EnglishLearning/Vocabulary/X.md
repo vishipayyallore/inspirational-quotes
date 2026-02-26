@@ -14,6 +14,11 @@ This file contains vocabulary words starting with the letter X, along with their
 **Meaning**: Relating to hospitality, especially being warm and friendly to guests or strangers.
 **Usage**: "Cultivate a xenial spirit, welcoming new people and ideas into your life." - Encourages openness and kindness toward others and fresh perspectives.
 
+## Xenodochy
+
+**Meaning**: The reception of strangers; hospitality shown to guests.
+**Usage**: "Practice xenodochy by offering kindness to newcomers and making them feel at home." - Highlights generous hospitality and inclusive behavior.
+
 ## Xenophobia
 
 **Meaning**: Dislike of or prejudice against people from other countries.
