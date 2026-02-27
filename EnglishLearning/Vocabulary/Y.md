@@ -9,6 +9,11 @@ This file contains vocabulary words starting with the letter Y, along with their
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Yare
+
+**Meaning**: Quick, agile, and ready for action.
+**Usage**: "Stay yare in your mindset, and every challenge becomes a chance to adapt." - Encourages alert flexibility and readiness when facing difficulties.
+
 ## Yearn
 
 **Meaning**: To have an intense feeling of longing for something.
