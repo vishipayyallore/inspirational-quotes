@@ -169,7 +169,25 @@ In recent disagreements, have I relied more on explanation — or on demonstrabl
 
 ## 10. Infection: Avoid the Unhappy and Unlucky
 
-Defensive Insight: Persistent negativity damages perception and association. Proximity to chronic complainers can lead leadership to question your cultural alignment.
+### 10.1. Core Principle (Personal Interpretation)
+
+Emotional states and behavioral patterns are socially contagious. Persistent negativity, victim narratives, or chronic instability can influence perception and decision-making within professional environments.
+
+### 10.2. Defensive Insight
+
+Associations shape reputation.
+
+Prolonged proximity to chronically negative or consistently underperforming individuals can create reputational drag. Leadership may infer cultural alignment or shared mindset based on visible professional associations.
+
+Maintain empathy, but establish boundaries. Support where appropriate, yet avoid becoming structurally tied to persistent dysfunction or recurring pessimism.
+
+Strategic distance protects long-term positioning.
+
+### 10.3. Reflection Prompt
+
+Are my closest professional associations reinforcing my credibility — or subtly undermining it?
+
+---
 
 ## 11. Learn to Keep People Dependent on You
 
