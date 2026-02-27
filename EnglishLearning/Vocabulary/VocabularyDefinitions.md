@@ -28,7 +28,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [V Vocabulary](./V.md) - Words like Velleity, Vision, Vector, Vehement, Veracity
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Wheedle, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
-- [Y Vocabulary](./Y.md) - Words like Yearn, Yield, Yuletide
+- [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
 - [Z Vocabulary](./Z.md) - Words like Zeal, Zeitgeist, Zephyr
 
 ## How to Use This Collection
