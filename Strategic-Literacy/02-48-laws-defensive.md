@@ -213,7 +213,25 @@ Is my value derived from structural importance and expertise — or from control
 
 ## 12. Use Selective Honesty and Generosity to Disarm Your Victim
 
-Defensive Insight: Partial transparency is often used to lower defenses—verify intent when someone suddenly shares "confidential" information.
+### 12.1. Core Principle (Personal Interpretation)
+
+Selective transparency or unexpected generosity can lower skepticism and build rapid trust. Strategic vulnerability is often used to create psychological leverage.
+
+### 12.2. Defensive Insight
+
+Be attentive when transparency appears sudden, unusually personal, or strategically timed.
+
+Partial disclosure of “confidential” information can be used to lower defenses, accelerate trust, or create a sense of obligation. Generosity may function as positioning rather than goodwill.
+
+Verify intent before reciprocating vulnerability. Do not equate selective openness with long-term alignment.
+
+Trust should be calibrated through consistency over time — not triggered by isolated gestures.
+
+### 12.3. Reflection Prompt
+
+When someone shares privileged information or unexpected generosity, do I evaluate the pattern — or react to the moment?
+
+---
 
 ## 13. When Asking for Help, Appeal to Self-Interest
 
