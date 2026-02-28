@@ -19,6 +19,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: Feeling or showing caution about possible dangers or problems.
 **Usage**: "Be wary of those who promise you the world." - Be cautious of people who make grand promises without substance.
 
+## Watershed
+
+**Meaning**: A turning point or pivotal moment that marks a significant change in direction; also, a ridge of high land dividing river systems.
+**Usage**: "The decision to start over was a watershed moment in her life—everything after it felt purposeful and clear." - Describes a defining event that divides life into a clear before and after.
+
 ## Wheedle
 
 **Meaning**: To influence or persuade someone through flattery or coaxing.

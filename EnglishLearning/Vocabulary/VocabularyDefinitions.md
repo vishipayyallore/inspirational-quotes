@@ -26,7 +26,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transcend, Transient, Triumph, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Velleity, Vision, Vector, Vehement, Veracity
-- [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Wheedle, Wistful, Wit, Wizardry
+- [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
 - [Z Vocabulary](./Z.md) - Words like Zeal, Zeitgeist, Zephyr
