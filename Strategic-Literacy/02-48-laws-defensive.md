@@ -191,7 +191,25 @@ Are my closest professional associations reinforcing my credibility — or subtl
 
 ## 11. Learn to Keep People Dependent on You
 
-Defensive Insight: Watch for knowledge hoarding in others; build distributed competence so you are a vital node, not a bottleneck.
+### 11.1. Core Principle (Personal Interpretation)
+
+Influence increases when your contribution becomes structurally important to others’ success. Control over critical knowledge, systems, or capabilities creates leverage within organizational networks.
+
+### 11.2. Defensive Insight
+
+Be alert to knowledge hoarding and artificial dependency patterns in others.
+
+Protect yourself from becoming replaceable by developing high-leverage expertise and owning strategically important domains. At the same time, avoid becoming an operational bottleneck; distributed competence increases trust and scalability.
+
+The objective is to be a vital node in the network — not a gatekeeper who restricts flow.
+
+Sustainable influence comes from being reliably valuable, not artificially indispensable.
+
+### 11.3. Reflection Prompt
+
+Is my value derived from structural importance and expertise — or from controlling access?
+
+---
 
 ## 12. Use Selective Honesty and Generosity to Disarm Your Victim
 
