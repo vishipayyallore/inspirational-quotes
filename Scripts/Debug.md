@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-02-27 10:45:32
+**Last verification**: 2026-02-28 18:27:55
 
 ## Standard Verification Command
 
@@ -12,6 +12,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-02-28
+  - Reasoning summary: Added today's unique word `Watershed` to `W.md` in strict alphabetical order.
+  - Action(s) taken: Inserted `Watershed` between `Wary` and `Wheedle`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260228-000000.txt`).
+  - Outcome / verification: All 26 letter files OK; `W.md -> OK (9 words)`.
 - 2026-02-27
   - Reasoning summary: Added today’s unique word `Yare` to `Y.md` in strict alphabetical order.
   - Action(s) taken: Inserted `Yare` before `Yearn`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260227-000001.txt`).
@@ -28,10 +32,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
   - Reasoning summary: Added 3 new words (Platitude, Breviloquent, Lodestar).
   - Action(s) taken: Inserted in correct alphabetical positions; ran verification (`Logs/verify-20260224-152752.txt`).
   - Outcome / verification: All 26 files OK.
-- 2026-02-21
-  - Reasoning summary: Added `Numinous` to `N.md`.
-  - Action(s) taken: Updated vocabulary and index; ran verification (`Logs/verify-20260221-004314.txt`).
-  - Outcome / verification: `N.md OK (12 words)`.
 
 ## Notes
 
