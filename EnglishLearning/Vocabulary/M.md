@@ -79,6 +79,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Courage, determination, and energetic confidence; bold spirit.
 **Usage**: "She tackled the challenge with moxie." - A confident, determined attitude helps you push through difficulty.
 
+## Munificent
+
+**Meaning**: More generous than is usual or necessary; lavishly or splendidly generous.
+**Usage**: "A munificent mentor shares not only knowledge but time, energy, and encouragement without keeping score." - Highlights the kind of extraordinary generosity that elevates those around you.
+
 ## Mussitate
 
 **Meaning**: To speak softly under your breath; to murmur or mutter quietly.
