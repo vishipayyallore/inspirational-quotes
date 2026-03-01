@@ -9,6 +9,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Vade Mecum
+
+**Meaning**: A handbook or guide that is kept constantly at hand for ready reference; a practical manual or companion.
+**Usage**: "Make your list of values your vade mecum—carry it everywhere and consult it when decisions get hard." - Encourages using a personal reference of principles to stay grounded in challenging moments.
+
 ## Vary
 
 **Meaning**: To change or alter, to make different.

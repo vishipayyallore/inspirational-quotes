@@ -184,6 +184,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Having or showing the ability to speak fluently and coherently; clearly expressed.
 **Usage**: "She was articulate in expressing her concerns about the project." - Being able to communicate ideas clearly and effectively helps ensure understanding.
 
+## Ascribe
+
+**Meaning**: To attribute something (a quality, cause, or origin) to a particular source or person.
+**Usage**: "Ascribe your growth to your daily choices, not luck—owning your progress is what makes it repeatable." - Encourages taking ownership of improvement rather than leaving it to chance.
+
 ## Aspects
 
 **Meaning**: A particular part or feature of something.

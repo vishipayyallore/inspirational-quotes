@@ -4,7 +4,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 ## Available Letter Files
 
-- [A Vocabulary](./A.md) - Words like Adversary, Advocate, Adversity, Alpenglow, Aphorism, Apocope, Atiptoe
+- [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Alpenglow, Aphorism, Apocope, Ascribe, Atiptoe
 - [B Vocabulary](./B.md) - Words like Bliss, Brevity, Brumal, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
@@ -16,16 +16,16 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Latent, Liminal, Lionhearted, Loquacious, Lucid, Luminary, Luminous, Lumps, Lyricism
-- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Munificent, Mussitate, Mythomania
+- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
-- [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Opaque, Optimistic, Overwhelm
+- [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Odontoid, Opaque, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Plage, Preventive, Pivot, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie, Ruminate
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transcend, Transient, Triumph, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Understanding, Unique, Unlocking
-- [V Vocabulary](./V.md) - Words like Velleity, Vision, Vector, Vehement, Veracity
+- [V Vocabulary](./V.md) - Words like Vade Mecum, Velleity, Vision, Vector, Vehement, Veracity
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide

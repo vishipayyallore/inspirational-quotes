@@ -79,6 +79,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Courage, determination, and energetic confidence; bold spirit.
 **Usage**: "She tackled the challenge with moxie." - A confident, determined attitude helps you push through difficulty.
 
+## Mumpsimus
+
+**Meaning**: A traditional but incorrect interpretation or practice that someone insists on maintaining even after the error has been pointed out.
+**Usage**: "Let go of mumpsimus—when you discover a better way, choose it, even if the old way feels familiar." - Challenges clinging to outdated habits and encourages openness to correction.
+
 ## Munificent
 
 **Meaning**: More generous than is usual or necessary; lavishly or splendidly generous.

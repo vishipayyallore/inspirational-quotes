@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-01 11:01:03
+**Last verification**: 2026-03-01 11:03:40
 
 ## Standard Verification Command
 
@@ -29,9 +29,9 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
   - Action(s) taken: Inserted `Lyricism` after `Lunation`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260225-062642.txt`).
   - Outcome / verification: All 26 letter files OK; `L.md -> OK (12 words)`.
 - 2026-03-01
-  - Reasoning summary: Added today's unique word `Munificent` to `M.md` in strict alphabetical order.
-  - Action(s) taken: Inserted `Munificent` between `Moxie` and `Mussitate`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260301-000000.txt`).
-  - Outcome / verification: All 26 letter files OK; `M.md -> OK (17 words)`.
+  - Reasoning summary: Added 4 new words (`Vade Mecum`, `Ascribe`, `Mumpsimus`, `Odontoid`) to V.md, A.md, M.md, and O.md in strict alphabetical order.
+  - Action(s) taken: Inserted all 4 words; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260301-120000.txt`).
+  - Outcome / verification: All 26 letter files OK; A.md(44), M.md(18), O.md(12), V.md(15).
 
 ## Notes
 
