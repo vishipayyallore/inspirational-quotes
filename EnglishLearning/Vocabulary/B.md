@@ -114,6 +114,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Relating to the pleasant aspects of the countryside and rural life; pastoral.
 **Usage**: "The bucolic setting offered a peaceful retreat from city life." - Rural environments can provide tranquility and simplicity that contrasts with urban stress.
 
+## Buoyant
+
+**Meaning**: Able to remain afloat; cheerful, optimistic, and resilient even under pressure.
+**Usage**: "Stay buoyant in difficult times—those who keep an optimistic spirit tend to rise above challenges others sink beneath." - Uses the idea of floating to inspire resilience and a positive mindset.
+
 ## Burnout
 
 **Meaning**: Physical or mental collapse caused by overwork or stress.  
