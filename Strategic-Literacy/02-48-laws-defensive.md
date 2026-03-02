@@ -235,7 +235,25 @@ When someone shares privileged information or unexpected generosity, do I evalua
 
 ## 13. When Asking for Help, Appeal to Self-Interest
 
-Defensive Insight: Align proposals with stakeholder incentives, not goodwill. Frame technical needs in the language of ROI and risk mitigation.
+### 13.1. Core Principle (Personal Interpretation)
+
+Requests gain traction when they align with the incentives, priorities, or measurable outcomes of the decision-maker. Appeals based solely on goodwill or fairness are structurally weaker than those tied to tangible benefit.
+
+### 13.2. Defensive Insight
+
+Frame proposals in terms of stakeholder incentives rather than personal need.
+
+Translate technical requirements into the language of ROI, risk mitigation, performance improvement, or strategic advantage. Make the benefit to the other party explicit and measurable.
+
+When incentives are clear, resistance decreases. When incentives are vague, approval becomes discretionary.
+
+Alignment drives action more reliably than persuasion.
+
+### 13.3. Reflection Prompt
+
+When I request support, do I clearly articulate what the other party gains — or do I assume shared understanding?
+
+---
 
 ## 14. Pose as a Friend, Work as a Spy
 
