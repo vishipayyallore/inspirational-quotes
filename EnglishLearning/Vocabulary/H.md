@@ -29,6 +29,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: A pleasing combination of elements working together; agreement, accord, or peaceful coexistence.
 **Usage**: "When your actions align with your values, you create harmony in your life." - Living in accordance with your principles brings inner peace and balance.
 
+## Hogwash
+
+**Meaning**: Nonsense; something utterly absurd, worthless, or untrue.
+**Usage**: "The idea that you must be born talented to succeed is hogwash—consistent effort outweighs natural ability every time." - Dismisses limiting beliefs that discourage hard work and growth.
+
 ## Holistically
 
 **Meaning**: In a way that relates to the whole of something rather than just its parts.  

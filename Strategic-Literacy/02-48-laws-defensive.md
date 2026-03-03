@@ -257,11 +257,31 @@ When I request support, do I clearly articulate what the other party gains — o
 
 ## 14. Pose as a Friend, Work as a Spy
 
-Defensive Insight: Be cautious with oversharing—information may travel strategically. Treat internal communication as potentially permanent record.
+### 14.1. Core Principle (Personal Interpretation)
+
+Information gathering often occurs under the guise of informal rapport. Friendly interactions may function as intelligence channels in competitive or politically sensitive environments.
+
+### 14.2. Defensive Insight
+
+Exercise discretion in informal conversations.
+
+Oversharing in moments of comfort can create strategic exposure. Information shared casually may be relayed, reframed, or used in contexts beyond your control.
+
+Treat internal communication — verbal or written — as potentially permanent and redistributable. Maintain professional composure even in seemingly private exchanges.
+
+Trust should be built deliberately, not assumed through friendliness.
+
+### 14.3. Reflection Prompt
+
+In informal interactions, do I maintain professional boundaries — or do I disclose information I would not want broadly circulated?
+
+---
 
 ## 15. Crush Your Enemy Totally
 
 Defensive Insight: Avoid escalating conflicts into identity battles. If a technical dispute must be resolved, rely on undeniable data.
+
+---
 
 ## 16. Use Absence to Increase Respect and Honor
 
