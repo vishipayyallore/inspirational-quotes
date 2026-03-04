@@ -90,6 +90,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Spread throughout something; pervaded.
 **Usage**: "The influence of technology has pervaded every aspect of our lives." - Technology has infiltrated and affected all areas of life.
 
+## Petrichor
+
+**Meaning**: The pleasant, earthy scent produced when rain falls on dry soil.
+**Usage**: "Like the petrichor that follows a storm, new beginnings can emerge from the dry seasons of life." - Hardships often prepare the ground for fresh growth.
+
 ## Phenomenon
 
 **Meaning**: A fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.

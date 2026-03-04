@@ -279,13 +279,31 @@ In informal interactions, do I maintain professional boundaries — or do I disc
 
 ## 15. Crush Your Enemy Totally
 
-Defensive Insight: Avoid escalating conflicts into identity battles. If a technical dispute must be resolved, rely on undeniable data.
+### 15.1. Core Principle (Personal Interpretation)
+
+Unresolved conflicts tend to resurface. Partial victories or ambiguous outcomes can allow opposition to regroup, reinterpret events, or undermine progress later.
+
+### 15.2. Defensive Insight
+
+Avoid escalating disagreements into identity-based conflicts.
+
+When resolution is necessary, anchor decisions in objective criteria — data, documented agreements, measurable outcomes, or governance frameworks. Clear, evidence-based closure reduces the likelihood of recurring disputes.
+
+Do not pursue personal domination; pursue structural resolution.
+
+The objective is not to defeat individuals, but to eliminate ambiguity and prevent repeated destabilization.
+
+### 15.3. Reflection Prompt
+
+When resolving conflict, am I seeking personal validation — or durable structural closure?
 
 ---
 
 ## 16. Use Absence to Increase Respect and Honor
 
 Defensive Insight: Scarcity increases perceived value; avoid over-availability. Make your presence signal importance.
+
+---
 
 ## 17. Keep Others in Suspended Terror
 

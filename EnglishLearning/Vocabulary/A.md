@@ -104,6 +104,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Similar or related in nature.
 **Usage**: "Her interests are akin to mine." - We share similar interests or characteristics.
 
+## Aleatory
+
+**Meaning**: Depending on chance, luck, or an uncertain outcome; random.
+**Usage**: "Success is rarely purely aleatory; it is often the result of preparation meeting opportunity." - While luck plays a role, hard work positions you to benefit from it.
+
 ## Alleviate
 
 **Meaning**: To make something less severe or more bearable.

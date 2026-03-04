@@ -4,8 +4,8 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 ## Available Letter Files
 
-- [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Alpenglow, Aphorism, Apocope, Ascribe, Atiptoe
-- [B Vocabulary](./B.md) - Words like Bliss, Brevity, Brumal, Buoyant, Burnout
+- [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Aleatory, Alpenglow, Aphorism, Apocope, Ascribe, Atiptoe
+- [B Vocabulary](./B.md) - Words like Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Democratic, Demeanor, Devious, Discern
 - [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Erudite, Euphonious, Execution
@@ -20,7 +20,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Odontoid, Opaque, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Panglossian, Persistence, Perspective, Plage, Preventive, Pivot, Pulchritude
-- [Q Vocabulary](./Q.md) - Words like Quest, Quietude, Quotidian
+- [Q Vocabulary](./Q.md) - Words like Quest, Querulous, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie, Ruminate
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transcend, Transient, Triumph, Tutoyer

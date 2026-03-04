@@ -19,6 +19,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Meaning**: To suppress or put an end to something.
 **Usage**: "The leader's speech was meant to quell the fears of the citizens." - The speech aimed to calm and reassure the public.
 
+## Querulous
+
+**Meaning**: Complaining in a petulant or whining manner; habitually prone to grumbling.
+**Usage**: "A querulous attitude robs you of the energy needed to find solutions—choose curiosity over complaint." - Encourages replacing habitual grumbling with a problem-solving mindset.
+
 ## Quest
 
 **Meaning**: A long or arduous search for something.

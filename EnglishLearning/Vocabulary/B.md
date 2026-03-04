@@ -59,6 +59,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Perfect happiness; great joy.
 **Usage**: "Follow your bliss and the universe will open doors for you." - Pursuing your true passion leads to opportunities and fulfillment.
 
+## Bon Ton
+
+**Meaning**: Sophisticated manner, style, or good breeding; observing the proper social conventions.
+**Usage**: "True bon ton is not just about style, but treating others with genuine respect and grace." - Real sophistication comes from kindness and good character, not just appearance.
+
 ## Boscage
 
 **Meaning**: A mass of trees, shrubs, or foliage; a shady, wooded area.

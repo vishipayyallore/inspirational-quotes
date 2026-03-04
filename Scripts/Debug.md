@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-02 09:00:00
+**Last verification**: 2026-03-04 20:48:44
 
 ## Standard Verification Command
 
@@ -12,6 +12,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-04
+  - Reasoning summary: Added `Querulous` (Q.md) in strict alphabetical order between `Quell` and `Quest`.
+  - Action(s) taken: Inserted `Querulous` between `Quell` and `Quest`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260304-204843.txt`).
+  - Outcome / verification: All 26 letter files OK; `Q.md -> OK (10 words)`.
 - 2026-03-02
   - Reasoning summary: Added `Buoyant` (B.md) and `Hogwash` (H.md) in strict alphabetical order.
   - Action(s) taken: Inserted `Buoyant` between `Bucolic` and `Burnout`; inserted `Hogwash` between `Harmony` and `Holistically`; ran verification and saved output (`Logs/verify-20260302-*.txt`).
