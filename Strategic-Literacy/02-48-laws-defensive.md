@@ -309,25 +309,37 @@ Defensive Insight: Scarcity increases perceived value; avoid over-availability. 
 
 Defensive Insight: Unpredictability can be used as control—remain emotionally steady and logically consistent.
 
+---
+
 ## 18. Do Not Build Fortresses — Isolation Is Dangerous
 
 Defensive Insight: Political isolation increases vulnerability. Maintain cross-functional visibility.
+
+---
 
 ## 19. Know Who You’re Dealing With
 
 Defensive Insight: Misreading personality types can create irreversible damage. Adapt communication style to the audience.
 
+---
+
 ## 20. Do Not Commit to Anyone
 
 Defensive Insight: Maintain strategic neutrality in internal conflicts to survive structural shifts.
+
+---
 
 ## 21. Play a Sucker to Catch a Sucker
 
 Defensive Insight: Feigned incompetence may mask intent—assess carefully before underestimating others.
 
+---
+
 ## 22. Use the Surrender Tactic
 
 Defensive Insight: Tactical concession can preserve long-term positioning and political capital.
+
+---
 
 ## 23. Concentrate Your Forces
 
