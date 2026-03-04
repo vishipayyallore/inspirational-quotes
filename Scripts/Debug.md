@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-04 20:48:44
+**Last verification**: 2026-03-05 00:12:01
 
 ## Standard Verification Command
 
@@ -12,6 +12,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-05
+  - Reasoning summary: Added `Dexterity` (D.md) in strict alphabetical order between `Devious` and `Diaphanous`.
+  - Action(s) taken: Inserted `Dexterity` between `Devious` and `Diaphanous`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260305-001201.txt`).
+  - Outcome / verification: All 26 letter files OK; `D.md -> OK (21 words)`.
 - 2026-03-04
   - Reasoning summary: Added `Querulous` (Q.md) in strict alphabetical order between `Quell` and `Quest`.
   - Action(s) taken: Inserted `Querulous` between `Quell` and `Quest`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260304-204843.txt`).
