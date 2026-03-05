@@ -59,6 +59,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Showing a skillful use of underhanded tactics to achieve goals; not straightforward or honest.
 **Usage**: "A devious person may seem friendly but harbor hidden intentions." - Someone who uses dishonest or indirect methods to get what they want.
 
+## Dexterity
+
+**Meaning**: Skill and ease in using the hands or mind; adroitness in handling situations or performing tasks with precision and efficiency.
+**Usage**: "With the dexterity of a master craftsman, she navigated every obstacle and turned each setback into a stepping stone." - Highlights how combining physical and mental agility allows one to handle challenges gracefully.
+
 ## Diaphanous
 
 **Meaning**: Light, delicate, and translucent; so fine as to be almost transparent.

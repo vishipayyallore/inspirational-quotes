@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-04 20:48:44
+**Last verification**: 2026-03-05 00:12:01
 
 ## Standard Verification Command
 
@@ -12,34 +12,24 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-05
+  - Reasoning summary: Added `Dexterity` (D.md) in strict alphabetical order between `Devious` and `Diaphanous`.
+  - Action(s) taken: Inserted `Dexterity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260305-001201.txt`).
+  - Outcome / verification: All 26 letter files OK; `D.md -> OK (21 words)`.
 - 2026-03-04
   - Reasoning summary: Added `Querulous` (Q.md) in strict alphabetical order between `Quell` and `Quest`.
-  - Action(s) taken: Inserted `Querulous` between `Quell` and `Quest`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260304-204843.txt`).
+  - Action(s) taken: Inserted `Querulous`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260304-204843.txt`).
   - Outcome / verification: All 26 letter files OK; `Q.md -> OK (10 words)`.
 - 2026-03-02
   - Reasoning summary: Added `Buoyant` (B.md) and `Hogwash` (H.md) in strict alphabetical order.
-  - Action(s) taken: Inserted `Buoyant` between `Bucolic` and `Burnout`; inserted `Hogwash` between `Harmony` and `Holistically`; ran verification and saved output (`Logs/verify-20260302-*.txt`).
+  - Action(s) taken: Inserted both words; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260302-*.txt`).
   - Outcome / verification: All 26 letter files OK; `B.md -> OK`, `H.md -> OK`.
-- 2026-02-28
-  - Reasoning summary: Added today's unique word `Watershed` to `W.md` in strict alphabetical order.
-  - Action(s) taken: Inserted `Watershed` between `Wary` and `Wheedle`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260228-000000.txt`).
-  - Outcome / verification: All 26 letter files OK; `W.md -> OK (9 words)`.
-- 2026-02-27
-  - Reasoning summary: Added today’s unique word `Yare` to `Y.md` in strict alphabetical order.
-  - Action(s) taken: Inserted `Yare` before `Yearn`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260227-000001.txt`).
-  - Outcome / verification: All 26 letter files OK; `Y.md -> OK (7 words)`.
-- 2026-02-26
-  - Reasoning summary: Added today’s unique word `Xenodochy` to `X.md` in strict alphabetical order.
-  - Action(s) taken: Inserted `Xenodochy` between `Xenial` and `Xenophobia`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260226-092044.txt`).
-  - Outcome / verification: All 26 letter files OK; `X.md -> OK (3 words)`.
-- 2026-02-25
-  - Reasoning summary: Added today’s unique word `Lyricism` to `L.md` and preserved alphabetical order.
-  - Action(s) taken: Inserted `Lyricism` after `Lunation`; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260225-062642.txt`).
-  - Outcome / verification: All 26 letter files OK; `L.md -> OK (12 words)`.
 - 2026-03-01
-  - Reasoning summary: Added 4 new words (`Vade Mecum`, `Ascribe`, `Mumpsimus`, `Odontoid`) to V.md, A.md, M.md, and O.md in strict alphabetical order.
-  - Action(s) taken: Inserted all 4 words; updated `VocabularyDefinitions.md`; ran verification and saved output (`Logs/verify-20260301-120000.txt`).
+  - Reasoning summary: Added 4 words (`Vade Mecum`, `Ascribe`, `Mumpsimus`, `Odontoid`) in strict alphabetical order.
+  - Action(s) taken: Inserted all 4 words; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260301-120000.txt`).
   - Outcome / verification: All 26 letter files OK; A.md(44), M.md(18), O.md(12), V.md(15).
+- 2026-02-25 to 2026-02-28
+  - Added `Watershed` (W.md), `Yare` (Y.md), `Xenodochy` (X.md), `Lyricism` (L.md). All 26 files OK. See `Logs/` for details.
 
 ## Notes
 
