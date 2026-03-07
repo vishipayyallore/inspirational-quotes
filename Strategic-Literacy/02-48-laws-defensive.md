@@ -323,7 +323,23 @@ Does my current availability signal strategic importance — or routine accessib
 
 ## 17. Keep Others in Suspended Terror
 
-Defensive Insight: Unpredictability can be used as control—remain emotionally steady and logically consistent.
+### 17.1. Core Principle (Personal Interpretation)
+
+Unpredictability can create psychological leverage. When behavior patterns are inconsistent or difficult to anticipate, others may become cautious, defensive, or hesitant in their responses.
+
+### 17.2. Defensive Insight
+
+Recognize when unpredictability is being used as a control mechanism.
+
+Some individuals create tension through sudden reactions, inconsistent decisions, or emotional volatility. This can destabilize teams and discourage open dialogue.
+
+Maintain emotional steadiness and logical consistency in your own behavior. Predictability in your standards, communication, and decision-making builds trust and reduces vulnerability to psychological pressure.
+
+Stability is a strategic strength in uncertain environments.
+
+### 17.3. Reflection Prompt
+
+When confronted with unpredictable behavior, do I react emotionally — or maintain steady and principled responses?
 
 ---
 

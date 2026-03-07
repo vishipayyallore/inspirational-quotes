@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-05 00:12:01
+**Last verification**: 2026-03-07 21:24:22
 
 ## Standard Verification Command
 
@@ -12,6 +12,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-07
+  - Reasoning summary: Added `Ingenuity` (I.md) in strict alphabetical order between `Ingeminate` and `Ingest`.
+  - Action(s) taken: Inserted `Ingenuity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260307-212422.txt`).
+  - Outcome / verification: All 26 letter files OK; `I.md -> OK (26 words)`.
 - 2026-03-05
   - Reasoning summary: Added `Dexterity` (D.md) in strict alphabetical order between `Devious` and `Diaphanous`.
   - Action(s) taken: Inserted `Dexterity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260305-001201.txt`).
@@ -28,8 +32,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
   - Reasoning summary: Added 4 words (`Vade Mecum`, `Ascribe`, `Mumpsimus`, `Odontoid`) in strict alphabetical order.
   - Action(s) taken: Inserted all 4 words; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260301-120000.txt`).
   - Outcome / verification: All 26 letter files OK; A.md(44), M.md(18), O.md(12), V.md(15).
-- 2026-02-25 to 2026-02-28
-  - Added `Watershed` (W.md), `Yare` (Y.md), `Xenodochy` (X.md), `Lyricism` (L.md). All 26 files OK. See `Logs/` for details.
 
 ## Notes
 
