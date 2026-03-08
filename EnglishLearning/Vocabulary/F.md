@@ -44,6 +44,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To understand something deeply or completely.
 **Usage**: "She couldn't fathom the complexity of the puzzle." - Fully comprehend intricate ideas or problems.
 
+## Felicitate
+
+**Meaning**: To congratulate; to express joy or pleasure at the happiness or success of another.
+**Usage**: "The team gathered to felicitate their colleague on her well-deserved promotion." - Celebrating others' achievements strengthens bonds and builds a culture of encouragement.
+
 ## Felicity
 
 **Meaning**: Intense happiness; the ability to find appropriate expression for one's thoughts; a pleasing manner or style.

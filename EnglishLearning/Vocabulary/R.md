@@ -174,6 +174,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
 **Usage**: "Mastering rhetoric can enhance your communication skills." - Understanding persuasive language can improve how you convey ideas.
 
+## Rogue
+
+**Meaning**: A person or thing that behaves in an unpredictable, uncontrolled, or dishonest way; also used admiringly for someone who is boldly unconventional.
+**Usage**: "The rogue entrepreneur ignored conventional wisdom and built something entirely new." - Thinking and acting outside established norms can sometimes lead to remarkable breakthroughs.
+
 ## Ruminate
 
 **Meaning**: To think deeply and carefully about something; to reflect.
