@@ -69,6 +69,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: To repeat or say again; to reiterate or echo.
 **Usage**: "The speaker would ingeminate the key message throughout the presentation." - Repeating important points reinforces their significance and helps audiences remember them.
 
+## Ingenuity
+
+**Meaning**: The quality of being clever, original, and inventive; resourceful creativity in solving problems.
+**Usage**: "It is not the strongest of the species that survives, nor the most intelligent, but the one most adaptable — and it is ingenuity that drives that adaptability." - Highlights how creative problem-solving is often more powerful than raw strength or knowledge.
+
 ## Ingest
 
 **Meaning**: To take in something, especially food, drink, or information.
