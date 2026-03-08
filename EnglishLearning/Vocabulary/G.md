@@ -58,3 +58,8 @@ This file contains definitions and example usage for "G" words found in the insp
 
 **Meaning**: In a very obvious and unacceptable manner; extremely.
 **Usage**: "The project was grossly mismanaged, leading to significant delays." - This indicates that the mismanagement was severe and easily noticeable.
+
+## Gumption
+
+**Meaning**: Shrewd or spirited initiative and resourcefulness; practical common sense combined with courage and determination.
+**Usage**: "It takes real gumption to start over after failure, but those who do discover a stronger version of themselves." - Highlights the bold, resourceful spirit needed to rebuild after setbacks.
