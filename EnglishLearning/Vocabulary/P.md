@@ -115,6 +115,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A significant change in direction, strategy, or approach.
 **Usage**: "Career paths are rarely linear; embrace detours and pivots." - Be willing to change direction when necessary in your career.
 
+## Pizzetta
+
+**Meaning**: A small, individually sized pizza, often minimally topped and associated with Italian culinary tradition.
+**Usage**: "Like a pizzetta—simple, intentional, and perfectly crafted—your best work often comes from doing one thing really well." - Uses the idea of a small, focused creation as a metaphor for quality over quantity.
+
 ## Plage
 
 **Meaning**: A sandy beach, especially at a seaside resort; a bright region on the sun.
@@ -159,6 +164,11 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: Preconceived opinion that is not based on reason or actual experience.
 **Usage**: "Prejudice can cloud judgment and hinder understanding." - Bias against others can prevent meaningful connections and insights.
+
+## Prescind
+
+**Meaning**: To leave out of consideration; to detach or abstract (a quality or idea) from something.
+**Usage**: "To think clearly about the core issue, she had to prescind from personal feelings and focus on the facts." - Encourages separating emotion from analysis to reach a clearer judgment.
 
 ## Pretentious
 
