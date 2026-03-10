@@ -94,6 +94,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: To speak softly under your breath; to murmur or mutter quietly.
 **Usage**: "Instead of mussitating doubts to himself, he chose to write them down and turn each into a small, clear next step." - Connects quiet, uncertain thoughts with deliberate, constructive action.
 
+## Muzz
+
+**Meaning**: To make dull or confused; to study or work in a tedious, unfocused way without clear direction; also a noun meaning a state of mental haziness or confusion.
+**Usage**: "Don't let busyness muzz your thinking — seek clarity over constant motion." - Warns against letting unfocused activity cloud your judgment and direction.
+
 ## Mythomania
 
 **Meaning**: A tendency to lie habitually or compulsively; pathological lying.
