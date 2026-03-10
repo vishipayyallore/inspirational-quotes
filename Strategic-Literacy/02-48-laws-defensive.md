@@ -367,7 +367,23 @@ Am I maintaining diverse professional connections across the organization — or
 
 ## 19. Know Who You’re Dealing With
 
-Defensive Insight: Misreading personality types can create irreversible damage. Adapt communication style to the audience.
+### 19.1. Core Principle (Personal Interpretation)
+
+Different individuals operate with different motivations, sensitivities, and decision-making styles. Misreading personality traits, incentives, or emotional triggers can lead to unintended conflict or long-term damage to professional relationships.
+
+### 19.2. Defensive Insight
+
+Calibrate communication to the individual and context.
+
+Not all stakeholders respond to the same reasoning style. Some prioritize data and logic, others hierarchy, recognition, or risk avoidance. Misalignment between message and audience can escalate tensions unnecessarily.
+
+Observe behavioral patterns, decision preferences, and emotional thresholds before engaging in sensitive discussions.
+
+Strategic awareness of personality dynamics reduces friction and prevents avoidable mistakes.
+
+### 19.3. Reflection Prompt
+
+Before engaging in critical conversations, do I consider how the other person thinks and decides — or do I default to my own communication style?
 
 ---
 
