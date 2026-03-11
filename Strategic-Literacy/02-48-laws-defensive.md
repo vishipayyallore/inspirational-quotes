@@ -389,7 +389,23 @@ Before engaging in critical conversations, do I consider how the other person th
 
 ## 20. Do Not Commit to Anyone
 
-Defensive Insight: Maintain strategic neutrality in internal conflicts to survive structural shifts.
+### 20.1. Core Principle (Personal Interpretation)
+
+Over-commitment to a single individual, faction, or internal group can reduce flexibility and increase vulnerability if organizational dynamics shift.
+
+### 20.2. Defensive Insight
+
+Maintain strategic neutrality in internal conflicts.
+
+Organizations often contain competing priorities, personalities, and influence groups. Publicly aligning too strongly with one side can create long-term exposure if leadership structures or alliances change.
+
+Support ideas, outcomes, and organizational goals rather than personal factions. Preserve professional relationships across groups to maintain adaptability during structural shifts.
+
+Balanced positioning increases resilience in uncertain environments.
+
+### 20.3. Reflection Prompt
+
+In complex situations, do I anchor my position to individuals — or to principles and outcomes?
 
 ---
 
