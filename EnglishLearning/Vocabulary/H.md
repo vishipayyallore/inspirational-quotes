@@ -29,6 +29,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: A pleasing combination of elements working together; agreement, accord, or peaceful coexistence.
 **Usage**: "When your actions align with your values, you create harmony in your life." - Living in accordance with your principles brings inner peace and balance.
 
+## Hearten
+
+**Meaning**: To encourage, cheer, or give confidence to someone.
+**Usage**: "Even small signs of progress can hearten you to keep going when the work feels slow." - Shows how encouragement strengthens persistence during steady effort.
+
 ## Hogwash
 
 **Meaning**: Nonsense; something utterly absurd, worthless, or untrue.

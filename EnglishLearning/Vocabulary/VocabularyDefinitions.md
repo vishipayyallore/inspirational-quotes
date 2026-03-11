@@ -11,7 +11,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Erudite, Euphonious, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gumption
-- [H Vocabulary](./H.md) - Words like Hallucination
+- [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Humble
 - [I Vocabulary](./I.md) - Words like Inevitable, Ineffable, Ingenuity, Initiative, Integrity, Intrepid, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
