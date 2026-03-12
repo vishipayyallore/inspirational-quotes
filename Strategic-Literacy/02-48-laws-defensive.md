@@ -411,7 +411,23 @@ In complex situations, do I anchor my position to individuals — or to principl
 
 ## 21. Play a Sucker to Catch a Sucker
 
-Defensive Insight: Feigned incompetence may mask intent—assess carefully before underestimating others.
+### 21.1. Core Principle (Personal Interpretation)
+
+Perceived incompetence or naivety can sometimes be used strategically to lower others’ defenses. When someone appears less capable than they truly are, observers may underestimate their intentions or capabilities.
+
+### 21.2. Defensive Insight
+
+Avoid making quick judgments based on surface impressions.
+
+Individuals may deliberately project modesty, confusion, or lack of expertise to observe reactions, gather information, or reduce scrutiny. Underestimating others can lead to miscalculation in negotiations, discussions, or decision-making.
+
+Assess people based on consistent patterns of behavior, demonstrated outcomes, and long-term signals rather than initial appearances.
+
+Strategic humility and deliberate understatement are sometimes tools rather than limitations.
+
+### 21.3. Reflection Prompt
+
+When evaluating others, do I rely on observable patterns and results — or on first impressions of competence?
 
 ---
 
