@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-11 16:03:23
+**Last verification**: 2026-03-12 14:21:17
 
 ## Standard Verification Command
 
@@ -12,6 +12,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-12
+  - Reasoning summary: Added `Salutary` (S.md) in strict alphabetical order between `Salient` and `Sanguine`.
+  - Action(s) taken: Inserted `Salutary`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260312-142115.txt`).
+  - Outcome / verification: All 26 letter files OK; `S.md -> OK (49 words)`.
 - 2026-03-11
   - Reasoning summary: Added `Hearten` (H.md) in strict alphabetical order between `Harmony` and `Hogwash`.
   - Action(s) taken: Inserted `Hearten`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260311-160322.txt`).

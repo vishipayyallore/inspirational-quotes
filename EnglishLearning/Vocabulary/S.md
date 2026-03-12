@@ -24,6 +24,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Most noticeable or important.
 **Usage**: "The salient features of the landscape were highlighted in the painting." - The most prominent aspects were emphasized in the artwork.
 
+## Salutary
+
+**Meaning**: Producing good effects; beneficial or healthful, especially in encouraging improvement.
+**Usage**: "The setback proved salutary because it forced her to build stronger habits and a clearer plan." - Shows how a difficult experience can have a beneficial, improving effect.
+
 ## Sanguine
 
 **Meaning**: Optimistic or positive, especially in a difficult situation; cheerfully confident about the future.
