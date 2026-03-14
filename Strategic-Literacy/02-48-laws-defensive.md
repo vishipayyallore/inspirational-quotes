@@ -433,7 +433,23 @@ When evaluating others, do I rely on observable patterns and results — or on f
 
 ## 22. Use the Surrender Tactic
 
-Defensive Insight: Tactical concession can preserve long-term positioning and political capital.
+### 22.1. Core Principle (Personal Interpretation)
+
+In some situations, direct resistance can escalate conflict and weaken long-term positioning. Strategic concession may preserve resources, relationships, and future influence.
+
+### 22.2. Defensive Insight
+
+Recognize when tactical concession is more effective than confrontation.
+
+Not every disagreement requires immediate victory. Yielding on non-critical points can reduce tension, create space for reassessment, and preserve credibility for future decisions.
+
+A temporary step back may prevent escalation and allow structural advantages to emerge later.
+
+Strategic restraint can protect long-term positioning and conserve political capital.
+
+### 22.3. Reflection Prompt
+
+In moments of conflict, do I distinguish between issues that require firm defense and those where tactical concession may serve the larger objective?
 
 ---
 

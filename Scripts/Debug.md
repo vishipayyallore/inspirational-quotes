@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-12 14:21:17
+**Last verification**: 2026-03-14 18:54:56
 
 ## Standard Verification Command
 
@@ -12,6 +12,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-14
+  - Reasoning summary: Added `Eunoia` (E.md) in strict alphabetical order between `Eudaimonia` and `Euphonious`.
+  - Action(s) taken: Inserted `Eunoia`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260314-185453.txt`).
+  - Outcome / verification: All 26 letter files OK; `E.md -> OK (25 words)`.
 - 2026-03-12
   - Reasoning summary: Added `Salutary` (S.md) in strict alphabetical order between `Salient` and `Sanguine`.
   - Action(s) taken: Inserted `Salutary`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260312-142115.txt`).
@@ -36,11 +40,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
   - Reasoning summary: Added `Buoyant` (B.md) and `Hogwash` (H.md) in strict alphabetical order.
   - Action(s) taken: Inserted both words; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260302-*.txt`).
   - Outcome / verification: All 26 letter files OK; `B.md -> OK`, `H.md -> OK`.
-- 2026-03-01
-  - Reasoning summary: Added 4 words (`Vade Mecum`, `Ascribe`, `Mumpsimus`, `Odontoid`) in strict alphabetical order.
-  - Action(s) taken: Inserted all 4 words; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260301-120000.txt`).
-  - Outcome / verification: All 26 letter files OK; A.md(44), M.md(18), O.md(12), V.md(15).
-
 ## Notes
 
 - After editing any `EnglishLearning/Vocabulary/*.md` file, run the verification command and save output to `Logs/verify-<timestamp>.txt`.
