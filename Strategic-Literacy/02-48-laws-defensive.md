@@ -389,19 +389,67 @@ Before engaging in critical conversations, do I consider how the other person th
 
 ## 20. Do Not Commit to Anyone
 
-Defensive Insight: Maintain strategic neutrality in internal conflicts to survive structural shifts.
+### 20.1. Core Principle (Personal Interpretation)
+
+Over-commitment to a single individual, faction, or internal group can reduce flexibility and increase vulnerability if organizational dynamics shift.
+
+### 20.2. Defensive Insight
+
+Maintain strategic neutrality in internal conflicts.
+
+Organizations often contain competing priorities, personalities, and influence groups. Publicly aligning too strongly with one side can create long-term exposure if leadership structures or alliances change.
+
+Support ideas, outcomes, and organizational goals rather than personal factions. Preserve professional relationships across groups to maintain adaptability during structural shifts.
+
+Balanced positioning increases resilience in uncertain environments.
+
+### 20.3. Reflection Prompt
+
+In complex situations, do I anchor my position to individuals — or to principles and outcomes?
 
 ---
 
 ## 21. Play a Sucker to Catch a Sucker
 
-Defensive Insight: Feigned incompetence may mask intent—assess carefully before underestimating others.
+### 21.1. Core Principle (Personal Interpretation)
+
+Perceived incompetence or naivety can sometimes be used strategically to lower others’ defenses. When someone appears less capable than they truly are, observers may underestimate their intentions or capabilities.
+
+### 21.2. Defensive Insight
+
+Avoid making quick judgments based on surface impressions.
+
+Individuals may deliberately project modesty, confusion, or lack of expertise to observe reactions, gather information, or reduce scrutiny. Underestimating others can lead to miscalculation in negotiations, discussions, or decision-making.
+
+Assess people based on consistent patterns of behavior, demonstrated outcomes, and long-term signals rather than initial appearances.
+
+Strategic humility and deliberate understatement are sometimes tools rather than limitations.
+
+### 21.3. Reflection Prompt
+
+When evaluating others, do I rely on observable patterns and results — or on first impressions of competence?
 
 ---
 
 ## 22. Use the Surrender Tactic
 
-Defensive Insight: Tactical concession can preserve long-term positioning and political capital.
+### 22.1. Core Principle (Personal Interpretation)
+
+In some situations, direct resistance can escalate conflict and weaken long-term positioning. Strategic concession may preserve resources, relationships, and future influence.
+
+### 22.2. Defensive Insight
+
+Recognize when tactical concession is more effective than confrontation.
+
+Not every disagreement requires immediate victory. Yielding on non-critical points can reduce tension, create space for reassessment, and preserve credibility for future decisions.
+
+A temporary step back may prevent escalation and allow structural advantages to emerge later.
+
+Strategic restraint can protect long-term positioning and conserve political capital.
+
+### 22.3. Reflection Prompt
+
+In moments of conflict, do I distinguish between issues that require firm defense and those where tactical concession may serve the larger objective?
 
 ---
 

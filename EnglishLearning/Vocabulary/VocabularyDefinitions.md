@@ -8,10 +8,10 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [B Vocabulary](./B.md) - Words like Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Discern, Duplicity
-- [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Erudite, Euphonious, Execution
+- [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Erudite, Euphonious, Eunoia, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gumption
-- [H Vocabulary](./H.md) - Words like Hallucination
+- [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Humble
 - [I Vocabulary](./I.md) - Words like Inevitable, Ineffable, Ingenuity, Initiative, Integrity, Intrepid, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Jovial
 - [K Vocabulary](./K.md) - Words like Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
@@ -23,6 +23,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [Q Vocabulary](./Q.md) - Words like Quest, Querulous, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Radiance, Reciprocate, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie, Ruminate
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler
+- [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sublime
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Tangible, Threshold, Transcend, Transient, Triumph, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Understanding, Unique, Unlocking
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Velleity, Vernal, Vision, Vector, Vehement, Veracity
