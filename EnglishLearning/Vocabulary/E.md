@@ -110,6 +110,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: A state of human flourishing and well-being achieved through living with virtue and purpose.
 **Usage**: "Lasting success feels like eudaimonia when your goals align with your values." - Highlights fulfillment that comes from meaningful, principled living.
 
+## Eunoia
+
+**Meaning**: Beautiful thinking; a state of balanced, well-ordered, and positive mental reflection.
+**Usage**: "Start the day with eunoia, and your choices will follow the shape of your best thoughts." - Emphasizes how healthy, intentional thinking can guide actions and attitude.
+
 ## Euphonious
 
 **Meaning**: Pleasant to hear; having a smooth, musical sound.
