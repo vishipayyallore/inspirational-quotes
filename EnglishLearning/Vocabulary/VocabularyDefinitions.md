@@ -6,14 +6,14 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 - [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Aleatory, Alpenglow, Aphorism, Apocope, Ascribe, Atiptoe
 - [B Vocabulary](./B.md) - Words like Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
-- [C Vocabulary](./C.md) - Words like Caesura, Charm, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
+- [C Vocabulary](./C.md) - Words like Caesura, Candor, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Discern, Duplicity
-- [E Vocabulary](./E.md) - Words like Elevate, Elucidate, Enkindle, Erudite, Euphonious, Eunoia, Execution
+- [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Humble
-- [I Vocabulary](./I.md) - Words like Inevitable, Ineffable, Ingenuity, Initiative, Integrity, Intrepid, Irreplaceable
-- [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Jovial
+- [I Vocabulary](./I.md) - Words like Ineffable, Ingenuity, Inhere, Ingest, Integrity, Intrepid, Irreplaceable
+- [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Juvenescent, Jovial
 - [K Vocabulary](./K.md) - Words like Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Luminary, Luminous, Lyricism
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania

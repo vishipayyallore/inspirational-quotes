@@ -19,6 +19,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Shining brightly; radiant and brilliantly glowing.
 **Usage**: "Let your efforts become effulgent—consistent small wins eventually blaze with undeniable light." - Encourages persistence, showing that steady work will shine brilliantly over time.
 
+## Eidolon
+
+**Meaning**: An idealized image, phantom, or specter; a vivid mental representation of something absent or imagined.
+**Usage**: "Do not chase an eidolon of perfection; build something real, useful, and honest instead." - Warns against pursuing an unrealistic ideal when steady action produces meaningful progress.
+
 ## Elevate
 
 **Meaning**: To raise or lift something to a higher position.
