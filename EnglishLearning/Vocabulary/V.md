@@ -59,6 +59,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Of, relating to, or occurring in spring; fresh, youthful, and full of promise.
 **Usage**: "Embrace the vernal spirit of renewal—each spring is nature's reminder that growth follows even the coldest season." - Connects the natural cycle of spring with personal beginnings and possibility.
 
+## Verve
+
+**Meaning**: Vigorous energy, enthusiasm, and liveliness of expression or performance.
+**Usage**: "Bring verve to ordinary practice, and even small daily efforts can become memorable acts of growth." - Shows how energy and spirited effort can transform routine work into meaningful progress.
+
 ## Virtues
 
 **Meaning**: Behavior showing high moral standards.
