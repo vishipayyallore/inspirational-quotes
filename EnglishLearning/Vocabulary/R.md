@@ -29,6 +29,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Speaking or writing at length in a confused or inconsequential way.
 **Usage**: "His rambling speech lost the audience's attention." - Clear and concise communication is often more effective than lengthy digressions.
 
+## Raconteur
+
+**Meaning**: A person who tells stories skillfully and engagingly.
+**Usage**: "Be a raconteur of your own progress, noticing and sharing the small victories that keep your motivation alive." - Framing growth as a meaningful story can make perseverance feel more personal and memorable.
+
 ## Ranted
 
 **Meaning**: To speak or shout in a wild, passionate, or angry way.
