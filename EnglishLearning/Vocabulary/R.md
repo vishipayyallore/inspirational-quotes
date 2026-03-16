@@ -9,6 +9,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Raconteur
+
+**Meaning**: A person who tells stories skillfully and engagingly.
+**Usage**: "Be a raconteur of your own progress, noticing and sharing the small victories that keep your motivation alive." - Framing growth as a meaningful story can make perseverance feel more personal and memorable.
+
 ## Radiance
 
 **Meaning**: Brightness or light that seems to shine outward; a glowing quality.
@@ -28,11 +33,6 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: Speaking or writing at length in a confused or inconsequential way.
 **Usage**: "His rambling speech lost the audience's attention." - Clear and concise communication is often more effective than lengthy digressions.
-
-## Raconteur
-
-**Meaning**: A person who tells stories skillfully and engagingly.
-**Usage**: "Be a raconteur of your own progress, noticing and sharing the small victories that keep your motivation alive." - Framing growth as a meaningful story can make perseverance feel more personal and memorable.
 
 ## Ranted
 
@@ -188,5 +188,6 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: To think deeply and carefully about something; to reflect.
 **Usage**: "When you ruminate on your goals, you see the next small step more clearly." - Deep reflection can turn vague hopes into practical actions.
-
  
+
+

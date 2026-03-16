@@ -104,6 +104,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A great victory or achievement.
 **Usage**: "Courage is not the absence of fear, but the triumph over it." - Bravery isn't being fearless; it's acting despite your fears.
 
+## Triumvirate
+
+**Meaning**: A group of three people holding power or working together in a shared role.
+**Usage**: "A triumvirate of patience, discipline, and hope can steady you through almost any season of growth." - Shows how three strong qualities can reinforce one another in difficult moments.
+
 ## Trivial
 
 **Meaning**: Of little value or importance.
