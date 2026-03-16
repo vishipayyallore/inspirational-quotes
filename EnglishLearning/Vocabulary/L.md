@@ -14,6 +14,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Using very few words; brief and direct.
 **Usage**: "His laconic reply ended the argument without drama." - Shows a concise, no-nonsense way of speaking.
 
+## Largesse
+
+**Meaning**: Generous giving of money, kindness, or other benefits; liberality in bestowing gifts or help.
+**Usage**: "Practice largesse with your time and encouragement, and you will leave people stronger than you found them." - Emphasizes generosity as a deliberate habit that uplifts others.
+
 ## Latent
 
 **Meaning**: Existing but not yet developed or manifest; hidden or concealed.

@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-14 18:54:56
+**Last verification**: 2026-03-15 16:57:48
 
 ## Standard Verification Command
 
@@ -12,6 +12,14 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-15
+  - Reasoning summary: Added missing requested words `Candor` (C), `Eidolon` (E), `Inhere` (I), and `Juvenescent` (J) in strict alphabetical order; `Effulgent` and `Odontoid` already existed and were left unchanged.
+  - Action(s) taken: Inserted the four missing words; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260315-165747.txt`).
+  - Outcome / verification: All 26 letter files OK; `C.md -> OK (47 words)`, `E.md -> OK (26 words)`, `I.md -> OK (27 words)`, `J.md -> OK (10 words)`.
+- 2026-03-15
+  - Reasoning summary: Added `Largesse` (L.md) in strict alphabetical order between `Laconic` and `Latent`.
+  - Action(s) taken: Inserted `Largesse`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260315-000732.txt`).
+  - Outcome / verification: All 26 letter files OK; `L.md -> OK (13 words)`.
 - 2026-03-14
   - Reasoning summary: Added `Eunoia` (E.md) in strict alphabetical order between `Eudaimonia` and `Euphonious`.
   - Action(s) taken: Inserted `Eunoia`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260314-185453.txt`).
@@ -40,6 +48,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
   - Reasoning summary: Added `Buoyant` (B.md) and `Hogwash` (H.md) in strict alphabetical order.
   - Action(s) taken: Inserted both words; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260302-*.txt`).
   - Outcome / verification: All 26 letter files OK; `B.md -> OK`, `H.md -> OK`.
+
 ## Notes
 
 - After editing any `EnglishLearning/Vocabulary/*.md` file, run the verification command and save output to `Logs/verify-<timestamp>.txt`.

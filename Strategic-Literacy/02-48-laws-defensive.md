@@ -455,7 +455,23 @@ In moments of conflict, do I distinguish between issues that require firm defens
 
 ## 23. Concentrate Your Forces
 
-Defensive Insight: Influence dilutes when attention is scattered. Deep specialization builds leverage.
+### 23.1. Core Principle (Personal Interpretation)
+
+Impact increases when effort and resources are focused rather than dispersed. Concentration enables depth, clarity, and stronger results compared to fragmented attention.
+
+### 23.2. Defensive Insight
+
+Avoid spreading effort across too many priorities.
+
+When attention is scattered across numerous initiatives, influence and effectiveness weaken. Deep specialization and focused execution build credibility, expertise, and strategic leverage.
+
+Identify high-impact domains where your contribution creates the greatest value. Concentrating effort in these areas strengthens both outcomes and professional positioning.
+
+Focused energy produces compounding results.
+
+### 23.3. Reflection Prompt
+
+Am I concentrating my effort on high-impact areas — or diffusing my attention across too many priorities?
 
 ---
 

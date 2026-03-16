@@ -24,6 +24,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: A small songbird, often kept as a pet; used metaphorically to refer to a warning signal.  
 **Usage**: "The canary in the coal mine is a metaphor for early warning signs." - Just as canaries were used to detect toxic gases, this phrase refers to indicators of potential danger.
 
+## Candor
+
+**Meaning**: The quality of being open, honest, and straightforward in expression or conduct.
+**Usage**: "Candor builds trust faster than polish ever can, because people remember the courage it takes to speak plainly." - Highlights how honest communication creates credibility and stronger relationships.
+
 ## Cater
 
 **Meaning**: To provide food and drink, typically at social events; to supply what is needed or required.  
