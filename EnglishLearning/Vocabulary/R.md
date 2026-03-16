@@ -93,15 +93,6 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: To make (someone or something) look or feel younger, fresher, or more lively.
 **Usage**: "Taking a break can rejuvenate your mind and body." - Resting can restore your energy and enthusiasm.
-
-## Relentless
-
-**Meaning**: Oppressively constant; incessant.
-**Usage**: "Her relentless pursuit of excellence is inspiring." - An unyielding commitment to improvement can motivate others.
-
-## Relinquish
-
-**Meaning**: To voluntarily cease to keep or claim; give up.
 **Usage**: "Sometimes you must relinquish control to find peace." - Letting go can lead to greater tranquility and acceptance.
 
 ## Repercussions
@@ -188,6 +179,4 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: To think deeply and carefully about something; to reflect.
 **Usage**: "When you ruminate on your goals, you see the next small step more clearly." - Deep reflection can turn vague hopes into practical actions.
- 
-
 
