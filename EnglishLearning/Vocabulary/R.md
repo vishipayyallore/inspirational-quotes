@@ -179,4 +179,3 @@ This file contains definitions and example usage for "R" words found in the insp
 
 **Meaning**: To think deeply and carefully about something; to reflect.
 **Usage**: "When you ruminate on your goals, you see the next small step more clearly." - Deep reflection can turn vague hopes into practical actions.
-
