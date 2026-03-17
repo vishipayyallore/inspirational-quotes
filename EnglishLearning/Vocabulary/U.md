@@ -24,6 +24,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Causing or feeling slight pain or physical discomfort; feeling uneasy or awkward.
 **Usage**: "If you're not uncomfortable, you're not growing." - Growth requires stepping outside your comfort zone and experiencing discomfort.
 
+## Undaunted
+
+**Meaning**: Not intimidated or discouraged by difficulty, danger, or disappointment; persisting with courage and determination.
+**Usage**: "Undaunted by failure, she returned to the work the very next morning." - Highlights how resilience means persisting without letting setbacks diminish your resolve.
+
 ## Underestimating
 
 **Meaning**: To estimate something as being smaller or less important than it actually is.
