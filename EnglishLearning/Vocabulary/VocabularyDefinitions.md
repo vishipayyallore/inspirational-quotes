@@ -23,7 +23,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [Q Vocabulary](./Q.md) - Words like Quest, Querulous, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler
-- [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sublime
+- [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Threshold, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Understanding, Unique, Unexamined
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Velleity, Veracity, Vernal, Verve, Vision, Vehement
