@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-16 12:41:00
+**Last verification**: 2026-03-17 11:43:31
 
 ## Standard Verification Command
 
@@ -11,6 +11,11 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-03-17
+  - Reasoning summary: Added `Undaunted` (U.md) and `Sub Rosa` (S.md) in strict alphabetical order.
+  - Action(s) taken: Inserted both words; updated `VocabularyDefinitions.md`; saved logs (`Logs/verify-20260317-114200.txt`, `Logs/verify-20260317-114330.txt`).
+  - Outcome / verification: All 26 letter files OK; `U.md -> OK (16 words)`, `S.md -> OK (50 words)`.
 
 - 2026-03-16
   - Reasoning summary: Added `Raconteur` (R.md) and `Triumvirate` (T.md) in strict alphabetical order and corrected the temporary R ordering issue before final verification.
