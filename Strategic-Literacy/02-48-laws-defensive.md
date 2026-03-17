@@ -477,7 +477,23 @@ Am I concentrating my effort on high-impact areas — or diffusing my attention 
 
 ## 24. Play the Perfect Courtier
 
-Defensive Insight: Social intelligence often outweighs technical brilliance in leadership environments.
+### 24.1. Core Principle (Personal Interpretation)
+
+Influence in hierarchical environments often depends not only on competence but also on social intelligence, diplomacy, and awareness of organizational dynamics.
+
+### 24.2. Defensive Insight
+
+Recognize that technical excellence alone does not determine influence in leadership environments.
+
+Success in complex organizations often requires situational awareness, respectful communication, and sensitivity to hierarchy and context. Individuals who understand these dynamics can navigate decision processes more effectively.
+
+Maintain professionalism, observe institutional norms, and adapt communication style to the expectations of the environment.
+
+Social intelligence complements technical capability and strengthens long-term credibility.
+
+### 24.3. Reflection Prompt
+
+Am I relying solely on technical expertise — or am I also cultivating the social awareness needed to operate effectively within the organization?
 
 ---
 
