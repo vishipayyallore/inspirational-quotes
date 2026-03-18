@@ -5,7 +5,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 ## Available Letter Files
 
 - [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Aleatory, Alpenglow, Aphorism, Apocope, Ascribe, Atiptoe
-- [B Vocabulary](./B.md) - Words like Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
+- [B Vocabulary](./B.md) - Words like Beatific, Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Discern, Duplicity
 - [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution
