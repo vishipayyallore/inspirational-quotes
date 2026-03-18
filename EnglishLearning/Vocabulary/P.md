@@ -39,6 +39,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A person who gives financial or other support to a person, organization, or cause.
 **Usage**: "Every artist needs a patron to support their work." - Financial backing is often crucial for creative individuals to thrive.
 
+## Pellucid
+
+**Meaning**: Translucently clear; easily understood; expressed with admirable clarity.
+**Usage**: "Her pellucid explanation of the complex topic made everyone in the room feel capable of understanding it." - Shows how clarity of communication can empower and include others.
+
 ## Permeated
 
 **Meaning**: Spread throughout something; pervaded.
