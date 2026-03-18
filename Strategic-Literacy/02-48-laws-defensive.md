@@ -521,7 +521,23 @@ Am I actively evolving my capabilities and professional identity — or relying 
 
 ## 26. Keep Your Hands Clean
 
-Defensive Insight: Decision distance protects reputation during fallout. Anchor high-risk decisions in consensus or data.
+### 26.1. Core Principle (Personal Interpretation)
+
+In complex organizations, outcomes are not always controllable. When initiatives fail or controversial decisions are made, visible association with negative outcomes can damage reputation.
+
+### 26.2. Defensive Insight
+
+Protect reputation by ensuring transparency and shared accountability in high-risk decisions.
+
+Avoid becoming the sole visible owner of decisions that involve significant uncertainty or organizational impact. Anchor major decisions in documented analysis, stakeholder input, and collective agreement.
+
+Data, governance processes, and consensus help ensure that responsibility is distributed appropriately.
+
+The objective is not to avoid responsibility, but to ensure that decisions are grounded in structured evaluation rather than personal exposure.
+
+### 26.3. Reflection Prompt
+
+When making high-impact decisions, do I ensure they are supported by documented reasoning and shared accountability — or am I absorbing disproportionate exposure?
 
 ---
 
