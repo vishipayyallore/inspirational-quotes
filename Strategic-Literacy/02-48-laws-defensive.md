@@ -543,7 +543,23 @@ When making high-impact decisions, do I ensure they are supported by documented 
 
 ## 27. Play on People’s Need to Believe
 
-Defensive Insight: Charismatic narratives may conceal operational weakness—validate substance before commitment.
+### 27.1. Core Principle (Personal Interpretation)
+
+People are often drawn to compelling narratives, strong conviction, and clear promises — especially in uncertain or complex environments. Belief can be influenced more by narrative coherence than by underlying substance.
+
+### 27.2. Defensive Insight
+
+Evaluate substance beyond narrative appeal.
+
+Charismatic communication, confident assertions, or visionary framing may create strong initial alignment but can mask gaps in execution, feasibility, or evidence. Do not substitute conviction for validation.
+
+Before committing, examine underlying assumptions, data support, execution capability, and track record.
+
+Clarity of narrative should be matched by depth of substance.
+
+### 27.3. Reflection Prompt
+
+When presented with a compelling idea or leader, do I validate the underlying substance — or rely on the strength of the narrative?
 
 ---
 

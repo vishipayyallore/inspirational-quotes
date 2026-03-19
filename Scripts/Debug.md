@@ -44,6 +44,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
   - Reasoning summary: Added `Largesse` (L.md) in strict alphabetical order between `Laconic` and `Latent`.
   - Action(s) taken: Inserted `Largesse`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260315-000732.txt`).
   - Outcome / verification: All 26 letter files OK; `L.md -> OK (13 words)`.
+
 ## Notes
 
 - After editing any `EnglishLearning/Vocabulary/*.md` file, run the verification command and save output to `Logs/verify-<timestamp>.txt`.
