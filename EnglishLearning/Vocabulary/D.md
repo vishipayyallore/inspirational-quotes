@@ -64,6 +64,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Skill and ease in using the hands or mind; adroitness in handling situations or performing tasks with precision and efficiency.
 **Usage**: "With the dexterity of a master craftsman, she navigated every obstacle and turned each setback into a stepping stone." - Highlights how combining physical and mental agility allows one to handle challenges gracefully.
 
+## Diagnosis
+
+**Meaning**: The identification of the nature or cause of a problem, condition, or situation after examination or analysis.
+**Usage**: "An honest diagnosis of your habits is the first step toward real improvement." - Emphasizes that progress begins with clearly understanding what needs attention.
+
 ## Diaphanous
 
 **Meaning**: Light, delicate, and translucent; so fine as to be almost transparent.
