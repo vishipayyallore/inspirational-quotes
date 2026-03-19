@@ -29,6 +29,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A light or fire on a hill or tower serving as a signal or warning; a source of guidance or inspiration.
 **Usage**: "Her wisdom served as a beacon during difficult times." - Someone who provides direction and hope can inspire others to find their way.
 
+## Beatific
+
+**Meaning**: Feeling or expressing blissful happiness; having a saintly or peaceful radiance.
+**Usage**: "A beatific smile crossed her face as she held her newborn for the first time." - Describes the pure, glowing joy that comes from moments of profound peace or love.
+
 ## Benevolence
 
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
