@@ -7,11 +7,11 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Aleatory, Alpenglow, Aphorism, Apocope, Ascribe, Atiptoe
 - [B Vocabulary](./B.md) - Words like Beatific, Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
-- [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Discern, Duplicity
+- [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Duplicity
 - [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gumption
-- [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Humble
+- [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Humble
 - [I Vocabulary](./I.md) - Words like Ineffable, Ingenuity, Inhere, Ingest, Integrity, Intrepid, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Juvenescent, Jovial
 - [K Vocabulary](./K.md) - Words like Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
@@ -19,7 +19,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Odontoid, Opaque, Optimistic, Overwhelm
-- [P Vocabulary](./P.md) - Words like Panglossian, Pellucid, Persistence, Perspective, Plage, Preventive, Pivot, Pulchritude
+- [P Vocabulary](./P.md) - Words like Panglossian, Pellucid, Pericope, Persistence, Perspective, Pivot, Preventive, Prognosis, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Quest, Querulous, Quietude, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler

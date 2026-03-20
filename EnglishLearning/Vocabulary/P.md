@@ -44,6 +44,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Translucently clear; easily understood; expressed with admirable clarity.
 **Usage**: "Her pellucid explanation of the complex topic made everyone in the room feel capable of understanding it." - Shows how clarity of communication can empower and include others.
 
+## Pericope
+
+**Meaning**: A short passage or section taken from a longer text, especially one studied as a distinct unit.
+**Usage**: "He returned to a single pericope each morning, proving that a small passage can yield deep wisdom when read with care." - Shows how focused attention on one section of text can deepen understanding.
+
 ## Permeated
 
 **Meaning**: Spread throughout something; pervaded.
@@ -209,6 +214,11 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: Creating or controlling a situation rather than just responding to it after it has happened.
 **Usage**: "Be proactive, not reactive." - Take initiative and act before problems arise, rather than just responding to them.
+
+## Prognosis
+
+**Meaning**: A forecast or prediction about the likely outcome of a situation, especially after careful evaluation.
+**Usage**: "With disciplined effort and patience, the prognosis for your long-term growth is strong." - Uses the word to express a hopeful prediction based on evidence and steady action.
 
 ## Proliferation
 

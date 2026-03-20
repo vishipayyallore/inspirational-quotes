@@ -34,6 +34,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: To encourage, cheer, or give confidence to someone.
 **Usage**: "Even small signs of progress can hearten you to keep going when the work feels slow." - Shows how encouragement strengthens persistence during steady effort.
 
+## Hiraeth
+
+**Meaning**: A deep longing for home, belonging, or a place and time that may no longer exist or may never have fully existed.
+**Usage**: "In moments of hiraeth, let memory guide you toward what matters most rather than trap you in what cannot return." - Frames longing as a source of clarity about values, not just sadness.
+
 ## Hogwash
 
 **Meaning**: Nonsense; something utterly absurd, worthless, or untrue.
