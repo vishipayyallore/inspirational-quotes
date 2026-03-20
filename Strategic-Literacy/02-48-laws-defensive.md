@@ -565,7 +565,23 @@ When presented with a compelling idea or leader, do I validate the underlying su
 
 ## 28. Enter Action with Boldness
 
-Defensive Insight: Hesitation signals vulnerability; speak with data-backed authority.
+### 28.1. Core Principle (Personal Interpretation)
+
+Decisive action influences perception. Confidence in execution often shapes how ideas are received, while hesitation can reduce perceived credibility even when the underlying idea is sound.
+
+### 28.2. Defensive Insight
+
+Avoid signaling uncertainty through unstructured hesitation.
+
+When presenting ideas or making decisions, communicate with clarity, conviction, and preparation. Anchor assertions in data, reasoning, and evidence to project credible authority.
+
+Hesitation, excessive qualification, or fragmented communication can be interpreted as lack of confidence or weak positioning.
+
+Boldness does not mean impulsiveness — it means prepared, data-backed decisiveness.
+
+### 28.3. Reflection Prompt
+
+When acting or presenting, do I communicate with prepared confidence — or do I unintentionally signal uncertainty through hesitation?
 
 ---
 
