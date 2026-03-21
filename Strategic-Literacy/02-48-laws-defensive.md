@@ -587,7 +587,23 @@ When acting or presenting, do I communicate with prepared confidence — or do I
 
 ## 29. Plan All the Way to the End
 
-Defensive Insight: Anticipate downstream political and operational implications before execution.
+### 29.1. Core Principle (Personal Interpretation)
+
+Outcomes are shaped not only by initial execution but by downstream consequences. Incomplete planning can expose hidden risks, dependencies, and unintended effects.
+
+### 29.2. Defensive Insight
+
+Anticipate second- and third-order implications before execution.
+
+Consider operational dependencies, stakeholder reactions, failure modes, and long-term impact. Plans that optimize for immediate success but ignore downstream effects can create reputational or structural risk.
+
+Incorporate scenario analysis, risk assessment, and rollback strategies into planning.
+
+Thorough foresight reduces surprises and strengthens execution confidence.
+
+### 29.3. Reflection Prompt
+
+Before executing, have I considered the downstream consequences and potential failure scenarios — or am I focused only on immediate outcomes?
 
 ---
 
