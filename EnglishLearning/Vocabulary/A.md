@@ -159,6 +159,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: A short, memorable saying that expresses a general truth or wise observation.
 **Usage**: "He kept an aphorism on his desk: 'Small steps, taken daily, become big change.'" - A concise saying can guide habits and mindset.
 
+## Aplomb
+
+**Meaning**: Self-confidence or assurance, especially when facing a demanding situation.
+**Usage**: "She answered the unexpected question with aplomb, turning pressure into proof of preparation." - Highlights calm confidence under scrutiny or stress.
+
 ## Apocope
 
 **Meaning**: The shortening of a word by dropping one or more sounds (usually at the end), especially in informal speech.
