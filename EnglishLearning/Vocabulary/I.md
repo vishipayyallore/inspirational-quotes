@@ -39,6 +39,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Encouraging or stirring up (an action or feeling).
 **Usage**: "Inciting violence is a serious offense." - Provoking harmful actions can lead to severe consequences.
 
+## Incommunicado
+
+**Meaning**: Without the means or permission to communicate with others; isolated from contact.
+**Usage**: "He worked incommunicado for an hour each morning, protecting a quiet stretch of time where his best thinking could emerge." - Highlights deliberate isolation as a way to preserve focus and depth.
+
 ## Indignation
 
 **Meaning**: Anger or annoyance provoked by what is perceived as unfair treatment.
