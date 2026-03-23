@@ -8,7 +8,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [B Vocabulary](./B.md) - Words like Beatific, Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Duplicity
-- [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution
+- [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution, Expiscate
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Floriferous, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Humble
