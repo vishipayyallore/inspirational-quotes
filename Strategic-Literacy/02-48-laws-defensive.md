@@ -631,7 +631,23 @@ When presenting my work, do I emphasize clarity and impact — or do I overexpos
 
 ## 31. Control the Options
 
-Defensive Insight: Framing choices shapes outcomes. Present structured alternatives with a clearly justified recommendation.
+### 31.1. Core Principle (Personal Interpretation)
+
+Decisions are influenced by how choices are presented. The framing of options can guide outcomes by shaping perception, comparison, and evaluation criteria.
+
+### 31.2. Defensive Insight
+
+Be aware of how options are framed — by you and by others.
+
+When presenting proposals, structure alternatives clearly and include a well-reasoned recommendation aligned with desired outcomes. Well-framed choices simplify decision-making and reduce ambiguity.
+
+Conversely, recognize when options are being constrained or biased by others to steer decisions. Evaluate whether all relevant alternatives have been considered.
+
+Framing influences outcomes more than open-ended discussion.
+
+### 31.3. Reflection Prompt
+
+When making or evaluating decisions, do I critically assess how options are framed — or do I accept the presented choices at face value?
 
 ---
 
