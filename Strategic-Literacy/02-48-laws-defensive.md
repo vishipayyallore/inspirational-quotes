@@ -609,7 +609,23 @@ Before executing, have I considered the downstream consequences and potential fa
 
 ## 30. Make Accomplishments Seem Effortless
 
-Defensive Insight: Calm delivery enhances perceived mastery.
+### 30.1. Core Principle (Personal Interpretation)
+
+Perceived mastery is often associated with ease of execution. When outcomes are delivered with clarity and composure, they are interpreted as signs of competence and control.
+
+### 30.2. Defensive Insight
+
+Manage the presentation of your work, not just the work itself.
+
+Overemphasizing effort, struggle, or complexity can reduce perceived effectiveness, even when the outcome is strong. Calm, structured delivery reinforces credibility and confidence.
+
+Communicate results with clarity and composure. Highlight impact without exposing unnecessary operational friction.
+
+The objective is not to conceal effort, but to present outcomes in a way that reflects control and capability.
+
+### 30.3. Reflection Prompt
+
+When presenting my work, do I emphasize clarity and impact — or do I overexpose effort and complexity?
 
 ---
 

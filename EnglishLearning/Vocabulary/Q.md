@@ -29,6 +29,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Meaning**: A long or arduous search for something.
 **Usage**: "The quest for knowledge is never-ending." - The pursuit of understanding and learning is a lifelong journey.
 
+## Quiescent
+
+**Meaning**: In a state of rest, inactivity, or stillness; temporarily dormant.
+**Usage**: "Even when progress looks quiescent, disciplined effort is often gathering strength beneath the surface." - Growth can continue quietly before it becomes visible.
+
 ## Quietude
 
 **Meaning**: A state of stillness, calmness, and quiet in a person or place.
