@@ -30,7 +30,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Winsome, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
-- [Z Vocabulary](./Z.md) - Words like Zeal, Zeitgeist, Zephyr
+- [Z Vocabulary](./Z.md) - Words like Zeal, Zeitgeist, Zenith, Zephyr, Zoetic
 
 ## How to Use This Collection
 
