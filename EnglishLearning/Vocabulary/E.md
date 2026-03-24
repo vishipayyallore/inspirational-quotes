@@ -139,3 +139,8 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Meaning**: A person or thing serving as a typical example or excellent model.
 **Usage**: "She is an exemplar of courage and resilience." - Highlighting someone as a prime example of positive traits.
+
+## Expiscate
+
+**Meaning**: To find out, discover, or bring to light through careful effort or inquiry.
+**Usage**: "Patient reflection can expiscate the lesson hidden inside a difficult season." - Careful thought and persistence often reveal meaning that is not obvious at first.

@@ -8,7 +8,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [B Vocabulary](./B.md) - Words like Beatific, Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Duplicity
-- [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution
+- [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution, Expiscate
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Floriferous, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Humble
@@ -27,7 +27,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Threshold, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Understanding, Unique, Unexamined
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Veracity, Vernal, Verve
-- [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wistful, Wit, Wizardry
+- [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Winsome, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
 - [Z Vocabulary](./Z.md) - Words like Zeal, Zeitgeist, Zephyr
