@@ -240,6 +240,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Close in space, time, or relationship.
 **Usage**: "The proximate cause of the accident was a mechanical failure." - The immediate reason for the incident was a breakdown in the machinery.
 
+## Puckish
+
+**Meaning**: Playfully mischievous; impish; fond of tricks or lighthearted pranks.
+**Usage**: "A puckish sense of humour can defuse tension and remind a team that not every obstacle deserves a furrowed brow." - Shows how playful wit can ease stress and foster creativity.
+
 ## Pulchritude
 
 **Meaning**: Beauty, especially physical beauty; attractiveness.

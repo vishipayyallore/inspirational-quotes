@@ -100,6 +100,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Unintended consequences or outcomes of an action.
 **Usage**: "Consider the repercussions of your decisions." - It's important to think about the potential effects of your choices.
 
+## Reptiles
+
+**Meaning**: Cold-blooded vertebrates (such as snakes, lizards, crocodiles, and turtles) characterized by scaly skin, internal fertilization, and the ability to regulate body temperature through external heat sources.
+**Usage**: "Reptiles endure by conserving energy and acting with precision—a reminder that stillness and patience often outperform frantic activity." - Uses the deliberate pace of reptiles as a metaphor for strategic patience.
+
 ## Resentful
 
 **Meaning**: Feeling or expressing bitterness or indignation at having been treated unfairly.
