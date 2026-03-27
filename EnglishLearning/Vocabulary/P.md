@@ -29,6 +29,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: More important than anything else; supreme.
 **Usage**: "Safety is paramount in any workplace." - Ensuring safety is the most important consideration in a work environment.
 
+## Parity
+
+**Meaning**: The state or condition of being equal, especially in status, pay, or value; equivalence between two things.
+**Usage**: "True collaboration begins when every voice at the table is granted parity—not just a seat, but equal weight." - Encourages genuine equality of contribution and respect in teamwork.
+
 ## Parsimony
 
 **Meaning**: Extreme unwillingness to spend resources, especially money; careful and sparing use of what one has.
@@ -239,6 +244,11 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: Close in space, time, or relationship.
 **Usage**: "The proximate cause of the accident was a mechanical failure." - The immediate reason for the incident was a breakdown in the machinery.
+
+## Puckish
+
+**Meaning**: Playfully mischievous; impish; fond of tricks or lighthearted pranks.
+**Usage**: "A puckish sense of humour can defuse tension and remind a team that not every obstacle deserves a furrowed brow." - Shows how playful wit can ease stress and foster creativity.
 
 ## Pulchritude
 

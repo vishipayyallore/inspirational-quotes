@@ -33,3 +33,8 @@ This file contains vocabulary words starting with the letter Z, along with their
 
 **Meaning**: Great enthusiasm and energy.
 **Usage**: "Approach every challenge with zest, and even difficulties become adventures." - Encourages tackling life with high energy and a positive spirit.
+
+## Zoetic
+
+**Meaning**: Relating to life; vital, living, or full of the energy of life.
+**Usage**: "Protect your zoetic spirit by feeding it with purpose, gratitude, and steady work." - Highlights the importance of nurturing a life-giving inner energy through intentional habits.

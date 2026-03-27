@@ -139,6 +139,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To make something better or more tolerable; to improve a difficult situation.
 **Usage**: "Each small habit you change can ameliorate your day." - Emphasizes that gradual improvements can make life noticeably better over time.
 
+## Amphibians
+
+**Meaning**: Cold-blooded vertebrates (such as frogs, toads, and salamanders) that can live both on land and in water, typically beginning life with gills and later developing lungs.
+**Usage**: "Like amphibians that thrive in two worlds, adaptable people grow wherever life places them—in comfort or in challenge." - Uses the dual nature of amphibians to celebrate adaptability and resilience.
+
 ## Amplitude
 
 **Meaning**: The extent or range of a quality or property; breadth or scope.
@@ -153,6 +158,11 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: To remove or hide identifying details so that a person or source cannot be recognized.
 **Usage**: "Before sharing his journal with others, he chose to anonymize names so the focus stayed on the lessons, not the people." - Connects privacy with keeping attention on growth and insight.
+
+## Antiquarian
+
+**Meaning**: Relating to the study, collection, or sale of antiques and rare historical items; a person who collects or studies antiquities.
+**Usage**: "The antiquarian browsed dusty shelves with delight, knowing every old book held a world waiting to be rediscovered." - Celebrates the value of preserving and learning from the past.
 
 ## Aphorism
 

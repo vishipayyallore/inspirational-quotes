@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-03-23 13:49:11
+**Last verification**: 2026-03-25 20:12:59
 
 ## Standard Verification Command
 
@@ -12,6 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-25: Reasoning summary: Added `Parity` (P.md) between Paramount and Parsimony; `Antiquarian` already added earlier. Action(s) taken: Inserted `Parity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260325-201259.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (51 words)`.
+- 2026-03-25: Reasoning summary: Added `Antiquarian` (A.md) between Anonymize and Aphorism. Action(s) taken: Inserted `Antiquarian`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260325-200632.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (48 words)`.
 - 2026-03-23: Reasoning summary: Added `Expiscate` (E.md) after confirming it did not already exist. Action(s) taken: Inserted `Expiscate`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260323-134910.txt`). Outcome / verification: All 26 letter files OK; `E.md -> OK (27 words)`.
 - 2026-03-23: Reasoning summary: Added `Winsome` (W.md) as today's unique word after confirming `Vainglory` already existed. Action(s) taken: Inserted `Winsome`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260323-134310.txt`). Outcome / verification: All 26 letter files OK; `W.md -> OK (10 words)`.
 - 2026-03-22: Reasoning summary: Added `Vainglory` (V.md) after confirming it did not already exist. Action(s) taken: Inserted `Vainglory`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260322-150538.txt`). Outcome / verification: All 26 letter files OK; `V.md -> OK (18 words)`.

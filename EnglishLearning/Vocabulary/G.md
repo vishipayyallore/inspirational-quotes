@@ -34,6 +34,11 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: The quality of being thankful; readiness to show appreciation.  
 **Usage**: "Gratitude turns what we have into enough." - Being thankful transforms our perception of what we possess.
 
+## Gregarious
+
+**Meaning**: Fond of the company of others; sociable; tending to associate or live in groups.
+**Usage**: "Stay gregarious in your learning—surrounding yourself with curious minds multiplies what any one person can discover alone." - Encourages forming communities of learners to amplify growth.
+
 ## Grimoire
 
 **Meaning**: A book of magic spells and invocations; a textbook of occult knowledge or magical instructions.

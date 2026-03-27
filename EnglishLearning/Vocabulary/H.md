@@ -19,6 +19,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: An experience involving the apparent perception of something not present.  
 **Usage**: "Vision without execution is just hallucination." - Ideas that aren't implemented remain only in your imagination.
 
+## Harangue
+
+**Meaning**: A long, impassioned, and often critical speech delivered to someone; to lecture or berate at length.
+**Usage**: "Instead of haranguing your team when things go wrong, ask what they learned—criticism turns into coaching when delivered with curiosity." - Encourages replacing blame-driven lectures with growth-oriented dialogue.
+
 ## Harbinger
 
 **Meaning**: A person or thing that announces or signals the approach of another; a forerunner or omen.
