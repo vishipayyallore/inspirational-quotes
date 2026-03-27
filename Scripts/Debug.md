@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-03-28: Reasoning summary: Added `Rectitude` (R.md) between Reconvene and Redacted in strict alphabetical order. Action(s) taken: Inserted `Rectitude`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260328-012526.txt`). Outcome / verification: All 26 letter files OK; `R.md -> OK (36 words)`.
 - 2026-03-25: Reasoning summary: Added `Parity` (P.md) between Paramount and Parsimony; `Antiquarian` already added earlier. Action(s) taken: Inserted `Parity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260325-201259.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (51 words)`.
 - 2026-03-25: Reasoning summary: Added `Antiquarian` (A.md) between Anonymize and Aphorism. Action(s) taken: Inserted `Antiquarian`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260325-200632.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (48 words)`.
 - 2026-03-23: Reasoning summary: Added `Expiscate` (E.md) after confirming it did not already exist. Action(s) taken: Inserted `Expiscate`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260323-134910.txt`). Outcome / verification: All 26 letter files OK; `E.md -> OK (27 words)`.
