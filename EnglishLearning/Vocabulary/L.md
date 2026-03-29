@@ -14,6 +14,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Using very few words; brief and direct.
 **Usage**: "His laconic reply ended the argument without drama." - Shows a concise, no-nonsense way of speaking.
 
+## Lapidify
+
+**Meaning**: To express something in a polished, concise, and memorable way, as if fit to be carved in stone.
+**Usage**: "She learned to lapidify her values into one clear sentence she could return to in hard moments." - Emphasizes shaping an important idea into language that is brief, durable, and easy to remember.
+
 ## Largesse
 
 **Meaning**: Generous giving of money, kindness, or other benefits; liberality in bestowing gifts or help.

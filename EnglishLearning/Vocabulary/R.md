@@ -54,6 +54,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: To come together again, especially after a pause or interruption.
 **Usage**: "The committee will reconvene next week to continue discussions." - Resuming a meeting or gathering can help move projects forward.
 
+## Rectitude
+
+**Meaning**: Morally correct behavior or thinking; adherence to a strict code of ethics or uprightness of character.
+**Usage**: "A person of rectitude does not need applause to do what is right—their compass is internal." - Highlights that genuine integrity is self-directed, not performed for others.
+
 ## Redacted
 
 **Meaning**: Edited or prepared for publication by removing sensitive information.

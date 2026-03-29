@@ -34,6 +34,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: Conducive to or promoting moral, mental, or physical health and well-being; beneficial and positive in nature.
 **Usage**: "Choose wholesome habits that nourish both body and spirit—growth flourishes where goodness takes root." - Emphasizes selecting healthy practices that support overall well-being and personal development.
 
+## Williwaw
+
+**Meaning**: A sudden, violent gust of cold wind, especially in coastal or mountainous regions.
+**Usage**: "Even when a williwaw of setbacks hit her plans, she kept her footing and adjusted her sails." - Frames sudden disruption as something that can be met with steadiness and resilience.
+
 ## Winsome
 
 **Meaning**: Sweetly pleasing or charming in a natural, gentle way.
