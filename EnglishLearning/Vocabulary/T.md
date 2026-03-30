@@ -59,6 +59,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A point of entry or beginning; a level or point at which something starts to happen or change.
 **Usage**: "You’re on the threshold of change—take the next small step and let momentum do the rest." - Frames a new beginning as an actionable moment.
 
+## Thrive
+
+**Meaning**: To grow, develop, or succeed vigorously; to flourish under supportive effort or conditions.
+**Usage**: "Small, steady habits help you thrive long after motivation fades." - Emphasizes that durable growth comes from consistent practice rather than brief bursts of enthusiasm.
+
 ## Tiff
 
 **Meaning**: A petty quarrel or argument.
