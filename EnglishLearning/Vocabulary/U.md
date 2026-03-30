@@ -79,6 +79,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Steady or resolute; not wavering or changing; firm in purpose or resolve.
 **Usage**: "Her unwavering determination led her to achieve her dreams." - Maintaining steady focus and commitment helps achieve long-term goals.
 
+## Uplift
+
+**Meaning**: To raise in spirit, improve morally or emotionally, or elevate to a better condition.
+**Usage**: "Choose words that uplift others, and you strengthen both their hope and your own character." - Encourages using encouragement and kindness to elevate people and situations.
+
 ## Ushered
 
 **Meaning**: To guide or escort someone to a particular place; to introduce or initiate.
