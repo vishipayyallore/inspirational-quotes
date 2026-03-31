@@ -114,6 +114,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: The process of purifying a liquid by heating it to create vapor and then cooling the vapor to create a liquid.
 **Usage**: "The distillation of essential oils is a delicate process." - Extracting pure substances from mixtures often requires careful techniques.
 
+## Divagate
+
+**Meaning**: To wander in thought or speech; to digress from the main subject.
+**Usage**: "Do not divagate from your purpose when challenges arise." - Staying focused helps you avoid drifting away from what truly matters.
+
 ## Duplicity
 
 **Meaning**: Deceitfulness; double-dealing or being two-faced.
