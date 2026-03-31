@@ -129,15 +129,15 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Informal: a hard hit or punch; by extension, a sudden, forceful impact.
 **Usage**: "The unexpected criticism felt like a sockeroo, but she paused, learned, and responded with calm clarity." - Uses the word figuratively to show a jarring setback.
 
-## Solipsism
-
-**Meaning**: The belief or attitude that only one’s own mind, experiences, or perspective are real or truly important.
-**Usage**: "Daily reflection guards you from quiet solipsism, reminding you that other lives and perspectives are as real as your own." - Warns against becoming trapped in a self-centered view of the world.
-
 ## Solace
 
 **Meaning**: Comfort or consolation in a time of distress or sadness.
 **Usage**: "In hard seasons, books, prayer, and honest friendship can offer real solace while you rebuild your strength." - Shows how support and reflection can bring comfort during difficulty.
+
+## Solipsism
+
+**Meaning**: The belief or attitude that only one’s own mind, experiences, or perspective are real or truly important.
+**Usage**: "Daily reflection guards you from quiet solipsism, reminding you that other lives and perspectives are as real as your own." - Warns against becoming trapped in a self-centered view of the world.
 
 ## Solitude
 

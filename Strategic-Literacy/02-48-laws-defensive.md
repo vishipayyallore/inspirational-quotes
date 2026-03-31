@@ -721,7 +721,23 @@ Do my actions and presence reflect the level of responsibility I aspire to — o
 
 ## 35. Master the Art of Timing
 
-Defensive Insight: Right idea at wrong timing leads to rejection—align proposals with organizational mood.
+### 35.1. Core Principle (Personal Interpretation)
+
+The effectiveness of an idea or action is heavily influenced by timing. Even strong proposals can fail if introduced when organizational readiness, priorities, or sentiment are misaligned.
+
+### 35.2. Defensive Insight
+
+Align actions and proposals with organizational timing and context.
+
+Assess factors such as leadership focus, current priorities, resource availability, and organizational mood before pushing initiatives. Premature or delayed execution can reduce acceptance and impact.
+
+Observe signals from the environment — urgency, openness to change, or resistance — and adjust accordingly.
+
+Timing converts potential into outcome.
+
+### 35.3. Reflection Prompt
+
+When presenting ideas or taking action, do I assess timing and context — or focus only on the strength of the idea itself?
 
 ---
 
