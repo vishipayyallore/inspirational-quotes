@@ -134,6 +134,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The belief or attitude that only one’s own mind, experiences, or perspective are real or truly important.
 **Usage**: "Daily reflection guards you from quiet solipsism, reminding you that other lives and perspectives are as real as your own." - Warns against becoming trapped in a self-centered view of the world.
 
+## Solace
+
+**Meaning**: Comfort or consolation in a time of distress or sadness.
+**Usage**: "In hard seasons, books, prayer, and honest friendship can offer real solace while you rebuild your strength." - Shows how support and reflection can bring comfort during difficulty.
+
 ## Solitude
 
 **Meaning**: The state or situation of being alone.  
