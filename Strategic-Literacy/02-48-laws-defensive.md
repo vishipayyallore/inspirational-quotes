@@ -699,7 +699,23 @@ Am I aware of my own triggers and responses — and do I recognize patterns in h
 
 ## 34. Be Royal in Your Own Fashion
 
-Defensive Insight: Carry yourself with the composure, accountability, and strategic clarity expected of the role you seek before the title formally arrives.
+### 34.1. Core Principle (Personal Interpretation)
+
+Perception of authority is influenced by how individuals carry themselves. Confidence, composure, and clarity in behavior often shape how others interpret capability and leadership potential.
+
+### 34.2. Defensive Insight
+
+Project the standards of the role you intend to grow into.
+
+Carry yourself with composure, accountability, and clarity in decision-making. Consistent professionalism in communication, ownership, and conduct signals readiness for higher responsibility.
+
+Avoid seeking validation through titles or external recognition. Demonstrate capability through behavior and outcomes before formal authority is assigned.
+
+Perception follows consistent signals.
+
+### 34.3. Reflection Prompt
+
+Do my actions and presence reflect the level of responsibility I aspire to — or am I waiting for the title to define my behavior?
 
 ---
 
