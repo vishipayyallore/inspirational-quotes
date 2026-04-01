@@ -7,7 +7,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Aleatory, Alpenglow, Antiquarian, Aphorism, Aplomb, Ascribe, Atiptoe
 - [B Vocabulary](./B.md) - Words like Beatific, Bliss, Bon Ton, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
-- [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Duplicity
+- [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Duplicity
 - [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Euphonious, Eunoia, Execution, Expiscate
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Floriferous, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gregarious, Gumption
@@ -22,7 +22,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [P Vocabulary](./P.md) - Words like Panglossian, Parity, Pellucid, Pericope, Persistence, Perspective, Pivot, Preventive, Prognosis, Pulchritude
 - [Q Vocabulary](./Q.md) - Words like Qanat, Quest, Quiescent, Quietude, Quintessence, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie
-- [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solitude, Sonder, Sotto voce, Succinct, Swindler
+- [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solace, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Understanding, Unique, Unexamined, Uplift
