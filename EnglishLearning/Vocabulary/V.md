@@ -44,6 +44,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: A wish or inclination not strong enough to lead to action.
 **Usage**: "Turning a velleity into a virtue requires the first step of action." - Wishing alone changes nothing; only doing makes a difference.
 
+## Venerate
+
+**Meaning**: To regard with deep respect, admiration, or reverence.
+**Usage**: "Venerate the discipline that shapes your progress, because steady practice often deserves more praise than sudden talent." - Honors consistent effort as something worthy of deep respect.
+
 ## Veracity
 
 **Meaning**: Truthfulness; accuracy or conformity to the facts.

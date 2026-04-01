@@ -26,7 +26,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime
 - [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Understanding, Unique, Unexamined, Uplift
-- [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Veracity, Vernal, Verve
+- [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wholesome, Williwaw, Winsome, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
