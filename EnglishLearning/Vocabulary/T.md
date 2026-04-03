@@ -24,6 +24,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: Perceptible by touch; real or actual.
 **Usage**: "The results provided tangible evidence of improvement." - Showing actual proof helps demonstrate progress.
 
+## Taradiddle
+
+**Meaning**: A petty lie or a piece of pretentious, silly nonsense.
+**Usage**: "When excuses turn into taradiddle, progress stalls because attention shifts away from the real work." - Warns against dressing up avoidance or nonsense as substance.
+
 ## Temporal
 
 **Meaning**: Relating to worldly as opposed to spiritual affairs; secular.

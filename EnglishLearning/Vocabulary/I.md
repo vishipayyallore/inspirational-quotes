@@ -69,6 +69,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Certain to happen; unavoidable.
 **Usage**: "Change is inevitable." - Transformation is a natural and unavoidable part of life.
 
+## Infomania
+
+**Meaning**: An obsessive need to constantly check, consume, or accumulate information, especially through digital devices.
+**Usage**: "Infomania can make a busy mind feel productive while quietly stealing the focus needed for meaningful work." - Highlights how compulsive information checking can undermine concentration and depth.
+
 ## Ingeminate
 
 **Meaning**: To repeat or say again; to reiterate or echo.

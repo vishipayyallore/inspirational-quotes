@@ -44,6 +44,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: A wish or inclination not strong enough to lead to action.
 **Usage**: "Turning a velleity into a virtue requires the first step of action." - Wishing alone changes nothing; only doing makes a difference.
 
+## Venerate
+
+**Meaning**: To regard with deep respect, admiration, or reverence.
+**Usage**: "Venerate the discipline that shapes your progress, because steady practice often deserves more praise than sudden talent." - Honors consistent effort as something worthy of deep respect.
+
 ## Veracity
 
 **Meaning**: Truthfulness; accuracy or conformity to the facts.
@@ -68,6 +73,11 @@ This file contains definitions and example usage for "V" words found in the insp
 
 **Meaning**: Vigorous energy, enthusiasm, and liveliness of expression or performance.
 **Usage**: "Bring verve to ordinary practice, and even small daily efforts can become memorable acts of growth." - Shows how energy and spirited effort can transform routine work into meaningful progress.
+
+## Vigilant
+
+**Meaning**: Keeping careful watch for possible danger, problems, or opportunities; alert and attentive.
+**Usage**: "A vigilant learner notices small mistakes early and turns them into steady improvement." - Staying alert helps you correct issues quickly and grow with consistency.
 
 ## Virtues
 

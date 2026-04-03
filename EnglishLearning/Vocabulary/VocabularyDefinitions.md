@@ -12,10 +12,10 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Floriferous, Flummox
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gregarious, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Humble
-- [I Vocabulary](./I.md) - Words like Incommunicado, Ineffable, Ingenuity, Inhere, Ingest, Integrity, Intrepid, Irreplaceable
+- [I Vocabulary](./I.md) - Words like Incommunicado, Ineffable, Infomania, Ingenuity, Inhere, Ingest, Integrity, Intrepid, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Juvenescent, Jovial
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
-- [L Vocabulary](./L.md) - Words like Laconic, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Luminary, Luminous, Lyricism
+- [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Odontoid, Opaque, Optimistic, Overwhelm
@@ -24,9 +24,9 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solace, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime
-- [T Vocabulary](./T.md) - Words like Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
+- [T Vocabulary](./T.md) - Words like Taradiddle, Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Understanding, Unique, Unexamined, Uplift
-- [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Veracity, Vernal, Verve
+- [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve, Vigilant
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wholesome, Williwaw, Winsome, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
