@@ -74,6 +74,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Vigorous energy, enthusiasm, and liveliness of expression or performance.
 **Usage**: "Bring verve to ordinary practice, and even small daily efforts can become memorable acts of growth." - Shows how energy and spirited effort can transform routine work into meaningful progress.
 
+## Vigilant
+
+**Meaning**: Keeping careful watch for possible danger, problems, or opportunities; alert and attentive.
+**Usage**: "A vigilant learner notices small mistakes early and turns them into steady improvement." - Staying alert helps you correct issues quickly and grow with consistency.
+
 ## Virtues
 
 **Meaning**: Behavior showing high moral standards.
