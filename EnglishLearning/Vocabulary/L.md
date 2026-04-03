@@ -14,6 +14,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Using very few words; brief and direct.
 **Usage**: "His laconic reply ended the argument without drama." - Shows a concise, no-nonsense way of speaking.
 
+## Lagniappe
+
+**Meaning**: A small extra gift, benefit, or bonus given in addition to what is expected.
+**Usage**: "Her mentor's final note of encouragement felt like a lagniappe at the end of an already valuable lesson." - Highlights an unexpected extra that adds warmth and value.
+
 ## Lapidify
 
 **Meaning**: To express something in a polished, concise, and memorable way, as if fit to be carved in stone.
@@ -53,6 +58,11 @@ This file contains definitions and example usage for "L" words found in the insp
 
 **Meaning**: Clear and easy to understand; expressed plainly.
 **Usage**: "After reviewing the notes, he gave a lucid explanation of the plan." - Shows ideas communicated clearly without confusion.
+
+## Lucullan
+
+**Meaning**: Richly luxurious or elaborate, especially in relation to food, hospitality, or style.
+**Usage**: "The team celebrated the milestone with a lucullan dinner that marked the end of months of disciplined work." - Shows a reward that is notably abundant and lavish.
 
 ## Luminary
 
