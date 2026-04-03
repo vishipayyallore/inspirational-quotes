@@ -743,7 +743,23 @@ When presenting ideas or taking action, do I assess timing and context — or fo
 
 ## 36. Disdain Things You Cannot Have
 
-Defensive Insight: Ignoring provocation preserves authority.
+### 36.1. Core Principle (Personal Interpretation)
+
+Not all outcomes are attainable or worth pursuing. Fixation on unavailable opportunities or external provocation can divert focus and weaken strategic positioning.
+
+### 36.2. Defensive Insight
+
+Exercise selective attention and controlled disengagement.
+
+Reacting to provocation or chasing unattainable goals can signal vulnerability and reduce authority. In many cases, deliberate non-engagement preserves composure, focus, and credibility.
+
+Direct energy toward areas where influence and impact are possible. Strategic indifference can be more powerful than reactive engagement.
+
+The ability to ignore distractions is a form of control.
+
+### 36.3. Reflection Prompt
+
+Am I focusing on what is within my influence — or reacting to situations that do not warrant my attention?
 
 ---
 
