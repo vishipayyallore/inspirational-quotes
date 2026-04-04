@@ -59,6 +59,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Meaning**: An expression used to repeat someone else's words, often with skepticism or disbelief.
 **Usage**: "He said he would help, quotha." - The speaker is quoting someone else's promise but expressing doubt about its sincerity.
 
+## Quotable
+
+**Meaning**: Worth repeating because it is especially clear, memorable, or insightful.
+**Usage**: "A quotable line can carry wisdom farther than a long speech." - Memorable wording helps meaningful ideas spread and stay with people.
+
 ## Quotidian
 
 **Meaning**: Ordinary or everyday; occurring daily.
