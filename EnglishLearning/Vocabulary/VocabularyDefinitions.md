@@ -20,7 +20,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Odontoid, Opaque, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Panglossian, Parity, Pellucid, Pericope, Persistence, Perspective, Pivot, Preventive, Prognosis, Pulchritude
-- [Q Vocabulary](./Q.md) - Words like Qanat, Quest, Quiescent, Quietude, Quintessence, Quotidian
+- [Q Vocabulary](./Q.md) - Words like Qanat, Quest, Quiescent, Quietude, Quintessence, Quotable, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solace, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime
