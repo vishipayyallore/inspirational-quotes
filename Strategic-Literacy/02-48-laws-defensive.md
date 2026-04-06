@@ -789,7 +789,23 @@ When presenting ideas, do I focus only on content — or do I also optimize how 
 
 ## 38. Think as You Like but Behave Like Others
 
-Defensive Insight: Cultural misalignment invites resistance—adapt delivery without abandoning principle.
+### 38.1. Core Principle (Personal Interpretation)
+
+Independent thinking does not require visible deviation from established norms. Behavior that diverges sharply from cultural expectations can create resistance, regardless of the underlying merit.
+
+### 38.2. Defensive Insight
+
+Adapt to the environment without compromising core principles.
+
+Cultural misalignment in communication style, behavior, or presentation can trigger unnecessary friction. Align outward behavior with organizational norms to maintain acceptance and reduce resistance.
+
+Differentiate between internal conviction and external expression. You can think independently while presenting ideas in a way that fits the context.
+
+Effective alignment improves influence without requiring conformity in thought.
+
+### 38.3. Reflection Prompt
+
+Do I adapt my behavior to the environment while preserving my principles — or do I create resistance through misaligned expression?
 
 ---
 

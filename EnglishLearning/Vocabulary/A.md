@@ -179,6 +179,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The shortening of a word by dropping one or more sounds (usually at the end), especially in informal speech.
 **Usage**: "In casual conversation, we often use apocope—like saying 'info' instead of 'information'—to communicate quickly." - Shows how everyday shortcuts can make speech more efficient.
 
+## Apricity
+
+**Meaning**: The warmth of the sun in winter; a pleasant feeling of sunlight during a cold season.
+**Usage**: "Even in a difficult season, look for apricity—the quiet warmth that proves hope is still reaching you." - Encourages noticing small, sustaining signs of hope during hard times.
+
 ## Archaic
 
 **Meaning**: Very old or old-fashioned; belonging to an earlier period in history.
