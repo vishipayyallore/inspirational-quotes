@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-05 10:23:11
+**Last verification**: 2026-04-06 15:19:48
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-06: Reasoning summary: Added `Palimpsest` (P.md) and `Reify` (R.md) after confirming neither word already existed in the vocabulary collection. Action(s) taken: Inserted both words; updated `VocabularyDefinitions.md`; the first verification caught ordering issues in `P.md` and `R.md`, which were corrected before saving the final log (`Logs/verify-20260406-151947.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (52 words)`, `R.md -> OK (37 words)`.
 - 2026-04-05: Reasoning summary: Added `Apricity` (A.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Apricity`; updated `VocabularyDefinitions.md`; initial verification detected an `A.md` ordering issue because `Apricity` was placed before `Apocope`, then corrected it and saved the final log (`Logs/verify-20260405-102311.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (49 words)`.
 - 2026-04-04: Reasoning summary: Added `Quotable` (Q.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Quotable` in strict alphabetical order between `Quixotic` and `Quotha`; updated `VocabularyDefinitions.md`; initial verification detected Q-order mismatch and was corrected; saved final log (`Logs/verify-20260404-165322.txt`). Outcome / verification: All 26 letter files OK; `Q.md -> OK (12 words)`.
 - 2026-04-03: Reasoning summary: Added `Lagniappe` and `Lucullan` (L.md) plus `Taradiddle` (T.md) after confirming they were not already present; `Infomania` already existed and was not duplicated. Action(s) taken: Inserted the new words in strict alphabetical order; updated `VocabularyDefinitions.md`; corrected one temporary `L.md` ordering issue; saved log (`Logs/verify-20260403-182458.txt`). Outcome / verification: All 26 letter files OK; `L.md -> OK (16 words)`, `T.md -> OK (25 words)`.

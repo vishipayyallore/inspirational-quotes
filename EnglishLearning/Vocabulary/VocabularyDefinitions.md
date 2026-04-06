@@ -19,13 +19,13 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Odontoid, Opaque, Optimistic, Overwhelm
-- [P Vocabulary](./P.md) - Words like Panglossian, Parity, Pellucid, Pericope, Persistence, Perspective, Pivot, Preventive, Prognosis, Pulchritude
+- [P Vocabulary](./P.md) - Words like Palimpsest, Panglossian, Parity, Pellucid, Pericope, Persistence, Perspective, Pivot, Preventive, Prognosis
 - [Q Vocabulary](./Q.md) - Words like Qanat, Quest, Quiescent, Quietude, Quintessence, Quotable, Quotidian
-- [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Resourceful, Resilience, Resolve, Restraint, Reticent, Reverie
+- [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Reify, Resourceful, Resilience, Resolve, Restraint, Reticent
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solace, Solitude, Sonder, Sotto voce, Succinct, Swindler
 - [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime
 - [T Vocabulary](./T.md) - Words like Taradiddle, Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
-- [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Understanding, Unique, Unexamined, Uplift
+- [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Unflappable, Understanding, Unique, Unexamined, Uplift
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve, Vigilant
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wholesome, Williwaw, Winsome, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia

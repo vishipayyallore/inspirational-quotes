@@ -54,6 +54,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Not based on or behaving according to principles of equality and justice.
 **Usage**: "Life is unfair. Accept that and immediately you will feel more free." - Recognizing life's inherent inequalities can paradoxically bring peace.
 
+## Unflappable
+
+**Meaning**: Remaining calm and composed under pressure; not easily upset or confused.
+**Usage**: "An unflappable mind turns setbacks into decisions instead of panic." - Staying calm under pressure helps you respond with clarity and purpose.
+
 ## Unhappy
 
 **Meaning**: Not happy; sad or discontented.

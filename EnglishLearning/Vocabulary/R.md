@@ -74,6 +74,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Reigning; ruling; currently dominant or prevalent.
 **Usage**: "Make kindness the regnant principle of your daily actions, and watch how your environment transforms." - Encourages letting a positive value hold supreme influence over behavior.
 
+## Reify
+
+**Meaning**: To make something abstract more concrete or real; to treat an idea as if it were a tangible thing.
+**Usage**: "When you reify a goal into a daily routine, ambition stops being a wish and starts becoming a practice." - Turning an abstract intention into concrete action makes progress measurable.
+
 ## Reinforce
 
 **Meaning**: To strengthen or support an idea, behavior, or structure.
