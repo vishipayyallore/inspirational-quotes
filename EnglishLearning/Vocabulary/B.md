@@ -69,6 +69,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Sophisticated manner, style, or good breeding; observing the proper social conventions.
 **Usage**: "True bon ton is not just about style, but treating others with genuine respect and grace." - Real sophistication comes from kindness and good character, not just appearance.
 
+## Boondoggle
+
+**Meaning**: Work or activity that is wasteful, pointless, or needlessly complicated, often appearing busy without producing real value.
+**Usage**: "Do not let your goals dissolve into a boondoggle of endless planning; choose one clear action and make progress today." - Warns against busywork that looks productive but delays meaningful results.
+
 ## Boscage
 
 **Meaning**: A mass of trees, shrubs, or foliage; a shady, wooded area.
