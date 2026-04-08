@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-07 10:36:32
+**Last verification**: 2026-04-08 10:52:21
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-08: Reasoning summary: Added `Meraki` (M.md) and `Caparison` (C.md) after confirming they were not already present; `Boondoggle` already existed in `B.md`, so no duplicate was added. Action(s) taken: Inserted both new words in strict alphabetical order; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260408-105220.txt`). Outcome / verification: All 26 letter files OK; `C.md -> OK (48 words)`, `M.md -> OK (20 words)`.
 - 2026-04-07: Reasoning summary: Added `Boondoggle` (B.md) after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Boondoggle` between `Bon Ton` and `Boscage`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260407-103632.txt`). Outcome / verification: All 26 letter files OK; `B.md -> OK (27 words)`.
 - 2026-04-07: Reasoning summary: Added `Susurrus` (S.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Susurrus` between `Suspire` and `Swindler`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260407-103436.txt`). Outcome / verification: All 26 letter files OK; `S.md -> OK (52 words)`.
 - 2026-04-06: Reasoning summary: Added `Palimpsest` (P.md) and `Reify` (R.md) after confirming neither word already existed in the vocabulary collection. Action(s) taken: Inserted both words; updated `VocabularyDefinitions.md`; the first verification caught ordering issues in `P.md` and `R.md`, which were corrected before saving the final log (`Logs/verify-20260406-151947.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (52 words)`, `R.md -> OK (37 words)`.

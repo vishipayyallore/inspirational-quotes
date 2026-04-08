@@ -29,6 +29,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The quality of being open, honest, and straightforward in expression or conduct.
 **Usage**: "Candor builds trust faster than polish ever can, because people remember the courage it takes to speak plainly." - Highlights how honest communication creates credibility and stronger relationships.
 
+## Caparison
+
+**Meaning**: An ornamental covering or decorative harness placed on a horse; by extension, a rich or showy outer appearance.
+**Usage**: "Let your character matter more than caparison, because substance outlasts anything worn only for display." - Contrasts outward decoration with enduring inner worth.
+
 ## Cater
 
 **Meaning**: To provide food and drink, typically at social events; to supply what is needed or required.  
