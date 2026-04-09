@@ -833,7 +833,23 @@ When faced with confusion or emotional escalation, do I react immediately — or
 
 ## 40. Despise the Free Lunch
 
-Defensive Insight: Hidden obligations often accompany favors.
+### 40.1. Core Principle (Personal Interpretation)
+
+Offers that appear free often carry implicit expectations or future obligations. Value exchange is rarely absent, even when not explicitly stated.
+
+### 40.2. Defensive Insight
+
+Evaluate the hidden cost behind perceived benefits.
+
+Favors, concessions, or “free” support may create subtle obligations, influence expectations, or future leverage. Accepting without clarity can lead to loss of autonomy or constrained decision-making.
+
+Clarify terms, expectations, and long-term implications before accepting support.
+
+Independence is strengthened when exchanges are transparent and intentional.
+
+### 40.3. Reflection Prompt
+
+When accepting help or benefits, do I understand the implicit expectations — or assume there are none?
 
 ---
 

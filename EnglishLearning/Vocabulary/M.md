@@ -39,6 +39,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Foul-smelling; noxious; offensive to the senses.
 **Usage**: "He stepped away from the mephitic smoke and chose the clear air of better habits." - Uses the idea of something poisonous to emphasize moving away from harmful influences.
 
+## Meraki
+
+**Meaning**: To do something with soul, creativity, or love, leaving a piece of yourself in your work.
+**Usage**: "Bring meraki to even the smallest task, and ordinary effort starts to carry the mark of care and purpose." - Encourages wholehearted, creative effort instead of mechanical work.
+
 ## Metaphors
 
 **Meaning**: Figures of speech that describe a subject by asserting that it is, on some point of comparison, the same as another otherwise unrelated object.

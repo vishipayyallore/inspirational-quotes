@@ -249,6 +249,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To sigh or breathe heavily; to take a deep breath (often poetic or archaic).
 **Usage**: "In the quiet moment, she seemed to suspire with relief and hope." - A gentle exhalation expressing deep emotion or contemplation.
 
+## Susurrus
+
+**Meaning**: A soft whispering, rustling, or murmuring sound.
+**Usage**: "In the susurrus of early morning leaves, she found a quiet reminder that steady growth is often gentle, not loud." - Connects a soft natural sound with calm, patient progress.
+
 ## Swindler
 
 **Meaning**: A person who defrauds others by trickery.  
