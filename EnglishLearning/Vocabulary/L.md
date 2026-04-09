@@ -19,6 +19,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: A small extra gift, benefit, or bonus given in addition to what is expected.
 **Usage**: "Her mentor's final note of encouragement felt like a lagniappe at the end of an already valuable lesson." - Highlights an unexpected extra that adds warmth and value.
 
+## Land of Nod
+
+**Meaning**: A poetic expression for sleep or the state of dreaming.
+**Usage**: "After finishing her goals for the day, she drifted into the Land of Nod with a peaceful mind." - Suggests restful sleep reached after calm effort and closure.
+
 ## Lapidify
 
 **Meaning**: To express something in a polished, concise, and memorable way, as if fit to be carved in stone.
