@@ -15,7 +15,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [I Vocabulary](./I.md) - Words like Incommunicado, Ineffable, Infomania, Ingenuity, Inhere, Ingest, Integrity, Intrepid, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Juvenescent, Jovial
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
-- [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
+- [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nascent, Neutralize, Nimble, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Odontoid, Opaque, Optimistic, Overwhelm
@@ -23,7 +23,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [Q Vocabulary](./Q.md) - Words like Qanat, Quest, Quiescent, Quietude, Quintessence, Quotable, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Reify, Resourceful, Resilience, Resolve, Restraint, Reticent
 - [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solace, Solitude, Sonder, Sotto voce, Succinct, Swindler
-- [S Vocabulary](./S.md) - Words like Sagacious, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime, Susurrus
+- [S Vocabulary](./S.md) - Words like Sagacious, Sagacity, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime, Susurrus
 - [T Vocabulary](./T.md) - Words like Taradiddle, Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Undaunted, Unflappable, Understanding, Unique, Unexamined, Uplift
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve, Vigilant

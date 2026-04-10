@@ -14,6 +14,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Having or showing keen mental discernment and good judgment; wise and insightful.
 **Usage**: "Her sagacious counsel helped the team navigate difficult decisions with confidence." - Highlights wisdom and sound judgment in complex situations.
 
+## Sagacity
+
+**Meaning**: The quality of being wise, perceptive, and sound in judgment.
+**Usage**: "Her sagacity turned a moment of confusion into a clear, confident decision." - Shows practical wisdom that helps solve problems calmly and effectively.
+
 ## Sagittate
 
 **Meaning**: Shaped like an arrowhead; having a triangular or arrow-like form, typically with two pointed lobes at the base.
