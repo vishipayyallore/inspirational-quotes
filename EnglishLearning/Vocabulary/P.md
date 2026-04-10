@@ -69,6 +69,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: One of the many possible arrangements or orderings of a set of items; in mathematics, an ordered arrangement where order matters.
 **Usage**: "After trying every permutation of tasks, they finally found an efficient schedule." - Emphasizes exploring different orders to discover the most effective arrangement.
 
+## Perpend
+
+**Meaning**: To consider carefully and attentively; to weigh in the mind (formal, somewhat archaic usage).
+**Usage**: "Before reacting to criticism, perpend the intent behind the words and choose your response with wisdom." - Encourages thoughtful reflection before action.
+
 ## Perpetuate
 
 **Meaning**: To make something continue indefinitely; to preserve from extinction or oblivion.
