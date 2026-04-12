@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-09 12:10:05
+**Last verification**: 2026-04-10 10:21:31
 
 ## Standard Verification Command
 
@@ -12,6 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-10: Reasoning summary: Added `Perpend` (P.md) after confirming it did not already exist in the vocabulary collection. Action(s) taken: Inserted `Perpend` in strict alphabetical order between `Permutation` and `Perpetuate`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260410-102130.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (53 words)`.
+- 2026-04-10: Reasoning summary: Added `Hinterland` (H.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Hinterland` in strict alphabetical order between `Hearten` and `Hiraeth`; updated `VocabularyDefinitions.md`; first verification identified temporary H-order mismatch and was corrected; saved final log (`Logs/verify-20260410-100840.txt`). Outcome / verification: All 26 letter files OK; `H.md -> OK (15 words)`.
 - 2026-04-09: Reasoning summary: Added `Land of Nod` (L.md) after confirming it did not already exist. Action(s) taken: Inserted `Land of Nod` between `Lagniappe` and `Lapidify`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260409-121004.txt`). Outcome / verification: All 26 letter files OK; `L.md -> OK (17 words)`.
 - 2026-04-09: Reasoning summary: Added `Sagacity` (S.md) as today's unique word after confirming it was not already present. Action(s) taken: Inserted `Sagacity` between `Sagacious` and `Sagittate`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260409-120443.txt`). Outcome / verification: All 26 letter files OK; `S.md -> OK (53 words)`.
 - 2026-04-08: Reasoning summary: Added `Meraki` (M.md) and `Caparison` (C.md) after confirming they were not already present; `Boondoggle` already existed in `B.md`, so no duplicate was added. Action(s) taken: Inserted both new words in strict alphabetical order; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260408-105220.txt`). Outcome / verification: All 26 letter files OK; `C.md -> OK (48 words)`, `M.md -> OK (20 words)`.

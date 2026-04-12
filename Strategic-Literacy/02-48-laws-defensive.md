@@ -855,7 +855,23 @@ When accepting help or benefits, do I understand the implicit expectations — o
 
 ## 41. Avoid Stepping into a Great Man’s Shoes
 
-Defensive Insight: Differentiate early to avoid destructive comparison cycles.
+### 41.1. Core Principle (Personal Interpretation)
+
+Following a highly successful predecessor creates implicit comparison. Expectations, benchmarks, and legacy perceptions can overshadow individual contributions.
+
+### 41.2. Defensive Insight
+
+Differentiate early to avoid comparison traps.
+
+Attempting to replicate a predecessor’s style or approach can reinforce unfavorable comparisons. Instead, establish your own identity, priorities, and operating style.
+
+Acknowledge existing legacy, but shift focus toward new direction, distinct strengths, and measurable outcomes under your leadership.
+
+Clarity of identity reduces dependency on inherited perception.
+
+### 41.3. Reflection Prompt
+
+In roles with strong predecessors, am I defining my own approach — or being measured primarily through comparison?
 
 ---
 
