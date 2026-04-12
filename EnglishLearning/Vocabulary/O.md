@@ -24,6 +24,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Preoccupy or fill the mind of (someone) continually and to a troubling extent.  
 **Usage**: "Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess." - Don't let your thoughts consume you unhealthily.
 
+## Obviate
+
+**Meaning**: To remove a need or difficulty; to prevent something from being necessary.
+**Usage**: "Clear communication can obviate many conflicts before they have a chance to grow." - Thoughtful clarity often prevents avoidable problems.
+
 ## Odontoid
 
 **Meaning**: Tooth-shaped; resembling a tooth in form. Also refers to the odontoid process (dens), the bony projection of the second cervical vertebra.
