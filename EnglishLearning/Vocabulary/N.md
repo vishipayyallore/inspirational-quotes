@@ -34,6 +34,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: Quick and light in movement or action; able to think and understand quickly.
 **Usage**: "Stay nimble in your thinking; small adjustments today can prevent big regrets tomorrow." - Encourages adaptability and flexible decision-making.
 
+## Noctivagant
+
+**Meaning**: Wandering or active at night.
+**Usage**: "Be a noctivagant only in thought: let the quiet hours help you explore bold ideas, then greet the morning ready to build them." - Uses the stillness of night as a metaphor for reflection that prepares purposeful action.
+
 ## Nostalgia
 
 **Meaning**: A sentimental longing or wistful affection for the past, often for a time or place associated with happy memories.
