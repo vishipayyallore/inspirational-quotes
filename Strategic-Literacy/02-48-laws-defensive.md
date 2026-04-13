@@ -899,7 +899,23 @@ Do I understand where real decisions are made — or am I engaging broadly witho
 
 ## 43. Work on the Hearts and Minds of Others
 
-Defensive Insight: Emotional buy-in sustains technical initiatives.
+### 43.1. Core Principle (Personal Interpretation)
+
+Sustainable alignment is achieved not only through logic but also through emotional resonance. Decisions and commitments are influenced by both rational understanding and personal connection.
+
+### 43.2. Defensive Insight
+
+Balance logical reasoning with emotional alignment.
+
+Technical correctness alone may not secure long-term support. Stakeholders are more likely to commit when they understand the value and feel aligned with the purpose.
+
+Communicate not only the “what” and “how,” but also the “why.” Connect initiatives to broader impact, shared goals, and individual motivations.
+
+Emotional buy-in reinforces commitment and reduces resistance.
+
+### 43.3. Reflection Prompt
+
+When driving initiatives, do I engage both the rational and emotional dimensions — or rely solely on logical arguments?
 
 ---
 
