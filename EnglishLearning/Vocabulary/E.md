@@ -100,6 +100,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Calm, composed, and even-tempered, especially in difficult situations.
 **Usage**: "By returning to her breath, she stayed equanimous through the day’s ups and downs." - Links emotional steadiness with simple, repeatable habits.
 
+## Erstwhile
+
+**Meaning**: Former; belonging to an earlier time or previous period.
+**Usage**: "Your erstwhile limitations do not get the final word; growth gives you permission to outlive old versions of yourself." - Encourages leaving behind past constraints instead of being defined by them.
+
 ## Erudite
 
 **Meaning**: Having or showing great knowledge, gained from studying.
