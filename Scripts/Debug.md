@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-12 10:34:00
+**Last verification**: 2026-04-13 11:28:21
 
 ## Standard Verification Command
 
@@ -12,6 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-13: Reasoning summary: Added `Uitwaaien` (U.md), `Erstwhile` (E.md), and `Phlegmatic` (P.md) after confirming none of them already existed in the vocabulary collection. Action(s) taken: Inserted all three in alphabetical order; updated `VocabularyDefinitions.md`; first verification identified a temporary E-order mismatch, which was corrected before saving the final log (`Logs/verify-20260413-112821.txt`). Outcome / verification: All 26 letter files OK; `E.md -> OK (28 words)`, `P.md -> OK (54 words)`, `U.md -> OK (19 words)`.
+- 2026-04-13: Reasoning summary: Added `Noctivagant` (N.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Noctivagant` in strict alphabetical order between `Nimble` and `Nostalgia`; updated `VocabularyDefinitions.md`; first verification identified a temporary N-order mismatch, which was corrected before saving the final log (`Logs/verify-20260413-112458.txt`). Outcome / verification: All 26 letter files OK; `N.md -> OK (13 words)`.
 - 2026-04-12: Reasoning summary: Added `Obviate` (O.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Obviate` in strict alphabetical order between `Obsess` and `Odontoid`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260412-103359.txt`). Outcome / verification: All 26 letter files OK; `O.md -> OK (13 words)`.
 - 2026-04-10: Reasoning summary: Added `Perpend` (P.md) after confirming it did not already exist in the vocabulary collection. Action(s) taken: Inserted `Perpend` in strict alphabetical order between `Permutation` and `Perpetuate`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260410-102130.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (53 words)`.
 - 2026-04-10: Reasoning summary: Added `Hinterland` (H.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Hinterland` in strict alphabetical order between `Hearten` and `Hiraeth`; updated `VocabularyDefinitions.md`; first verification identified temporary H-order mismatch and was corrected; saved final log (`Logs/verify-20260410-100840.txt`). Outcome / verification: All 26 letter files OK; `H.md -> OK (15 words)`.

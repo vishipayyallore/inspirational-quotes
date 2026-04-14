@@ -14,6 +14,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Present, appearing, or found everywhere.
 **Usage**: "Smartphones have become ubiquitous in daily life." - The devices are seen and used almost everywhere.
 
+## Uitwaaien
+
+**Meaning**: A Dutch term meaning to go outside and clear your head, often by walking in fresh, windy air.
+**Usage**: "When the day feels crowded, take a few minutes to uitwaaien and let fresh air reset your thinking." - Encourages stepping outside to regain calm, clarity, and perspective.
+
 ## Unassailable
 
 **Meaning**: Unable to be attacked, questioned, or defeated; secure.

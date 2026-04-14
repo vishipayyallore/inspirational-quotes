@@ -130,6 +130,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A person who collects matchboxes, matchbox labels, or other match-related items as a hobby.
 **Usage**: "Like a phillumenist carefully curating each matchbox, we should collect meaningful experiences that spark joy and light our path forward." - Just as collectors preserve small treasures, we should gather moments that ignite our passion.
 
+## Phlegmatic
+
+**Meaning**: Calm, steady, and not easily excited, angered, or upset.
+**Usage**: "A phlegmatic response in a tense moment can steady the whole room and make wiser action possible." - Shows how composure under pressure can influence others and improve decisions.
+
 ## Piquant
 
 **Meaning**: Having a pleasantly sharp or appetizing taste; stimulating or exciting to the mind.

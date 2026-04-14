@@ -69,8 +69,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
-> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K -- **Here**
-> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
+> 1. Appearances can deceive; trust is earned slowly through actions, not quickly through words or charm. – Viswanatha Swamy P K
+> 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K -- **Here**
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
 > 1. Everyone wears a mask of innocence, until their true face is revealed. — Viswanatha Swamy P K
@@ -390,11 +390,9 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Resilience is not about overcoming, but becoming. - Sheryl Sandberg
 > 1. Resilience is the capacity to recover quickly from difficulties; toughness. - Anonymous
 > 1. It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
-> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela -- **Here**
-> 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling
+> 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling -- **Here**
 > 1. We are not defined by the challenges we face but by how we rise to meet them. - Anonymous
 > 1. The brave may not live forever, but the cautious do not live at all. - Richard Branson
-> 1. Courage is not the absence of fear, but the triumph over it. - Nelson Mandela
 > 1. It does not do to dwell on dreams and forget to live. - J.K. Rowling
 > 1. We are not defined by the challenges we face but by how we rise to meet them. - Anonymous
 > 1. The brave may not live forever, but the cautious do not live at all. - Richard Branson
