@@ -24,6 +24,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: A particular aspect or feature of something.
 **Usage**: "Life has many facets, and each one is a lesson." - Life is complex, and every experience teaches us something.
 
+## Fait Accompli
+
+**Meaning**: A thing that has already been done or decided and cannot be changed; an accomplished fact.
+**Usage**: "Don't make decisions about others' lives a fait accompli—always seek understanding and agreement first." - Reminds us to involve people rather than presenting them with unchangeable decisions.
+
 ## Fallible
 
 **Meaning**: Capable of making mistakes or being wrong.
@@ -88,6 +93,11 @@ This file contains definitions and example usage for "F" words found in the insp
 
 **Meaning**: To show off something ostentatiously.
 **Usage**: "Do not flaunt your success; let your achievements speak for themselves." - Humility is often more admirable than boasting about one's accomplishments.
+
+## Flocculent
+
+**Meaning**: Having a fluffy or woolly appearance; characterized by small, light particles or flakes.
+**Usage**: "Her writing style was flocculent and dreamy, leaving readers floating in a soft cloud of imagery." - Describes a delicate, fluffy literary quality.
 
 ## Floriferous
 

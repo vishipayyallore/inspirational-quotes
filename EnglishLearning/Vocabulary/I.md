@@ -34,6 +34,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: A driving force; an incentive or motivation to act.
 **Usage**: "The new policy provided the impetus for change." - The updated guidelines served as a catalyst for transformation.
 
+## Impetrate
+
+**Meaning**: To obtain by urgent or earnest request; to beseech or implore.
+**Usage**: "She chose to impetrate help from her mentors rather than struggle alone." - Highlights the power of humbly asking for support when needed.
+
 ## Inciting
 
 **Meaning**: Encouraging or stirring up (an action or feeling).
@@ -94,15 +99,15 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: To exist as a natural, essential, or permanent quality in something or someone.
 **Usage**: "Discipline does not always inhere in talent; it is usually forged by repetition, choice, and responsibility." - Emphasizes that lasting strengths are often built deliberately rather than granted automatically.
 
-## Instigating
-
-**Meaning**: Causing or inciting an action or event.
-**Usage**: "Instigating change requires courage and determination." - Initiating transformation often demands bravery and resolve.
-
 ## Instincts
 
 **Meaning**: An innate, typically fixed pattern of behavior in animals in response to certain stimuli.
 **Usage**: "Trust your instincts; they are often right." - Your natural feelings or reactions can guide you correctly.
+
+## Instigating
+
+**Meaning**: Causing or inciting an action or event.
+**Usage**: "Instigating change requires courage and determination." - Initiating transformation often demands bravery and resolve.
 
 ## Integrity
 

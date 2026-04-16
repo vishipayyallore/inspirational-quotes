@@ -54,6 +54,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To foretell the future by gazing into a reflective surface such as a crystal ball or mirror; to divine or predict.
 **Usage**: "You cannot scry the future, but you can shape it—each deliberate action today writes tomorrow's story." - Encourages focusing on present effort rather than trying to predict what lies ahead.
 
+## Sedulous
+
+**Meaning**: Diligent, persevering, and carried out with careful and sustained effort.
+**Usage**: "Her sedulous approach to learning, one small step each day, transformed her from beginner to expert." - Shows how persistent, careful effort over time leads to mastery.
+
 ## Semantic
 
 **Meaning**: Relating to meaning in language or logic.
@@ -123,6 +128,11 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: A small amount; a little bit (informal, originally from Japanese).
 **Usage**: "Just a skosh more practice each day can compound into real progress." - Small consistent effort adds up over time.
+
+## Slop
+
+**Meaning**: Liquid spilled or splashed carelessly; to spill or splash liquid; also, food waste or unappetizing food.
+**Usage**: "Don't slop through your daily practice mindlessly—bring intention and care to every step." - Encourages avoiding careless, half-hearted effort in favor of deliberate focus.
 
 ## Snarf
 

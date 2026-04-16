@@ -9,10 +9,10 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Clarity, Clement, Compassionate, Congenial, Consistency, Courage, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Duplicity
 - [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Erstwhile, Euphonious, Eunoia, Execution, Expiscate
-- [F Vocabulary](./F.md) - Words like Fallible, Farrago, Fathom, First-Foot, Flattery, Floriferous, Flummox
+- [F Vocabulary](./F.md) - Words like Fabricate, Facetious, Facets, Fait Accompli, Fallible, Farrago, Fathom, Felicity, Fervent, Fictitious, Figgy pudding, First-Foot, Flagship, Flattery, Flaunt, Flocculent, Floriferous, Flourish, Flummox, Fortitude, Fragmented, Frenzy, Frontier, Fuse, Fusion
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gregarious, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Hinterland, Humble
-- [I Vocabulary](./I.md) - Words like Incommunicado, Ineffable, Infomania, Ingenuity, Inhere, Ingest, Integrity, Intrepid, Irreplaceable
+- [I Vocabulary](./I.md) - Words like Iiwi, Illustrate, Imbued, Imminent, Impetus, Impetrate, Inciting, Incommunicado, Ineffable, Infomania, Ingenuity, Ingest, Inhere, Instigating, Instincts, Integrity, Interlard, Intimidate, Intonation, Intrepid, Intricacies, Intricate, Intuitive, Inure, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Juvenescent, Jovial
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
@@ -22,8 +22,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [P Vocabulary](./P.md) - Words like Palimpsest, Panglossian, Parity, Pellucid, Pericope, Perpend, Persistence, Perspective, Phlegmatic, Pivot, Preventive, Prognosis
 - [Q Vocabulary](./Q.md) - Words like Qanat, Quest, Quiescent, Quietude, Quintessence, Quotable, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Reify, Resourceful, Resilience, Resolve, Restraint, Reticent
-- [S Vocabulary](./S.md) - Words like Skosh, Sockeroo, Solace, Solitude, Sonder, Sotto voce, Succinct, Swindler
-- [S Vocabulary](./S.md) - Words like Sagacious, Sagacity, Salutary, Serendipity, Skosh, Sonder, Steadfast, Sub Rosa, Sublime, Susurrus
+- [S Vocabulary](./S.md) - Words like Sagacious, Sagacity, Sagittate, Salient, Salutary, Sanguine, Schlep, Scofflaw, Scry, Sedulous, Semantic, Sempiternal, Serendipity, Serene, Serenity, Sheer, Shoved, Simile, Simonize, Skewed, Skiddoo, Skim, Skimming, Skosh, Slop, Snarf, Sockeroo, Solace, Solipsism, Solitude, Sonder, Sotto voce, Sparingly, Sparse, Spectrograms, Spectrum, Splurge, Spooky, Stalwarts, Steadfast, Steer, Stemming, Stochastic, Stoic, Straying, Sub Rosa, Subfusc, Sublime, Subtleties, Succinct, Suspire, Susurrus, Swindler, Synonymous, Synopsis
 - [T Vocabulary](./T.md) - Words like Taradiddle, Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Uitwaaien, Undaunted, Unflappable, Understanding, Unique, Unexamined, Uplift
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve, Vigilant
