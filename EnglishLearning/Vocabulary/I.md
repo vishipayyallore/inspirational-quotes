@@ -99,15 +99,15 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: To exist as a natural, essential, or permanent quality in something or someone.
 **Usage**: "Discipline does not always inhere in talent; it is usually forged by repetition, choice, and responsibility." - Emphasizes that lasting strengths are often built deliberately rather than granted automatically.
 
-## Instincts
-
-**Meaning**: An innate, typically fixed pattern of behavior in animals in response to certain stimuli.
-**Usage**: "Trust your instincts; they are often right." - Your natural feelings or reactions can guide you correctly.
-
 ## Instigating
 
 **Meaning**: Causing or inciting an action or event.
 **Usage**: "Instigating change requires courage and determination." - Initiating transformation often demands bravery and resolve.
+
+## Instincts
+
+**Meaning**: An innate, typically fixed pattern of behavior in animals in response to certain stimuli.
+**Usage**: "Trust your instincts; they are often right." - Your natural feelings or reactions can guide you correctly.
 
 ## Integrity
 
