@@ -9,6 +9,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Nadir
+
+**Meaning**: The lowest point in the fortunes, condition, or spirit of a person or situation.
+**Usage**: "What feels like your nadir can become the exact place where your comeback begins." - Reframes a low point as a starting line for recovery and growth.
+
 ## Nascent
 
 **Meaning**: Just beginning to develop; emerging or in the earliest stage of growth.
