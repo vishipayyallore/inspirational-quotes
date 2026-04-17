@@ -943,7 +943,23 @@ When others reflect my behavior or communication style, do I respond defensively
 
 ## 45. Preach the Need for Change, but Never Reform Too Much at Once
 
-Defensive Insight: Gradual transformation prevents backlash.
+### 45.1. Core Principle (Personal Interpretation)
+
+Large-scale or rapid change can trigger resistance, even when the direction is correct. People tend to accept change more readily when it is introduced incrementally.
+
+### 45.2. Defensive Insight
+
+Pace transformation to align with organizational readiness.
+
+Sudden or sweeping changes can create uncertainty, resistance, or loss of trust. Introduce changes in stages, allowing stakeholders to adapt, understand benefits, and build confidence over time.
+
+Sequence initiatives to show early wins and reduce perceived risk. Gradual transformation enables sustained adoption and minimizes backlash.
+
+Controlled pacing strengthens long-term success.
+
+### 45.3. Reflection Prompt
+
+When driving change, do I calibrate the pace to organizational readiness — or push for rapid transformation that may trigger resistance?
 
 ---
 
