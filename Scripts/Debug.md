@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-16 10:54:19
+**Last verification**: 2026-04-17 12:12:02
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-17: Reasoning summary: Added `Axiomatic` (A.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Axiomatic` in strict alphabetical order after `Axiom`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260417-121201.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (50 words)`.
 - 2026-04-16: Reasoning summary: Added four new words (`Slop`, `Fait Accompli`, `Flocculent`, `Impetrate`) after confirming none existed. Action(s) taken: Inserted in alphabetical order across S.md, F.md (2), I.md; updated `VocabularyDefinitions.md`; corrected `Impetus`/`Impetrate` and `Instincts`/`Instigating` ordering; saved log (`Logs/verify-20260416-105419.txt`). Outcome / verification: All 26 letter files OK; `F.md -> OK (27 words)`, `I.md -> OK (30 words)`, `S.md -> OK (55 words)`.
 - 2026-04-16: Reasoning summary: Added `Sedulous` (S.md) to vocabulary. Action(s) taken: Inserted between `Scry` and `Semantic`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260416-104215.txt`). Outcome / verification: All 26 letter files OK; `S.md -> OK (54 words)`.
 - 2026-04-14: Reasoning summary: Added `Nadir` (N.md). Action(s) taken: Inserted before `Nascent`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260414-121042.txt`). Outcome / verification: All 26 letter files OK; `N.md -> OK (14 words)`.

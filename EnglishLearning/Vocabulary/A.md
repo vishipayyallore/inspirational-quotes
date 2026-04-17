@@ -253,3 +253,8 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: A statement or proposition that is regarded as being self-evidently true.
 **Usage**: "The axiom of equality states that if two things are equal to a third thing, they are equal to each other." - This fundamental principle is accepted without controversy.
+
+## Axiomatic
+
+**Meaning**: Self-evident, universally accepted, or so obvious that it needs no proof.
+**Usage**: "Some foundational principles are axiomatic: if you guard your habits, your habits will guard your future." - Emphasizes that certain truths become clear through repeated life experience and disciplined reflection.
