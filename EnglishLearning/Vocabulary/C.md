@@ -174,6 +174,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: A collection of written or spoken material stored in digital form.
 **Usage**: "Linguists analyze a corpus of texts to study language patterns." - Large databases of language samples are essential for linguistic research.
 
+## Coterminous
+
+**Meaning**: Having the same boundaries, scope, or duration as something else; coextensive.
+**Usage**: "For disciplined people, freedom is often coterminous with responsibility, because real choice grows stronger when it is anchored to clear principles." - Connects maturity and self-mastery by showing how two ideas can exist within the same boundaries.
+
 ## Courage
 
 **Meaning**: The ability to do something that frightens one; bravery.  
