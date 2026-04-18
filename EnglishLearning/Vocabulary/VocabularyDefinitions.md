@@ -19,7 +19,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nadir, Nascent, Nebulous, Nimble, Noctivagant, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Obviate, Odontoid, Opaque, Optimistic, Overwhelm
-- [P Vocabulary](./P.md) - Words like Palimpsest, Panglossian, Parity, Pellucid, Pericope, Perpend, Persistence, Perspective, Phlegmatic, Pivot, Preventive, Prognosis
+- [P Vocabulary](./P.md) - Words like Palimpsest, Panglossian, Parity, Pellucid, Peregrinate, Pericope, Perpend, Persistence, Perspective, Phlegmatic, Pivot, Preventive, Prognosis
 - [Q Vocabulary](./Q.md) - Words like Qanat, Quest, Quiescent, Quietude, Quintessence, Quotable, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Reciprocate, Rectitude, Reify, Resourceful, Resilience, Resolve, Restraint, Reticent
 - [S Vocabulary](./S.md) - Words like Sagacious, Sagacity, Sagittate, Salient, Salutary, Sanguine, Schlep, Scofflaw, Scry, Sedulous, Semantic, Sempiternal, Serendipity, Serene, Serenity, Sheer, Shoved, Simile, Simonize, Skewed, Skiddoo, Skim, Skimming, Skosh, Slop, Snarf, Sockeroo, Solace, Solipsism, Solitude, Sonder, Sotto voce, Sparingly, Sparse, Spectrograms, Spectrum, Splurge, Spooky, Stalwarts, Steadfast, Steer, Stemming, Stochastic, Stoic, Straying, Sub Rosa, Subfusc, Sublime, Subtleties, Succinct, Suspire, Susurrus, Swindler, Synonymous, Synopsis
