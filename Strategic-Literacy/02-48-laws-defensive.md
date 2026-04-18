@@ -945,27 +945,43 @@ When others reflect my behavior or communication style, do I respond defensively
 
 ### 45.1. Core Principle (Personal Interpretation)
 
-Large-scale or rapid change can trigger resistance, even when the direction is correct. People tend to accept change more readily when it is introduced incrementally.
+Large-scale or rapid change can trigger resistance, even when directionally correct. People are more likely to accept change when it is introduced incrementally.
 
 ### 45.2. Defensive Insight
 
-Pace transformation to align with organizational readiness.
+Pace transformation in alignment with organizational readiness.
 
-Sudden or sweeping changes can create uncertainty, resistance, or loss of trust. Introduce changes in stages, allowing stakeholders to adapt, understand benefits, and build confidence over time.
+Sudden or sweeping changes can create uncertainty, resistance, and erosion of trust. Introduce change in stages, allowing stakeholders to adapt, internalize benefits, and build confidence over time.
 
-Sequence initiatives to show early wins and reduce perceived risk. Gradual transformation enables sustained adoption and minimizes backlash.
+Sequence initiatives to demonstrate early wins and reduce perceived risk. Gradual transformation increases adoption and minimizes backlash.
 
-Controlled pacing strengthens long-term success.
+Controlled pacing enables sustainable change.
 
 ### 45.3. Reflection Prompt
 
-When driving change, do I calibrate the pace to organizational readiness — or push for rapid transformation that may trigger resistance?
+When driving change, do I calibrate pace to organizational readiness — or push transformation faster than the environment can absorb?
 
 ---
 
 ## 46. Never Appear Too Perfect
 
-Defensive Insight: Visible humility reduces envy-triggered resistance.
+### 46.1. Core Principle (Personal Interpretation)
+
+Perceived perfection can create distance, discomfort, or envy. Flawless presentation may unintentionally trigger resistance or reduce relatability.
+
+### 46.2. Defensive Insight
+
+Balance competence with visible humility.
+
+Consistently projecting perfection can make others defensive or disengaged. Demonstrating openness to feedback, acknowledging limitations, and showing learning orientation can build trust and approachability.
+
+The objective is not to diminish capability, but to avoid signaling unattainable standards that create friction.
+
+Measured humility reduces resistance and strengthens collaboration.
+
+### 46.3. Reflection Prompt
+
+Do I present myself in a way that builds trust and relatability — or do I unintentionally create distance through perceived perfection?
 
 ---
 
