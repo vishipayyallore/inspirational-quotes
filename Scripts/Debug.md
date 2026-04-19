@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-18 12:56:26
+**Last verification**: 2026-04-19 11:09:30
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-19: Reasoning summary: Added `Perspicacity` (P.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Perspicacity` in strict alphabetical order between `Perspicacious` and `Persuasion`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260419-110930.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (56 words)`.
 - 2026-04-18: Reasoning summary: Added `Peregrinate` (P.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Peregrinate` in strict alphabetical order between `Pellucid` and `Pericope`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260418-125625.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (55 words)`.
 - 2026-04-17: Reasoning summary: Added `Coterminous` (C.md) after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Coterminous` in strict alphabetical order after `Corpus`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260417-121603.txt`). Outcome / verification: All 26 letter files OK; `C.md -> OK (49 words)`.
 - 2026-04-17: Reasoning summary: Added `Axiomatic` (A.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Axiomatic` in strict alphabetical order after `Axiom`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260417-121201.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (50 words)`.

@@ -2,74 +2,71 @@
 
 ## Calm. Firm. Unavailable. (Without Guilt)
 
----
-
 ## CORE PRINCIPLE
 
-**If I don’t protect my time, others will consume it.**
-My growth depends on **boundaries, visibility, and control**.
+> 1. ### If I don’t protect my time, others will consume it
+>
+> 1. ### My growth depends on boundaries, visibility, and control
 
 ---
 
-# 1. CONTROL YOUR RESPONSE
+## 1. CONTROL YOUR RESPONSE
 
-**Never say YES immediately**
+### Never say YES immediately
 
 Instead:
 
-* “Let me check priorities and confirm”
-* “I’ll get back to you”
+> 1. Let me check priorities and confirm
+> 1. I’ll get back to you
 
-→ Delay creates control
-
----
-
-# 2. FORCE PRIORITIZATION
-
-When new work comes:
-
-**“What should I deprioritize for this?”**
-
-→ I don’t absorb pressure. I redirect it.
+### → Delay creates control
 
 ---
 
-# 3. WORK ONLY ON VISIBLE IMPACT
+## 2. FORCE PRIORITIZATION
 
-Before accepting any task, ask:
+### When new work comes
 
-* Is this visible to decision-makers?
-* Does this move business outcome?
+> 1. What should I deprioritize for this?
 
-If NO → Decline or Delay
-
----
-
-# 4. LIMIT HELPING OTHERS
-
-I help **strategically**, not emotionally
-
-Rule:
-
-* Max 15–20% effort for others
-
-If exceeded:
-
-* “I won’t be able to go deeper on this”
+### → I don’t absorb pressure. I redirect it
 
 ---
 
-# 5. DO NOT SOLVE EVERYTHING
+## 3. WORK ONLY ON VISIBLE IMPACT
+
+### Before accepting any task, ask
+
+> 1. Is this visible to decision-makers?
+> 1. Does this move business outcome?
+
+### If NO → Decline or Delay
+
+---
+
+## 4. LIMIT HELPING OTHERS
+
+### I help **strategically**, not emotionally
+
+> 1. Rule: Max 15–20% effort for others
+
+### If exceeded
+
+> 1. I won’t be able to go deeper on this
+
+---
+
+## 5. DO NOT SOLVE EVERYTHING
 
 In meetings:
 
 * Give direction, not full solution
 
-→ I am a **decision-maker**, not a problem executor
+### → I am a **decision-maker**, not a problem executor
 
 ---
 
-# 6. SPEAK IN OUTCOMES
+## 6. SPEAK IN OUTCOMES
 
 Never say:
 
@@ -80,22 +77,22 @@ Always say:
 * “This improves X by Y%”
 * “This reduces risk by Z”
 
-→ Impact = Visibility = Growth
+### → Impact = Visibility = Growth
 
 ---
 
-# 7. DOCUMENT MY WORK
+## 7. DOCUMENT MY WORK
 
 After key work:
 
 * Send summary email
 * Clearly state my contribution
 
-→ Protects against politics and credit loss
+### → Protects against politics and credit loss
 
 ---
 
-# 8. USE FIRM, NEUTRAL LANGUAGE
+## 8. USE FIRM, NEUTRAL LANGUAGE
 
 No emotion. No apology.
 
@@ -105,11 +102,11 @@ Use:
 * “This needs prioritization alignment”
 * “I won’t be able to take this up”
 
-→ Calm tone = Strong position
+### → Calm tone = Strong position
 
 ---
 
-# 9. STOP OVER-EXPLAINING
+## 9. STOP OVER-EXPLAINING
 
 Short answers = Authority
 
@@ -118,21 +115,21 @@ I do NOT:
 * justify unnecessarily
 * defend every decision
 
-→ Clarity over approval
+### → Clarity over approval
 
 ---
 
-# 10. DETACH EMOTIONALLY
+## 10. DETACH EMOTIONALLY
 
 * Colleagues ≠ Friends
 * Help ≠ Loyalty
 * Work ≠ Morality
 
-I operate **strategically, not emotionally**
+### → I operate **strategically, not emotionally**
 
 ---
 
-# DAILY REMINDER
+## DAILY REMINDER
 
 * I choose where my time goes
 * I control my availability
