@@ -21,7 +21,7 @@ Use:
 * “I’ll get back to you”
 
 **Mechanism:**
-Delay = Evaluation = Control
+Delay → Evaluation → Control
 
 ---
 
@@ -31,8 +31,10 @@ When new work arrives:
 
 * “What should I deprioritize for this?”
 
+If no clear answer → **Do not accept**
+
 **Mechanism:**
-I don’t absorb pressure → I **redistribute** it
+I don’t absorb pressure → I **redirect ownership**
 
 ---
 
@@ -43,7 +45,7 @@ Before accepting:
 * Is this visible to decision-makers?
 * Does this move a business outcome?
 
-**If NO → Decline / Delay / Delegate**
+If NO → **Decline / Delay / Delegate**
 
 **Mechanism:**
 Only visible impact compounds career growth
@@ -54,12 +56,13 @@ Only visible impact compounds career growth
 
 **Rule:** Max 15–20% effort for others
 
-Boundary line:
+Boundary lines:
 
-* “I can help at a high level, but I won’t be able to go deeper”
+* “I can help at a high level”
+* “I won’t be able to go deeper on this”
 
 **Mechanism:**
-Uncontrolled helping = Hidden workload = Zero recognition
+Uncontrolled helping → Hidden workload → Zero recognition
 
 ---
 
@@ -68,6 +71,7 @@ Uncontrolled helping = Hidden workload = Zero recognition
 In meetings:
 
 * Give **direction, not execution**
+* Speak last when possible
 
 Avoid:
 
@@ -103,6 +107,10 @@ After key work:
 * State contribution clearly
 * Highlight outcome
 
+Template:
+
+* “Handled X → Delivered Y → Next Z”
+
 **Mechanism:**
 If it’s not visible, it doesn’t exist
 
@@ -114,7 +122,7 @@ Avoid:
 
 * Apologies
 * Emotional tone
-* Justifications
+* Over-justification
 
 Use:
 
@@ -133,7 +141,7 @@ Calm tone = Authority signal
 
 Avoid:
 
-* Defending decisions
+* Defending decisions unnecessarily
 * Seeking approval through explanation
 
 **Mechanism:**
@@ -152,11 +160,48 @@ Strategic, not emotional
 
 ---
 
+## 11. CONTROL ACCESS (ADVANCED)
+
+**Rule:** Limit availability
+
+* Batch responses (2–3 times/day)
+* Avoid instant replies unless critical
+
+Default:
+
+* “I’ll review and respond”
+
+**Mechanism:**
+Unlimited access → Guaranteed overload
+
+---
+
+## 12. PROTECT SCOPE
+
+**Rule:** Define boundaries early
+
+* “I can support at a high level, not execution”
+* “This is outside current scope”
+
+**Mechanism:**
+Unclear scope → Expanding expectations
+
+---
+
 ## DAILY CHECKPOINT
 
 * Where did my time go today?
 * Did I say YES too fast?
 * Did I work on visible impact?
+* Did I allow scope creep?
+
+---
+
+## WEEKLY RESET
+
+* What low-value work did I accept?
+* Where was I exploited?
+* What boundary will I enforce next week?
 
 ---
 
@@ -178,7 +223,8 @@ I am:
 
 ## FINAL LAW
 
-> 1. Discipline → Career Growth
-> 2. Lack of Discipline → Repeated Frustration
-
----
+1. Discipline → Career Growth
+2. Lack of Discipline → Repeated Frustration
+3. What I allow repeatedly → Defines how I am treated
+4. If I don’t set boundaries → Others will set them for me
+5. If I don’t control my time → Others will control it for me
