@@ -1,4 +1,4 @@
-# PERSONAL OPERATING SYSTEM
+# Execution Discipline — Defensive Operating System
 
 ## Calm. Firm. Unavailable. (Without Guilt)
 
@@ -6,70 +6,79 @@
 
 ## CORE PRINCIPLE
 
-**If I don’t protect my time, others will consume it.**
-My growth depends on **boundaries, visibility, and control**.
+* If I don’t protect my time, others will consume it
+* Growth requires **boundaries, visibility, and control**
 
 ---
 
-# 1. CONTROL YOUR RESPONSE
+## 1. CONTROL YOUR RESPONSE
 
-**Never say YES immediately**
+**Rule:** Never commit in real-time
 
-Instead:
+Use:
 
 * “Let me check priorities and confirm”
 * “I’ll get back to you”
 
-→ Delay creates control
+**Mechanism:**
+Delay = Evaluation = Control
 
 ---
 
-# 2. FORCE PRIORITIZATION
+## 2. FORCE PRIORITIZATION
 
-When new work comes:
+When new work arrives:
 
-**“What should I deprioritize for this?”**
+* “What should I deprioritize for this?”
 
-→ I don’t absorb pressure. I redirect it.
+**Mechanism:**
+I don’t absorb pressure → I **redistribute** it
 
 ---
 
-# 3. WORK ONLY ON VISIBLE IMPACT
+## 3. FILTER FOR IMPACT
 
-Before accepting any task, ask:
+Before accepting:
 
 * Is this visible to decision-makers?
-* Does this move business outcome?
+* Does this move a business outcome?
 
-If NO → Decline or Delay
+**If NO → Decline / Delay / Delegate**
 
----
-
-# 4. LIMIT HELPING OTHERS
-
-I help **strategically**, not emotionally
-
-Rule:
-
-* Max 15–20% effort for others
-
-If exceeded:
-
-* “I won’t be able to go deeper on this”
+**Mechanism:**
+Only visible impact compounds career growth
 
 ---
 
-# 5. DO NOT SOLVE EVERYTHING
+## 4. CONTROL HELPING BEHAVIOR
+
+**Rule:** Max 15–20% effort for others
+
+Boundary line:
+
+* “I can help at a high level, but I won’t be able to go deeper”
+
+**Mechanism:**
+Uncontrolled helping = Hidden workload = Zero recognition
+
+---
+
+## 5. DO NOT OVER-SOLVE
 
 In meetings:
 
-* Give direction, not full solution
+* Give **direction, not execution**
 
-→ I am a **decision-maker**, not a problem executor
+Avoid:
+
+* Detailed solutions unless explicitly required
+
+**Identity Shift:**
+Executor → Decision-maker
 
 ---
 
-# 6. SPEAK IN OUTCOMES
+## 6. SPEAK IN OUTCOMES
 
 Never say:
 
@@ -79,25 +88,33 @@ Always say:
 
 * “This improves X by Y%”
 * “This reduces risk by Z”
+* “This enables faster delivery of A”
 
-→ Impact = Visibility = Growth
+**Formula:**
+Impact → Visibility → Growth
 
 ---
 
-# 7. DOCUMENT MY WORK
+## 7. MAKE WORK VISIBLE
 
 After key work:
 
-* Send summary email
-* Clearly state my contribution
+* Send summary
+* State contribution clearly
+* Highlight outcome
 
-→ Protects against politics and credit loss
+**Mechanism:**
+If it’s not visible, it doesn’t exist
 
 ---
 
-# 8. USE FIRM, NEUTRAL LANGUAGE
+## 8. USE FIRM, NEUTRAL LANGUAGE
 
-No emotion. No apology.
+Avoid:
+
+* Apologies
+* Emotional tone
+* Justifications
 
 Use:
 
@@ -105,50 +122,53 @@ Use:
 * “This needs prioritization alignment”
 * “I won’t be able to take this up”
 
-→ Calm tone = Strong position
+**Mechanism:**
+Calm tone = Authority signal
 
 ---
 
-# 9. STOP OVER-EXPLAINING
+## 9. STOP OVER-EXPLAINING
 
-Short answers = Authority
+**Rule:** Short, clear responses
 
-I do NOT:
+Avoid:
 
-* justify unnecessarily
-* defend every decision
+* Defending decisions
+* Seeking approval through explanation
 
-→ Clarity over approval
+**Mechanism:**
+Clarity > Approval
 
 ---
 
-# 10. DETACH EMOTIONALLY
+## 10. DETACH EMOTIONALLY
 
 * Colleagues ≠ Friends
 * Help ≠ Loyalty
 * Work ≠ Morality
 
-I operate **strategically, not emotionally**
+**Operating Mode:**
+Strategic, not emotional
 
 ---
 
-# DAILY REMINDER
+## DAILY CHECKPOINT
 
-* I choose where my time goes
-* I control my availability
-* I am respected when I set limits
+* Where did my time go today?
+* Did I say YES too fast?
+* Did I work on visible impact?
 
 ---
 
-## FINAL SHIFT
+## IDENTITY SHIFT
 
 I am no longer:
 
 * Over-helpful
 * Always available
-* Silent contributor
+* Invisible contributor
 
-I am now:
+I am:
 
 * **Selective**
 * **Controlled**
@@ -156,5 +176,9 @@ I am now:
 
 ---
 
-**Discipline in these rules = Career growth**
-**Ignoring them = Same problems, different people**
+## FINAL LAW
+
+> 1. Discipline → Career Growth
+> 2. Lack of Discipline → Repeated Frustration
+
+---

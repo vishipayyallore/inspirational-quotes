@@ -17,8 +17,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The Sad reality of life: The crooked go untouched, while the straight are constantly hammered. - Anonymous
 > 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous
 > 1. Such is life’s irony — the crooked thrive in comfort, while the straight bear the blows of integrity. - Anonymous
-> 1. The crooked stay untouched; the straight are hammered. That’s the irony of life. - Anonymous -- **Here**
-> 1. Life’s sad truth: the crooked go free, while the straight are hammered down. - Anonymous
+> 1. The crooked stay untouched; the straight are hammered. That’s the irony of life. - Anonymous
+> 1. Life’s sad truth: the crooked go free, while the straight are hammered down. - Anonymous -- **Here**
 
 ```text
 **🌸 The Law of Karma 🌸**
@@ -36,8 +36,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. **Never** outshine the Master. - Anonymous
 > 1. **Never put too much trust in friends**; learn how to use enemies. - Anonymous
-> 1. **Always** make those above you feel comfortably superior. - Anonymous -- **Here**
-> 1. **Always** say less than necessary. - Anonymous
+> 1. **Always** make those above you feel comfortably superior. - Anonymous
+> 1. **Always** say less than necessary. - Anonymous -- **Here**
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
 > 1. **Court attention** at all costs. - Anonymous
 > 1. **Win through your actions**, never through argument. - Anonymous
@@ -53,12 +53,12 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
 > 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
 > 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
-> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K -- **Here**
-> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
+> 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
+> 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K -- **Here**
 
 ## Trust Revealed by Actions
 
-> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
+> 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K -- **Here**
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
@@ -73,7 +73,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Do not be swayed by appearances or kind words; trust comes from consistency in actions, not charm or flattery. – Viswanatha Swamy P K
 > 1. Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances. – Viswanatha Swamy P K
 > 1. True character is not revealed by words or gestures; it is proven through actions over time. – Viswanatha Swamy P K
-> 1. Everyone wears a mask of innocence, until their true face is revealed. — Viswanatha Swamy P K -- **Here**
+> 1. Everyone wears a mask of innocence, until their true face is revealed. — Viswanatha Swamy P K
 
 ## Life Lessons
 
@@ -83,8 +83,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
 > 1. Only you are responsible for your own outcomes and **your own happiness**. - Anonymous
 > 1. **Critics are always loudest from the sidelines**. People who have done nothing will criticise you for trying. Remember, they are not the ones in the game. - Anonymous
-> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous -- **Here**
-> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
+> 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
+> 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous -- **Here**
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
@@ -114,8 +114,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
 > 1. **It is about what matters most to YOU right now** → Priorities shift, choose what fits your life and purpose. - Anonymous
-> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous -- **Here**
-> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
+> 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
+> 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous -- **Here**
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
 > 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
@@ -143,8 +143,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra -- **Here**
-> 1. Gather all the facts before accepting what you are told. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Gather all the facts before accepting what you are told. - Panchatantra -- **Here**
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
@@ -160,8 +160,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Value those who appreciate your efforts and reciprocate kindness. - Anonymous
 > 1. Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill
-> 1. Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll -- **Here**
-> 1. Do not trust words. Trust Actions. - Anonymous
+> 1. Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll
+> 1. Do not trust words. Trust Actions. - Anonymous -- **Here**
 > 1. Do not watch the clock; do what it does. Keep going. - Sam Levenson
 > 1. The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela
 > 1. It always seems impossible until it is done. - Nelson Mandela

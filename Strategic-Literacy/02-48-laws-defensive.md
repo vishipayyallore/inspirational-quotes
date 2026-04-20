@@ -987,7 +987,23 @@ Do I present myself in a way that builds trust and relatability — or do I unin
 
 ## 47. Do Not Go Past the Mark You Aimed For
 
-Defensive Insight: Overextension after success invites reversal—stabilize before expanding.
+### 47.1. Core Principle (Personal Interpretation)
+
+Success can create momentum that encourages overextension. Pushing beyond the original objective may introduce unnecessary risk and destabilize achieved gains.
+
+### 47.2. Defensive Insight
+
+Consolidate gains before expanding scope.
+
+After achieving a target, stabilize outcomes, validate results, and ensure sustainability before pursuing additional objectives. Premature expansion can strain resources, expose weaknesses, or trigger resistance.
+
+Maintain clarity on defined goals and avoid extending beyond them without reassessment.
+
+Controlled progression preserves success.
+
+### 47.3. Reflection Prompt
+
+After achieving success, do I stabilize and consolidate — or push further without reassessing risks and readiness?
 
 ---
 

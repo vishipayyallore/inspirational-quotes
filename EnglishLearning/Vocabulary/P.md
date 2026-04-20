@@ -110,6 +110,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Having keen insight, discernment, or sound judgment; mentally sharp and perceptive.
 **Usage**: "Her perspicacious observations revealed the underlying issue that others had missed." - Having sharp insight allows us to see what others cannot.
 
+## Perspicacity
+
+**Meaning**: The quality of having keen insight, sharp judgment, or mental discernment.
+**Usage**: "With perspicacity, she recognized the pattern early and chose a wiser path." - Sharp discernment helps us make better decisions before problems grow.
+
 ## Persuasion
 
 **Meaning**: The act of convincing someone to believe or do something through reasoning or argument.
