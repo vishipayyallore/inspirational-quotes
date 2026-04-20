@@ -9,9 +9,33 @@ This repository contains my personal defensive reflections while reading `The 33
 
 ---
 
+Good direction. I’ll keep it aligned with your **defensive framing**—clean, non-derivative, and operational.
+
+---
+
 ## 1. Declare War on Your Enemies
 
-Defensive Insight: Identify hidden resistance early; undefined opposition is more dangerous than open conflict. In technical settings, address passive resistance before it becomes structural.
+### 1.1. Core Principle (Personal Interpretation)
+
+Unacknowledged opposition creates invisible constraints. When resistance remains undefined, it operates indirectly—through delays, misalignment, or passive non-cooperation. Clarity converts ambiguity into something manageable.
+
+### 1.2. Defensive Insight
+
+**Name resistance early to prevent silent escalation.**
+
+Do not wait for conflict to become explicit. In professional environments, opposition rarely appears as open confrontation—it manifests as missed dependencies, diluted accountability, or quiet obstruction.
+
+Map stakeholders not just by role, but by **alignment vs resistance**.
+
+Address friction points early through structured conversations, clear ownership, and visible expectations. Left unchecked, passive resistance compounds into systemic drag.
+
+**Clarity reduces hidden risk.**
+
+### 1.3. Reflection Prompt
+
+Where am I experiencing friction that I have not explicitly acknowledged as resistance?
+
+---
 
 ## 2. Do Not Fight the Last War
 
