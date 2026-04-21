@@ -44,6 +44,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Not able to be seen through; not transparent; hard to understand.
 **Usage**: "Sometimes the path forward seems opaque, but trust that each step will clear the fog." - Even when the future isn't clear, keep moving forward.
 
+## Opportune
+
+**Meaning**: Well-timed or especially suitable for a particular purpose or situation.
+**Usage**: "An opportune pause can keep frustration from turning into regret." - Highlights how choosing the right moment to stop and reflect can prevent avoidable mistakes.
+
 ## Optimistic
 
 **Meaning**: Hopeful and confident about the future.  
