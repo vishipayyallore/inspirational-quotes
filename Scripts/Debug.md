@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-19 11:09:30
+**Last verification**: 2026-04-21 12:54:54
 
 ## Standard Verification Command
 
@@ -12,6 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-21: Reasoning summary: Added `Futz` (F.md), `Praxis` and `Purlieu` (P.md), plus `Ramshackle` (R.md) after confirming they were not already present; `Coterminous` already existed in `C.md`, so no duplicate was added. Action(s) taken: Inserted all four new words in strict alphabetical order; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260421-125453.txt`). Outcome / verification: All 26 letter files OK; `F.md -> OK (28 words)`, `P.md -> OK (58 words)`, `R.md -> OK (38 words)`.
+- 2026-04-21: Reasoning summary: Added `Opportune` (O.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Opportune` in strict alphabetical order between `Opaque` and `Optimistic`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260421-124810.txt`). Outcome / verification: All 26 letter files OK; `O.md -> OK (14 words)`.
 - 2026-04-19: Reasoning summary: Added `Perspicacity` (P.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Perspicacity` in strict alphabetical order between `Perspicacious` and `Persuasion`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260419-110930.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (56 words)`.
 - 2026-04-18: Reasoning summary: Added `Peregrinate` (P.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Peregrinate` in strict alphabetical order between `Pellucid` and `Pericope`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260418-125625.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (55 words)`.
 - 2026-04-17: Reasoning summary: Added `Coterminous` (C.md) after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Coterminous` in strict alphabetical order after `Corpus`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260417-121603.txt`). Outcome / verification: All 26 letter files OK; `C.md -> OK (49 words)`.
@@ -38,12 +40,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 - 2026-04-01: Reasoning summary: Added `Venerate` (V.md) as today’s unique word after confirming it was not already present. Action(s) taken: Inserted `Venerate` between `Velleity` and `Veracity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260401-122509.txt`). Outcome / verification: All 26 letter files OK; `V.md -> OK (19 words)`.
 - 2026-03-31: Reasoning summary: Fixed the existing alphabetical ordering issue in `S.md` by moving `Solace` ahead of `Solipsism`. Action(s) taken: Reordered the two `Sol...` entries in `S.md`; saved log (`Logs/verify-20260331-131355.txt`). Outcome / verification: All 26 letter files OK; `S.md -> OK (51 words)`.
 - 2026-03-31: Reasoning summary: Added `Divagate` (D.md) in strict alphabetical order after confirming it was not already present. Action(s) taken: Inserted `Divagate` between `Distillation` and `Duplicity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260331-131123.txt`). Outcome / verification: `D.md -> OK (23 words)`; repository verification still reports existing issue `S.md -> OUT OF ORDER (51 words)`.
-- 2026-03-30: Reasoning summary: Added `Uplift` (U.md) as a new vocabulary word and confirmed `Fervent` (F.md) plus `Quiescent` (Q.md) already existed, so no duplicate entries were added. Action(s) taken: Inserted `Uplift` between `Unwavering` and `Ushered`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260330-151622.txt`). Outcome / verification: All 26 letter files OK; `U.md -> OK (17 words)`.
-- 2026-03-29: Reasoning summary: Added `Thrive` (T.md) as today’s unique word after confirming it was not already a vocabulary entry. Action(s) taken: Inserted `Thrive` between `Threshold` and `Tiff`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260329-143124.txt`). Outcome / verification: All 26 letter files OK; `T.md -> OK (24 words)`.
-- 2026-03-28: Reasoning summary: Added `Lapidify` (L.md) and `Williwaw` (W.md) after confirming neither word already existed. Action(s) taken: Inserted both words in strict alphabetical order; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260328-120716.txt`). Outcome / verification: All 26 letter files OK; `L.md -> OK (14 words)`, `W.md -> OK (11 words)`.
-- 2026-03-28: Reasoning summary: Added `Rectitude` (R.md) between Reconvene and Redacted in strict alphabetical order. Action(s) taken: Inserted `Rectitude`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260328-012526.txt`). Outcome / verification: All 26 letter files OK; `R.md -> OK (36 words)`.
-- 2026-03-25: Reasoning summary: Added `Parity` (P.md) between Paramount and Parsimony; `Antiquarian` already added earlier. Action(s) taken: Inserted `Parity`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260325-201259.txt`). Outcome / verification: All 26 letter files OK; `P.md -> OK (51 words)`.
-- 2026-03-25: Reasoning summary: Added `Antiquarian` (A.md) between Anonymize and Aphorism. Action(s) taken: Inserted `Antiquarian`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260325-200632.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (48 words)`.
 - 2026-03-23: Reasoning summary: Added `Expiscate` (E.md) after confirming it did not already exist. Action(s) taken: Inserted `Expiscate`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260323-134910.txt`). Outcome / verification: All 26 letter files OK; `E.md -> OK (27 words)`.
 
 ## Notes

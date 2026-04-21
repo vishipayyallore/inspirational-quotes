@@ -34,6 +34,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Speaking or writing at length in a confused or inconsequential way.
 **Usage**: "His rambling speech lost the audience's attention." - Clear and concise communication is often more effective than lengthy digressions.
 
+## Ramshackle
+
+**Meaning**: In a state of severe disrepair; loosely made or badly organized.
+**Usage**: "A ramshackle plan may still get you started, but careful structure is what helps effort endure." - Contrasts a shaky beginning with the value of deliberate organization.
+
 ## Ranted
 
 **Meaning**: To speak or shout in a wild, passionate, or angry way.

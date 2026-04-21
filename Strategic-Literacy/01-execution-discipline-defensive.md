@@ -1,6 +1,6 @@
-# Execution Discipline — Defensive Operating System (v2)
+# Execution Discipline — Defensive Operating System
 
-## Calm. Firm. Selectively Available. (Without Guilt)
+## Calm. Firm. Selectively Available.
 
 ---
 

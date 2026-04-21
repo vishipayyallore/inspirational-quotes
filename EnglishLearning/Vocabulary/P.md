@@ -190,6 +190,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
 **Usage**: "A pragmatic approach to problem-solving focuses on what works rather than what is ideal." - Practical, realistic thinking leads to effective solutions.
 
+## Praxis
+
+**Meaning**: The practical application of an idea, theory, or skill; action informed by reflection.
+**Usage**: "Learning becomes praxis when you apply each lesson deliberately instead of leaving it trapped in notes." - Emphasizes turning understanding into disciplined action.
+
 ## Precise
 
 **Meaning**: Marked by exactness and accuracy; clearly defined or stated.
@@ -279,6 +284,11 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: Beauty, especially physical beauty; attractiveness.
 **Usage**: "She spoke of the pulchritude of small, ordinary moments—proof that beauty is often found in daily life." - Highlights noticing beauty in everyday experiences.
+
+## Purlieu
+
+**Meaning**: An outlying district or neighborhood; a place frequently visited or inhabited; one’s usual haunts.
+**Usage**: "Step beyond the purlieu of your usual routines and you may find a version of yourself that has been waiting for wider ground." - Encourages growth by leaving familiar surroundings.
 
 ## Purpose
 
