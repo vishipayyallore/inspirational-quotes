@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-22 12:47:24
+**Last verification**: 2026-04-23 12:17:36 — Added **Volition** (V.md) — all 26 files OK
 
 ## Standard Verification Command
 

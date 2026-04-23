@@ -1,17 +1,17 @@
-# 🧠 **EXECUTION DISCIPLINE OS — EXPANDED (FINAL)**
+# 🧠 EXECUTION DISCIPLINE Operating System
 
-## **Calm. Firm. Selectively Available**
+## Calm. Firm. Selectively Available
 
 ---
 
-# 🔑 **CORE PRINCIPLE**
+## 1. 🔑 CORE PRINCIPLE
 
 * I protect and allocate my time with intention
 * I grow through **boundaries, visibility, control, and positioning**
 
 ---
 
-# 🧬 **IDENTITY**
+## 2. 🧬 IDENTITY
 
 > **Calm. Selective. Visible. High-impact**
 
@@ -22,7 +22,7 @@
 
 ---
 
-# ⚙️ **CORE KERNEL (NON-NEGOTIABLE)**
+## 3. ⚙️ CORE KERNEL (NON-NEGOTIABLE)
 
 * I evaluate before I commit
 * I prioritize visible, high-impact work
@@ -32,15 +32,15 @@
 
 ---
 
-# 🧭 **DECISION ENGINE (BEFORE ANY YES)**
+## 4. 🧭 DECISION ENGINE (BEFORE ANY YES)
 
-### I validate
+### 4.1 I validate
 
 * This is visible to decision-makers
 * This drives measurable outcomes
 * This strengthens my positioning
 
-### I allocate effort
+### 4.2 I allocate effort
 
 * Strategic → 80–100%
 * Standard → 60%
@@ -48,32 +48,32 @@
 
 ---
 
-# ⚙️ **RESPONSE & ALIGNMENT SYSTEM**
+## 5. ⚙️ RESPONSE & ALIGNMENT SYSTEM
 
-### I create space
+### 5.1 I create space
 
 * “Let me review and get back”
 * “I’ll check priorities and confirm”
 
-### I align before action
+### 5.2 I align before action
 
 * “What outcome are we targeting?”
 * “What should I deprioritize?”
 * “Let’s align scope and ownership before proceeding”
 
-### **Execution Model**
+### 5.3 Execution Model
 
 Evaluate → Align → Decide → Communicate
 
 ---
 
-# 🧩 **OWNERSHIP MODEL**
+## 6. 🧩 OWNERSHIP MODEL
 
 * I define ownership explicitly
 * I guide without absorbing responsibility
 * I keep ownership visible at all times
 
-Use:
+### 6.1 Use
 
 * “Let’s align on ownership before proceeding”
 * “I’ll support at a high level”
@@ -81,9 +81,9 @@ Use:
 
 ---
 
-# 🔥 **VISIBILITY SYSTEM**
+## 7. 🔥 VISIBILITY SYSTEM
 
-### I create visibility at all stages
+### 7.1 I create visibility at all stages
 
 **Before**
 
@@ -97,38 +97,34 @@ Use:
 
 * “Handled X → Delivered Y → Next Z”
 
----
-
-### Weekly
+### 7.2 Weekly
 
 * 1 visible outcome
 * 1 decision influence
 * 1 stakeholder alignment
 
----
-
-### Monthly
+### 7.3 Monthly
 
 * I share structured thinking
 
 ---
 
-# 🎯 **IMPACT COMMUNICATION**
+## 8. 🎯 IMPACT COMMUNICATION
 
-I communicate:
+* I communicate:
 
-* Business impact
-* Risk reduction
-* Speed improvement
+  * Business impact
+  * Risk reduction
+  * Speed improvement
 
 ---
 
-# 🧱 **BOUNDARY SYSTEM**
+## 9. 🧱 BOUNDARY SYSTEM
 
 * I maintain clear scope and ownership
 * I operate with structured availability
 
-Use:
+### 9.1 Use
 
 * “I’m at capacity right now”
 * “This needs prioritization alignment”
@@ -136,19 +132,19 @@ Use:
 
 ---
 
-# ⚡ **ACCESS & ENERGY CONTROL**
+## 10. ⚡ ACCESS & ENERGY CONTROL
 
 * I control response timing
 * I avoid reactive communication
 * I invest energy where impact is highest
 
-Default:
+### 10.1 Default
 
 * “I’ll review and respond”
 
 ---
 
-# 🧭 **POSITIONING**
+## 11. 🧭 POSITIONING
 
 * I operate as an architect and decision-maker
 * I contribute through clarity, structure, and direction
@@ -156,13 +152,13 @@ Default:
 
 ---
 
-# 🛡️ **STRUCTURAL PROTECTION (BUILT-IN)**
+## 12. 🛡️ STRUCTURAL PROTECTION (BUILT-IN)
 
 * I document work
 * I clarify ownership
 * I communicate contributions
 
-Outcome:
+### 12.1 Outcome
 
 * Clear attribution
 * Reduced ambiguity
@@ -170,7 +166,7 @@ Outcome:
 
 ---
 
-# 📊 **EXECUTION DISCIPLINE**
+## 13. 📊 EXECUTION DISCIPLINE
 
 * I invest time with intention
 * I evaluate before committing
@@ -180,9 +176,9 @@ Outcome:
 
 ---
 
-# 🧩 **REAL SCENARIO PLAYBOOK (UNDER PRESSURE)**
+## 14. 🧩 REAL SCENARIO PLAYBOOK (UNDER PRESSURE)
 
-## **Rule: Pause → Pick → Speak**
+### 14.1 Rule: Pause → Pick → Speak
 
 * Pause
 * Pick closest pattern
@@ -190,7 +186,7 @@ Outcome:
 
 ---
 
-## Work pushed
+### 14.2 Work pushed
 
 **Goal:** Control ownership + priority
 
@@ -199,7 +195,7 @@ Outcome:
 
 ---
 
-## Credit / visibility
+### 14.3 Credit / visibility
 
 **Goal:** Establish authorship
 
@@ -208,7 +204,7 @@ Outcome:
 
 ---
 
-## Help request
+### 14.4 Help request
 
 **Goal:** Support without ownership
 
@@ -217,7 +213,7 @@ Outcome:
 
 ---
 
-## Pressure applied
+### 14.5 Pressure applied
 
 **Goal:** Slow down
 
@@ -226,7 +222,7 @@ Outcome:
 
 ---
 
-## Scope unclear
+### 14.6 Scope unclear
 
 **Goal:** Define first
 
@@ -235,7 +231,7 @@ Outcome:
 
 ---
 
-## Overload
+### 14.7 Overload
 
 **Goal:** Rebalance
 
@@ -244,7 +240,7 @@ Outcome:
 
 ---
 
-## Low visibility
+### 14.8 Low visibility
 
 **Goal:** Re-enter with value
 
@@ -253,7 +249,7 @@ Outcome:
 
 ---
 
-## Vague request
+### 14.9 Vague request
 
 **Goal:** Force clarity
 
@@ -262,7 +258,7 @@ Outcome:
 
 ---
 
-## Ownership ambiguity
+### 14.10 Ownership ambiguity
 
 **Goal:** Prevent silent responsibility
 
@@ -271,7 +267,7 @@ Outcome:
 
 ---
 
-## Assert position
+### 14.11 Assert position
 
 **Goal:** Show contribution calmly
 
@@ -279,7 +275,7 @@ Outcome:
 
 ---
 
-## Asked to solve everything
+### 14.12 Asked to solve everything
 
 **Goal:** Stay at architect level
 
@@ -287,7 +283,7 @@ Outcome:
 
 ---
 
-## Immediate answer expected
+### 14.13 Immediate answer expected
 
 **Goal:** Avoid reactive commitment
 
@@ -295,7 +291,7 @@ Outcome:
 
 ---
 
-## Emotional trigger
+### 14.14 Emotional trigger
 
 **Goal:** Stay controlled
 
@@ -305,7 +301,7 @@ Outcome:
 
 ---
 
-## Need to say NO
+### 14.15 Need to say NO
 
 **Goal:** Decline cleanly
 
@@ -314,9 +310,9 @@ Outcome:
 
 ---
 
-# 🧠 **MANAGER STRATEGY (EMBEDDED CONTROL)**
+## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL)
 
-## I recognize patterns
+### 15.1 I recognize patterns
 
 * Polite engagement
 * Delegated ownership
@@ -326,9 +322,9 @@ Outcome:
 
 ---
 
-## I operate with structured control
+### 15.2 I operate with structured control
 
-### Ownership
+#### 15.2.1 Ownership
 
 * I define ownership before execution
 
@@ -338,7 +334,7 @@ Use:
 
 ---
 
-### Visibility
+#### 15.2.2 Visibility
 
 * I communicate contribution early and consistently
 
@@ -350,7 +346,7 @@ Use:
 
 ---
 
-### Documentation
+#### 15.2.3 Documentation
 
 * I confirm decisions in writing
 * I summarize discussions
@@ -358,14 +354,14 @@ Use:
 
 ---
 
-### Communication channel control
+#### 15.2.4 Communication channel control
 
 * I use shared channels
 * I maintain visibility across stakeholders
 
 ---
 
-### Execution control
+#### 15.2.5 Execution control
 
 * I align before acting
 * I maintain measured pace
@@ -373,21 +369,21 @@ Use:
 
 ---
 
-### Re-entry strategy
+#### 15.2.6 Re-entry strategy
 
 * “Sharing update for visibility…”
 * “Happy to provide a quick update if helpful”
 
 ---
 
-### Position reinforcement
+#### 15.2.7 Position reinforcement
 
 * “This aligns with the approach I outlined earlier”
 * “Based on the design I shared…”
 
 ---
 
-### Behavioral discipline
+#### 15.2.8 Behavioral discipline
 
 * I remain calm
 * I avoid confrontation
@@ -395,7 +391,7 @@ Use:
 
 ---
 
-## Result
+### 15.3 Result
 
 * Ownership remains visible
 * Credit is traceable
@@ -404,9 +400,9 @@ Use:
 
 ---
 
-# ⚙️ **MEMORY HOOK**
+## 16. ⚙️ MEMORY HOOK
 
-### **A–O–V–S–C**
+### 16.1 A–O–V–S–C
 
 * Align
 * Outcome
@@ -416,7 +412,7 @@ Use:
 
 ---
 
-# 📈 **GROWTH MODEL**
+## 17. 📈 GROWTH MODEL
 
 * Discipline → Visibility → Growth
 * Boundaries → Positioning
@@ -424,18 +420,6 @@ Use:
 
 ---
 
-# 🎯 **FINAL DIRECTIVE**
+## 18. 🎯 FINAL DIRECTIVE
 
 > **I operate with precision—intentionally, visibly, and strategically**
-
----
-
-# Final clarity
-
-This version is:
-
-* **Complete (nothing lost)**
-* **Non-duplicated**
-* **Pressure-usable**
-* **Manager-aware**
-* **Action + scripts + system unified**
