@@ -19,6 +19,11 @@ This file contains vocabulary words starting with the letter J, along with their
 **Meaning**: Knowledge, especially spiritual or divine knowledge; wisdom gained through meditation and study (Sanskrit term).
 **Usage**: "The pursuit of jnana leads to deeper self-understanding and enlightenment." - Seeking higher knowledge brings profound personal growth.
 
+## Jocose
+
+**Meaning**: Playful, humorous, or given to joking in a lighthearted way.
+**Usage**: "A jocose remark eased the tension in the room and reminded everyone that progress can still include laughter." - Shows how gentle humor can make difficult moments more manageable.
+
 ## Jocund
 
 **Meaning**: Cheerful and lighthearted; merry.

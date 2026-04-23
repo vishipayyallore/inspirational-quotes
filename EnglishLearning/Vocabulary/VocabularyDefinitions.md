@@ -13,7 +13,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gregarious, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Hinterland, Humble
 - [I Vocabulary](./I.md) - Words like Iiwi, Illustrate, Imbued, Imminent, Impetus, Impetrate, Inciting, Incommunicado, Ineffable, Infomania, Ingenuity, Ingest, Inhere, Instigating, Instincts, Integrity, Interlard, Intimidate, Intonation, Intrepid, Intricacies, Intricate, Intuitive, Inure, Irreplaceable
-- [J Vocabulary](./J.md) - Words like Jocund, Journey, Jollification, Juvenescent, Jovial
+- [J Vocabulary](./J.md) - Words like Jocose, Jocund, Journey, Jollification, Jovial, Juvenescent
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
