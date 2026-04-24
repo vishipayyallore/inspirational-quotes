@@ -6,29 +6,29 @@
 
 ## 1. 🔑 CORE PRINCIPLE
 
-* I protect and allocate my time with intention
-* I grow through **boundaries, visibility, control, and positioning**
+> 1. I protect and allocate my time with intention
+> 1. I grow through `boundaries, visibility, control, and positioning`
 
 ---
 
 ## 2. 🧬 IDENTITY
 
-> **Calm. Selective. Visible. High-impact**
+### Calm. Selective. Visible. High-impact
 
-* I am selective in commitments
-* I am controlled in execution
-* I am visible in outcomes
-* I am positioned for growth
+> 1. I am selective in commitments
+> 1. I am controlled in execution
+> 1. I am visible in outcomes
+> 1. I am positioned for growth
 
 ---
 
 ## 3. ⚙️ CORE KERNEL (NON-NEGOTIABLE)
 
-* I evaluate before I commit
-* I prioritize visible, high-impact work
-* I provide direction over full execution
-* I support with defined boundaries
-* I maintain emotional neutrality
+> 1. I evaluate before I commit
+> 1. I prioritize visible, high-impact work
+> 1. I provide direction over full execution
+> 1. I support with defined boundaries
+> 1. I maintain emotional neutrality
 
 ---
 

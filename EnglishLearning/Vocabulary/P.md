@@ -200,6 +200,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Marked by exactness and accuracy; clearly defined or stated.
 **Usage**: "Her instructions were precise and easy to follow." - Clear and accurate guidance can lead to better outcomes.
 
+## Precocious
+
+**Meaning**: Having developed certain abilities or understanding earlier than usual; exceptionally advanced for one's age.
+**Usage**: "Her precocious curiosity made her ask deep questions long before her peers did." - Early intellectual maturity can show up as unusual insight and eagerness to learn.
+
 ## Preconceived
 
 **Meaning**: An idea or opinion formed before having the evidence for its truth or usefulness.
