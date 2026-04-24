@@ -104,6 +104,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: In a way that produces powerful feelings or strong, clear images in the mind.
 **Usage**: "She vividly remembers the day they met." - This emphasizes the clarity and intensity of her memory.
 
+## Volition
+
+**Meaning**: The faculty or power of using one's will; a conscious choice or decision made independently.
+**Usage**: "She pursued her creative goals entirely of her own volition, without any external pressure." - Highlights that the decision was self-driven and intentional.
+
 ## Voracious
 
 **Meaning**: Having a very eager approach to an activity; extremely hungry for knowledge, experience, or food.
