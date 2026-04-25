@@ -104,6 +104,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Similar or related in nature.
 **Usage**: "Her interests are akin to mine." - We share similar interests or characteristics.
 
+## Alacrity
+
+**Meaning**: Brisk and cheerful readiness.
+**Usage**: "She accepted the task with alacrity, eager to learn something new." - A swift, enthusiastic response to an opportunity or request.
+
 ## Aleatory
 
 **Meaning**: Depending on chance, luck, or an uncertain outcome; random.

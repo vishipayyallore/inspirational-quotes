@@ -36,15 +36,15 @@
 
 ### 4.1 I validate
 
-* This is visible to decision-makers
-* This drives measurable outcomes
-* This strengthens my positioning
+> 1. This is visible to decision-makers
+> 1. This drives measurable outcomes
+> 1. This strengthens my positioning
 
 ### 4.2 I allocate effort
 
-* Strategic → 80–100%
-* Standard → 60%
-* Low-value → 20–40%
+> 1. Strategic → 80–100%
+> 1. Standard → 60%
+> 1. Low-value → 20–40%
 
 ---
 
@@ -52,18 +52,18 @@
 
 ### 5.1 I create space
 
-* “Let me review and get back”
-* “I’ll check priorities and confirm”
+> 1. Let me review and get back
+> 1. I’ll check priorities and confirm
 
 ### 5.2 I align before action
 
-* “What outcome are we targeting?”
-* “What should I deprioritize?”
-* “Let’s align scope and ownership before proceeding”
+> 1. What outcome are we targeting?
+> 1. What should I deprioritize?
+> 1. Let’s align scope and ownership before proceeding
 
 ### 5.3 Execution Model
 
-Evaluate → Align → Decide → Communicate
+> 1. Evaluate → Align → Decide → Communicate
 
 ---
 
