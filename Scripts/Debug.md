@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-23 12:17:36 — Added **Volition** (V.md) — all 26 files OK
+**Last verification**: 2026-04-24 12:05:40 — Added **Appetence** (A.md), **Braird** (B.md), **Precocious** (P.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-24: Reasoning summary: Added `Appetence`, `Braird`, and `Precocious` after confirming the words were missing from the vocabulary collection. Action(s) taken: Inserted each word in strict alphabetical order in `A.md`, `B.md`, and `P.md`; updated `VocabularyDefinitions.md`; first verification found a temporary `B.md` ordering issue, corrected by moving `Braird` after `Bragging`; saved final log (`Logs/verify-20260424-120539.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (51 words)`, `B.md -> OK (28 words)`, `P.md -> OK (59 words)`.
 - 2026-04-22: Reasoning summary: Added `Jocose` (J.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Jocose` in strict alphabetical order before `Jocund`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260422-124724.txt`). Outcome / verification: All 26 letter files OK; `J.md -> OK (11 words)`.
 - 2026-04-21: Reasoning summary: Added `Futz` (F.md), `Praxis` and `Purlieu` (P.md), plus `Ramshackle` (R.md) after confirming they were not already present; `Coterminous` already existed in `C.md`, so no duplicate was added. Action(s) taken: Inserted all four new words in strict alphabetical order; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260421-125453.txt`). Outcome / verification: All 26 letter files OK; `F.md -> OK (28 words)`, `P.md -> OK (58 words)`, `R.md -> OK (38 words)`.
 - 2026-04-21: Reasoning summary: Added `Opportune` (O.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Opportune` in strict alphabetical order between `Opaque` and `Optimistic`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260421-124810.txt`). Outcome / verification: All 26 letter files OK; `O.md -> OK (14 words)`.

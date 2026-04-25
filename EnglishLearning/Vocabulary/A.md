@@ -179,6 +179,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The shortening of a word by dropping one or more sounds (usually at the end), especially in informal speech.
 **Usage**: "In casual conversation, we often use apocope—like saying 'info' instead of 'information'—to communicate quickly." - Shows how everyday shortcuts can make speech more efficient.
 
+## Appetence
+
+**Meaning**: A natural inclination, desire, or craving toward something.
+**Usage**: "A strong appetence for learning can turn ordinary days into steady progress." - A deep desire to learn helps build consistent growth over time.
+
 ## Apricity
 
 **Meaning**: The warmth of the sun in winter; a pleasant feeling of sunlight during a cold season.
