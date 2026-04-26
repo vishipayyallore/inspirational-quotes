@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-25 17:22:35 — Added **Alacrity** (A.md) — all 26 files OK
+**Last verification**: 2026-04-26 12:12:29 — Added **Operose** (O.md) and **Sashay** (S.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-26: Reasoning summary: Added `Operose` (O.md) and `Sashay` (S.md) after confirming both words were not already present in the vocabulary collection. Action(s) taken: Inserted `Operose` between `Opaque` and `Opportune`; inserted `Sashay` between `Sanguine` and `Schlep`; updated `VocabularyDefinitions.md`; saved final log (`Logs/verify-20260426-121229.txt`). Outcome / verification: All 26 letter files OK; `O.md -> OK (15 words)`, `S.md -> OK (56 words)`.
 - 2026-04-25: Reasoning summary: Added `Alacrity` (A.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Alacrity` in strict alphabetical order between `Akin` and `Aleatory`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260425-172235.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (52 words)`.
 - 2026-04-24: Reasoning summary: Added `Appetence`, `Braird`, and `Precocious` after confirming the words were missing from the vocabulary collection. Action(s) taken: Inserted each word in strict alphabetical order in `A.md`, `B.md`, and `P.md`; updated `VocabularyDefinitions.md`; first verification found a temporary `B.md` ordering issue, corrected by moving `Braird` after `Bragging`; saved final log (`Logs/verify-20260424-120539.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (51 words)`, `B.md -> OK (28 words)`, `P.md -> OK (59 words)`.
 - 2026-04-22: Reasoning summary: Added `Jocose` (J.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Jocose` in strict alphabetical order before `Jocund`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260422-124724.txt`). Outcome / verification: All 26 letter files OK; `J.md -> OK (11 words)`.
@@ -49,4 +50,4 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 - After editing any `EnglishLearning/Vocabulary/*.md` file, run the verification command and save output to `Logs/verify-<timestamp>.txt`.
 - Template `WordName` entries are excluded from verification.
-- Exit codes: 0 = all files OK, 2 = one or more files out of order.
+- Exit codes: 0 = all files OK, 2 = one or more files out of or

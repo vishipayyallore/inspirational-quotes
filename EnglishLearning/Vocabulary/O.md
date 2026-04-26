@@ -44,6 +44,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Not able to be seen through; not transparent; hard to understand.
 **Usage**: "Sometimes the path forward seems opaque, but trust that each step will clear the fog." - Even when the future isn't clear, keep moving forward.
 
+## Operose
+
+**Meaning**: Involving or displaying much hard work; laborious and painstaking.
+**Usage**: "An operose effort today can become effortless confidence tomorrow." - Sustained hard work now creates ease and mastery later.
+
 ## Opportune
 
 **Meaning**: Well-timed or especially suitable for a particular purpose or situation.
