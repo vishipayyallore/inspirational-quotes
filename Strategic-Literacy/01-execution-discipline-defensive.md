@@ -34,13 +34,13 @@
 
 ## 4. 🧭 DECISION ENGINE (BEFORE ANY YES)
 
-### 4.1 I validate
+### 4.1. I validate
 
 > 1. This is visible to decision-makers
 > 1. This drives measurable outcomes
 > 1. This strengthens my positioning
 
-### 4.2 I allocate effort
+### 4.2. I allocate effort
 
 > 1. Strategic → 80–100%
 > 1. Standard → 60%
@@ -50,18 +50,18 @@
 
 ## 5. ⚙️ RESPONSE & ALIGNMENT SYSTEM
 
-### 5.1 I create space
+### 5.1. I create space
 
 > 1. Let me review and get back
 > 1. I’ll check priorities and confirm
 
-### 5.2 I align before action
+### 5.2. I align before action
 
 > 1. What outcome are we targeting?
 > 1. What should I deprioritize?
 > 1. Let’s align scope and ownership before proceeding
 
-### 5.3 Execution Model
+### 5.3. Execution Model
 
 > 1. Evaluate → Align → Decide → Communicate
 
@@ -69,43 +69,35 @@
 
 ## 6. 🧩 OWNERSHIP MODEL
 
-* I define ownership explicitly
-* I guide without absorbing responsibility
-* I keep ownership visible at all times
+> 1. I define ownership explicitly
+> 1. I guide without absorbing responsibility
+> 1. I keep ownership visible at all times
 
-### 6.1 Use
+### 6.1. Use
 
-* “Let’s align on ownership before proceeding”
-* “I’ll support at a high level”
-* “Here’s the approach—you can take it forward”
+> 1. Let’s align on ownership before proceeding
+> 1. I’ll support at a high level
+> 1. Here’s the approach—you can take it forward
 
 ---
 
 ## 7. 🔥 VISIBILITY SYSTEM
 
-### 7.1 I create visibility at all stages
+### 7.1. I create visibility at all stages
 
-**Before**
+> 1. **Before:** Here’s the approach I designed…
+> 1. **During:** Sharing progress for visibility…
+> 1. **After:** Handled X → Delivered Y → Next Z
 
-* “Here’s the approach I designed…”
+### 7.2. Weekly
 
-**During**
+> 1. 1 visible outcome
+> 1. 1 decision influence
+> 1. 1 stakeholder alignment
 
-* “Sharing progress for visibility…”
+### 7.3. Monthly
 
-**After**
-
-* “Handled X → Delivered Y → Next Z”
-
-### 7.2 Weekly
-
-* 1 visible outcome
-* 1 decision influence
-* 1 stakeholder alignment
-
-### 7.3 Monthly
-
-* I share structured thinking
+> 1. I share structured thinking
 
 ---
 
