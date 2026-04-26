@@ -25,6 +25,8 @@ Where in my current environment could competence be misinterpreted as competitio
 
 ---
 
+## Here
+
 ## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
 ### 2.1. Core Principle (Personal Interpretation)
