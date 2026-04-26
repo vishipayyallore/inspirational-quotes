@@ -50,4 +50,4 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 - After editing any `EnglishLearning/Vocabulary/*.md` file, run the verification command and save output to `Logs/verify-<timestamp>.txt`.
 - Template `WordName` entries are excluded from verification.
-- Exit codes: 0 = all files OK, 2 = one or more files out of or
+- Exit codes: 0 = all files OK, 2 = one or more files out of order.
