@@ -4,9 +4,9 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 ## Available Letter Files
 
-- [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Alacrity, Aleatory, Alpenglow, Antiquarian, Aphorism, Aplomb, Appetence, Apricity, Ascribe, Atiptoe, Axiomatic
+- [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Alacrity, Aleatory, Alpenglow, Antiquarian, Aphorism, Aplomb, Appetence, Apricity, Ascribe, Assiduous, Atiptoe, Axiomatic
 - [B Vocabulary](./B.md) - Words like Beatific, Bliss, Bon Ton, Boondoggle, Braird, Brevity, Brumal, Buoyant, Burnout
-- [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Clarity, Clement, Compassionate, Congenial, Consistency, Coterminous, Courage, Cunning, Curiosity
+- [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Clarity, Clement, Compassionate, Congenial, Consistency, Coterminous, Courage, Crevasse, Crevice, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Duplicity
 - [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Erstwhile, Euphonious, Eunoia, Execution, Expiscate
 - [F Vocabulary](./F.md) - Words like Fabricate, Facetious, Facets, Fait Accompli, Fallible, Farrago, Fathom, Felicity, Fervent, Fictitious, Figgy pudding, First-Foot, Flagship, Flattery, Flaunt, Flocculent, Floriferous, Flourish, Flummox, Fortitude, Fragmented, Frenzy, Frontier, Fuse, Fusion, Futz
@@ -14,7 +14,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Hinterland, Humble
 - [I Vocabulary](./I.md) - Words like Iiwi, Illustrate, Imbued, Imminent, Impetus, Impetrate, Inciting, Incommunicado, Ineffable, Infomania, Ingenuity, Ingest, Inhere, Instigating, Instincts, Integrity, Interlard, Intimidate, Intonation, Intrepid, Intricacies, Intricate, Intuitive, Inure, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocose, Jocund, Journey, Jollification, Jovial, Juvenescent
-- [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kismet, Knead, Krummholz
+- [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kismet, Klatsch, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nadir, Nascent, Nebulous, Nimble, Noctivagant, Nostalgia, Novaturient, Nudge, Numinous

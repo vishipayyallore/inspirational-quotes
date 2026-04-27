@@ -199,6 +199,16 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: To make a crackling or popping sound, like a fire or joints snapping.
 **Usage**: "Let old doubts crepitate and burn away as you build new habits—each small pop is progress leaving room for growth." - Uses the crackling image to represent shedding old limitations.
 
+## Crevasse
+
+**Meaning**: A deep, narrow opening or crack, especially one in a glacier or in rock.
+**Usage**: "When you spot a crevasse ahead, you don’t argue with the danger—you adjust your path." - Encourages practical wisdom: notice risks early and respond calmly.
+
+## Crevice
+
+**Meaning**: A narrow crack or fissure, especially in a rock or wall.
+**Usage**: "Even a small crevice can widen over time—tend to tiny problems early before they become big ones." - Highlights the value of early, steady attention.
+
 ## Crucial
 
 **Meaning**: Of great importance; critical.  

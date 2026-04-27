@@ -39,6 +39,11 @@ This file contains definitions and example usage for "K" words found in the insp
 **Meaning**: Fate or destiny; the feeling that events are guided by forces beyond your control.
 **Usage**: "What looked like a setback felt like kismet in disguise—it pushed her toward the path she was meant to take." - Shows how an unexpected event can be seen as destiny guiding growth.
 
+## Klatsch
+
+**Meaning**: Gossip or idle talk.
+**Usage**: "Skip the klatsch and invest your attention in conversations that build people up." - Encourages choosing meaningful speech over distracting chatter.
+
 ## Knead
 
 **Definition:** To work dough or clay into a uniform mixture by pressing, folding, and stretching.
