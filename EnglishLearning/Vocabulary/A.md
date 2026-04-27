@@ -234,6 +234,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To have a strong desire to achieve or reach something.
 **Usage**: "Aspire to inspire before you expire." - Aim to motivate and uplift others during your lifetime.
 
+## Assiduous
+
+**Meaning**: Showing great care, effort, and perseverance; diligent and attentive.
+**Usage**: "With assiduous practice, she turned a fragile skill into a steady strength." - Emphasizes consistent, careful effort as the path to mastery.
+
 ## Atiptoe
 
 **Meaning**: On tiptoe; moving quietly or cautiously.

@@ -25,8 +25,6 @@ Where in my current environment could competence be misinterpreted as competitio
 
 ---
 
-## Here
-
 ## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
 ### 2.1. Core Principle (Personal Interpretation)
@@ -43,7 +41,7 @@ Am I over-relying on personal rapport where incentive alignment should be my pri
 
 ---
 
-## 3. Conceal Your Intentions
+## 3. Conceal Your Intentions -- Here
 
 ### 3.1. Core Principle (Personal Interpretation)
 
