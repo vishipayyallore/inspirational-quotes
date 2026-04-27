@@ -39,6 +39,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Optimistic or positive, especially in a difficult situation; cheerfully confident about the future.
 **Usage**: "Stay sanguine through setbacks—your hopeful outlook often becomes a self-fulfilling prophecy." - Encourages maintaining optimism because positive expectations can shape positive outcomes.
 
+## Sashay
+
+**Meaning**: To walk in a confident, lively, and often dramatic way.
+**Usage**: "She sashayed into the challenge with confidence, proving that attitude can shape outcomes." - Highlights bold, self-assured movement as a metaphor for facing difficulties.
+
 ## Schlep
 
 **Meaning**: To carry or haul something with difficulty or effort; to make a tedious or burdensome journey.

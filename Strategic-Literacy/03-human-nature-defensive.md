@@ -27,3 +27,27 @@ Maintain emotional neutrality in high-stakes situations; reacting emotionally re
 Where am I assuming rational intent in an environment that is actually driven by emotion?
 
 ---
+
+## **2. Law of Narcissism**
+
+### **2.1. Core Principle (Personal Interpretation)**
+
+People are primarily self-referential. Even when appearing collaborative, their decisions are influenced by self-interest, validation needs, and personal narratives.
+
+### **2.2. Defensive Insight**
+
+**Anchor interactions in others’ self-interest—not stated intent.**
+
+Do not rely solely on what people say; observe what benefits them. Alignment is more reliable when incentives match, not when intentions sound agreeable.
+
+Avoid over-investing in being understood or appreciated. Instead, position ideas in a way that connects to others’ priorities and perceived gains.
+
+Maintain awareness of your own need for validation—this is a common entry point for manipulation.
+
+**Incentives reveal truth faster than words.**
+
+### **2.3. Reflection Prompt**
+
+Am I evaluating alignment based on what is said—or on what the other person stands to gain?
+
+---
