@@ -41,9 +41,7 @@ Am I over-relying on personal rapport where incentive alignment should be my pri
 
 ---
 
-## Here
-
-## 3. Conceal Your Intentions
+## 3. Conceal Your Intentions -- Here
 
 ### 3.1. Core Principle (Personal Interpretation)
 
