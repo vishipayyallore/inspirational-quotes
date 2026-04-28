@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-27 14:36:24 — Added **Assiduous** (A.md), **Crevasse** & **Crevice** (C.md), and **Klatsch** (K.md) — all 26 files OK
+**Last verification**: 2026-04-28 13:10:29 — Added **Quiddity** (Q.md) and **Birr** (B.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-04-28: Reasoning summary: Added `Quiddity` (Q.md) and `Birr` (B.md) after confirming neither word already existed in the vocabulary collection. Action(s) taken: Inserted both words in strict alphabetical order; corrected `Birr` ordering (bi > be); updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260428-131029.txt`). Outcome / verification: All 26 letter files OK; `B.md -> OK (29 words)`, `Q.md -> OK (13 words)`.
 - 2026-04-27: Reasoning summary: Added `Assiduous` (A.md), `Crevasse` and `Crevice` (C.md), plus `Klatsch` (K.md) after confirming they were not already present as vocabulary entries. Action(s) taken: Inserted all four words in strict alphabetical order; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260427-143623.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (53 words)`, `C.md -> OK (51 words)`, `K.md -> OK (9 words)`.
 - 2026-04-26: Reasoning summary: Added `Operose` (O.md) and `Sashay` (S.md) after confirming both words were not already present in the vocabulary collection. Action(s) taken: Inserted `Operose` between `Opaque` and `Opportune`; inserted `Sashay` between `Sanguine` and `Schlep`; updated `VocabularyDefinitions.md`; saved final log (`Logs/verify-20260426-121229.txt`). Outcome / verification: All 26 letter files OK; `O.md -> OK (15 words)`, `S.md -> OK (56 words)`.
 - 2026-04-25: Reasoning summary: Added `Alacrity` (A.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Alacrity` in strict alphabetical order between `Akin` and `Aleatory`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260425-172235.txt`). Outcome / verification: All 26 letter files OK; `A.md -> OK (52 words)`.
