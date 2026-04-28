@@ -29,6 +29,11 @@ This file contains vocabulary words starting with the letter Q, along with their
 **Meaning**: A long or arduous search for something.
 **Usage**: "The quest for knowledge is never-ending." - The pursuit of understanding and learning is a lifelong journey.
 
+## Quiddity
+
+**Meaning**: The essential nature of something; a subtle point in an argument.
+**Usage**: "When you understand the quiddity of a challenge, your next decision becomes clearer and more confident." - Focuses on grasping core essence before taking action.
+
 ## Quiescent
 
 **Meaning**: In a state of rest, inactivity, or stillness; temporarily dormant.
