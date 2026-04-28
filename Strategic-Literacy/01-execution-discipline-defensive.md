@@ -25,9 +25,9 @@
 ## 3. ⚙️ CORE KERNEL (NON-NEGOTIABLE)
 
 > 1. I evaluate before I commit
-> 1. I prioritize visible, high-impact work
-> 1. I provide direction over full execution
-> 1. I support with defined boundaries
+> 1. I prioritize high-impact, visible work
+> 1. I provide direction over execution
+> 1. I support within defined boundaries
 > 1. I maintain emotional neutrality
 
 ---
@@ -36,9 +36,9 @@
 
 ### 4.1. I validate
 
-> 1. This is visible to decision-makers
-> 1. This drives measurable outcomes
-> 1. This strengthens my positioning
+> 1. I confirm visibility to decision-makers
+> 1. I confirm measurable outcome impact
+> 1. I confirm alignment with my positioning
 
 ### 4.2. I allocate effort
 
