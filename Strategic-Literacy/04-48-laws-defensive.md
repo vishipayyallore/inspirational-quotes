@@ -41,7 +41,7 @@ Am I over-relying on personal rapport where incentive alignment should be my pri
 
 ---
 
-## 3. Conceal Your Intentions -- Here
+## 3. Conceal Your Intentions
 
 ### 3.1. Core Principle (Personal Interpretation)
 
@@ -57,7 +57,7 @@ Have I shared long-term plans in environments where incentives are not fully ali
 
 ---
 
-## 4. Always Say Less Than Necessary
+## 4. Always Say Less Than Necessary -- Here
 
 ### 4.1. Core Principle (Personal Interpretation)
 
