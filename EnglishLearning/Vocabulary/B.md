@@ -54,6 +54,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Made for a particular customer or user; custom-made.
 **Usage**: "The bespoke suit fit him perfectly." - Tailored clothing is designed to meet the specific measurements and preferences of an individual.
 
+## Birr
+
+**Meaning**: A whirring sound, as of something spinning or rushing through the air; also used to mean force, energy, or momentum.
+**Usage**: "She tackled every morning task with such birr that the whole team felt the energy lift." - Vigorous momentum can be contagious and drive a group forward.
+
 ## Bland
 
 **Meaning**: Lacking strong features or characteristics and therefore uninteresting.
