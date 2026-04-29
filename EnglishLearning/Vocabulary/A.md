@@ -204,6 +204,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Having little or no rain; too dry or barren to support vegetation.
 **Usage**: "The arid landscape was dotted with cacti and other drought-resistant plants." - Describes a dry environment where water is scarce.
 
+## Armadillo
+
+**Meaning**: A small to medium-sized mammal with a hard, protective shell-like armor and a habit of digging for insects.
+**Usage**: "Like an armadillo, he carried quiet resilience, protecting his heart while still moving forward." - Suggests balancing self-protection with steady progress.
+
 ## Armor
 
 **Meaning**: A protective covering or shield.
