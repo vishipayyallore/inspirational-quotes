@@ -34,6 +34,11 @@ This file contains definitions and example usage for "K" words found in the insp
 **Meaning**: Relating to or resulting from motion; active and dynamic.
 **Usage**: "His kinetic energy inspired the entire team to move forward." - Describing dynamic, action-oriented enthusiasm.
 
+## Kudos
+
+**Meaning**: Praise, honor, or recognition for an achievement or good work.
+**Usage**: "Kudos to you for staying disciplined every day; consistent effort quietly builds extraordinary results." - Appreciates steady commitment and reinforces positive progress.
+
 ## Kismet
 
 **Meaning**: Fate or destiny; the feeling that events are guided by forces beyond your control.
