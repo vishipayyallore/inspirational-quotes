@@ -57,7 +57,7 @@ Have I shared long-term plans in environments where incentives are not fully ali
 
 ---
 
-## 4. Always Say Less Than Necessary -- Here
+## 4. Always Say Less Than Necessary
 
 ### 4.1. Core Principle (Personal Interpretation)
 
@@ -73,7 +73,7 @@ In recent discussions, have I spoken to clarify value — or to seek validation?
 
 ---
 
-## 5. So Much Depends on Reputation — Guard It With Your Life
+## 5. So Much Depends on Reputation — Guard It With Your Life -- Here
 
 ### 5.1. Core Principle (Personal Interpretation)
 
