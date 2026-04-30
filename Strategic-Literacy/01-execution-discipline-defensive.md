@@ -57,6 +57,14 @@
 
 ### 5.2. I align before action
 
+#### Focus
+
+> 1. Outcome clarity
+> 1. Priority alignment
+> 1. Scope and ownership alignment
+
+#### Use
+
 > 1. What outcome are we targeting?
 > 1. What should I deprioritize?
 > 1. Let’s align scope and ownership before proceeding
