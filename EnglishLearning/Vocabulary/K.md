@@ -34,11 +34,6 @@ This file contains definitions and example usage for "K" words found in the insp
 **Meaning**: Relating to or resulting from motion; active and dynamic.
 **Usage**: "His kinetic energy inspired the entire team to move forward." - Describing dynamic, action-oriented enthusiasm.
 
-## Kudos
-
-**Meaning**: Praise, honor, or recognition for an achievement or good work.
-**Usage**: "Kudos to you for staying disciplined every day; consistent effort quietly builds extraordinary results." - Appreciates steady commitment and reinforces positive progress.
-
 ## Kismet
 
 **Meaning**: Fate or destiny; the feeling that events are guided by forces beyond your control.
@@ -58,3 +53,8 @@ This file contains definitions and example usage for "K" words found in the insp
 
 **Meaning**: Stunted, wind-deformed trees that grow at high altitudes or in harsh conditions near the tree line.
 **Usage**: "Like krummholz clinging to a mountainside, your persistence in tough conditions shapes you into something uniquely strong." - Uses the image of hardy, bent trees to symbolize resilience in adversity.
+
+## Kudos
+
+**Meaning**: Praise, honor, or recognition for an achievement or good work.
+**Usage**: "Kudos to you for staying disciplined every day; consistent effort quietly builds extraordinary results." - Appreciates steady commitment and reinforces positive progress.

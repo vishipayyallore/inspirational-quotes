@@ -23,7 +23,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [Q Vocabulary](./Q.md) - Words like Qanat, Quell, Querulous, Quest, Quiddity, Quiescent, Quietude, Quintessence, Quintessential, Quixotic, Quotable, Quotha, Quotidian
 - [R Vocabulary](./R.md) - Words like Raconteur, Radiance, Ramshackle, Reciprocate, Rectitude, Reify, Resourceful, Resilience, Resolve, Restraint, Reticent
 - [S Vocabulary](./S.md) - Words like Sagacious, Sagacity, Sagittate, Salient, Salutary, Sanguine, Sashay, Schlep, Scofflaw, Scry, Sedulous, Semantic, Sempiternal, Serendipity, Serene, Serenity, Sheer, Shoved, Simile, Simonize, Skewed, Skiddoo, Skim, Skimming, Skosh, Slop, Snarf, Sockeroo, Solace, Solipsism, Solitude, Sonder, Sotto voce, Sparingly, Sparse, Spectrograms, Spectrum, Splurge, Spooky, Stalwarts, Steadfast, Steer, Stemming, Stochastic, Stoic, Straying, Sub Rosa, Subfusc, Sublime, Subtleties, Succinct, Suspire, Susurrus, Swindler, Synonymous, Synopsis
-- [T Vocabulary](./T.md) - Words like Taradiddle, Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
+- [T Vocabulary](./T.md) - Words like Taradiddle, Temperance, Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Uitwaaien, Undaunted, Unflappable, Understanding, Unique, Unexamined, Uplift
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve, Vigilant
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wholesome, Williwaw, Winsome, Wistful, Wit, Wizardry
