@@ -15,7 +15,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [I Vocabulary](./I.md) - Words like Iiwi, Illustrate, Imbued, Imminent, Impetus, Impetrate, Inciting, Incommunicado, Ineffable, Infomania, Ingenuity, Ingest, Inhere, Instigating, Instincts, Integrity, Interlard, Intimidate, Intonation, Intrepid, Intricacies, Intricate, Intuitive, Inure, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocose, Jocund, Journey, Jollification, Jovial, Juvenescent, Juxtapose
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kudos, Kismet, Klatsch, Knead, Krummholz
-- [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
+- [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lampoon, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nadir, Nascent, Nebulous, Nimble, Noctivagant, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Obviate, Odontoid, Opaque, Operose, Opportune, Optimistic, Overwhelm
@@ -27,7 +27,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Uitwaaien, Undaunted, Unflappable, Understanding, Unique, Unexamined, Uplift
 - [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve, Vigilant
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wholesome, Williwaw, Winsome, Wistful, Wit, Wizardry
-- [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia
+- [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia, Xylophile
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
 - [Z Vocabulary](./Z.md) - Words like Zeal, Zeitgeist, Zenith, Zephyr, Zoetic
 

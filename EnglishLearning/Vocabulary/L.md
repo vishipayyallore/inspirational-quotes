@@ -19,6 +19,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: A small extra gift, benefit, or bonus given in addition to what is expected.
 **Usage**: "Her mentor's final note of encouragement felt like a lagniappe at the end of an already valuable lesson." - Highlights an unexpected extra that adds warmth and value.
 
+## Lampoon
+
+**Meaning**: A sharp, often humorous critique that mocks someone or something to expose flaws.
+**Usage**: "A thoughtful lampoon can challenge bad ideas while still inviting people to reflect and improve." - Shows satire used as constructive social commentary.
+
 ## Land of Nod
 
 **Meaning**: A poetic expression for sleep or the state of dreaming.

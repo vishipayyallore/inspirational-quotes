@@ -99,48 +99,48 @@
 
 ### 7.2. Weekly (Concrete Execution)
 
-7.2.1. `Deliver one visible outcome`
+### 7.2.1. Deliver one visible outcome
 
-7.2.1.1. `What it means`
+#### 7.2.1.1. What it means
 
 > 1. At least one piece of work is clearly seen by decision-makers.
 
-7.2.1.2. `How`
+#### 7.2.1.2. How
 
 > 1. Send a short update (mail/Slack)
 > 1. Mention outcome, not effort
 
-7.2.1.3. `Example`
+#### 7.2.1.3. Example
 
 > 1. Completed API optimization → reduced latency by 25%
 
-7.2.2. `Influence one decision`
+### 7.2.2. Influence one decision
 
-7.2.2.1. `What it means`
+#### 7.2.2.1. What it means
 
-You shape direction—not just execute.
+> 1. You shape direction—not just execute.
 
-7.2.2.2. `How`
+#### 7.2.2.2. How
 
 > 1. Propose an approach in meeting / chat
 > 1. Ask a framing question that changes direction
 
-7.2.2.3. `Example`
+#### 7.2.2.3. Example
 
 > 1. Suggest we prioritize caching first—highest impact with lowest risk
 
-7.2.3. `Strengthen one stakeholder alignment`
+### 7.2.3. Strengthen one stakeholder alignment
 
-7.2.3.1. `What it means`
+#### 7.2.3.1. What it means
 
-You ensure someone important is aligned with your work.
+> 1. You ensure someone important is aligned with your work.
 
-7.2.3.2. `How`
+#### 7.2.3.2. How
 
 > 1. Share progress directly with a stakeholder
 > 1. Clarify expectations early
 
-7.2.3.3. `Example`
+#### 7.2.3.3. Example
 
 > 1. Quick sync: aligning on scope and expected outcome for this task
 
@@ -148,16 +148,16 @@ You ensure someone important is aligned with your work.
 
 7.3.1. `Share structured thinking`
 
-7.3.1.1. `What it means`
+7.3.1.1. What it means
 
 You demonstrate how you think—not just what you deliver.
 
-7.3.1.2. `How`
+7.3.1.2. How
 
 > 1. Write a short note / post / doc
 > 1. Share architecture, lessons, or patterns
 
-7.3.1.3. `Example`
+7.3.1.3. Example
 
 > 1. Approach to reducing system latency across services (summary + trade-offs)
 

@@ -23,3 +23,8 @@ This file contains vocabulary words starting with the letter X, along with their
 
 **Meaning**: Dislike of or prejudice against people from other countries.
 **Usage**: "Xenophobia can lead to division and conflict." - Fear or hatred of those from different backgrounds can harm societal cohesion.
+
+## Xylophile
+
+**Meaning**: A person who loves forests or woodlands.
+**Usage**: "Stay a xylophile at heart, and let time in nature renew your focus and calm." - Encourages restorative connection with natural environments.
