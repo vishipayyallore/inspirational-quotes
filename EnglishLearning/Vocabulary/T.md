@@ -29,6 +29,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A petty lie or a piece of pretentious, silly nonsense.
 **Usage**: "When excuses turn into taradiddle, progress stalls because attention shifts away from the real work." - Warns against dressing up avoidance or nonsense as substance.
 
+## Temperance
+
+**Meaning**: Moderation and self-restraint, especially in thoughts, habits, and actions.
+**Usage**: "Temperance turns short-term impulses into long-term strength by helping you choose what matters most." - Emphasizes disciplined balance as a path to steady personal growth.
+
 ## Temporal
 
 **Meaning**: Relating to worldly as opposed to spiritual affairs; secular.
