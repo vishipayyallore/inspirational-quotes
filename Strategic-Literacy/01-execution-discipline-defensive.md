@@ -7,7 +7,7 @@
 ## 1. 🔑 CORE PRINCIPLE
 
 > 1. I protect and allocate my time with intention
-> 1. I grow through `boundaries, visibility, control, and positioning`
+> 1. I grow through `boundaries`, `visibility`, `control`, and `positioning`
 
 ---
 
@@ -93,9 +93,9 @@
 
 ### 7.1. I create visibility at all stages
 
-> 1. **Before:** Here’s the approach I designed…
-> 1. **During:** Sharing progress for visibility…
-> 1. **After:** Handled X → Delivered Y → Next Z
+> 1. `Before:` Here’s the approach I designed…
+> 1. `During:` Sharing progress for visibility…
+> 1. `After:` Handled X → Delivered Y → Next Z
 
 ### 7.2. Weekly (Concrete Execution)
 
