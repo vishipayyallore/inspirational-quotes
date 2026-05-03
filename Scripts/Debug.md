@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-04-30 12:57:17 — Added **Temperance** (T.md); **Armadillo** already present (A.md) — all 26 files OK
+**Last verification**: 2026-05-01 07:35:00 — Added **Lampoon** (L.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-05-01: Reasoning summary: Added `Lampoon` (L.md) as requested after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Lampoon` in strict alphabetical order between `Lagniappe` and `Land of Nod`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260501-073500.txt`). Outcome / verification: All 26 letter files OK; `L.md -> OK (18 words)`.
+- 2026-05-01: Reasoning summary: Added `Xylophile` (X.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Xylophile` in strict alphabetical order after `Xenophobia`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260501-073255.txt`). Outcome / verification: All 26 letter files OK; `X.md -> OK (4 words)`.
 - 2026-04-30: Reasoning summary: Processed requested words `Temperance` and `Armadillo` with no duplicates. Action(s) taken: Confirmed `Armadillo` already existed in `A.md`; added `Temperance` to `T.md`; corrected temporary ordering placement in `T.md`; updated `VocabularyDefinitions.md`; fixed `K.md` ordering from earlier insertion; saved final verification log (`Logs/verify-20260430-125717.txt`). Outcome / verification: All 26 letter files OK; `T.md -> OK (26 words)`, `K.md -> OK (10 words)`.
 - 2026-04-29: Reasoning summary: Added `Armadillo` (A.md) after confirming it did not already exist in the vocabulary collection. Action(s) taken: Inserted `Armadillo` in strict alphabetical order between `Arid` and `Armor`; updated `VocabularyDefinitions.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260429-084312.txt"`. Outcome / verification: All 26 letter files OK; `A.md -> OK (54 words)`.
 - 2026-04-29: Reasoning summary: Added `Juxtapose` (J.md) as today's unique word after confirming it did not already exist in the vocabulary collection. Action(s) taken: Inserted `Juxtapose` in strict alphabetical order after `Juvenescent`; updated `VocabularyDefinitions.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260429-083713.txt"`. Outcome / verification: All 26 letter files OK; `J.md -> OK (12 words)`.
