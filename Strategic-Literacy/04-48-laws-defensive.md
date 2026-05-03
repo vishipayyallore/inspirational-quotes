@@ -73,7 +73,7 @@ In recent discussions, have I spoken to clarify value — or to seek validation?
 
 ---
 
-## 5. So Much Depends on Reputation — Guard It With Your Life
+## 5. So Much Depends on Reputation — Guard It With Your Life -- Here
 
 ### 5.1. Core Principle (Personal Interpretation)
 
@@ -89,7 +89,7 @@ What signals am I currently emitting that may be shaping my reputation without m
 
 ---
 
-## 6. Court Attention at All Costs -- Here
+## 6. Court Attention at All Costs
 
 ### 6.1. Core Principle (Personal Interpretation)
 
