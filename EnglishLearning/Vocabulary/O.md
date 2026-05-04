@@ -34,6 +34,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Tooth-shaped; resembling a tooth in form. Also refers to the odontoid process (dens), the bony projection of the second cervical vertebra.
 **Usage**: "The odontoid process anchors the head's rotation—a small structure carrying enormous responsibility, much like a single clear habit that holds an entire routine together." - Uses the anatomy of a pivotal bone to illustrate how a small but essential element can support a much larger structure.
 
+## Odoriferous
+
+**Meaning**: Having a noticeable or distinctive smell, often pleasant but sometimes simply strong.
+**Usage**: "The odoriferous garden after the rain reminded her that small seasons of waiting can end in sudden beauty." - Uses scent-rich imagery to connect patience with renewal.
+
 ## Olfactory
 
 **Meaning**: Relating to the sense of smell.

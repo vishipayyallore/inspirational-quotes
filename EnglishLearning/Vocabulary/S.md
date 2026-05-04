@@ -49,6 +49,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To carry or haul something with difficulty or effort; to make a tedious or burdensome journey.
 **Usage**: "Yes, you must schlep through the hard parts—but every step you carry forward builds the strength to carry more tomorrow." - Emphasizes that enduring difficult work develops resilience and capacity over time.
 
+## Sciolism
+
+**Meaning**: Superficial knowledge; a pretense of learning without deep understanding.
+**Usage**: "Avoid sciolism by studying one concept deeply instead of collecting many half-understood ideas." - Encourages depth of understanding over shallow familiarity.
+
 ## Scofflaw
 
 **Meaning**: A person who flouts the law, especially one who fails to comply with a law that is difficult to enforce effectively.
