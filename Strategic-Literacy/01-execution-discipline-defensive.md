@@ -93,9 +93,9 @@
 
 ### 7.1. I create visibility at all stages
 
-> 1. `Before:` Here’s the approach I designed…
-> 1. `During:` Sharing progress for visibility…
-> 1. `After:` Handled X → Delivered Y → Next Z
+> 1. Before: Here’s the approach I designed…
+> 1. During: Sharing progress for visibility…
+> 1. After: Handled X → Delivered Y → Next Z
 
 ### 7.2. Weekly (Concrete Execution)
 
@@ -146,18 +146,18 @@
 
 ### 7.3. Monthly
 
-7.3.1. `Share structured thinking`
+### 7.3.1. Share structured thinking
 
-7.3.1.1. What it means
+#### 7.3.1.1. What it means
 
-You demonstrate how you think—not just what you deliver.
+You demonstrate how you think — not just what you deliver.
 
-7.3.1.2. How
+#### 7.3.1.2. How
 
 > 1. Write a short note / post / doc
 > 1. Share architecture, lessons, or patterns
 
-7.3.1.3. Example
+#### 7.3.1.3. Example
 
 > 1. Approach to reducing system latency across services (summary + trade-offs)
 
