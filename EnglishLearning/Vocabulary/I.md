@@ -9,6 +9,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Idoneous
+
+**Meaning**: Suitable, fit, or appropriate for a particular purpose.
+**Usage**: "Choose habits that are idoneous for your goals, and progress becomes steadier and easier to sustain." - Picking approaches that truly fit your purpose leads to better long-term results.
+
 ## Iiwi
 
 **Meaning**: A scarlet Hawaiian honeycreeper with black wings and tail and a long, curved bill.
