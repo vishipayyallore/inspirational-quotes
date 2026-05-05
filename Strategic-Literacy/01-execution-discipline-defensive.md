@@ -150,7 +150,7 @@
 
 #### 7.3.1.1. What it means
 
-You demonstrate how you think — not just what you deliver.
+> 1. You demonstrate how you think — not just what you deliver.
 
 #### 7.3.1.2. How
 

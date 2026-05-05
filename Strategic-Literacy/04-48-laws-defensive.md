@@ -89,7 +89,7 @@ What signals am I currently emitting that may be shaping my reputation without m
 
 ---
 
-## 6. Court Attention at All Costs -- Here
+## 6. Court Attention at All Costs
 
 ### 6.1. Core Principle (Personal Interpretation)
 
@@ -109,7 +109,7 @@ Is my work strategically visible to decision-makers — or only observable to pe
 
 ---
 
-## 7. Get Others to Do the Work for You, but Always Take the Credit
+## 7. Get Others to Do the Work for You, but Always Take the Credit -- Here
 
 ### 7.1. Core Principle (Personal Interpretation)
 
