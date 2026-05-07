@@ -5,8 +5,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 ## Daily Wisdom
 
 > 1. **Authority** must come before **responsibility**. - Anonymous
-> 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous -- **Here**
-> 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
+> 1. **Never lie** to someone who trusts you. **Never trust** someone who lies to you. - Anonymous
+> 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous -- **Here**
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
 > 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
@@ -39,8 +39,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
-> 1. **Court attention** at all costs. - Anonymous -- **Here**
-> 1. **Win through your actions**, never through argument. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous
+> 1. **Win through your actions**, never through argument. - Anonymous -- **Here**
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
@@ -51,8 +51,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Mastery in 30 Minutes a Day
 
 > 1. Code for just **30 minutes** a day, and over time, you can master any tech stack in the world. — Viswanatha Swamy P K
-> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K -- **Here**
-> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K
+> 1. Consistency beats intensity — code **30 minutes** a day, and mastery of any stack will follow. — Viswanatha Swamy P K
+> 1. Give **30 minutes** a day to coding, and you’ll unlock mastery of any stack. — Viswanatha Swamy P K -- **Here**
 > 1. Mastery doesn’t demand hours — just code **30 minutes** daily, and any stack can be yours. — Viswanatha Swamy P K
 > 1. Stacks don’t demand intensity. **They reward consistency**. — Viswanatha Swamy P K
 
@@ -60,8 +60,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Do not believe anyone based solely on appearances; true intentions reveal themselves through actions, not outward politeness. – Viswanatha Swamy P K
 > 1. Do not believe anyone by their appearance alone; trust is earned through actions, beyond mere politeness or helpfulness. – Viswanatha Swamy P K
-> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K -- **Here**
-> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
+> 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
+> 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K -- **Here**
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
@@ -86,8 +86,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Not everyone will support you** in becoming a better version of yourself. - Anonymous
 > 1. Every 20-year-old wants to be a millionaire. Every millionaire wants to be **20 years old**. - Anonymous
 > 1. Whenever you think you have a mountain to climb. Do not let the mountain overwhelm you, **think one step at a time**. - Anonymous
-> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous -- **Here**
-> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
+> 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
+> 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous -- **Here**
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
 > 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
 > 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
@@ -99,7 +99,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Smart Career Strategies
 
-> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
+> 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous -- **Here**
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
 > 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
 > 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
@@ -117,7 +117,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
-> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous -- **Here**
+> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. Focus on developing skills, not clinging to job titles.
@@ -146,8 +146,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
-> 1. Beware of the cunning and powerful. - Panchatantra -- **Here**
-> 1. Give your word with care, and keep it with honor. - Panchatantra
+> 1. Beware of the cunning and powerful. - Panchatantra
+> 1. Give your word with care, and keep it with honor. - Panchatantra -- **Here**
 > 1. Target the source of the enemy's power. - Panchatantra
 > 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
@@ -163,8 +163,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll
 > 1. Do not trust words. Trust Actions. - Anonymous
 > 1. Do not watch the clock; do what it does. Keep going. - Sam Levenson
-> 1. The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela -- **Here**
-> 1. It always seems impossible until it is done. - Nelson Mandela
+> 1. The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela
+> 1. It always seems impossible until it is done. - Nelson Mandela -- **Here**
 > 1. The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh
 > 1. Fall seven times, stand up eight. - Japanese Proverb
 > 1. Strength grows in the moments when you think you can not go on but you keep going anyway. - Anonymous

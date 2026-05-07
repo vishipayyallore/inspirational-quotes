@@ -109,7 +109,7 @@ Is my work strategically visible to decision-makers — or only observable to pe
 
 ---
 
-## 7. Get Others to Do the Work for You, but Always Take the Credit -- Here
+## 7. Get Others to Do the Work for You, but Always Take the Credit
 
 ### 7.1. Core Principle (Personal Interpretation)
 
@@ -129,7 +129,7 @@ Are my contributions objectively traceable — or dependent on others' acknowled
 
 ---
 
-## 8. Make Other People Come to You — Use Bait If Necessary
+## 8. Make Other People Come to You — Use Bait If Necessary -- Here
 
 ### 8.1. Core Principle (Personal Interpretation)
 

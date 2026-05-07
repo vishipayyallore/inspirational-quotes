@@ -165,68 +165,69 @@
 
 ## 8. 🎯 IMPACT COMMUNICATION
 
-* I communicate:
+### I communicate
 
-  * Business impact
-  * Risk reduction
-  * Speed improvement
+> 1. Business impact
+> 1. Risk reduction
+> 1. Speed improvement
 
 ---
 
 ## 9. 🧱 BOUNDARY SYSTEM
 
-* I maintain clear scope and ownership
-* I operate with structured availability
+### I maintain clear scope and ownership
+
+> 1. I maintain clear scope and ownership
+> 1. I operate with structured availability
 
 ### 9.1 Use
 
-* “I’m at capacity right now”
-* “This needs prioritization alignment”
-* “Happy to support within current bandwidth”
+> 1. I’m at capacity right now
+> 1. This needs prioritization alignment
+> 1. Happy to support within current bandwidth
 
 ---
 
 ## 10. ⚡ ACCESS & ENERGY CONTROL
 
-* I control response timing
-* I avoid reactive communication
-* I invest energy where impact is highest
+> 1. I control response timing
+> 1. I avoid reactive communication
+> 1. I invest energy where impact is highest
 
 ### 10.1 Default
 
-* “I’ll review and respond”
-
+> 1. I’ll review and respond shortly
 ---
 
 ## 11. 🧭 POSITIONING
 
-* I operate as an architect and decision-maker
-* I contribute through clarity, structure, and direction
-* I am present where impact is highest
+> 1. I operate as an architect and decision-maker
+> 1. I contribute through clarity, structure, and direction
+> 1. I am present where impact is highest
 
 ---
 
 ## 12. 🛡️ STRUCTURAL PROTECTION (BUILT-IN)
 
-* I document work
-* I clarify ownership
-* I communicate contributions
+> 1. I document work
+> 1. I clarify ownership
+> 1. I communicate contributions
 
 ### 12.1 Outcome
 
-* Clear attribution
-* Reduced ambiguity
-* Controlled expectations
+> 1. Clear attribution
+> 1. Reduced ambiguity
+> 1. Controlled expectations
 
 ---
 
 ## 13. 📊 EXECUTION DISCIPLINE
 
-* I invest time with intention
-* I evaluate before committing
-* I focus on visible impact
-* I maintain clear scope
-* I support within defined limits
+> 1. I invest time with intention
+> 1. I evaluate before committing
+> 1. I focus on visible impact
+> 1. I maintain clear scope
+> 1. I support within defined limits
 
 ---
 
@@ -234,133 +235,133 @@
 
 ### 14.1 Rule: Pause → Pick → Speak
 
-* Pause
-* Pick closest pattern
-* Speak one clean line
+> 1. Pause
+> 1. Pick closest pattern
+> 1. Speak one clean line
 
 ---
 
 ### 14.2 Work pushed
 
-**Goal:** Control ownership + priority
+#### **Goal:** Control ownership + priority
 
-* “Let’s align on ownership before I proceed”
-* “What should I deprioritize for this?”
+> 1. Let’s align on ownership before I proceed
+> 1. What should I deprioritize for this?
 
 ---
 
 ### 14.3 Credit / visibility
 
-**Goal:** Establish authorship
+#### **Goal:** Establish authorship
 
-* “Here’s the approach I designed…”
-* “Sharing progress for visibility…”
+> 1. Here’s the approach I designed…
+> 1. Sharing progress for visibility…
 
 ---
 
 ### 14.4 Help request
 
-**Goal:** Support without ownership
+#### **Goal:** Support without ownership
 
-* “I can guide at a high level”
-* “Here’s the approach—you can take it forward”
+> 1. I can guide at a high level
+> 1. Here’s the approach—you can take it forward
 
 ---
 
 ### 14.5 Pressure applied
 
-**Goal:** Slow down
+#### **Goal:** Slow down
 
-* “I’ll review and get back”
-* “Aligning priorities ensures effective execution”
+> 1. I’ll review and get back
+> 1. Aligning priorities ensures effective execution
 
 ---
 
 ### 14.6 Scope unclear
 
-**Goal:** Define first
+#### **Goal:** Define first
 
-* “What outcome are we targeting?”
-* “Let’s align scope before proceeding”
+> 1. What outcome are we targeting?
+> 1. Let’s align scope before proceeding
 
 ---
 
 ### 14.7 Overload
 
-**Goal:** Rebalance
+#### **Goal:** Rebalance
 
-* “What should I deprioritize?”
-* “I’ll align this with current priorities and confirm”
+> 1. What should I deprioritize?
+> 1. I’ll align this with current priorities and confirm
 
 ---
 
 ### 14.8 Low visibility
 
-**Goal:** Re-enter with value
+#### **Goal:** Re-enter with value
 
-* “Sharing an update for visibility…”
-* “Happy to share a quick update if helpful”
+> 1. Sharing an update for visibility…
+> 1. Happy to share a quick update if helpful
 
 ---
 
 ### 14.9 Vague request
 
-**Goal:** Force clarity
+#### **Goal:** Force clarity
 
-* “Can you clarify expected outcome?”
-* “What does success look like?”
+> 1. Can you clarify expected outcome?
+> 1. What does success look like?
 
 ---
 
 ### 14.10 Ownership ambiguity
 
-**Goal:** Prevent silent responsibility
+#### **Goal:** Prevent silent responsibility
 
-* “Let’s align ownership before proceeding”
-* “I’ll support this—confirming ownership stays with you”
+> 1. Let’s align ownership before proceeding
+> 1. I’ll support this—confirming ownership stays with you
 
 ---
 
 ### 14.11 Assert position
 
-**Goal:** Show contribution calmly
+#### **Goal:** Show contribution calmly
 
-* “This aligns with the approach I outlined earlier”
+> 1. This aligns with the approach I outlined earlier
 
 ---
 
 ### 14.12 Asked to solve everything
 
-**Goal:** Stay at architect level
+#### **Goal:** Stay at architect level
 
-* “Here are the options we can consider…”
+> 1. Here are the options we can consider…
 
 ---
 
 ### 14.13 Immediate answer expected
 
-**Goal:** Avoid reactive commitment
+#### **Goal:** Avoid reactive commitment
 
-* “I’ll review and respond shortly”
+> 1. I’ll review and respond shortly
 
 ---
 
 ### 14.14 Emotional trigger
 
-**Goal:** Stay controlled
+#### **Goal:** Stay controlled
 
-* Pause
-* Breathe
-* Respond neutrally
+> 1. Pause
+> 1. Breathe
+> 1. Respond neutrally
 
 ---
 
 ### 14.15 Need to say NO
 
-**Goal:** Decline cleanly
+#### **Goal:** Decline cleanly
 
-* “I won’t be able to take this up right now”
-* “I can’t commit to this with current priorities”
+> 1. I won’t be able to take this up right now
+> 1. I can’t commit to this with current priorities
 
 ---
 
@@ -368,11 +369,11 @@
 
 ### 15.1 I recognize patterns
 
-* Polite engagement
-* Delegated ownership
-* Centralized credit
-* Controlled visibility
-* Selective inclusion
+> 1. Polite engagement
+> 1. Delegated ownership
+> 1. Centralized credit
+> 1. Controlled visibility
+> 1. Selective inclusion
 
 ---
 
@@ -380,77 +381,77 @@
 
 #### 15.2.1 Ownership
 
-* I define ownership before execution
+> 1. I define ownership before execution
 
 Use:
 
-* “I’ll support—confirming ownership remains with you”
+> 1. I’ll support—confirming ownership remains with you
 
 ---
 
 #### 15.2.2 Visibility
 
-* I communicate contribution early and consistently
+> 1. I communicate contribution early and consistently
 
-Use:
+#### 15.2.2.1. Use
 
-* “Proposed…”
-* “Designed…”
-* “Completed…”
+> 1. Proposed…
+> 1. Designed…
+> 1. Completed…
 
 ---
 
 #### 15.2.3 Documentation
 
-* I confirm decisions in writing
-* I summarize discussions
-* I capture ownership clearly
+> 1. I confirm decisions in writing
+> 1. I summarize discussions
+> 1. I capture ownership clearly
 
 ---
 
 #### 15.2.4 Communication channel control
 
-* I use shared channels
-* I maintain visibility across stakeholders
+> 1. I use shared channels
+> 1. I maintain visibility across stakeholders
 
 ---
 
 #### 15.2.5 Execution control
 
-* I align before acting
-* I maintain measured pace
-* I avoid silent execution
+> 1. I align before acting
+> 1. I maintain measured pace
+> 1. I avoid silent execution
 
 ---
 
 #### 15.2.6 Re-entry strategy
 
-* “Sharing update for visibility…”
-* “Happy to provide a quick update if helpful”
+> 1. Sharing update for visibility…
+> 1. Happy to provide a quick update if helpful
 
 ---
 
 #### 15.2.7 Position reinforcement
 
-* “This aligns with the approach I outlined earlier”
-* “Based on the design I shared…”
+> 1. This aligns with the approach I outlined earlier
+> 1. Based on the design I shared…
 
 ---
 
 #### 15.2.8 Behavioral discipline
 
-* I remain calm
-* I avoid confrontation
-* I operate through structure
+> 1. I remain calm
+> 1. I avoid confrontation
+> 1. I operate through structure
 
 ---
 
 ### 15.3 Result
 
-* Ownership remains visible
-* Credit is traceable
-* Exclusion loses impact
-* Control stays with me
+> 1. Ownership remains visible
+> 1. Credit is traceable
+> 1. Exclusion loses impact
+> 1. Control stays with me
 
 ---
 
@@ -458,19 +459,19 @@ Use:
 
 ### 16.1 A–O–V–S–C
 
-* Align
-* Outcome
-* Visibility
-* Scope
-* Control
+> 1. Align
+> 1. Outcome
+> 1. Visibility
+> 1. Scope
+> 1. Control
 
 ---
 
 ## 17. 📈 GROWTH MODEL
 
-* Discipline → Visibility → Growth
-* Boundaries → Positioning
-* Controlled access → Value
+> 1. Discipline → Visibility → Growth
+> 1. Boundaries → Positioning
+> 1. Controlled access → Value
 
 ---
 
