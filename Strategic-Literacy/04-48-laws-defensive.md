@@ -129,7 +129,7 @@ Are my contributions objectively traceable — or dependent on others' acknowled
 
 ---
 
-## 8. Make Other People Come to You — Use Bait If Necessary -- Here
+## 8. Make Other People Come to You — Use Bait If Necessary
 
 ### 8.1. Core Principle (Personal Interpretation)
 
@@ -147,7 +147,7 @@ Am I building capabilities that create pull — or am I relying on effort and vi
 
 ---
 
-## 9. Win Through Your Actions, Never Through Argument
+## 9. Win Through Your Actions, Never Through Argument -- Here
 
 ### 9.1. Core Principle (Personal Interpretation)
 
