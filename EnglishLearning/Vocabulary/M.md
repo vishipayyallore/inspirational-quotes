@@ -54,6 +54,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Showing great attention to detail; very careful and precise.
 **Usage**: "Meticulous planning is essential for success." - Careful and detailed planning can lead to better outcomes.
 
+## Mettlesome
+
+**Meaning**: Full of spirit and courage; lively, determined, and ready to face challenge.
+**Usage**: "Take a mettlesome step toward the hard thing today, because courage grows stronger when it is exercised." - Encourages bold, spirited action instead of hesitation.
+
 ## Mindfulness
 
 **Meaning**: The quality or state of being conscious or aware of something; a mental state achieved by focusing awareness on the present moment.  

@@ -16,7 +16,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [J Vocabulary](./J.md) - Words like Jocose, Jocund, Journey, Jollification, Jovial, Juvenescent, Juxtapose
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kudos, Kismet, Klatsch, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lampoon, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
-- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metaphors, Meticulous, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
+- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metaphors, Meticulous, Mettlesome, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nadir, Nascent, Nebulous, Nimble, Noctivagant, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Obviate, Odontoid, Odoriferous, Opaque, Operose, Opportune, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Palimpsest, Panglossian, Parity, Praxis, Precocious, Pellucid, Peregrinate, Pericope, Perpend, Perspicacity, Persistence, Perspective, Phlegmatic, Pivot, Preventive, Prognosis, Purlieu

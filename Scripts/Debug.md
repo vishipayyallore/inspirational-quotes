@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. **Keep this file under 50 lines.**
 
-**Last verification**: 2026-05-04 08:14:11 — Added **Sciolism** (S.md), **Odoriferous** (O.md), and **Idoneous** (I.md) — all 26 files OK
+**Last verification**: 2026-05-07 09:31:03 — Added **Mettlesome** (M.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-05-07: Reasoning summary: Added `Mettlesome` (M.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Mettlesome` in strict alphabetical order between `Meticulous` and `Mindfulness`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260507-093050.txt`). Outcome / verification: All 26 letter files OK; `M.md -> OK (21 words)`.
 - 2026-05-04: Reasoning summary: Added `Sciolism`, `Odoriferous`, and `Idoneous` after confirming none existed in the vocabulary collection. Action(s) taken: Inserted each word in strict alphabetical order in `S.md`, `O.md`, and `I.md`; updated `VocabularyDefinitions.md`; first verification found a temporary `I.md` ordering issue, corrected by moving `Idoneous` before `Iiwi`; saved final log (`Logs/verify-20260504-081410.txt`). Outcome / verification: All 26 letter files OK; `I.md -> OK (31 words)`, `O.md -> OK (16 words)`, `S.md -> OK (57 words)`.
 - 2026-05-01: Reasoning summary: Added `Lampoon` (L.md) as requested after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Lampoon` in strict alphabetical order between `Lagniappe` and `Land of Nod`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260501-073500.txt`). Outcome / verification: All 26 letter files OK; `L.md -> OK (18 words)`.
 - 2026-05-01: Reasoning summary: Added `Xylophile` (X.md) as today's unique word after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted `Xylophile` in strict alphabetical order after `Xenophobia`; updated `VocabularyDefinitions.md`; saved log (`Logs/verify-20260501-073255.txt`). Outcome / verification: All 26 letter files OK; `X.md -> OK (4 words)`.
