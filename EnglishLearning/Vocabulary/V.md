@@ -74,6 +74,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Vigorous energy, enthusiasm, and liveliness of expression or performance.
 **Usage**: "Bring verve to ordinary practice, and even small daily efforts can become memorable acts of growth." - Shows how energy and spirited effort can transform routine work into meaningful progress.
 
+## Vicissitude
+
+**Meaning**: A change of circumstances, typically one that is unwelcome or unpleasant.
+**Usage**: "Face each vicissitude with patience, and hardship will become part of your strength." - Encourages resilience by treating difficult changes as opportunities to grow.
+
 ## Vigilant
 
 **Meaning**: Keeping careful watch for possible danger, problems, or opportunities; alert and attentive.
