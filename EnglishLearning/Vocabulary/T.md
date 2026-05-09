@@ -79,6 +79,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A petty quarrel or argument.
 **Usage**: "They had a tiff over who would do the dishes." - A minor disagreement occurred regarding a trivial matter.
 
+## Tiffin
+
+**Meaning**: A light meal or snack, especially one eaten at midday.
+**Usage**: "After class, they shared a simple tiffin and returned to studying with fresh focus." - Refers to a modest meal that helps sustain energy.
+
 ## Tirade
 
 **Meaning**: A long, angry speech of criticism or accusation.
