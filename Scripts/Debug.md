@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-10 09:54:47 — Added Nefarious (N.md) — all 26 files OK
+Last verification: 2026-05-10 10:00:29 — Added Idioglossia (I.md) and corrected I-ordering — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-05-10: Reasoning summary: Added Idioglossia (I.md) only after confirming it did not already exist, then corrected one ordering slip in I.md. Action(s) taken: Inserted Idioglossia; updated VocabularyDefinitions.md; initial verify flagged I.md ordering; moved Idioglossia before Idoneous; saved final log (Logs/verify-20260510-100029.txt). Outcome / verification: All 26 letter files OK; I.md -> OK (32 words).
 - 2026-05-10: Reasoning summary: Added Nefarious (N.md) as today's unique word after confirming it was not already present. Action(s) taken: Inserted in strict alphabetical order between Nebulous and Neutralize; updated VocabularyDefinitions.md; saved log (Logs/verify-20260510-095446.txt). Outcome / verification: All 26 letter files OK; N.md -> OK (15 words).
 - 2026-05-09: Reasoning summary: Added only missing requested words while preserving strict alphabetical order. Action(s) taken: Inserted Clowder (C.md), Lickety-Split (L.md), and Tiffin (T.md); verified Halcyon (H.md) and Querulous (Q.md) already existed; saved log (Logs/verify-20260509-075422.txt). Outcome / verification: All 26 letter files OK; C.md -> OK (52 words), L.md -> OK (19 words), T.md -> OK (27 words).
 - 2026-05-08: Reasoning summary: Added Vicissitude (V.md) as today's unique word after confirming it was not already present. Action(s) taken: Inserted in strict alphabetical order between Verve and Vigilant; updated VocabularyDefinitions.md; saved log (Logs/verify-20260508-090726.txt). Outcome / verification: All 26 letter files OK; V.md -> OK (22 words).
