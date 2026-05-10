@@ -12,7 +12,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [F Vocabulary](./F.md) - Words like Fabricate, Facetious, Facets, Fait Accompli, Fallible, Farrago, Fathom, Felicity, Fervent, Fictitious, Figgy pudding, First-Foot, Flagship, Flattery, Flaunt, Flocculent, Floriferous, Flourish, Flummox, Fortitude, Fragmented, Frenzy, Frontier, Fuse, Fusion, Futz
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gregarious, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Hinterland, Humble
-- [I Vocabulary](./I.md) - Words like Iiwi, Idoneous, Illustrate, Imbued, Imminent, Impetus, Impetrate, Inciting, Incommunicado, Ineffable, Infomania, Ingenuity, Ingest, Inhere, Instigating, Instincts, Integrity, Interlard, Intimidate, Intonation, Intrepid, Intricacies, Intricate, Intuitive, Inure, Irreplaceable
+- [I Vocabulary](./I.md) - Words like Iiwi, Idoneous, Idioglossia, Illustrate, Imbued, Imminent, Impetus, Impetrate, Inciting, Incommunicado, Ineffable, Infomania, Ingenuity, Ingest, Inhere, Instigating, Instincts, Integrity, Interlard, Intimidate, Intonation, Intrepid, Intricacies, Intricate, Intuitive, Inure, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocose, Jocund, Journey, Jollification, Jovial, Juvenescent, Juxtapose
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kudos, Kismet, Klatsch, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lampoon, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
