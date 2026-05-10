@@ -64,6 +64,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Idle talk, gossip, or trivial chatter (Scottish dialect).
 **Usage**: "Skip the clishmaclaver and spend your words on conversations that matter." - Encourages focusing on meaningful dialogue instead of wasting time on gossip.
 
+## Clowder
+
+**Meaning**: A collective noun for a group of cats.
+**Usage**: "A clowder of curious cats gathered by the window as the rain began." - Demonstrates the specific term used for multiple cats together.
+
 ## Clutter
 
 **Meaning**: A collection of things lying about in an untidy mass.

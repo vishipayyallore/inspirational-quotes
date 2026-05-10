@@ -44,6 +44,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Existing but not yet developed or manifest; hidden or concealed.
 **Usage**: "Latent talent will emerge with the right opportunities." - Hidden abilities can be revealed when the conditions are favorable.
 
+## Lickety-Split
+
+**Meaning**: Very quickly; immediately.
+**Usage**: "She finished her revision lickety-split and still had time to review her notes twice." - Conveys completing something with great speed.
+
 ## Liminal
 
 **Meaning**: Relating to a transitional or in-between state, space, or phase.
