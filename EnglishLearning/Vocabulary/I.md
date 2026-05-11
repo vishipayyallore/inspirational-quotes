@@ -9,6 +9,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Idioglossia
+
+**Meaning**: A private language developed and used by one person or by a small, close group, especially twins.
+**Usage**: "Their idioglossia made outsiders curious, but it also showed how deeply shared experience can shape communication." - Highlights how close relationships can create unique ways of expressing meaning.
+
 ## Idoneous
 
 **Meaning**: Suitable, fit, or appropriate for a particular purpose.

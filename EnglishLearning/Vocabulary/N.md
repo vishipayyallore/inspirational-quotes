@@ -24,6 +24,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: Unclear, vague, or ill-defined; lacking a clear or precise form or outline.
 **Usage**: "Don't let your goals remain nebulous; define them clearly to make progress toward achieving them." - When objectives are vague, it's difficult to take concrete action toward them.
 
+## Nefarious
+
+**Meaning**: Wicked or criminal in nature; morally reprehensible.
+**Usage**: "Do not let nefarious intentions from others distract you from your principles." - Encourages integrity and focus despite harmful influences.
+
 ## Neutralize
 
 **Meaning**: Render ineffective or harmless by applying an opposite force or effect.  
