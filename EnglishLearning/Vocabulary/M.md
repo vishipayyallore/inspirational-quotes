@@ -49,6 +49,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: To do something with soul, creativity, or love, leaving a piece of yourself in your work.
 **Usage**: "Bring meraki to even the smallest task, and ordinary effort starts to carry the mark of care and purpose." - Encourages wholehearted, creative effort instead of mechanical work.
 
+## Metanoia
+
+**Meaning**: A profound change in one's mind, heart, or way of life; a transformative shift in perspective.
+**Usage**: "Real growth often begins with metanoia - the moment you stop defending old limits and choose a new way to live." - Highlights deep inner transformation as the starting point of meaningful progress.
+
 ## Metaphors
 
 **Meaning**: Figures of speech that describe a subject by asserting that it is, on some point of comparison, the same as another otherwise unrelated object.
