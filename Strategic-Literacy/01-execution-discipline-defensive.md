@@ -365,7 +365,7 @@
 
 ---
 
-## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL)
+## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL) -- Here
 
 ### 15.1 I recognize patterns
 

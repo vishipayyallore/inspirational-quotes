@@ -147,7 +147,7 @@ Am I building capabilities that create pull — or am I relying on effort and vi
 
 ---
 
-## 9. Win Through Your Actions, Never Through Argument -- Here
+## 9. Win Through Your Actions, Never Through Argument
 
 ### 9.1. Core Principle (Personal Interpretation)
 
@@ -167,7 +167,7 @@ In recent disagreements, have I relied more on explanation — or on demonstrabl
 
 ---
 
-## 10. Infection: Avoid the Unhappy and Unlucky
+## 10. Infection: Avoid the Unhappy and Unlucky -- Here
 
 ### 10.1. Core Principle (Personal Interpretation)
 
