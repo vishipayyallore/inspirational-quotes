@@ -19,6 +19,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: A person, animal, or object believed to bring good luck, or a character/symbol that represents a group, team, school, or organization.
 **Usage**: "Let your values be your mascot—something you carry into every challenge to remind you who you want to become." - Uses the idea of a mascot to emphasize identity and motivation.
 
+## Matrilineal
+
+**Meaning**: Relating to descent, inheritance, or family lineage traced through the mother's line.
+**Usage**: "In matrilineal communities, family history and belonging are often carried through the mother’s lineage." - Explains a social system where ancestry is traced through women.
+
 ## Meddle
 
 **Meaning**: Interfere in something that is not one's concern.  

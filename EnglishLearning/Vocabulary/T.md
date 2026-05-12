@@ -14,6 +14,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: To arrange data in a table or systematic format.
 **Usage**: "The study tabulates the results for easy comparison." - Organizing data into a table helps in analyzing and understanding it better.
 
+## Taciturn
+
+**Meaning**: Reserved in speech; saying little.
+**Usage**: "His taciturn manner hid a deep kindness that appeared in actions more than words." - Shows that quiet people can communicate care through consistent behavior.
+
 ## Tandem
 
 **Meaning**: In conjunction or partnership; working together.
