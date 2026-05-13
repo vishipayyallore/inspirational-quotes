@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-11 11:54:40 — Added Matrilineal (M.md) — all 26 files OK
+Last verification: 2026-05-12 13:03:30 — Added Metanoia (M.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-12: Reasoning summary: Added Metanoia (M.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Metanoia in strict alphabetical order between Meraki and Metaphors; updated VocabularyDefinitions.md; saved log (Logs/verify-20260512-130330.txt). Outcome / verification: All 26 letter files OK; M.md -> OK (24 words).
 
 - 2026-05-11: Reasoning summary: Added Matrilineal (M.md) only after confirming it did not already exist. Action(s) taken: Inserted Matrilineal in strict alphabetical order between Mascot and Meddle; updated VocabularyDefinitions.md; saved log (Logs/verify-20260511-115439.txt). Outcome / verification: All 26 letter files OK; M.md -> OK (22 words).
 
@@ -25,6 +27,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Notes
 
-- After editing any EnglishLearning/Vocabulary/*.md file, run verification and save output to Logs/verify-<timestamp>.txt.
+- After editing any EnglishLearning/Vocabulary/*.md file, run verification and save output to Logs/verify-[timestamp].txt.
 - Template WordName entries are excluded from verification.
 - Exit codes: 0 = all files OK, 2 = one or more files out of order.

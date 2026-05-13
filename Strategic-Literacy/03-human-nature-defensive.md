@@ -28,7 +28,7 @@ Where am I assuming rational intent in an environment that is actually driven by
 
 ---
 
-## **2. Law of Narcissism**
+## **2. Law of Narcissism** -- Here
 
 ### **2.1. Core Principle (Personal Interpretation)**
 
@@ -49,5 +49,38 @@ Maintain awareness of your own need for validation—this is a common entry poin
 ### **2.3. Reflection Prompt**
 
 Am I evaluating alignment based on what is said—or on what the other person stands to gain?
+
+---
+
+## **3. Law of Role-Playing**
+
+### **3.1. Core Principle (Personal Interpretation)**
+
+People adapt their behavior based on incentives, audience, status dynamics, and perceived advantage. Public personas and private motivations are often different.
+
+---
+
+### **3.2. Defensive Insight**
+
+**Evaluate patterns over presentations.**
+
+Do not assess people solely by how they behave in structured or visible settings. Observe consistency across pressure, ambiguity, hierarchy, and conflict.
+
+Pay attention to behavioral shifts:
+
+* upward vs downward interactions,
+* public vs private communication,
+* promises vs execution,
+* confidence vs accountability.
+
+Avoid over-trusting polished communication or performative professionalism. Sustainable trust is built through repeated behavioral consistency over time.
+
+**Character is revealed most clearly under constraint.**
+
+---
+
+### **3.3. Reflection Prompt**
+
+Am I evaluating people based on presentation—or on consistent behavior across different situations?
 
 ---
