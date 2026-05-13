@@ -134,15 +134,15 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The act of reading or glancing through quickly.
 **Usage**: "Skimming can be an effective way to get the gist of a text without delving into every detail." - This technique is useful for quickly assessing the relevance of information.
 
-## Skosh
-
-**Meaning**: A small amount; a little bit (informal, originally from Japanese).
-**Usage**: "Just a skosh more practice each day can compound into real progress." - Small consistent effort adds up over time.
-
 ## Scuppered
 
 **Meaning**: Deliberately ruined or sabotaged; thwarted or defeated; also, to sink a ship by opening holes in its hull.
-**Usage**: "Even when a plan is scuppered by circumstance, you haven't lost anything but the old direction—clear seas await ahead." - Reframes setbacks as redirections rather than defeats.
+**Usage**: \"Even when a plan is scuppered by circumstance, you haven't lost anything but the old direction—clear seas await ahead.\" - Reframes setbacks as redirections rather than defeats.
+
+## Skosh
+
+**Meaning**: A small amount; a little bit (informal, originally from Japanese).
+**Usage**: \"Just a skosh more practice each day can compound into real progress.\" - Small consistent effort adds up over time.
 
 ## Slop
 
