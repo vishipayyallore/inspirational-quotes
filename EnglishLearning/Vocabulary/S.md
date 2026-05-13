@@ -139,6 +139,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: A small amount; a little bit (informal, originally from Japanese).
 **Usage**: "Just a skosh more practice each day can compound into real progress." - Small consistent effort adds up over time.
 
+## Scuppered
+
+**Meaning**: Deliberately ruined or sabotaged; thwarted or defeated; also, to sink a ship by opening holes in its hull.
+**Usage**: "Even when a plan is scuppered by circumstance, you haven't lost anything but the old direction—clear seas await ahead." - Reframes setbacks as redirections rather than defeats.
+
 ## Slop
 
 **Meaning**: Liquid spilled or splashed carelessly; to spill or splash liquid; also, food waste or unappetizing food.
@@ -188,11 +193,6 @@ This file contains definitions and example usage for "S" words found in the insp
 
 **Meaning**: Thinly dispersed or scattered; not dense.
 **Usage**: "The sparse vegetation in the desert is adapted to conserve water." - Plants in arid regions have evolved to survive with minimal moisture.
-
-## Scuppered
-
-**Meaning**: Deliberately ruined or sabotaged; thwarted or defeated; also, to sink a ship by opening holes in its hull.
-**Usage**: "Even when a plan is scuppered by circumstance, you haven't lost anything but the old direction—clear seas await ahead." - Reframes setbacks as redirections rather than defeats.
 
 ## Spectrograms
 
