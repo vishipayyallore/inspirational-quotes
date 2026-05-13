@@ -19,6 +19,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: A Dutch term meaning to go outside and clear your head, often by walking in fresh, windy air.
 **Usage**: "When the day feels crowded, take a few minutes to uitwaaien and let fresh air reset your thinking." - Encourages stepping outside to regain calm, clarity, and perspective.
 
+## Umbrage
+
+**Meaning**: Offense or annoyance; a feeling that one has been disrespected or treated unfairly.
+**Usage**: "She took umbrage at the dismissive remark but chose not to engage further." - Recognizing when to step away from disrespect preserves your energy and dignity.
+
 ## Unassailable
 
 **Meaning**: Unable to be attacked, questioned, or defeated; secure.

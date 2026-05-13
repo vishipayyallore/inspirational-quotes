@@ -189,6 +189,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Thinly dispersed or scattered; not dense.
 **Usage**: "The sparse vegetation in the desert is adapted to conserve water." - Plants in arid regions have evolved to survive with minimal moisture.
 
+## Scuppered
+
+**Meaning**: Deliberately ruined or sabotaged; thwarted or defeated; also, to sink a ship by opening holes in its hull.
+**Usage**: "Even when a plan is scuppered by circumstance, you haven't lost anything but the old direction—clear seas await ahead." - Reframes setbacks as redirections rather than defeats.
+
 ## Spectrograms
 
 **Meaning**: A visual representation of the spectrum of frequencies of a signal as it varies with time.
