@@ -64,6 +64,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Not based on or behaving according to principles of equality and justice.
 **Usage**: "Life is unfair. Accept that and immediately you will feel more free." - Recognizing life's inherent inequalities can paradoxically bring peace.
 
+## Unfettered
+
+**Meaning**: Free from restraints, limitations, or inhibitions; released from what holds one back.
+**Usage**: "An unfettered mind can imagine better futures than fear ever allows." - Encourages thinking and acting without being constrained by self-doubt or needless limitation.
+
 ## Unflappable
 
 **Meaning**: Remaining calm and composed under pressure; not easily upset or confused.
