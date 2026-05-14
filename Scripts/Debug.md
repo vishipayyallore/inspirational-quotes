@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-13 09:57:46 — Added Rigmarole (R.md) and Scuppered (S.md); Matrilineal already existed — all 26 files OK
+Last verification: 2026-05-14 08:00:58 — Added Verbum Sap (V.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-14: Reasoning summary: Added Verbum Sap (V.md) after confirming it did not already exist. Action(s) taken: Inserted Verbum Sap in strict alphabetical order between Veracity and Verdant; updated VocabularyDefinitions.md; saved log (Logs/verify-20260514-080058.txt). Outcome / verification: All 26 letter files OK; V.md -> OK (23 words).
+
+- 2026-05-14: Reasoning summary: Added Unfettered (U.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Unfettered in strict alphabetical order between Unfair and Unflappable; updated VocabularyDefinitions.md; saved log (Logs/verify-20260514-075931.txt). Outcome / verification: All 26 letter files OK; U.md -> OK (21 words).
 
 - 2026-05-13: Reasoning summary: Added Rigmarole (R.md) and Scuppered (S.md) after confirming Matrilineal (M.md) already existed. Action(s) taken: Inserted Rigmarole in strict alphabetical order after Rhetoric; inserted Scuppered in strict alphabetical order after Scry; updated VocabularyDefinitions.md; saved log (Logs/verify-20260513-095746.txt). Outcome / verification: All 26 letter files OK; R.md -> OK, S.md -> OK.
 

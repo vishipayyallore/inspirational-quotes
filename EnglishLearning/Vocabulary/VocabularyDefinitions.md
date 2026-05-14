@@ -25,7 +25,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [S Vocabulary](./S.md) - Words like Sagacious, Sagacity, Sagittate, Salient, Salutary, Sanguine, Sashay, Schlep, Sciolism, Scofflaw, Scry, Scuppered, Sedulous, Semantic, Sempiternal, Serendipity, Serene, Serenity, Sheer, Shoved, Simile, Simonize, Skewed, Skiddoo, Skim, Skimming, Skosh, Slop, Snarf, Sockeroo, Solace, Solipsism, Solitude, Sonder, Sotto voce, Sparingly, Sparse, Spectrograms, Spectrum, Splurge, Spooky, Stalwarts, Steadfast, Steer, Stemming, Stochastic, Stoic, Straying, Sub Rosa, Subfusc, Sublime, Subtleties, Succinct, Suspire, Susurrus, Swindler, Synonymous, Synopsis
 - [T Vocabulary](./T.md) - Words like Taradiddle, Taciturn, Temperance, Tenacity, Tergiversate, Threshold, Thrive, Transcend, Transient, Triumph, Triumvirate, Tutoyer
 - [U Vocabulary](./U.md) - Words like Ubiquitous, Uitwaaien, Umbrage, Undaunted, Unfettered, Unflappable, Understanding, Unique, Unexamined, Uplift
-- [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Vernal, Verve, Vicissitude, Vigilant
+- [V Vocabulary](./V.md) - Words like Vade Mecum, Vainglory, Vehement, Velleity, Venerate, Veracity, Verbum Sap, Vernal, Verve, Vicissitude, Vigilant
 - [W Vocabulary](./W.md) - Words like Wanderlust, Wary, Watershed, Wheedle, Wholesome, Williwaw, Winsome, Wistful, Wit, Wizardry
 - [X Vocabulary](./X.md) - Words like Xenial, Xenodochy, Xenophobia, Xylophile
 - [Y Vocabulary](./Y.md) - Words like Yare, Yearn, Yield, Yuletide
