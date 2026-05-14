@@ -190,6 +190,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: The art of effective or persuasive speaking or writing, often using figures of speech and other compositional techniques.
 **Usage**: "Mastering rhetoric can enhance your communication skills." - Understanding persuasive language can improve how you convey ideas.
 
+## Rigmarole
+
+**Meaning**: A lengthy and complicated procedure or process; a chain of confusing or tedious requirements.
+**Usage**: "Cut through the rigmarole and ask for what you need—clarity saves time and frustration." - Emphasizes the value of directness over getting lost in unnecessary complexity.
+
 ## Rogue
 
 **Meaning**: A person or thing that behaves in an unpredictable, uncontrolled, or dishonest way; also used admiringly for someone who is boldly unconventional.

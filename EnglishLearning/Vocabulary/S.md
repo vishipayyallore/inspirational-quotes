@@ -64,6 +64,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To foretell the future by gazing into a reflective surface such as a crystal ball or mirror; to divine or predict.
 **Usage**: "You cannot scry the future, but you can shape it—each deliberate action today writes tomorrow's story." - Encourages focusing on present effort rather than trying to predict what lies ahead.
 
+## Scuppered
+
+**Meaning**: Deliberately ruined or sabotaged; thwarted or defeated; also, to sink a ship by opening holes in its hull.
+**Usage**: "Even when a plan is scuppered by circumstance, you haven't lost anything but the old direction—clear seas await ahead." - Reframes setbacks as redirections rather than defeats.
+
 ## Sedulous
 
 **Meaning**: Diligent, persevering, and carried out with careful and sustained effort.
