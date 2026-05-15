@@ -54,6 +54,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Truthfulness; accuracy or conformity to the facts.
 **Usage**: "Practice veracity in small things, and your words will carry weight in big moments." - Honesty builds trust over time.
 
+## Verbum Sap
+
+**Meaning**: A shortened Latin expression from "verbum sapienti sat est," meaning a word to the wise is enough; a brief hint is sufficient for someone perceptive.
+**Usage**: "Verbum sap: take the small warning seriously before the larger lesson becomes unavoidable." - Encourages wise people to learn from subtle guidance early.
+
 ## Verdant
 
 **Meaning**: Green with grass or other rich vegetation; lush and flourishing.
