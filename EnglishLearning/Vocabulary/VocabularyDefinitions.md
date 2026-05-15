@@ -6,7 +6,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 - [A Vocabulary](./A.md) - Words like Abandon, Acumen, Armadillo, Adversary, Adversity, Advocate, Alacrity, Aleatory, Alpenglow, Antiquarian, Aphorism, Aplomb, Appetence, Apricity, Ascribe, Assiduous, Atiptoe, Axiomatic
 - [B Vocabulary](./B.md) - Words like Beatific, Birr, Bliss, Bon Ton, Boondoggle, Braird, Brevity, Brumal, Buoyant, Burnout
-- [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Clarity, Clement, Compassionate, Congenial, Consistency, Coterminous, Courage, Crevasse, Crevice, Cunning, Curiosity
+- [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Comestible, Clarity, Clement, Compassionate, Congenial, Consistency, Coterminous, Courage, Crevasse, Crevice, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Duplicity
 - [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erudite, Erstwhile, Euphonious, Eunoia, Execution, Expiscate
 - [F Vocabulary](./F.md) - Words like Fabricate, Facetious, Facets, Fait Accompli, Fallible, Farrago, Fathom, Felicity, Fervent, Fictitious, Figgy pudding, First-Foot, Flagship, Flattery, Flaunt, Flocculent, Floriferous, Flourish, Flummox, Fortitude, Fragmented, Frenzy, Frontier, Fuse, Fusion, Futz

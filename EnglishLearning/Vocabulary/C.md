@@ -94,6 +94,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Characteristic of informal spoken language; conversational rather than formal or literary.
 **Usage**: "The author used colloquial expressions to make the dialogue feel authentic and relatable." - Informal, everyday language can create a more natural and engaging tone in writing.
 
+## Comestible
+
+**Meaning**: Suitable to be eaten; edible.
+**Usage**: "Turn each challenge into something comestible for the mind by extracting the lesson hidden inside it." - Uses the idea of nourishment to show how experience can be transformed into growth.
+
 ## Commitment
 
 **Meaning**: The state or quality of being dedicated to a cause or activity.
