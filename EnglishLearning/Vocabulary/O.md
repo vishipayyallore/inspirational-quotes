@@ -44,6 +44,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Relating to the sense of smell.
 **Usage**: "The olfactory experience of a place can trigger powerful memories." - Scents have the ability to evoke vivid recollections and emotions.
 
+## Oneiric
+
+**Meaning**: Relating to dreams or the dreamlike state.
+**Usage**: "Protect your oneiric vision long enough to shape it into a plan; many practical achievements begin as ideas that first felt impossible." - Encourages treating bold dreams as the starting point for disciplined action.
+
 ## Opaque
 
 **Meaning**: Not able to be seen through; not transparent; hard to understand.
