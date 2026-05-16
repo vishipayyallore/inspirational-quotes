@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-14 08:00:58 — Added Verbum Sap (V.md) — all 26 files OK
+Last verification: 2026-05-15 08:58:40 — Added Comestible (C.md) and Oneiric (O.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-15: Reasoning summary: Added Comestible (C.md) on request after confirming it did not already exist, and completed today's unique word addition with Oneiric (O.md). Action(s) taken: Inserted Comestible in strict alphabetical order between Colloquial and Commitment; inserted Oneiric between Olfactory and Opaque; updated VocabularyDefinitions.md; saved log (Logs/verify-20260515-085840.txt). Outcome / verification: All 26 letter files OK; C.md -> OK (53 words), O.md -> OK (17 words).
 
 - 2026-05-14: Reasoning summary: Added Verbum Sap (V.md) after confirming it did not already exist. Action(s) taken: Inserted Verbum Sap in strict alphabetical order between Veracity and Verdant; updated VocabularyDefinitions.md; saved log (Logs/verify-20260514-080058.txt). Outcome / verification: All 26 letter files OK; V.md -> OK (23 words).
 
