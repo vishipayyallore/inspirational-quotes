@@ -4,7 +4,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 
 ## Available Letter Files
 
-- [A Vocabulary](./A.md) - Words like Abandon, Acumen, Armadillo, Adversary, Adversity, Advocate, Alacrity, Aleatory, Alpenglow, Antiquarian, Aphorism, Aplomb, Appetence, Apricity, Ascribe, Assiduous, Atiptoe, Axiomatic
+- [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Aesthetic, Aglet, Alacrity, Aleatory, Alpenglow, Antiquarian, Aphorism, Aplomb, Appetence, Apricity, Armadillo
 - [B Vocabulary](./B.md) - Words like Beatific, Birr, Bliss, Bon Ton, Boondoggle, Braird, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Comestible, Clarity, Clement, Compassionate, Congenial, Consistency, Coterminous, Courage, Crevasse, Crevice, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Duplicity
@@ -16,7 +16,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [J Vocabulary](./J.md) - Words like Jocose, Jocund, Journey, Jollification, Jovial, Juvenescent, Juxtapose
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kudos, Kismet, Klatsch, Knead, Krummholz
 - [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lampoon, Land of Nod, Lapidify, Largesse, Latent, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
-- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Matrilineal, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metanoia, Metaphors, Meticulous, Mettlesome, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Mussitate, Mythomania
+- [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Matrilineal, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Metanoia, Metaphors, Meticulous, Mettlesome, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Murmuration, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nadir, Nascent, Nebulous, Nefarious, Nimble, Noctivagant, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Obviate, Odontoid, Odoriferous, Oneiric, Opaque, Operose, Opportune, Optimistic, Overwhelm
 - [P Vocabulary](./P.md) - Words like Palimpsest, Panglossian, Parity, Praxis, Precocious, Pellucid, Peregrinate, Pericope, Perpend, Perspicacity, Persistence, Perspective, Phlegmatic, Pivot, Preventive, Prognosis, Purlieu
