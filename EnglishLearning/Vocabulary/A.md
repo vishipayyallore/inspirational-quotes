@@ -84,6 +84,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Concerned with beauty or the appreciation of beauty.
 **Usage**: "The aesthetic of the design is pleasing to the eye." - The visual appeal of the design is attractive and enjoyable.
 
+## Aglet
+
+**Meaning**: The small plastic or metal tip at the end of a shoelace or cord that keeps it from fraying and makes threading easier.
+**Usage**: "Even an aglet has a purpose: the smallest details can hold everything together when you give them proper attention." - Reminds learners that minor parts and careful details often make larger systems work.
+
 ## Agnostic
 
 **Meaning**: A person who believes that the existence of God or the divine is unknown or unknowable.

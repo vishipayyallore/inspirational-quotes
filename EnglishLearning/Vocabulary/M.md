@@ -109,6 +109,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: More generous than is usual or necessary; lavishly or splendidly generous.
 **Usage**: "A munificent mentor shares not only knowledge but time, energy, and encouragement without keeping score." - Highlights the kind of extraordinary generosity that elevates those around you.
 
+## Murmuration
+
+**Meaning**: A large, coordinated flock of birds moving together in a shifting, flowing pattern, especially starlings in flight.
+**Usage**: "Like a murmuration crossing the evening sky, small individual efforts can create something graceful and powerful when they move in harmony." - Shows how coordinated action can turn many small parts into one striking whole.
+
 ## Mussitate
 
 **Meaning**: To speak softly under your breath; to murmur or mutter quietly.
