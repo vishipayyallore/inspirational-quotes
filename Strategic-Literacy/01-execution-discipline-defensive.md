@@ -4,7 +4,7 @@
 
 ---
 
-## 1. 🔑 CORE PRINCIPLE
+## 1. 🔑 CORE PRINCIPLE -- Here
 
 > 1. I protect and allocate my time with intention
 > 1. I grow through `boundaries`, `visibility`, `control`, and `positioning`
@@ -365,7 +365,7 @@
 
 ---
 
-## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL) -- Here
+## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL)
 
 ### 15.1 I recognize patterns
 

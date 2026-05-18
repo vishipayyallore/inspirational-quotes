@@ -28,13 +28,13 @@ Where am I assuming rational intent in an environment that is actually driven by
 
 ---
 
-## **2. Law of Narcissism** -- Here
+## 2. Law of Narcissism
 
-### **2.1. Core Principle (Personal Interpretation)**
+### 2.1. Core Principle (Personal Interpretation)
 
 People are primarily self-referential. Even when appearing collaborative, their decisions are influenced by self-interest, validation needs, and personal narratives.
 
-### **2.2. Defensive Insight**
+### 2.2. Defensive Insight
 
 **Anchor interactions in others’ self-interest—not stated intent.**
 
@@ -46,21 +46,21 @@ Maintain awareness of your own need for validation—this is a common entry poin
 
 **Incentives reveal truth faster than words.**
 
-### **2.3. Reflection Prompt**
+### 2.3. Reflection Prompt
 
 Am I evaluating alignment based on what is said—or on what the other person stands to gain?
 
 ---
 
-## **3. Law of Role-Playing**
+## 3. Law of Role-Playing -- Here
 
-### **3.1. Core Principle (Personal Interpretation)**
+### 3.1. Core Principle (Personal Interpretation)
 
 People adapt their behavior based on incentives, audience, status dynamics, and perceived advantage. Public personas and private motivations are often different.
 
 ---
 
-### **3.2. Defensive Insight**
+### 3.2. Defensive Insight
 
 **Evaluate patterns over presentations.**
 
@@ -79,7 +79,7 @@ Avoid over-trusting polished communication or performative professionalism. Sust
 
 ---
 
-### **3.3. Reflection Prompt**
+### 3.3. Reflection Prompt
 
 Am I evaluating people based on presentation—or on consistent behavior across different situations?
 
