@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-16 09:26:13 — Added Murmuration (M.md) and Aglet (A.md) — all 26 files OK
+Last verification: 2026-05-18 15:24:24 — Added Opaline (O.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-18: Reasoning summary: Added Opaline (O.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Opaline in O.md; corrected one temporary ordering slip by moving it before Opaque; updated VocabularyDefinitions.md; saved final log (Logs/verify-20260518-152424.txt). Outcome / verification: All 26 letter files OK; O.md -> OK (18 words).
 
 - 2026-05-16: Reasoning summary: Added Murmuration (M.md) and Aglet (A.md) after confirming each word did not already exist. Action(s) taken: Inserted Murmuration in strict alphabetical order between Munificent and Mussitate; inserted Aglet in strict alphabetical order between Aesthetic and Agnostic; updated VocabularyDefinitions.md; saved log (Logs/verify-20260516-092613.txt). Outcome / verification: All 26 letter files OK; A.md -> OK (55 words), M.md -> OK (24 words).
 

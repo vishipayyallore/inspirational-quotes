@@ -49,6 +49,11 @@ This file contains definitions and example usage for "O" words found in the insp
 **Meaning**: Relating to dreams or the dreamlike state.
 **Usage**: "Protect your oneiric vision long enough to shape it into a plan; many practical achievements begin as ideas that first felt impossible." - Encourages treating bold dreams as the starting point for disciplined action.
 
+## Opaline
+
+**Meaning**: Having a soft, milky, iridescent appearance like opal.
+**Usage**: "The dawn spread an opaline glow across the sky, reminding her that gentle beginnings can still carry extraordinary promise." - Uses luminous imagery to connect quiet starts with hopeful momentum.
+
 ## Opaque
 
 **Meaning**: Not able to be seen through; not transparent; hard to understand.
