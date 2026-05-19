@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: pending — Added Prescience (P.md) — verification running
+Last verification: 2026-05-19 10:36:40 — Added Prescience (P.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,7 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
-- 2026-05-19: Reasoning summary: Added Prescience (P.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Prescience in strict alphabetical order between Prescind and Pretentious; updated VocabularyDefinitions.md; saving verification output to a new timestamped log. Outcome / verification: Pending.
+- 2026-05-19: Reasoning summary: Added Prescience (P.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Prescience in strict alphabetical order, corrected one temporary ordering slip by moving it before Prescind, updated VocabularyDefinitions.md, and saved the final log (Logs/verify-20260519-103640.txt). Outcome / verification: All 26 letter files OK; P.md -> OK (60 words).
 
 - 2026-05-18: Reasoning summary: Added Opaline (O.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Opaline in O.md; corrected one temporary ordering slip by moving it before Opaque; updated VocabularyDefinitions.md; saved final log (Logs/verify-20260518-152424.txt). Outcome / verification: All 26 letter files OK; O.md -> OK (18 words).
 

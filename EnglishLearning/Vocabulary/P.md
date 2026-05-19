@@ -215,15 +215,15 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Preconceived opinion that is not based on reason or actual experience.
 **Usage**: "Prejudice can cloud judgment and hinder understanding." - Bias against others can prevent meaningful connections and insights.
 
-## Prescind
-
-**Meaning**: To leave out of consideration; to detach or abstract (a quality or idea) from something.
-**Usage**: "To think clearly about the core issue, she had to prescind from personal feelings and focus on the facts." - Encourages separating emotion from analysis to reach a clearer judgment.
-
 ## Prescience
 
 **Meaning**: Knowledge of or insight into events before they happen; foresight.
 **Usage**: "With prescience, she prepared quietly for the opportunity long before anyone else saw it coming." - Emphasizes the value of foresight and thoughtful preparation.
+
+## Prescind
+
+**Meaning**: To leave out of consideration; to detach or abstract (a quality or idea) from something.
+**Usage**: "To think clearly about the core issue, she had to prescind from personal feelings and focus on the facts." - Encourages separating emotion from analysis to reach a clearer judgment.
 
 ## Pretentious
 
