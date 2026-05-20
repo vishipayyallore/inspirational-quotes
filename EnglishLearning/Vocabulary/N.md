@@ -14,6 +14,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: The lowest point in the fortunes, condition, or spirit of a person or situation.
 **Usage**: "What feels like your nadir can become the exact place where your comeback begins." - Reframes a low point as a starting line for recovery and growth.
 
+## Nacreous
+
+**Meaning**: Possessing a pearly luster or iridescent sheen, like mother-of-pearl.
+**Usage**: "After the storm, the sky turned nacreous at dawn, reminding her that even rough nights can open into luminous beginnings." - Uses pearl-like light as a metaphor for hope after difficulty.
+
 ## Nascent
 
 **Meaning**: Just beginning to develop; emerging or in the earliest stage of growth.

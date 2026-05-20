@@ -64,6 +64,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: To change one’s opinions or behavior repeatedly; to be evasive or equivocal.
 **Usage**: "Don’t tergiversate when it’s time to act—choose a direction and move forward." - Highlights that progress requires commitment over hesitation.
 
+## Terra Firma
+
+**Meaning**: Dry land regarded as solid and stable ground, especially in contrast to sea or air.
+**Usage**: "When uncertainty rises like waves, return to your principles as terra firma and decide from there." - Encourages grounding decisions in core values during unstable times.
+
 ## Thematic
 
 **Meaning**: Relating to or based on a theme.

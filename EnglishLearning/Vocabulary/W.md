@@ -29,10 +29,25 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: To influence or persuade someone through flattery or coaxing.
 **Usage**: "He tried to wheedle his way into her good graces with compliments." - Using charm and persuasion to gain favor.
 
+## Whilom
+
+**Meaning**: Formerly; at one time in the past.
+**Usage**: "A whilom fear can become today’s lesson once you face it with courage." - Shows that what once intimidated you can later become a source of strength.
+
 ## Wholesome
 
 **Meaning**: Conducive to or promoting moral, mental, or physical health and well-being; beneficial and positive in nature.
 **Usage**: "Choose wholesome habits that nourish both body and spirit—growth flourishes where goodness takes root." - Emphasizes selecting healthy practices that support overall well-being and personal development.
+
+## Widow
+
+**Meaning**: A woman whose spouse has died and who has not remarried.
+**Usage**: "The community supported the widow with steady kindness, proving that shared compassion can lighten private grief." - Highlights the healing power of collective care during loss.
+
+## Widower
+
+**Meaning**: A man whose spouse has died and who has not remarried.
+**Usage**: "After years of silence, the widower began telling stories again and found that memory can be a bridge, not only a burden." - Encourages gradual emotional recovery through connection and remembrance.
 
 ## Williwaw
 

@@ -64,6 +64,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Lacking strong features or characteristics and therefore uninteresting.
 **Usage**: "A bland personality can make it difficult to connect with others." - Someone who is uninteresting may struggle to form relationships.
 
+## Blatherskite
+
+**Meaning**: A person who talks at great length in a foolish, empty, or nonsensical way.
+**Usage**: "Do not mistake loud certainty for wisdom; a blatherskite can fill a room with words and still leave it empty of insight." - Warns that excessive talk without substance can distract from meaningful thought.
+
 ## Bliss
 
 **Meaning**: Perfect happiness; great joy.
