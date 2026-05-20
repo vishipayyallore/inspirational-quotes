@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-20 10:25:41 — Added Winnow (W.md) — all 26 files OK
+Last verification: 2026-05-20 11:29:15 — Added Blatherskite, Nacreous, Terra Firma, Whilom, Widow, Widower — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-20: Reasoning summary: Processed requested words and added only missing entries: Blatherskite (B), Nacreous (N), Terra Firma (T), Whilom (W), Widow (W), Widower (W). Action(s) taken: Inserted each in strict alphabetical order, updated VocabularyDefinitions.md for B/N/T/W, fixed one ordering slip by moving Nacreous before Nadir, and saved final log (Logs/verify-20260520-112915.txt). Outcome / verification: All 26 letter files OK; B.md -> OK (30), N.md -> OK (16), T.md -> OK (29), W.md -> OK (15).
 
 - 2026-05-20: Reasoning summary: Added Winnow (W.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Winnow in strict alphabetical order between Williwaw and Winsome; updated VocabularyDefinitions.md; saved log (Logs/verify-20260520-102541.txt). Outcome / verification: All 26 letter files OK; W.md -> OK (12 words).
 
