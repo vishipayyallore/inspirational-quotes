@@ -39,6 +39,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: A sudden, violent gust of cold wind, especially in coastal or mountainous regions.
 **Usage**: "Even when a williwaw of setbacks hit her plans, she kept her footing and adjusted her sails." - Frames sudden disruption as something that can be met with steadiness and resilience.
 
+## Winnow
+
+**Meaning**: To carefully separate what is useful or true from what is less important, unnecessary, or false.
+**Usage**: "In moments of doubt, winnow the noise from your values so your next step is guided by clarity." - Encourages thoughtful judgment by filtering distractions and focusing on what truly matters.
+
 ## Winsome
 
 **Meaning**: Sweetly pleasing or charming in a natural, gentle way.
