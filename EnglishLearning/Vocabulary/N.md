@@ -9,6 +9,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Nacreous
+
+**Meaning**: Possessing a pearly luster or iridescent sheen, like mother-of-pearl.
+**Usage**: "After the storm, the sky turned nacreous at dawn, reminding her that even rough nights can open into luminous beginnings." - Uses pearl-like light as a metaphor for hope after difficulty.
+
 ## Nadir
 
 **Meaning**: The lowest point in the fortunes, condition, or spirit of a person or situation.
