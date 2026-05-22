@@ -39,6 +39,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: Render ineffective or harmless by applying an opposite force or effect.  
 **Usage**: "To achieve victory, one must neutralize the enemy's primary source of strength." - To win, you must first disable what makes your opponent strong.
 
+## Nexus
+
+**Meaning**: A central link, connection, or focal point that joins people, ideas, or things together.
+**Usage**: "Your habits are the nexus of your future; strengthen them, and you strengthen the life you are building." - Highlights the role of habits as the connecting force behind long-term progress.
+
 ## Niche
 
 **Meaning**: A specialized segment of the market for a particular kind of product or service.
