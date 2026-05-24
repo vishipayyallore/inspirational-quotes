@@ -167,7 +167,7 @@ In recent disagreements, have I relied more on explanation — or on demonstrabl
 
 ---
 
-## 10. Infection: Avoid the Unhappy and Unlucky -- Here
+## 10. Infection: Avoid the Unhappy and Unlucky
 
 ### 10.1. Core Principle (Personal Interpretation)
 
@@ -189,7 +189,7 @@ Are my closest professional associations reinforcing my credibility — or subtl
 
 ---
 
-## 11. Learn to Keep People Dependent on You
+## 11. Learn to Keep People Dependent on You -- Here
 
 ### 11.1. Core Principle (Personal Interpretation)
 

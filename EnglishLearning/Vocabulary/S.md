@@ -159,6 +159,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Informal: a hard hit or punch; by extension, a sudden, forceful impact.
 **Usage**: "The unexpected criticism felt like a sockeroo, but she paused, learned, and responded with calm clarity." - Uses the word figuratively to show a jarring setback.
 
+## Sodality
+
+**Meaning**: A fellowship, association, or society of people united by a shared purpose, interest, or devotion.
+**Usage**: "A learning sodality grows strongest when each member shares generously and listens deeply." - Highlights how a purpose-driven community thrives through mutual contribution and respect.
+
 ## Solace
 
 **Meaning**: Comfort or consolation in a time of distress or sadness.

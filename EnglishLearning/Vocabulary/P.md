@@ -185,6 +185,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: Having or showing the capacity to develop into something in the future.
 **Usage**: "Every person has the potential to make a difference." - Everyone has the ability to create change and impact the world.
 
+## Pother
+
+**Meaning**: A commotion, fuss, or anxious disturbance over something often minor.
+**Usage**: "Do not waste your energy in pother over small setbacks; steady focus will carry you farther." - Encourages calm attention on what truly matters instead of getting agitated by trivial obstacles.
+
 ## Pragmatic
 
 **Meaning**: Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
