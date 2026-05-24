@@ -29,6 +29,11 @@ This file contains vocabulary words starting with the letter J, along with their
 **Meaning**: Cheerful and lighthearted; merry.
 **Usage**: "Even in uncertainty, he stayed jocund, choosing gratitude over worry." - Shows a bright, upbeat attitude despite challenges.
 
+## Jocularity
+
+**Meaning**: A quality of playful humor; joking or lighthearted banter.
+**Usage**: "Her jocularity during the long practice session kept everyone focused and encouraged." - Warm humor can sustain energy and teamwork through demanding work.
+
 ## Jollification
 
 **Meaning**: The act of celebrating noisily; merrymaking or lively enjoyment.
