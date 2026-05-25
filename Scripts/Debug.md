@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-25 13:05:12 — Added Kintsugi — all 26 files OK
+Last verification: 2026-05-25 13:30:59 — Added Cohort, Erinaceous, Exhort, Sprezzatura — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-25: Reasoning summary: Added requested missing words Cohort (C.md), Erinaceous and Exhort (E.md), and Sprezzatura (S.md). Action(s) taken: Inserted all words in strict alphabetical order; initial verify flagged one S.md ordering slip for Sprezzatura; corrected position; updated VocabularyDefinitions.md for C/E/S; saved final log (Logs/verify-20260525-133058.txt). Outcome / verification: All 26 letter files OK; C.md -> OK (54 words), E.md -> OK (30 words), S.md -> OK (60 words).
 
 - 2026-05-25: Reasoning summary: Added Kintsugi (K.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Kintsugi in strict alphabetical order between Kinetic and Kismet; updated VocabularyDefinitions.md for K; saved log (Logs/verify-20260525-130511.txt). Outcome / verification: All 26 letter files OK; K.md -> OK (11 words).
 

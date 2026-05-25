@@ -214,15 +214,15 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: To spend money or time freely or extravagantly, often on something non-essential.
 **Usage**: "If you splurge, splurge on time—give an extra hour to the habit that shapes your future." - Reframes indulgence as investing generously in growth.
 
-## Sprezzatura
-
-**Meaning**: Studied carelessness; the art of making difficult things look effortless.
-**Usage**: "Her presentation had sprezzatura because hours of preparation were hidden behind calm, natural confidence." - Shows how mastery can appear effortless when practice is deep.
-
 ## Spooky
 
 **Meaning**: Strange and frightening.
 **Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
+
+## Sprezzatura
+
+**Meaning**: Studied carelessness; the art of making difficult things look effortless.
+**Usage**: "Her presentation had sprezzatura because hours of preparation were hidden behind calm, natural confidence." - Shows how mastery can appear effortless when practice is deep.
 
 ## Stalwarts
 

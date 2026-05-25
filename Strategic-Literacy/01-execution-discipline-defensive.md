@@ -89,7 +89,7 @@
 
 ---
 
-## 7. 🔥 VISIBILITY SYSTEM -- Here
+## 7. 🔥 VISIBILITY SYSTEM
 
 ### 7.1. I create visibility at all stages
 
@@ -197,6 +197,7 @@
 ### 10.1 Default
 
 > 1. I’ll review and respond shortly
+
 ---
 
 ## 11. 🧭 POSITIONING
@@ -231,7 +232,7 @@
 
 ---
 
-## 14. 🧩 REAL SCENARIO PLAYBOOK (UNDER PRESSURE)
+## 14. 🧩 REAL SCENARIO PLAYBOOK (UNDER PRESSURE) -- Here
 
 ### 14.1 Rule: Pause → Pick → Speak
 
