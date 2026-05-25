@@ -24,6 +24,11 @@ This file contains vocabulary words starting with the letter J, along with their
 **Meaning**: Playful, humorous, or given to joking in a lighthearted way.
 **Usage**: "A jocose remark eased the tension in the room and reminded everyone that progress can still include laughter." - Shows how gentle humor can make difficult moments more manageable.
 
+## Jocularity
+
+**Meaning**: A quality of playful humor; joking or lighthearted banter.
+**Usage**: "Her jocularity during the long practice session kept everyone focused and encouraged." - Warm humor can sustain energy and teamwork through demanding work.
+
 ## Jocund
 
 **Meaning**: Cheerful and lighthearted; merry.
