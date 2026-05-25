@@ -34,6 +34,11 @@ This file contains definitions and example usage for "K" words found in the insp
 **Meaning**: Relating to or resulting from motion; active and dynamic.
 **Usage**: "His kinetic energy inspired the entire team to move forward." - Describing dynamic, action-oriented enthusiasm.
 
+## Kintsugi
+
+**Meaning**: The Japanese art of repairing broken pottery with lacquer mixed with gold, often used as a metaphor for embracing flaws and growth after hardship.
+**Usage**: "Her confidence was kintsugi in action, each past failure becoming a golden seam in the stronger person she became." - Shows how setbacks can be transformed into visible sources of strength.
+
 ## Kismet
 
 **Meaning**: Fate or destiny; the feeling that events are guided by forces beyond your control.
