@@ -100,6 +100,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Calm, composed, and even-tempered, especially in difficult situations.
 **Usage**: "By returning to her breath, she stayed equanimous through the day’s ups and downs." - Links emotional steadiness with simple, repeatable habits.
 
+## Erinaceous
+
+**Meaning**: Resembling or relating to a hedgehog; covered with spines or prickly in nature.
+**Usage**: "His erinaceous tone hid a kind intention, reminding her to listen for substance beyond rough delivery." - Shows how something outwardly prickly can still carry value.
+
 ## Erstwhile
 
 **Meaning**: Former; belonging to an earlier time or previous period.
@@ -144,6 +149,11 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Meaning**: A person or thing serving as a typical example or excellent model.
 **Usage**: "She is an exemplar of courage and resilience." - Highlighting someone as a prime example of positive traits.
+
+## Exhort
+
+**Meaning**: To strongly encourage or urge someone to do something.
+**Usage**: "Mentors can exhort you toward discipline, but only your daily choices can turn advice into results." - Emphasizes that encouragement matters most when matched by action.
 
 ## Expiscate
 

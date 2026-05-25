@@ -89,6 +89,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: Logical and consistent; forming a unified whole.  
 **Usage**: "A coherent argument is essential for effective persuasion." - To convince others, your reasoning must be clear and well-structured.
 
+## Cohort
+
+**Meaning**: A group of people sharing a common characteristic or experience, often moving through a process together.
+**Usage**: "She and her cohort stayed accountable each week, proving that growth is easier when you learn alongside others." - Highlights the power of collective progress and shared commitment.
+
 ## Colloquial
 
 **Meaning**: Characteristic of informal spoken language; conversational rather than formal or literary.
