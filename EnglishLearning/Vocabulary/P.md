@@ -175,6 +175,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A large or abundant amount; the state of being full or complete.
 **Usage**: "She recognized a plenitude of opportunities around her once she shifted her mindset." - Highlights an abundance that becomes visible with a change in perspective.
 
+## Poignant
+
+**Meaning**: Deeply moving, emotionally touching, or keenly felt.
+**Usage**: "Her poignant reflection on failure reminded everyone that growth often begins in moments of honest vulnerability." - Emphasizes an emotionally powerful insight that leaves a lasting impression.
+
 ## Polytheism
 
 **Meaning**: The belief in or worship of more than one god.
