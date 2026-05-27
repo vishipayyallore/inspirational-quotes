@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-27 10:39:52 — Added Epiphany (E.md) — all 26 files OK
+Last verification: 2026-05-27 12:40:44 — Added Tarry (T.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-27: Reasoning summary: Processed requested words and added only missing entry Tarry (T.md) after confirming Poignant (P.md) already existed. Action(s) taken: Inserted Tarry in strict alphabetical order between Taradiddle and Temperance; updated VocabularyDefinitions.md for T; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260527-124041.txt"`. Outcome / verification: All 26 letter files OK; T.md -> OK (30 words); log saved at Logs/verify-20260527-124041.txt.
 
 - 2026-05-27: Reasoning summary: Added Epiphany (E.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Epiphany in strict alphabetical order between Ephemeral and Episodic; updated VocabularyDefinitions.md for E; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260527-103951.txt"`. Outcome / verification: All 26 letter files OK; E.md -> OK (31 words); log saved at Logs/verify-20260527-103951.txt.
 
