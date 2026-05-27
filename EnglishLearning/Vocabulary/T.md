@@ -34,6 +34,11 @@ This file contains definitions and example usage for "T" words found in the insp
 **Meaning**: A petty lie or a piece of pretentious, silly nonsense.
 **Usage**: "When excuses turn into taradiddle, progress stalls because attention shifts away from the real work." - Warns against dressing up avoidance or nonsense as substance.
 
+## Tarry
+
+**Meaning**: To delay or linger instead of moving forward promptly.
+**Usage**: "Do not tarry at the edge of your goals; one committed step often creates the momentum you need." - Encourages timely action rather than hesitation.
+
 ## Temperance
 
 **Meaning**: Moderation and self-restraint, especially in thoughts, habits, and actions.
