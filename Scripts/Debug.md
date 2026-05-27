@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-25 13:30:59 — Added Cohort, Erinaceous, Exhort, Sprezzatura — all 26 files OK
+Last verification: 2026-05-26 11:05:30 — Added Poignant (P.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-26: Reasoning summary: Added Poignant (P.md) only after confirming it did not already exist. Action(s) taken: Inserted Poignant in strict alphabetical order between Plenitude and Polytheism; updated VocabularyDefinitions.md for P; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260526-110529.txt"`. Outcome / verification: All 26 letter files OK; P.md -> OK (62 words); log saved at Logs/verify-20260526-110529.txt.
+
+- 2026-05-26: Reasoning summary: Added Lilt (L.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Lilt in strict alphabetical order between Lickety-Split and Liminal; updated VocabularyDefinitions.md for L; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260526-110112.txt"`. Outcome / verification: All 26 letter files OK; L.md -> OK (20 words); log saved at Logs/verify-20260526-110112.txt.
 
 - 2026-05-25: Reasoning summary: Added requested missing words Cohort (C.md), Erinaceous and Exhort (E.md), and Sprezzatura (S.md). Action(s) taken: Inserted all words in strict alphabetical order; initial verify flagged one S.md ordering slip for Sprezzatura; corrected position; updated VocabularyDefinitions.md for C/E/S; saved final log (Logs/verify-20260525-133058.txt). Outcome / verification: All 26 letter files OK; C.md -> OK (54 words), E.md -> OK (30 words), S.md -> OK (60 words).
 

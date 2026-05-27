@@ -49,6 +49,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: Very quickly; immediately.
 **Usage**: "She finished her revision lickety-split and still had time to review her notes twice." - Conveys completing something with great speed.
 
+## Lilt
+
+**Meaning**: A gentle, rhythmic rise and fall in speech, music, or movement.
+**Usage**: "Her voice carried a hopeful lilt that made even difficult lessons feel encouraging." - Highlights a light, musical tone that adds warmth and positivity.
+
 ## Liminal
 
 **Meaning**: Relating to a transitional or in-between state, space, or phase.
