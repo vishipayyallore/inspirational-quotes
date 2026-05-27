@@ -79,6 +79,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Lasting for a very short time; transitory or fleeting.
 **Usage**: "Beauty is ephemeral, which is why we must appreciate each moment." - The temporary nature of good things makes them more precious.
 
+## Epiphany
+
+**Meaning**: A sudden realization or insight that makes something clear.
+**Usage**: "The epiphany came quietly, but it changed how she approached every challenge afterward." - A moment of sudden understanding that leads to a new perspective.
+
 ## Episodic
 
 **Meaning**: Occurring in a series of separate parts or events.

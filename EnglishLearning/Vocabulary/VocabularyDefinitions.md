@@ -8,7 +8,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [B Vocabulary](./B.md) - Words like Beatific, Birr, Blatherskite, Bliss, Bon Ton, Boondoggle, Braird, Brevity, Brumal, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Cohort, Comestible, Clarity, Clement, Compassionate, Congenial, Consistency, Coterminous, Courage, Crevasse, Crevice, Cunning, Curiosity
 - [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Duplicity
-- [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erinaceous, Erudite, Erstwhile, Euphonious, Eunoia, Execution, Exhort, Expiscate
+- [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erinaceous, Erudite, Erstwhile, Ephemeral, Epiphany, Euphonious, Eunoia, Execution, Exhort, Expiscate
 - [F Vocabulary](./F.md) - Words like Fabricate, Facetious, Facets, Fait Accompli, Fallible, Farrago, Fathom, Felicity, Fervent, Fictitious, Figgy pudding, First-Foot, Flagship, Flattery, Flaunt, Flocculent, Floriferous, Flourish, Flummox, Fortitude, Fragmented, Frenzy, Frontier, Fuse, Fusion, Futz
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gregarious, Gumption
 - [H Vocabulary](./H.md) - Words like Halcyon, Hallucination, Harmony, Hearten, Hiraeth, Hinterland, Humble
