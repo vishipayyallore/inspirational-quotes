@@ -15,7 +15,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [I Vocabulary](./I.md) - Words like Iiwi, Idoneous, Idioglossia, Illustrate, Imbued, Imminent, Impetus, Impetrate, Inciting, Incommunicado, Ineffable, Infomania, Ingenuity, Ingest, Inhere, Instigating, Instincts, Integrity, Interlard, Intimidate, Intonation, Intrepid, Intricacies, Intricate, Intuitive, Inure, Irreplaceable
 - [J Vocabulary](./J.md) - Words like Jocose, Jocund, Jocularity, Journey, Jollification, Jovial, Juvenescent, Juxtapose
 - [K Vocabulary](./K.md) - Words like Kairos, Kaleidoscopic, Kindred, Kinetic, Kintsugi, Kudos, Kismet, Klatsch, Knead, Krummholz
-- [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lampoon, Land of Nod, Lapidify, Largesse, Latent, Lickety-Split, Lilt, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
+- [L Vocabulary](./L.md) - Words like Laconic, Lagniappe, Lampoon, Land of Nod, Lapidify, Largesse, Latent, Laureate, Lickety-Split, Lilt, Liminal, Lionhearted, Lodestar, Lucid, Lucullan, Luminary, Luminous, Lyricism
 - [M Vocabulary](./M.md) - Words like Magnanimous, Mascot, Matrilineal, Mayhap, Meddle, Mediocre, Mellifluous, Mephitic, Meraki, Mercurial, Metanoia, Metaphors, Meticulous, Mettlesome, Mindfulness, Momentum, Mondegreen, Monotheism, Moschate, Moxie, Mumpsimus, Munificent, Murmuration, Mussitate, Mythomania
 - [N Vocabulary](./N.md) - Words like Nacreous, Nadir, Nascent, Nebulous, Nefarious, Neutralize, Nexus, Nimble, Noctivagant, Nostalgia, Novaturient, Nudge, Numinous
 - [O Vocabulary](./O.md) - Words like Obdurate, Obsess, Obviate, Odontoid, Odoriferous, Oneiric, Opaque, Opaline, Operose, Opportune, Optimistic, Overwhelm
