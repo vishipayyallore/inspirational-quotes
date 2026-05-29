@@ -84,6 +84,11 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: The most important or leading item in a group, often used to describe a company's best product or service.
 **Usage**: "The flagship store showcases the brand's latest innovations." - This refers to the main or most prominent location that represents the brand's identity.
 
+## Flâneur
+
+**Meaning**: A person who strolls through a city in a leisurely, observant way; an urban wanderer.
+**Usage**: "He moved through the market like a flâneur, noticing details most people hurried past." - Describes someone who wanders thoughtfully and pays close attention to the world around them.
+
 ## Flattery
 
 **Meaning**: Excessive and insincere praise, given especially to further one's own interests.
