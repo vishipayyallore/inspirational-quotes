@@ -59,6 +59,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: In a way that relates to the whole of something rather than just its parts.  
 **Usage**: "We must approach this problem holistically." - This means considering all aspects and factors involved, not just isolated parts.
 
+## Homograph
+
+**Meaning**: A word that is spelled the same as another word but differs in meaning, and sometimes in pronunciation.
+**Usage**: "The word 'lead' is a homograph because it can name a metal or describe guiding someone forward." - Shows how identical spelling can carry different meanings.
+
 ## Homologate
 
 **Meaning**: To approve or confirm officially.
@@ -68,6 +73,16 @@ This file contains definitions and example usage for "H" words found in the insp
 
 **Meaning**: Corresponding or similar in position, structure, or origin, but not necessarily in function.
 **Usage**: "Your small daily efforts may not look identical, but their impact is homologous—they all move you toward the same growth." - Uses the idea of structural similarity to emphasize aligned habits.
+
+## Homonym
+
+**Meaning**: A word that shares the same spelling or pronunciation as another word but has a different meaning.
+**Usage**: "'Bat' is a homonym because it can refer to an animal or the tool used in sports." - One form can point to entirely different ideas depending on context.
+
+## Homophone
+
+**Meaning**: A word that sounds the same as another word but differs in meaning and usually in spelling.
+**Usage**: "'Flour' and 'flower' are homophones, reminding us that sound alone does not guarantee meaning." - Identical pronunciation can still carry distinct written forms and ideas.
 
 ## Humble
 

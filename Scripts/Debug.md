@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-05-27 12:40:44 — Added Tarry (T.md) — all 26 files OK
+Last verification: 2026-05-28 11:38:19 — Added Homograph, Homonym, Homophone, and Swivet — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-05-28: Reasoning summary: Added the missing requested words Homograph, Homonym, Homophone, and Swivet after confirming none already existed. Action(s) taken: Inserted Homograph before Homologate, Homonym and Homophone after Homologous in H.md; inserted Swivet after Swindler in S.md; updated VocabularyDefinitions.md for H and S; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260528-113818.txt"`. Outcome / verification: All 26 letter files OK; H.md -> OK (18 words), S.md -> OK (61 words); log saved at Logs/verify-20260528-113818.txt.
+
+- 2026-05-28: Reasoning summary: Added Urbane (U.md) as today's unique word after confirming it did not already exist. Action(s) taken: Inserted Urbane in strict alphabetical order between Uplift and Ushered; updated VocabularyDefinitions.md for U; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260528-095644.txt"`. Outcome / verification: All 26 letter files OK; U.md -> OK (22 words); log saved at Logs/verify-20260528-095644.txt.
 
 - 2026-05-27: Reasoning summary: Processed requested words and added only missing entry Tarry (T.md) after confirming Poignant (P.md) already existed. Action(s) taken: Inserted Tarry in strict alphabetical order between Taradiddle and Temperance; updated VocabularyDefinitions.md for T; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260527-124041.txt"`. Outcome / verification: All 26 letter files OK; T.md -> OK (30 words); log saved at Logs/verify-20260527-124041.txt.
 

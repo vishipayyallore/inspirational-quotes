@@ -104,6 +104,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: To raise in spirit, improve morally or emotionally, or elevate to a better condition.
 **Usage**: "Choose words that uplift others, and you strengthen both their hope and your own character." - Encourages using encouragement and kindness to elevate people and situations.
 
+## Urbane
+
+**Meaning**: Courteous, polished, and refined in manner, especially in social situations.
+**Usage**: "An urbane response can turn a tense conversation into a constructive one." - Calm, refined communication often reduces friction and opens space for progress.
+
 ## Ushered
 
 **Meaning**: To guide or escort someone to a particular place; to introduce or initiate.

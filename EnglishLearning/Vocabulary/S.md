@@ -299,6 +299,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: A person who defrauds others by trickery.  
 **Usage**: "Be wary of the sweet words of a swindler." - Be cautious of people who use charming speech to deceive you.
 
+## Swivet
+
+**Meaning**: A state of nervous excitement, confusion, or agitation; a fluster.
+**Usage**: "When the deadline puts you in a swivet, pause long enough to sort urgency from noise." - Regaining composure helps you respond thoughtfully instead of reactively.
+
 ## Synonymous
 
 **Meaning**: Having the same or nearly the same meaning as another word or phrase.
