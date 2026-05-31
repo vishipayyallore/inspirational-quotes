@@ -118,3 +118,8 @@ This file contains definitions and example usage for "U" words found in the insp
 
 **Meaning**: Habitually or typically occurring or done; customary.
 **Usage**: "If you are not willing to risk the usual, you will have to settle for the ordinary." - To achieve extraordinary results, you must be willing to step away from conventional approaches.
+
+## Uxorious
+
+**Meaning**: Excessively fond of, obedient to, or affectionate toward one's wife.
+**Usage**: "His uxorious devotion was evident in the way he prioritized her well-being in every major decision." - Describes a husband whose strong affection shapes his choices and behavior.
