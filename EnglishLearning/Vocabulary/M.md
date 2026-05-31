@@ -24,6 +24,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Relating to descent, inheritance, or family lineage traced through the mother's line.
 **Usage**: "In matrilineal communities, family history and belonging are often carried through the mother’s lineage." - Explains a social system where ancestry is traced through women.
 
+## Mayhap
+
+**Meaning**: Perhaps; maybe.
+**Usage**: "Mayhap the smallest consistent effort is the one that changes everything." - An old-fashioned way to express possibility while leaving room for hope and choice.
+
 ## Meddle
 
 **Meaning**: Interfere in something that is not one's concern.  
@@ -48,6 +53,11 @@ This file contains definitions and example usage for "M" words found in the insp
 
 **Meaning**: To do something with soul, creativity, or love, leaving a piece of yourself in your work.
 **Usage**: "Bring meraki to even the smallest task, and ordinary effort starts to carry the mark of care and purpose." - Encourages wholehearted, creative effort instead of mechanical work.
+
+## Mercurial
+
+**Meaning**: Subject to sudden or unpredictable changes of mood, behavior, or direction; lively but changeable.
+**Usage**: "Her mercurial energy made every meeting feel different." - Describes a person or thing that shifts quickly and is not easy to predict.
 
 ## Metanoia
 
