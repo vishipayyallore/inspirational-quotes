@@ -4,7 +4,7 @@
 
 ---
 
-## 1. 🔑 CORE PRINCIPLE -- Here
+## 1. 🔑 CORE PRINCIPLE
 
 > 1. I protect and allocate my time with intention
 > 1. I grow through `boundaries`, `visibility`, `control`, and `positioning`
@@ -89,7 +89,7 @@
 
 ---
 
-## 7. 🔥 VISIBILITY SYSTEM
+## 7. 🔥 VISIBILITY SYSTEM -- Here
 
 ### 7.1. I create visibility at all stages
 
