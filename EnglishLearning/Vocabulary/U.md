@@ -34,6 +34,11 @@ This file contains definitions and example usage for "U" words found in the insp
 **Meaning**: Causing or feeling slight pain or physical discomfort; feeling uneasy or awkward.
 **Usage**: "If you're not uncomfortable, you're not growing." - Growth requires stepping outside your comfort zone and experiencing discomfort.
 
+## Unctuous
+
+**Meaning**: Excessively smooth, oily, or ingratiating in manner; insincerely flattering.
+**Usage**: "His unctuous praise sounded polite, but it lacked sincerity." - Use this word to describe praise or behavior that feels overly polished and not genuine.
+
 ## Undaunted
 
 **Meaning**: Not intimidated or discouraged by difficulty, danger, or disappointment; persisting with courage and determination.
