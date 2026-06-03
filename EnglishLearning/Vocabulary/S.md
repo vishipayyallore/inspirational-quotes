@@ -139,6 +139,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: The act of reading or glancing through quickly.
 **Usage**: "Skimming can be an effective way to get the gist of a text without delving into every detail." - This technique is useful for quickly assessing the relevance of information.
 
+## Skirl
+
+**Meaning**: A shrill, wailing, or rising sound, especially the piercing sound of bagpipes or wind.
+**Usage**: "Through the skirl of distractions, keep listening for the quiet discipline that calls you back to your purpose." - Encourages focus even when the world feels loud and unsettled.
+
 ## Skosh
 
 **Meaning**: A small amount; a little bit (informal, originally from Japanese).

@@ -139,6 +139,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Relating to winter; wintry or characteristic of the winter season.
 **Usage**: "Even in a brumal season, keep one small habit alive each day." - Encourages steady effort during difficult or gloomy times.
 
+## Brummagem
+
+**Meaning**: Showy but cheap or worthless; counterfeit or pretentious in appearance.
+**Usage**: "Do not chase brummagem success that looks impressive from a distance but collapses under honest scrutiny." - Warns against valuing flashy appearances over real substance.
+
 ## Bucolic
 
 **Meaning**: Relating to the pleasant aspects of the countryside and rural life; pastoral.
