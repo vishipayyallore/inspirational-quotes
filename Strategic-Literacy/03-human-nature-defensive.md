@@ -52,7 +52,7 @@ Am I evaluating alignment based on what is said—or on what the other person st
 
 ---
 
-## 3. Law of Role-Playing -- Here
+## 3. Law of Role-Playing
 
 ### 3.1. Core Principle (Personal Interpretation)
 
@@ -84,3 +84,62 @@ Avoid over-trusting polished communication or performative professionalism. Sust
 Am I evaluating people based on presentation—or on consistent behavior across different situations?
 
 ---
+
+## 4. Law of Compulsive Behavior -- Here
+
+### 4.1. Core Principle (Personal Interpretation)
+
+People tend to repeat established behavioral patterns, especially under stress, uncertainty, or pressure. Past behavior often provides stronger predictive value than stated intentions.
+
+---
+
+### 4.2. Defensive Insight
+
+**Study recurring patterns, not isolated events.**
+
+Avoid making judgments based on a single interaction—positive or negative. Instead, observe what people consistently do when facing deadlines, setbacks, success, criticism, or conflict.
+
+Look for recurring cycles:
+
+* repeated excuses,
+* repeated conflicts,
+* repeated overpromising,
+* repeated avoidance of accountability,
+* repeated reactions to pressure.
+
+When predicting future behavior, place greater weight on demonstrated patterns than on promises of change.
+
+The same principle applies to self-assessment. Personal growth begins by identifying recurring habits that repeatedly create the same outcomes.
+
+**Patterns are often more reliable than intentions.**
+
+---
+
+### 4.3. Reflection Prompt
+
+What recurring pattern—either in myself or others—am I currently overlooking because I am focusing on individual events instead of long-term behavior?
+
+---
+
+> If you are following the sequence from The Laws of Human Nature and creating **defensive reading notes**, the next law is:
+
+---
+
+After this, the sequence would continue with:
+
+1. Law of Covetousness
+2. Law of Shortsightedness
+3. Law of Defensiveness
+4. Law of Self-Sabotage
+5. Law of Repression
+6. Law of Envy
+7. Law of Grandiosity
+8. Law of Gender Rigidity
+9. Law of Aimlessness
+10. Law of Conformity
+11. Law of Fickleness
+12. Law of Aggression
+13. Law of Generational Myopia
+14. Law of Death Denial
+
+This structure is working well because it stays focused on **risk awareness, leadership stability, execution discipline, and professional self-protection** rather than attempting to restate the book itself.

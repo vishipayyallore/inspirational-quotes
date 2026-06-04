@@ -115,6 +115,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Meaning**: Unintended consequences or outcomes of an action.
 **Usage**: "Consider the repercussions of your decisions." - It's important to think about the potential effects of your choices.
 
+## Repose
+
+**Meaning**: A state of rest, tranquility, or calm composure.
+**Usage**: "In moments of repose, she regained clarity and strength." - Restful stillness can restore focus and emotional balance.
+
 ## Reptiles
 
 **Meaning**: Cold-blooded vertebrates (such as snakes, lizards, crocodiles, and turtles) characterized by scaly skin, internal fertilization, and the ability to regulate body temperature through external heat sources.
