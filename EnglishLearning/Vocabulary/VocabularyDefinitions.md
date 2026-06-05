@@ -7,7 +7,7 @@ This file serves as an index to vocabulary definitions organized by letter. Each
 - [A Vocabulary](./A.md) - Words like Abandon, Acumen, Adversary, Adversity, Advocate, Aesthetic, Aglet, Alacrity, Aleatory, Alpenglow, Antiquarian, Aphorism, Aplomb, Appetence, Apricity, Armadillo
 - [B Vocabulary](./B.md) - Words like Beatific, Birr, Blatherskite, Bliss, Bon Ton, Boondoggle, Braird, Brevity, Brumal, Brummagem, Buoyant, Burnout
 - [C Vocabulary](./C.md) - Words like Caesura, Candor, Caparison, Cohort, Comestible, Clarity, Clement, Compassionate, Congenial, Consistency, Coterminous, Courage, Crevasse, Crevice, Cunning, Curiosity
-- [D Vocabulary](./D.md) - Words like Dabble, Daunting, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Droll, Duplicity
+- [D Vocabulary](./D.md) - Words like Dabble, Daunting, Davenport, Dedicated, Demeanor, Democratic, Devious, Dexterity, Diagnosis, Discern, Divagate, Droll, Duplicity
 - [E Vocabulary](./E.md) - Words like Effulgent, Eidolon, Elevate, Elucidate, Erinaceous, Erudite, Erstwhile, Ephemeral, Epiphany, Euphonious, Eunoia, Execution, Exhort, Expiscate
 - [F Vocabulary](./F.md) - Words like Fabricate, Facetious, Facets, Fait Accompli, Fallible, Farrago, Fathom, Felicity, Fervent, Fictitious, Figgy pudding, First-Foot, Flagship, Flâneur, Flattery, Flaunt, Flocculent, Floriferous, Flourish, Flummox, Fortitude, Fragmented, Frenzy, Frontier, Fuse, Fusion, Futz
 - [G Vocabulary](./G.md) - Words like Garnered, Gerund, Glisten, Gratitude, Gregarious, Gumption
