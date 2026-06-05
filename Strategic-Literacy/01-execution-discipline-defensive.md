@@ -163,7 +163,7 @@
 
 ---
 
-## 8. 🎯 IMPACT COMMUNICATION -- Here
+## 8. 🎯 IMPACT COMMUNICATION
 
 ### I communicate
 
@@ -232,7 +232,7 @@
 
 ---
 
-## 14. 🧩 REAL SCENARIO PLAYBOOK (UNDER PRESSURE)
+## 14. 🧩 REAL SCENARIO PLAYBOOK (UNDER PRESSURE) -- Here
 
 ### 14.1 Rule: Pause → Pick → Speak
 

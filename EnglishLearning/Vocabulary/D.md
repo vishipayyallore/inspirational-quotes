@@ -119,6 +119,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: To wander in thought or speech; to digress from the main subject.
 **Usage**: "Do not divagate from your purpose when challenges arise." - Staying focused helps you avoid drifting away from what truly matters.
 
+## Droll
+
+**Meaning**: Curious or unusual in a way that provokes dry amusement; whimsically funny.
+**Usage**: "His droll remark turned the tension into laughter." - A subtly funny comment can lighten a serious moment without derailing it.
+
 ## Duplicity
 
 **Meaning**: Deceitfulness; double-dealing or being two-faced.
