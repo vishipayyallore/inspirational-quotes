@@ -120,6 +120,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Having or showing great knowledge, gained from studying.
 **Usage**: "Her erudite insight turned a simple question into a thoughtful discussion." - Highlights deep knowledge applied with clarity.
 
+## Esemplastic
+
+**Meaning**: Readily capable of changing form or being reshaped; adaptable and flexible.
+**Usage**: "Her esemplastic approach helped the team adjust quickly when the plan changed." - Describes a mindset or method that adapts smoothly to new conditions.
+
 ## Esoteric
 
 **Meaning**: Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
