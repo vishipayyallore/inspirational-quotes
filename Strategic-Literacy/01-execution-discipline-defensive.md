@@ -232,7 +232,7 @@
 
 ---
 
-## 14. 🧩 REAL SCENARIO PLAYBOOK (UNDER PRESSURE) -- Here
+## 14. 🧩 REAL SCENARIO PLAYBOOK (UNDER PRESSURE)
 
 ### 14.1 Rule: Pause → Pick → Speak
 
@@ -366,7 +366,7 @@
 
 ---
 
-## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL)
+## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL) -- Here
 
 ### 15.1 I recognize patterns
 

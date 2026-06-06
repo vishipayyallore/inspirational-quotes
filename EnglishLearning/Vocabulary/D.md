@@ -19,6 +19,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Intimidating or discouraging; seeming difficult to deal with in prospect.
 **Usage**: "The prospect of starting a new job can be daunting." - New challenges can often feel overwhelming at first.
 
+## Davenport
+
+**Meaning**: A small sofa or couch, often with a back and arms, designed for one or two people.
+**Usage**: "She curled up on the old davenport by the window." - Refers to a classic upholstered sofa, especially in older or literary contexts.
+
 ## Deception
 
 **Meaning**: The act of deceiving or misleading someone; a trick or falsehood.
