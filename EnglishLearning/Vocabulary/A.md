@@ -54,6 +54,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: A substance or treatment that enhances the effectiveness of a medical treatment; something that assists or supports.
 **Usage**: "The adjuvant therapy helped improve the patient's recovery after surgery." - Supplementary treatments can boost the effectiveness of primary medical interventions.
 
+## Admix
+
+**Meaning**: To mix or blend one thing with another.
+**Usage**: "The chef chose to admix herbs into the sauce for extra depth." - Combining ingredients carefully can improve flavor and texture.
+
 ## Adret
 
 **Meaning**: The sun-facing slope of a mountain, especially in alpine regions.
