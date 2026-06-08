@@ -366,7 +366,7 @@
 
 ---
 
-## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL) -- Here
+## 15. 🧠 MANAGER STRATEGY (EMBEDDED CONTROL)
 
 ### 15.1 I recognize patterns
 
@@ -456,7 +456,7 @@ Use:
 
 ---
 
-## 16. ⚙️ MEMORY HOOK
+## 16. ⚙️ MEMORY HOOK -- Here
 
 ### 16.1 A–O–V–S–C
 

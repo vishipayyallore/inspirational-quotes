@@ -14,6 +14,11 @@ This file contains definitions and example usage for "M" words found in the insp
 **Meaning**: Generous, forgiving, and noble in spirit, especially toward someone less powerful or a former opponent.
 **Usage**: "Choose the magnanimous response when you are wronged, and you free yourself from bitterness while lifting others with your generosity." - Encourages responding to hurt or conflict with generosity and noble character.
 
+## Magniloquent
+
+**Meaning**: Using high-flown, pompous, or grandiose language, often more impressive than meaningful.
+**Usage**: "His magniloquent speech sounded impressive, but the simple truth was more useful." - Describes speech that is overly grand or ornate.
+
 ## Mascot
 
 **Meaning**: A person, animal, or object believed to bring good luck, or a character/symbol that represents a group, team, school, or organization.
