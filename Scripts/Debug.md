@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-06-06 13:14:48 — Added Esemplastic (E.md) and Magniloquent (M.md) — all 26 files OK
+Last verification: 2026-06-09 13:42:08 — Added Gudgeon (G.md) — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-06-09: Reasoning summary: Added Gudgeon (G.md) after confirming it was not already present. Action(s) taken: Inserted the word in strict alphabetical order; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260609-120000.txt"`. Outcome / verification: All 26 letter files OK; G.md -> OK (13 words); log saved at Logs/verify-20260609-120000.txt.
 - 2026-06-06: Reasoning summary: Added Esemplastic (E.md) and Magniloquent (M.md) after confirming they were not already present. Action(s) taken: Inserted both words in strict alphabetical order; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260606-131435.txt"`. Outcome / verification: All 26 letter files OK; E.md -> OK (32 words); M.md -> OK (27 words); log saved at Logs/verify-20260606-131435.txt.
 - 2026-06-05: Reasoning summary: Added Davenport (D.md) after confirming it was not already present; confirmed Interlard already existed in I.md. Action(s) taken: Inserted Davenport in strict alphabetical order; updated VocabularyDefinitions.md for D; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260605-125417.txt"`. Outcome / verification: All 26 letter files OK; D.md -> OK (25 words); log saved at Logs/verify-20260605-125417.txt.
 - 2026-06-04: Reasoning summary: Added Droll (D.md) and Repose (R.md) after confirming they were not already present. Action(s) taken: Inserted both words in strict alphabetical order; updated VocabularyDefinitions.md for D and R; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260604-104254.txt"`. Outcome / verification: All 26 letter files OK; D.md -> OK (24 words); R.md -> OK (40 words); log saved at Logs/verify-20260604-104254.txt.

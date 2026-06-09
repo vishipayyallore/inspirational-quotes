@@ -1,5 +1,7 @@
 # Today Is Mine
 
+## Step 1: Focus on Today
+
 I get one shot today. Yesterday was data. Tomorrow is possibility. Today is execution.
 
 ## What I Control
@@ -47,6 +49,8 @@ Focus on the next right action. Not the entire journey.
 
 ---
 
+## Step 2: Focus on the Next Right Action
+
 ## The Next Right Action
 
 ### Daily Reminder
@@ -91,11 +95,21 @@ I DO NOT NEED TO MOVE FAST. I NEED TO KEEP MOVING.
 
 ---
 
+## Step 3: Grow When There Are Problems
+
 **GROW WHEN THERE ARE PROBLEMS, NOT WHEN THEY ARE ABSENT.**
 
 Obstacles are not a stop sign.
 
-They are a part of the path to growth.
+They are part of the path to growth.
+
+The tree did not wait for the rock to move.
+
+It adapted.
+
+It persisted.
+
+It grew around the obstacle.
 
 **ADAPT. PERSIST. GROW.**
 

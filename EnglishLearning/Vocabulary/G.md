@@ -64,6 +64,11 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: In a very obvious and unacceptable manner; extremely.
 **Usage**: "The project was grossly mismanaged, leading to significant delays." - This indicates that the mismanagement was severe and easily noticeable.
 
+## Gudgeon
+
+**Meaning**: A person who is easily deceived or taken advantage of; a naive or gullible person.
+**Usage**: "He felt like a gudgeon after trusting the too-good-to-be-true offer." - This describes someone who has been tricked because they were overly trusting.
+
 ## Gumption
 
 **Meaning**: Shrewd or spirited initiative and resourcefulness; practical common sense combined with courage and determination.
