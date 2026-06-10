@@ -94,6 +94,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: Having or showing a modest or low estimate of one's own importance; unpretentious and respectful.
 **Usage**: "Stay humble, stay hungry, and always be willing to learn." - Maintaining modesty and eagerness to grow leads to continuous improvement and success.
 
+## Humdinger
+
+**Meaning**: An excellent or remarkable person, thing, or event.
+**Usage**: "That was a humdinger of a speech, full of energy and insight." - A vivid expression for something especially impressive or memorable.
+
 ## Hunky-dory
 
 **Meaning**: Perfectly fine; satisfactory or in good order (informal).

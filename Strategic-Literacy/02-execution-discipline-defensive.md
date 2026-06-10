@@ -4,7 +4,7 @@
 
 ---
 
-## 1. 🔑 CORE PRINCIPLE
+## 1. 🔑 CORE PRINCIPLE -- Here
 
 > 1. I protect and allocate my time with intention
 > 1. I grow through `boundaries`, `visibility`, `control`, and `positioning`
@@ -456,7 +456,7 @@ Use:
 
 ---
 
-## 16. ⚙️ MEMORY HOOK -- Here
+## 16. ⚙️ MEMORY HOOK
 
 ### 16.1 A–O–V–S–C
 
