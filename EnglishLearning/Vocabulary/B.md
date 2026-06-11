@@ -24,6 +24,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A row of small columns topped by a rail, often used as a protective barrier on balconies, staircases, or terraces.
 **Usage**: "Every small habit is like a balustrade, quietly guarding your progress from slipping backward." - Uses the image of a railing to show how steady routines protect your growth.
 
+## Barnstorm
+
+**Meaning**: To travel around giving performances or speeches, especially to promote a show, product, or political campaign; to tour energetically and persuasively.
+**Usage**: "The theatre troupe would barnstorm small towns each summer, bringing lively performances to places that rarely saw live shows." - Describes traveling widely to perform or campaign and galvanize local audiences.
+
 ## Beacon
 
 **Meaning**: A light or fire on a hill or tower serving as a signal or warning; a source of guidance or inspiration.

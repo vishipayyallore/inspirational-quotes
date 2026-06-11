@@ -9,8 +9,8 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. **Do not let** what is happening around you **get inside you and weigh you down**. - Anonymous
 > 1. **Never** put too much trust in friends. - Anonymous
 > 1. Lord, **protect me from my friends**; I can take care of my enemies. - Anonymous
-> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous -- **Here**
-> 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous
+> 1. **Stop crossing oceans** for people **who will not even jump puddles for you**. - Anonymous
+> 1. The sad truth of life — the crooked often go unscathed, **while the straight are hammered till they bend**. - Anonymous -- **Here**
 > 1. **You will continue to suffer** if you have an emotional reaction to everything that is said to you. True power is sitting back and observing things with logic. True power is restraint. If words control you, that means everyone else can control you. **Breathe and allow things to pass**. - Anonymous
 > 1. **Do not expect** people to understand your journey, especially when they have not walked your path. - Anonymous
 > 1. **Make your reputation unassailable; guard it with your life.** - Anonymous
@@ -63,8 +63,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Do not believe anyone solely by their words or demeanor; true intentions emerge over time through actions, not appearances. – Viswanatha Swamy P K
 > 1. Do not trust at face value; true intentions reveal themselves through actions, not just words or appearances. – Viswanatha Swamy P K
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
-> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K -- **Here**
-> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
+> 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
+> 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K -- **Here**
 > 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -89,8 +89,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Success and failure are both temporary. Please do not get attached to either. One blinds you with pride, the other **drowns you in doubt**. - Anonymous
 > 1. Balance is not the end goal. **Balance is transient**, and you should seek experiences that contribute to an exciting and fulfilling life. - Anonymous
 > 1. You can not control people's loyalty. The only loyalty you can rely on is your own commitment to **yourself and your values**. - Anonymous
-> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous -- **Here**
-> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous
+> 1. Be brave enough to **look like a beginner**. Limiting yourself to what you have always been good at will stop you from exploring a whole new world of opportunity. - Anonymous
+> 1. In life, it really is **you VS you**. Try not to get caught up in the frenzy of comparing yourself to others or keeping up with the world’s expectations. - Anonymous -- **Here**
 > 1. Small habits make the biggest changes. Transformations do not happen overnight; they come from daily, **unremarkable steps** that no one else sees. - Anonymous
 > 1. The best ideas arrive in the shower, not in the boardroom. True creativity comes from **mental clarity, solitude, and freedom**. - Anonymous
 > 1. **Your environment shapes you**. If you want to change your outcomes, change your environment. - Anonymous
@@ -101,8 +101,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. **Hard Work Is Not Enough** → Results need to be seen. Advocate for yourself — quiet efforts get ignored. - Anonymous
 > 1. **Loyalty Would not Pay the Bills** → Companies are loyal to profits, not people. Look out for yourself first. - Anonymous
-> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous -- **Here**
-> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous
+> 1. **Your Job Title Is Temporary** → Focus on building skills, not clinging to labels. Titles don’t define your value. - Anonymous
+> 1. **Your Boss Is Not Always Right** → Leaders make mistakes too. Challenge respectfully when it matters. - Anonymous -- **Here**
 > 1. **Networking Is Non-Negotiable** → Your skills are important, but connections will open the doors. - Anonymous
 > 1. **Burnout Is Not a Badge of Honor** → Work smarter, not harder. Protect your energy—it’s your greatest resource. - Anonymous
 > 1. **Comfort Zones Kill Growth** → If you’re not uncomfortable, you’re not growing. - Anonymous
@@ -149,8 +149,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
-> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra -- **Here**
-> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
+> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
+> 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra -- **Here**
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
 > 1. A fool's ears are deaf to wisdom. - Panchatantra
@@ -166,8 +166,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela
 > 1. It always seems impossible until it is done. - Nelson Mandela
 > 1. The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh
-> 1. Fall seven times, stand up eight. - Japanese Proverb -- **Here**
-> 1. Strength grows in the moments when you think you can not go on but you keep going anyway. - Anonymous
+> 1. Fall seven times, stand up eight. - Japanese Proverb
+> 1. Strength grows in the moments when you think you can not go on but you keep going anyway. - Anonymous -- **Here**
 > 1. When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford
 > 1. The journey of a thousand miles begins with a single step. - Lao Tzu
 > 1. If you are going through hell, keep going. - Winston Churchill
