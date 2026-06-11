@@ -6,24 +6,24 @@ I get one shot today. Yesterday was data. Tomorrow is possibility. Today is exec
 
 ## What I Control
 
-- My effort
-- My attitude
-- My decisions
+ - ✅ My effort
+ - ✅ My attitude
+ - ✅ My decisions
 
 ## What I Release
 
-- Outcomes
-- Other people’s opinions
-- Perfectionism
+ - ✅ Outcomes
+ - ✅ Other people’s opinions
+ - ✅ Perfectionism
 
 Everything else is noise until it arrives. Challenges will come. Good. Pressure is not a signal to stop. It is a signal that growth is happening.
 
 ## What I Am Building
 
-- A stronger career
-- Deeper expertise
-- Better opportunities
-- A secure future for my family
+ - ✅ A stronger career
+ - ✅ Deeper expertise
+ - ✅ Better opportunities
+ - ✅ A secure future for my family
 
 The bridge between my future vision and my present reality is built with today’s focus. These goals are not achieved in one giant leap. They are built through consistent action.
 
@@ -33,9 +33,9 @@ I do not need perfect conditions. I do not need certainty. I do not need motivat
 
 At the end of today, I will be able to say:
 
-- I showed up.
-- I did the work.
-- I moved forward.
+ - ✅ I showed up.
+ - ✅ I did the work.
+ - ✅ I moved forward.
 
 Progress compounds. Small wins repeated daily become extraordinary results. If I lose focus, I will course-correct immediately. I will not wait for tomorrow to reset.
 
@@ -59,11 +59,11 @@ I do not need to solve my entire life today.
 
 I need to:
 
-- Do the next important thing.
-- Finish what I start.
-- Learn something useful.
-- Treat people well.
-- Leave today better than I found it.
+ - ✅ Do the next important thing.
+ - ✅ Finish what I start.
+ - ✅ Learn something useful.
+ - ✅ Treat people well.
+ - ✅ Leave today better than I found it.
 
 Progress compounds. The future is built by ordinary days repeated consistently.
 
@@ -77,11 +77,11 @@ Focus on the next right action.
 
 ## Current Reality
 
-- This situation is temporary.
-- I am transitioning.
-- I will stay calm, professional, and not react emotionally.
-- My focus now is study, exams, and building expertise.
-- My next phase opens after that.
+ - ✅ This situation is temporary.
+ - ✅ I am transitioning.
+ - ✅ I will stay calm, professional, and not react emotionally.
+ - ✅ My focus now is study, exams, and building expertise.
+ - ✅ My next phase opens after that.
 
 I DO NOT NEED TO MOVE FAST. I NEED TO KEEP MOVING.
 
