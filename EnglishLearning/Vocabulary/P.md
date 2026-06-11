@@ -59,6 +59,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: To travel or wander from place to place, especially over a long distance.
 **Usage**: "Do not rush your growth; peregrinate through each season of life with curiosity, and let every road teach you something new." - Encourages embracing life's journey as a source of wisdom.
 
+## Perforce
+
+**Meaning**: By necessity; inevitably; because circumstances make it unavoidable.
+**Usage**: "The team worked late, perforce, after the deadline moved up overnight." - Shows that necessity can compel action even when it is inconvenient.
+
 ## Pericope
 
 **Meaning**: A short passage or section taken from a longer text, especially one studied as a distinct unit.
