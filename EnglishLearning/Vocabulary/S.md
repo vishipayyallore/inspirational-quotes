@@ -224,6 +224,11 @@ This file contains definitions and example usage for "S" words found in the insp
 **Meaning**: Strange and frightening.
 **Usage**: "The old house had a spooky atmosphere, especially at night." - The eerie feeling in the house made it seem haunted.
 
+## Spoor
+
+**Meaning**: The track, scent, or trail left by an animal; also evidence or traces that reveal past activity.
+**Usage**: "The hiker followed the spoor of deer through the undergrowth, careful not to lose the trail." - Describes following animal tracks or subtle traces to learn about past movement.
+
 ## Sprezzatura
 
 **Meaning**: Studied carelessness; the art of making difficult things look effortless.
