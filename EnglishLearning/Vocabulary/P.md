@@ -200,6 +200,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A commotion, fuss, or anxious disturbance over something often minor.
 **Usage**: "Do not waste your energy in pother over small setbacks; steady focus will carry you farther." - Encourages calm attention on what truly matters instead of getting agitated by trivial obstacles.
 
+## Postern
+
+**Meaning**: A back entrance or secondary door, especially one in a castle or town wall; a small gate or side-door.
+**Usage**: "She slipped through the postern of old habits to quietly build a new, stronger routine." - Uses 'postern' as a metaphor for a small but significant way of entering change.
+
 ## Pragmatic
 
 **Meaning**: Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
