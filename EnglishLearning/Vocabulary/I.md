@@ -164,6 +164,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: To accustom someone to something unpleasant, especially by prolonged exposure; to become toughened or desensitized.
 **Usage**: "Inure yourself to discomfort through small daily challenges, and resilience becomes second nature." - Emphasizes building tolerance through consistent, gradual exposure.
 
+## Invaluable
+
+**Meaning**: Extremely useful or indispensable; having great worth or importance.
+**Usage**: "Her mentorship was invaluable during my first year—she helped me avoid common mistakes and grow faster." - Shows that someone's help provided essential, practical benefit.
+
 ## Irreplaceable
 
 **Meaning**: Not able to be replaced; unique.

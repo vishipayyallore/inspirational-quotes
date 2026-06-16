@@ -14,6 +14,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: A handbook or guide that is kept constantly at hand for ready reference; a practical manual or companion.
 **Usage**: "Make your list of values your vade mecum—carry it everywhere and consult it when decisions get hard." - Encourages using a personal reference of principles to stay grounded in challenging moments.
 
+## Valuable
+
+**Meaning**: Having considerable worth, importance, or usefulness; beneficial or helpful.
+**Usage**: "Her feedback proved valuable to the project's success, guiding the team to safer decisions." - Explains that the feedback provided practical benefit and improved outcomes.
+
 ## Vainglory
 
 **Meaning**: Excessive pride in or admiration of one's own appearance, achievements, or abilities.
