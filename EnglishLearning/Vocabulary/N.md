@@ -59,6 +59,11 @@ This file contains definitions and example usage for "N" words found in the insp
 **Meaning**: Wandering or active at night.
 **Usage**: "Be a noctivagant only in thought: let the quiet hours help you explore bold ideas, then greet the morning ready to build them." - Uses the stillness of night as a metaphor for reflection that prepares purposeful action.
 
+## Nonage
+
+**Meaning**: The state of being a minor; youth or legal minority; a period of immaturity.
+**Usage**: "Her years of nonage did not define her capacity to lead; they shaped the resilience she later relied upon." - Emphasizes that youth can forge strength and character rather than limit it.
+
 ## Nostalgia
 
 **Meaning**: A sentimental longing or wistful affection for the past, often for a time or place associated with happy memories.
