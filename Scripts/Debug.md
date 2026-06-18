@@ -11,7 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
-
+ 
+- 2026-06-17: Reasoning summary: Added Nonage (N.md) after confirming it was not already present. Action(s) taken: Inserted the word in strict alphabetical order in `EnglishLearning/Vocabulary/N.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches -OutFile "Logs/verify-20260617-164848.txt"`. Outcome / verification: N.md -> OK (18 words); overall verification reported P.md and V.md out of order; log saved at Logs/verify-20260617-164848.txt.
 - 2026-06-09: Reasoning summary: Added Gudgeon (G.md) after confirming it was not already present. Action(s) taken: Inserted the word in strict alphabetical order; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260609-120000.txt"`. Outcome / verification: All 26 letter files OK; G.md -> OK (13 words); log saved at Logs/verify-20260609-120000.txt.
 - 2026-06-16: Reasoning summary: Added Auspicious (A.md) after confirming it was not already present. Action(s) taken: Inserted the word in strict alphabetical order in `EnglishLearning/Vocabulary/A.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches -OutFile "Logs/verify-20260616-130802.txt"`. Outcome / verification: `A.md` -> OK (57 words); overall verification reported P.md and V.md out of order; saved log at Logs/verify-20260616-130802.txt.
 - 2026-06-06: Reasoning summary: Added Esemplastic (E.md) and Magniloquent (M.md) after confirming they were not already present. Action(s) taken: Inserted both words in strict alphabetical order; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260606-131435.txt"`. Outcome / verification: All 26 letter files OK; E.md -> OK (32 words); M.md -> OK (27 words); log saved at Logs/verify-20260606-131435.txt.
