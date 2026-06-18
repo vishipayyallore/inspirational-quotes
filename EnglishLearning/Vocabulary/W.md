@@ -83,3 +83,8 @@ This file contains definitions and example usage for "W" words found in the insp
 
 **Meaning**: The art or practice of magic; extraordinary skill or ingenuity.
 **Usage**: "His wizardry with numbers is impressive." - His exceptional ability to work with numbers is remarkable.
+
+## Winkle
+
+**Meaning**: o extract, draw out, or force out something (often information) with effort; also, a small edible sea snail (periwinkle).
+**Usage**: "With patient questions, she managed to winkle the truth out of the tangled story." - Shows drawing out information through persistent, careful effort.
