@@ -39,6 +39,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Inspired or permeated with a feeling or quality.
 **Usage**: "Her speech was imbued with passion." - Her words were filled with strong emotion.
 
+## Inclement
+
+**Meaning**: Harsh, severe, or unpleasant, especially when referring to weather conditions.
+**Usage**: "Despite the inclement weather, the team continued their outdoor training."
+
 ## Imminent
 
 **Meaning**: About to happen; impending.
