@@ -29,6 +29,11 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: To explain or make something clear by using examples, charts, or pictures.
 **Usage**: "The teacher used diagrams to illustrate the complex concept." - Visual aids can help clarify difficult ideas.
 
+## Imbricate
+
+**Meaning**: To overlap in a pattern, like roof tiles or fish scales; to be closely connected or interlocked.
+**Usage**: "The layers of experience imbricate to form a complex understanding of the world." - How different experiences overlap and connect to create deeper wisdom.
+
 ## Imbued
 
 **Meaning**: Inspired or permeated with a feeling or quality.
