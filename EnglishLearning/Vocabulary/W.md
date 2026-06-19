@@ -59,6 +59,11 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: To carefully separate what is useful or true from what is less important, unnecessary, or false.
 **Usage**: "In moments of doubt, winnow the noise from your values so your next step is guided by clarity." - Encourages thoughtful judgment by filtering distractions and focusing on what truly matters.
 
+## Winkle
+
+**Meaning**: o extract, draw out, or force out something (often information) with effort; also, a small edible sea snail (periwinkle).
+**Usage**: "With patient questions, she managed to winkle the truth out of the tangled story." - Shows drawing out information through persistent, careful effort.
+
 ## Winsome
 
 **Meaning**: Sweetly pleasing or charming in a natural, gentle way.
