@@ -84,6 +84,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: A word that sounds the same as another word but differs in meaning and usually in spelling.
 **Usage**: "'Flour' and 'flower' are homophones, reminding us that sound alone does not guarantee meaning." - Identical pronunciation can still carry distinct written forms and ideas.
 
+## Hooly
+
+**Meaning**: Slowly, cautiously, or carefully (Scottish dialect); gradually or gently.
+**Usage**: "Move hooly through difficult conversations—rushing leads to regret, but thoughtful pacing builds understanding." - Emphasizes the value of deliberate, careful communication in sensitive situations.
+
 ## Hopscotch
 
 **Meaning**: A children's game in which players hop through a pattern of marked squares; by extension, movement made in quick jumps from one point to another.
