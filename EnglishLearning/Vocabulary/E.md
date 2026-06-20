@@ -169,3 +169,8 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Meaning**: To find out, discover, or bring to light through careful effort or inquiry.
 **Usage**: "Patient reflection can expiscate the lesson hidden inside a difficult season." - Careful thought and persistence often reveal meaning that is not obvious at first.
+
+## Elated
+
+**Meaning**: Extremely happy and excited; overjoyed.
+**Usage**: "She felt elated after finally crossing the finish line she’d trained for all year." - Describes a burst of pure joy that comes from earned achievement.
