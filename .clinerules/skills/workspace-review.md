@@ -1,35 +1,80 @@
----
-name: workspace-review
-description: Comprehensive workspace review for Data Stores & Pipelines — structure, zero-copy, CI, five-layer companions, source-material hygiene, beginner-friendly teaching quality, and business-use-case grounding.
-tags: ["dsp", "skill", "workspace-review"]
-canonical: .github/skills/workspace-review/SKILL.md
----
+# Workspace Review — Inspirational Quotes & English Learning
 
-# Workspace Review — Data Stores & Pipelines
+Comprehensive workspace health check and maintenance procedure.
 
-## Protocol
+## Purpose
 
-1. Read `.github/copilot-instructions.md` (five-layer model, zero-copy, `source-material/` read-only — never listed in public `README.md` or `docs/`).
-2. Compare the tree to `docs/01_repository-structure.md` and `README.md`.
-3. Python: `uv sync` at repo root; `uv run …` per `pyproject.toml` / CI.
-4. **Zero-copy:** original synthesis in public folders (`src/weekN/01-notes/`, `src/weekN/02-quizzes/`, `src/weekN/03-notebooks/`, `src/weekN/04-discussions/`, `src/weekN/05-experimental-learning/`).
-5. **Five-layer parity:** for each active week, confirm `01-notes/`, `02-quizzes/`, `03-notebooks/`, `04-discussions/`, and `05-experimental-learning/` subfolders exist under `src/weekN/`.
-6. **Concept-first prose:** spot-check reading notes and notebook Markdown cells that introduce systems, query patterns, and pipelines before code.
-7. **Teaching clarity:** confirm important concepts use beginner-friendly wording and layman explanations before formal detail.
-8. **Business grounding:** confirm realistic business use cases are present where they help the topic feel concrete.
-9. **Diagram accessibility:** confirm Mermaid diagrams include ASCII fallbacks wherever a visual explanation is applicable.
-10. Run the **ci-checks** skill (Python + notebook JSON + markdownlint + optional Lychee).
-11. Optionally run **docs-verification**.
-12. **Skills parity:** `.github/skills/**` ↔ `.cursor/skills/**` byte-identical — see `.github/skills/README.md`.
-13. **Agents parity:** `.github/agents/**` ↔ `.cursor/agents/**` byte-identical.
-14. **Credentials hygiene:** scan for hardcoded connection strings, passwords, or tokens; flag any found.
+Perform a complete audit of repository health, content quality, and organizational standards.
 
-## Archive handling
+## Prerequisites
 
-- `.archive/` (if present) is preserved legacy content; do not flag it as stale active content unless Swamy asks to migrate it.
-- `source-material/.archive/` (if present) is preserved raw/reference material; keep it read-only and do not count it as an automatic migration gap.
-- Reviews should focus on active `src/weekN/` bundles plus governance/tooling consistency.
+- PowerShell installed and available in PATH
+- Git installed and configured
+- Repository cloned and up to date
+- Working directory is repository root
 
-## Output
+## Review Areas
 
-Structured report under `docs/reviews/` when requested. Table: **Area | Status | Notes | Suggested fix**.
+### 1. Content Quality
+- Verify inspirational quotes have proper attribution
+- Check vocabulary definitions are clear and practical
+- Ensure grammar examples come from actual quotes
+- Confirm daily learning plans support 18-minute practice
+
+### 2. File Organization
+- Verify directory structure compliance
+- Check file naming conventions
+- Validate file placement
+- Identify orphaned or misplaced files
+
+### 3. Script Functionality
+- Test PowerShell scripts for proper execution
+- Verify error handling and output formatting
+- Check script documentation and comments
+- Confirm scripts align with learning objectives
+
+### 4. Cross-References
+- Verify internal links point to existing files
+- Check that relative paths are used consistently
+- Identify and fix broken links
+- Ensure educational connections are maintained
+
+### 5. Documentation
+- Review rule files for accuracy and completeness
+- Check workflow files for proper procedures
+- Verify agent files describe correct behaviors
+- Confirm skill files match actual capabilities
+
+## Execution Steps
+
+### Automated Checks
+1. Run vocabulary verification script
+2. Execute content format validation
+3. Perform file organization audit
+4. Run markdown standards enforcement
+
+### Manual Review
+1. Sample quote files for proper formatting
+2. Review vocabulary files for quality and organization
+3. Check grammar files for educational value
+4. Verify daily learning plans are actionable
+
+### Verification
+1. Confirm all checks pass or have documented resolutions
+2. Validate repository structure meets standards
+3. Ensure content quality aligns with educational principles
+4. Verify documentation is accurate and complete
+
+## Output Format
+
+Report findings in standardized format:
+- **Area | Status | Issues | Recommendations**
+- Concrete paths and specific references only
+- Prioritized by impact on learning experience
+- Actionable suggestions for improvement
+
+## Related
+
+- **Workflow:** `.clinerules/workflows/workspace-review.md`
+- **Agent:** `.clinerules/agents/quality-assurance-review.md`
+- **Standards:** `.clinerules/rules/04-quality-assurance.md`

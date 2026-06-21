@@ -1,43 +1,47 @@
----
-name: e2e-testing
-description: Smoke verification for Data Stores & Pipelines (environment, notebook JSON, optional manual notebook run). Use when smoke-testing the workspace end-to-end.
-tags: ["dsp", "skill", "e2e-testing"]
-canonical: .github/skills/e2e-testing/SKILL.md
----
+# Smoke / E2E-style verification — Inspirational Quotes & English Learning
 
-# Smoke / E2E-style verification — Data Stores & Pipelines
-
-No deployed application here. "End-to-end" means **environment + parse + optional notebook execution** (and, when sensible, a small local pipeline run).
+No deployed application here. "End-to-end" means **environment + content verification + script functionality**.
 
 ## Prerequisites
 
-- Python 3.12+ with **`uv`** at repo root
-- Optional: Jupyter — **Kernel → Restart & Run All**
-- Optional: a local SQLite / DuckDB / small Postgres for SQL notebooks
-- Optional: a single-broker Kafka and a local Spark session for streaming / batch notebooks
+- PowerShell installed and available in PATH
+- Repository cloned and up to date
+- Working directory is repository root
 
 ## Suggested sequence
 
-1. **Dependencies**
+1. **Content Structure Verification**
 
    ```powershell
-   $Env:UV_LINK_MODE = "copy"
-   uv sync
+   # Check that main directories exist
+   Test-Path -Path "InspirationalQuotes"
+   Test-Path -Path "EnglishLearning"
+   Test-Path -Path "Strategic-Literacy"
+   Test-Path -Path "Scripts"
    ```
 
-2. **Import smoke (optional)**
+2. **Vocabulary File Verification**
 
    ```powershell
-   uv run python -c "import numpy, pandas; print('ok')"
+   # Check that vocabulary files exist and follow naming convention
+   Get-ChildItem -Path "EnglishLearning\Vocabulary" -Filter "*.md" | Where-Object { $_.Name -match '^[A-Z]\.md$' }
    ```
 
-3. **Notebook JSON** (same as CI):
+3. **Script Functionality Test**
 
    ```powershell
-   uv run python -c "import json,glob; paths=sorted(glob.glob('src/**/*.ipynb',recursive=True)); [json.load(open(p,encoding='utf-8')) for p in paths]"
+   # Test the main verification script
+   .\Scripts\Verify-Vocabulary.ps1
    ```
 
-4. **Manual (optional)** — open a representative notebook from `src/weekN/03-notebooks/`, run all cells. For SQL, run against the embedded engine; for Spark / Kafka, run against the local single-node setup.
+4. **Detailed Script Test**
+
+   ```powershell
+   # Test with detailed output
+   .\Scripts\Verify-Vocabulary.ps1 -ShowMismatches
+   ```
+
+5. **Manual Verification** — open a representative vocabulary file, quote file, and grammar file to verify proper formatting and content quality.
 
 ## Summary
 

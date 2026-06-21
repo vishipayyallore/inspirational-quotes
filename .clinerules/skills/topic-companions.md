@@ -1,51 +1,61 @@
----
-name: topic-companions
-description: >-
-tags: ["dsp", "skill", "topic-companions"]
-canonical: .github/skills/topic-companions/SKILL.md
----
+# Topic Companions — Inspirational Quotes & English Learning
 
-# Topic companions — five-layer SOP (Data Stores & Pipelines)
+Each learning topic should have interconnected content across different sections to provide a comprehensive learning experience.
 
-**Applies to**: `t2-data-stores-pipelines` **only**. Do not assume the same layer count or filenames in other course repositories.
+## Companion Structure
 
-**Canonical governance**: `.github/copilot-instructions.md`, `docs/01_repository-structure.md`, and `.cursor/rules/02_educational-content-rules.mdc`.
+| Component | Location | Purpose |
+|-----------|----------|---------|
+| Vocabulary | `EnglishLearning/Vocabulary/[LETTER].md` | Word definitions with quote examples |
+| Grammar | `EnglishLearning/Grammar/[topic].md` | Grammar rules with quote examples |
+| Quotes | `InspirationalQuotes/[theme].md` | Inspirational content with educational value |
+| Foundations | `EnglishLearning/Foundations/[basics].md` | Basic concepts and building blocks |
+| Daily Plans | `EnglishLearning/DailyLearning*.md` | Structured 18-minute learning sessions |
+| Scripts | `Scripts/` | Automation tools for content management |
 
-## Layers (five) per week under `src/`
+## Cross-Referencing Guidelines
 
-| # | Path pattern | Role |
-|---|--------------|------|
-| 1 | `src/weekN/01-notes/` | Notes — first-person learning journey |
-| 2 | `src/weekN/02-quizzes/` | Quizzes — self-assessment (original synthesis only) |
-| 3 | `src/weekN/03-notebooks/` | Notebooks — hands-on implementations (SQL, ETL, Spark, Kafka, Airflow) |
-| 4 | `src/weekN/04-discussions/` | Discussions — worked examples and discussion scenarios |
-| 5 | `src/weekN/05-experimental-learning/` | Experimental learning — spikes, prototypes, sandbox notebooks/scripts, iteration logs |
+### Vocabulary ↔ Quotes
+- Each vocabulary word should link to relevant quote examples
+- Quotes should highlight vocabulary words for learning context
+- Usage examples should come from actual repository quotes
 
-**Week folder naming:** lowercase `weekN` (e.g. `week1`, `week2`).
+### Grammar ↔ Quotes
+- Grammar lessons should use examples from repository quotes
+- Quotes should demonstrate grammar concepts in context
+- Explanations should connect to real-world usage
 
-**Layer 5 intent:** Document exploratory work that does not belong in polished `03-notebooks/` labs — alternative approaches, tuning runs, failed hypotheses, and tooling spikes. First-person reflection is expected; polish is not.
+### Daily Plans ↔ All Content
+- Daily learning plans should reference vocabulary, grammar, and quotes
+- Activities should integrate content from different sections
+- Progress should build systematically across topics
 
-## Migration SOP (on demand)
+## Quality Standards
 
-1. Confirm **naming contract** (`.cursor/rules/08_file-naming-conventions.mdc`) before renames.
-2. For each **active** week, ensure all **five** subfolders exist (or document WIP in `docs/reviews/`).
-3. Add new week folders **only when starting** that week — no empty future scaffolding.
-4. After each phase: fix cross-links; run **`ci-checks`** skill locally.
-5. Mark a week **done** only if layers 01–04 have aligned content, layer 05 folder exists (with at least one experiment artifact when the week is complete), notebook health passes, and zero-copy passes.
+### Consistency
+- Maintain consistent formatting across all companion files
+- Use standardized templates for each content type
+- Follow established naming conventions
 
-## Definition of done (per week)
+### Educational Value
+- Ensure all content supports learning objectives
+- Connect concepts to real-world applications
+- Provide clear explanations and examples
 
-- [ ] All five subfolders exist: `01-notes/`, `02-quizzes/`, `03-notebooks/`, `04-discussions/`, `05-experimental-learning/`.
-- [ ] Content across notes, quizzes, notebooks, and discussions is aligned.
-- [ ] Layer 05 captures at least one exploratory artifact when the week is marked complete (notebook, script, or reflection note with `-experiment` suffix).
-- [ ] Notebooks parse and run top-to-bottom (fixed seeds where data is random; small sample data committed).
-- [ ] No broken internal links for that week.
-- [ ] Quiz answers and worked steps match explanations.
-- [ ] Teaching content explains ideas in layman language and uses beginner-friendly wording.
-- [ ] At least one realistic business use case appears where it helps make the topic concrete.
-- [ ] Mermaid diagrams include ASCII fallbacks wherever a visual explanation is applicable.
+### Attribution
+- Properly credit all quote authors
+- Maintain original context and meaning
+- Verify accuracy of all information
+
+## Verification Process
+
+1. Check that related content exists across sections
+2. Verify cross-references are working and accurate
+3. Confirm educational connections are clear and valuable
+4. Ensure consistent formatting and quality standards
 
 ## Related
 
-- **Docs audit matrix:** `.github/skills/docs-verification/SKILL.md`
-- **Subagent:** `.cursor/agents/dsp-topic-bundle-review.md` (one topic pass)
+- **Workflow:** `.clinerules/workflows/add-new-vocabulary.md`
+- **Standards:** `.clinerules/rules/02-content-standards.md`
+- **Agent:** `.clinerules/agents/content-format-check.md`
