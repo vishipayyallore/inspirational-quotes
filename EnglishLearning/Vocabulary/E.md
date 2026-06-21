@@ -24,6 +24,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: An idealized image, phantom, or specter; a vivid mental representation of something absent or imagined.
 **Usage**: "Do not chase an eidolon of perfection; build something real, useful, and honest instead." - Warns against pursuing an unrealistic ideal when steady action produces meaningful progress.
 
+## Elated
+
+**Meaning**: Extremely happy and excited; overjoyed.
+**Usage**: "She felt elated after finally crossing the finish line she'd trained for all year." - Describes a burst of pure joy that comes from earned achievement.
+
 ## Elevate
 
 **Meaning**: To raise or lift something to a higher position.
