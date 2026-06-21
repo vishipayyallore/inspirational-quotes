@@ -49,6 +49,11 @@ This file contains definitions and example usage for "L" words found in the insp
 **Meaning**: A person honored or acclaimed for outstanding achievement, especially in literature, scholarship, or the arts.
 **Usage**: "She wrote with the steady confidence of a laureate, shaping ideas into language that could endure." - Describes someone recognized for exceptional creative or intellectual work.
 
+## Layette
+
+**Meaning**: A complete set of clothing, bedding, and accessories for a newborn baby.
+**Usage**: "She spent the weekend organizing the layette her sister gifted her before the baby arrived." - Refers to the bundle of essentials parents prepare for a new infant.
+
 ## Lickety-Split
 
 **Meaning**: Very quickly; immediately.
