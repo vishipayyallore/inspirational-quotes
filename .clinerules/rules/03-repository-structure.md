@@ -1,32 +1,67 @@
----
-description: Repository structure for Data Stores & Pipelines
-globs: ["**/*"]
-tags: ["dsp", "rules"]
-canonical: .cursor/rules/03_repository-structure.mdc
-version: 1.0
----
-
 # Repository Structure
 
-**Project**: Data Stores & Pipelines (M.Sc. DSAI)
+This repository is organized to support inspirational quote collection, vocabulary building, and structured English learning.
 
-> **Single Source of Truth**: For the complete and detailed repository structure, naming conventions, and workflow standards, refer to [docs/01_repository-structure.md](../../docs/01_repository-structure.md).
+## Main Sections
 
-## Quick Summary
+### 1. Inspirational Quotes
+Location: `InspirationalQuotes/`
+- Collection of meaningful quotes organized by themes
+- Each quote includes proper attribution
+- Quotes are selected for their educational and motivational value
 
-- **`src/weekN/01-notes/`**: Theory and notes for that week.
-- **`src/weekN/02-quizzes/`**: Self-assessment for that week.
-- **`src/weekN/03-notebooks/`**: Hands-on implementation notebooks (SQL, Python ETL, Spark, Kafka, Airflow DAG sketches) for that week.
-- **`src/weekN/04-discussions/`**: Worked examples and discussion scenarios (system design trade-offs, real-world pipelines) for that week.
-- **`src/weekN/05-experimental-learning/`**: Exploratory spikes, prototypes, and sandbox experiments beyond polished labs for that week.
-- **`src/`**: Also houses reusable Python code (helpers, connectors, schema definitions) alongside the week folders.
-- **`tools/`**: Maintenance scripts and helper utilities.
-- **`docs/`**: Structure guides, agent docs, and reviews.
+### 2. English Learning
+Location: `EnglishLearning/`
+Subdirectories:
+- `Foundations/` - Basic grammar concepts (nouns, pronouns, sentence structure)
+- `Grammar/` - Progressive grammar lessons and exercises
+- `Vocabulary/` - Alphabetically organized vocabulary definitions (A-Z)
+- Additional learning materials and templates
 
-When writing or updating public-facing structure (for example `README.md` or `docs/01_repository-structure.md`), do not list or mention any internal-only paths.
+### 3. Strategic Literacy
+Location: `Strategic-Literacy/`
+- Content focused on personal development and strategic thinking
+- Articles and reflections on life principles and discipline
 
-## Preserved archives
+### 4. Scripts
+Location: `Scripts/`
+- PowerShell scripts for vocabulary verification and maintenance
+- Automation tools for content management
 
-- `.archive/` (if present) contains old layouts. Leave it as preserved legacy material unless Swamy explicitly asks to migrate or clean it.
-- `source-material/.archive/` (if present) contains raw/reference material. Treat it as read-only source material and leave it as-is unless Swamy explicitly asks for a topic migration.
-- Routine parity, docs, and CI reviews should focus on active `src/weekN/` content and should not treat either archive as a required active layer.
+### 5. Documentation
+Location: `docs/`
+- Project documentation and guidelines
+- Image assets for visual content
+
+## Vocabulary Organization
+
+The vocabulary section is organized alphabetically:
+- Each letter has its own markdown file (A.md, B.md, C.md, etc.)
+- Words within each file are organized alphabetically
+- Each entry follows the standard format defined in content standards
+
+## File Naming Conventions
+
+### Vocabulary Files
+- Format: Single letter followed by .md (A.md, B.md, etc.)
+- Located in: `EnglishLearning/Vocabulary/`
+
+### Grammar Files
+- Format: Descriptive names with .md extension
+- Located in: `EnglishLearning/Grammar/`
+
+### Quote Files
+- Format: Theme-based naming with .md extension
+- Located in: `InspirationalQuotes/`
+
+### Script Files
+- PowerShell scripts use .ps1 extension
+- Verification and maintenance scripts in `Scripts/`
+
+## Quality Standards
+
+All content should follow the standards outlined in:
+- `.clinerules/rules/02-content-standards.md`
+- Proper attribution and sourcing
+- Consistent formatting and organization
+- Regular review and updates

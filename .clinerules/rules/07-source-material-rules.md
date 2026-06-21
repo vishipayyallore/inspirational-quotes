@@ -1,11 +1,3 @@
----
-description: Rules for handling the source-material folder
-globs: ["**/*"]
-tags: ["dsp", "rules"]
-canonical: .cursor/rules/07_source_material_rules.mdc
-version: 1.0
----
-
 # Source Material Rules
 
 **Folder**: `source-material/`
@@ -13,9 +5,9 @@ version: 1.0
 
 ## Archive carve-out
 
-- `source-material/.archive/` is preserved raw/reference course material. Leave it as-is unless Swamy explicitly asks for a specific migration.
-- Do **not** count `source-material/.archive/` as active week content or as an automatic migration gap during routine workspace reviews.
-- When Swamy asks to migrate an archived topic, read it as reference only and create fresh zero-copy five-layer content under `src/weekN/`.
+- `source-material/.archive/` is preserved raw/reference course material. Leave it as-is unless explicitly asked for a specific migration.
+- Do **not** count `source-material/.archive/` as active content or as an automatic migration gap during routine reviews.
+- When asked to migrate an archived topic, read it as reference only and create fresh content under the appropriate project directories.
 
 ## 🚫 Critical Restrictions
 
@@ -44,8 +36,8 @@ When migrating content from `source-material/`:
 
 1. **Read** from `source-material/` to understand concepts
 2. **Synthesize** - Rewrite in your own words (NO copy-paste)
-3. **Publish** to educational folders (`src/weekN/01-notes/`, `src/weekN/02-quizzes/`, `src/weekN/03-notebooks/`, `src/weekN/04-discussions/`, `docs/`, `src/`)
-4. **Cite** when using specific algorithms/theorems
+3. **Publish** to educational folders (`EnglishLearning/`, `InspirationalQuotes/`, `Strategic-Literacy/`, `docs/`)
+4. **Cite** when using specific quotes, definitions, or concepts
 
 ## ✅ Zero-Copy Policy
 
@@ -69,11 +61,12 @@ When migrating content from `source-material/`:
 
 The `source-material/` folder is a staging area for:
 
-- Raw author content
-- Book transcripts/excerpts
+- Raw quote collections
+- Vocabulary reference materials
+- Grammar guides and textbooks
 - PDF extracts
 - Reference materials
-- Original code examples
+- Original examples
 
 These materials remain **untouched** and serve as **permanent references** while you create **original, synthesized educational content** in the proper folders.
 

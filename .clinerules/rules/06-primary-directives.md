@@ -1,48 +1,46 @@
----
-description: Primary directives for Data Stores & Pipelines
-globs: ["**/*"]
-tags: ["dsp", "rules"]
-canonical: .cursor/rules/06_primary-directives.mdc
-version: 1.0
----
-
 # Primary Directives
 
 ## Project Focus
 
-This is an **Academic Learning Workspace** for Data Stores & Pipelines that:
+This is a **Personal English Learning Workspace** for:
 
-- Practices SQL, relational and NoSQL data modelling, and core data-engineering patterns (ETL/ELT, streaming, batch processing)
-- Provides clear, structured notes in Markdown
-- Uses Jupyter Notebooks, SQL scripts, and small Python pipelines for interactive learning
-- Prioritises conceptual clarity (consistency, partitioning, throughput, schema design) over framework-specific tricks
+- Collecting and curating inspirational quotes from various sources
+- Building practical English vocabulary through contextual learning
+- Developing structured English grammar understanding
+- Creating daily learning plans for systematic improvement
+- Supporting personal growth through strategic literacy content
 
 ### Educational Philosophy
 
-- **Educational first**: Prioritise clarity, correctness, and explainability over performance.
+- **Educational first**: Prioritize clarity, correctness, and learnability over complexity.
 - **Beginner friendly**: Default to beginner-friendly explanations before advanced phrasing.
-- **Business grounded**: When teaching a concept, try to connect it to a realistic business use case so the practical value is obvious.
-- **Layman explanation**: Use everyday language before database, pipeline, or distributed-systems jargon.
-- **Equations / quantitative reasoning**: Pair throughput, latency, storage, or cost formulas with a plain-English line and a numeric walkthrough when helpful.
-- **Diagrams**: Use Mermaid diagrams with ASCII fallbacks wherever a visual explanation is applicable.
-- **Hands-on mindset**: Implement small pipelines and queries end-to-end; read system designs critically.
-- **Document intent**: Update docs when structure, behaviour, or learning flow changes.
+- **Practical application**: When teaching a concept, try to connect it to real-life usage and communication needs.
+- **Layman explanation**: Use everyday language before introducing linguistic or literary terminology.
+- **Contextual learning**: Pair vocabulary and grammar concepts with real quote examples.
+- **Motivational approach**: Use inspirational quotes to make learning engaging and meaningful.
+- **Structured progression**: Build skills progressively from foundations to advanced concepts.
 
 ## Current State
 
-- ✅ Active Learning: Ongoing course (M.Sc. DSAI)
-- ✅ Tech Stack: Python, Jupyter, SQL engines, NumPy, Pandas, Spark / PySpark, Kafka client libs, Airflow examples
-- ❌ NOT a Web Application: No Flask, Django, or React.
-- ❌ NOT a Production System: Code is for educational and practice purposes.
+- ✅ Active Learning: Ongoing English vocabulary and grammar development
+- ✅ Content Collection: Growing collection of inspirational quotes
+- ✅ Learning Structure: Organized vocabulary (A-Z) and grammar progression
+- ✅ Daily Practice: 18-minute structured learning sessions
+- ❌ NOT a Commercial Product: Content is for personal learning only
+- ❌ NOT a Formal Curriculum: Informal, self-directed learning approach
 
 ## Documentation Accuracy
 
-- Notes must accurately reflect database and pipeline theory (CAP, consistency models, partitioning, exactly-once semantics, etc.).
-- Code samples (SQL, Python, YAML, JSON) must be syntactically correct and runnable in the documented environment.
-- Code comments should explain the *why* of the engineering choice, not just the *how* of the language syntax.
+- Quotes must accurately reflect the original wording and meaning
+- Vocabulary definitions must be clear, practical, and learnable
+- Grammar examples must be correct and relevant to real usage
+- Code samples (PowerShell scripts) must be syntactically correct and functional
+- Code comments should explain the learning purpose, not just the syntax
 
-## Code Maintenance
+## Content Maintenance
 
-- Notebooks should be reproducible (Restart Kernel & Run All should work).
-- Separate reusable logic (connection helpers, schema definitions, small Spark utilities) into `src/` modules where appropriate.
-- Use strict typing in Python scripts (`src/`) but relax it in Notebooks for exploration.
+- Vocabulary files should be organized alphabetically (A-Z)
+- Quote files should be organized by themes/categories
+- Grammar content should build progressively from basics to advanced
+- Daily learning plans should be achievable in 18 minutes
+- Scripts should be tested and documented clearly

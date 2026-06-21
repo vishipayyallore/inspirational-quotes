@@ -1,41 +1,71 @@
----
-description: Quality assurance standards for code and notebooks
-globs: ["**/*"]
-tags: ["dsp", "rules"]
-canonical: .cursor/rules/04_quality-assurance.mdc
-version: 1.0
----
-
 # Quality Assurance
 
-## Code Quality Checklist
+## Content Quality Checklist
 
-### Python Scripts (`src/`)
-- [ ] Follows PEP 8 style guide.
-- [ ] Type hints used for function arguments and return types.
-- [ ] Docstrings included for all functions and classes.
-- [ ] No hardcoded paths (use `pathlib` or relative paths).
+### Quote Curation
+- [ ] Quotes are inspiring, educational, or thought-provoking
+- [ ] Author/source attribution is included when known
+- [ ] Original wording and meaning are preserved
+- [ ] Formatting follows standard template with italics for attribution
+- [ ] Quotes are organized by appropriate themes/categories
 
-### Jupyter Notebooks (`src/weekN/03-notebooks/`)
-- [ ] **Kernel Restart & Run All** passes without errors.
-- [ ] Logical flow: Import -> Load Data -> Implement Algorithm -> Train -> Evaluate -> Visualize.
-- [ ] No hidden state (variables defined in deleted cells).
-- [ ] Markdown cells clearly explain the steps.
-- [ ] Visualizations have titles, labels, and legends.
+### Vocabulary Definitions
+- [ ] Each entry follows the standard format (WordName, Meaning, Usage)
+- [ ] Definitions are clear, practical, and learnable
+- [ ] Usage examples come from actual quotes in the collection
+- [ ] Context explanations are provided
+- [ ] Words are organized alphabetically within each letter file
 
-## Algorithm Implementation Checklist
-- [ ] Algorithm implemented from scratch (not using sklearn directly).
-- [ ] Mathematical correctness verified.
-- [ ] Hyperparameters clearly documented.
-- [ ] Performance metrics calculated and displayed.
+### Grammar Learning Materials
+- [ ] Concepts start with basic foundations and build complexity
+- [ ] Examples are drawn from actual quotes in the collection
+- [ ] Clear explanations precede exercises
+- [ ] Practical application guidance is included
+- [ ] Content supports progressive learning path
 
-## Content Review Checklist (Zero-Copy)
-- [ ] **Originality Check**: Verify that text is not a direct copy from source material.
-- [ ] **Synthesis**: Ensure content represents a synthesized understanding, not just rephrasing.
-- [ ] **Citations**: Check that algorithms and specific claims are cited.
+### Daily Learning Plans
+- [ ] Designed for 18-minute time-boxed sessions
+- [ ] Balanced mix of vocabulary, grammar, and quote reflection
+- [ ] Specific, actionable tasks are included
+- [ ] Skills build progressively over time
+- [ ] Plans are achievable within time constraints
 
-## Documentation Quality
-- README.md must match actual implementation.
-- Usage guides must be accurate.
-- Code comments explain algorithm logic and concepts.
-- Mathematical formulas correctly formatted (LaTeX in notebooks).
+## Review Process
+
+### Regular Content Reviews
+- [ ] Verify all quote attributions are accurate
+- [ ] Ensure vocabulary definitions remain clear and practical
+- [ ] Check that grammar examples are correct and relevant
+- [ ] Confirm daily learning plans are achievable in 18 minutes
+- [ ] Validate that file naming conventions are followed
+- [ ] Ensure markdown standards are maintained
+
+### Continuous Improvement
+- [ ] Update outdated or unclear content regularly
+- [ ] Add new quotes and vocabulary as collection grows
+- [ ] Refine learning plans based on effectiveness
+- [ ] Maintain consistency across all files and sections
+- [ ] Remove duplicate or redundant content
+
+## Script Verification
+
+### PowerShell Scripts
+- [ ] Scripts function correctly and produce expected output
+- [ ] Error handling is implemented appropriately
+- [ ] Code follows PowerShell best practices
+- [ ] Documentation is clear and complete
+- [ ] Scripts are tested before committing changes
+
+## File Organization
+
+### Directory Structure
+- [ ] All files are in correct locations per repository structure
+- [ ] File naming conventions are consistently applied
+- [ ] No orphaned or misplaced files
+- [ ] Directory structure remains organized and navigable
+
+### Cross-References
+- [ ] Internal links point to existing files
+- [ ] Relative paths are used for all internal references
+- [ ] Broken links are identified and fixed
+- [ ] References are updated when files are moved or renamed

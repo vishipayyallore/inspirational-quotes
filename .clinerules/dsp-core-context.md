@@ -1,12 +1,3 @@
----
-description: >-
-  Always-on context for t2-data-stores-pipelines — Swamy-only scope, five-layer layout,
-  zero-copy, credentials hygiene, and environment pointers for Cline.
-globs: ["**/*"]
-tags: ["dsp", "core", "context"]
-version: 1.0
----
-
 # Data Stores & Pipelines — core context (Cline)
 
 ## Repository

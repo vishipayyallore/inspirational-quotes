@@ -1,40 +1,83 @@
----
-description: Run CI-aligned local checks for Data Stores & Pipelines (ruff, pytest, notebooks, markdownlint)
-tags: ["dsp", "workflow", "ci"]
-version: 1.0
----
+# Run CI Checks — Workflow
 
-# Workflow: Run CI checks (DSP)
+Step-by-step process for running complete content verification and quality checks in the inspirational-quotes repository.
 
-**Objective:** Validate this repo after substantive edits using the same checks as GitHub Actions.
+## Purpose
+
+Execute all automated and manual quality checks to ensure content meets repository standards.
 
 ## Prerequisites
 
-- Repository root: `d:\msc-dsai\t2-data-stores-pipelines`
-- `uv sync` completed
-- Node.js 20.x for markdownlint (optional Lychee via Docker)
+- PowerShell installed and available in PATH
+- Repository cloned and up to date
+- Working directory is repository root
 
 ## Steps
 
-1. Read `.clinerules/skills/ci-checks.md` for exact commands — do not invent flags.
-2. From repo root, run **ruff** check and format on `src/` and `tests/`.
-3. Run **pytest** (`uv run pytest -q`).
-4. Parse all notebook JSON under `src/**/*.ipynb`.
-5. Run **markdownlint-cli2** on `README.md`, `docs/**/*.md`, `src/**/*.md`, `tools/**/*.md`.
-6. (Optional) Run Lychee via Docker or `.\tools\psscripts\Run-MarkdownLintAndLychee.ps1`.
+### 1. Vocabulary Order Verification
 
-## Output
+```powershell
+.\Scripts\Verify-Vocabulary.ps1
+```
 
-Report a summary table: Check | PASS/FAIL | Notes.
+- Run the vocabulary verification script
+- Note any files reported as "OUT OF ORDER"
+- If issues found, proceed to step 2
 
-If any check fails, show the minimal failing output (file + line/rule). Explain teaching-impact failures in beginner-friendly language.
+### 2. Detailed Vocabulary Analysis (if needed)
 
-## Do not
+```powershell
+.\Scripts\Verify-Vocabulary.ps1 -ShowMismatches
+```
 
-- Skip failing checks silently.
-- Commit secrets or real connection strings while fixing lint issues.
+- Run with detailed output to see specific ordering issues
+- Document which words need to be reordered
 
-## Related
+### 3. Content Format Verification
 
-- Agent: `.clinerules/agents/dsp-ci-verify.md`
-- Canonical skill: `.github/skills/ci-checks/SKILL.md`
+Invoke the `content-format-check` agent:
+- Check quote entry formatting (H2 headings, blockquotes, attribution)
+- Verify vocabulary entry structure (**Meaning**, **Usage** sections)
+- Validate grammar entry formatting (H2/H3 hierarchy, examples)
+- Review markdown standards compliance
+
+### 4. File Organization Audit
+
+Invoke the `file-organization-audit` agent:
+- Verify directory structure compliance
+- Check file naming conventions
+- Validate file placement
+- Identify orphaned or misplaced files
+
+### 5. Manual Quality Review
+
+Perform manual checks based on `.clinerules/rules/04-quality-assurance.md`:
+- Quote curation standards
+- Vocabulary definition quality
+- Grammar learning material structure
+- Daily learning plan time-boxing
+
+## Validation
+
+All checks should report PASS status. Any FAIL results require corrective action.
+
+## Troubleshooting
+
+### Vocabulary Order Issues
+- Use `ShowMismatches` flag for detailed analysis
+- Manually reorder words in affected files
+- Re-run verification to confirm fix
+
+### Format Issues
+- Refer to `.clinerules/rules/02-content-standards.md` for correct formats
+- Use `content-format-check` agent for detailed guidance
+
+### Organization Issues
+- Consult `.clinerules/rules/03-repository-structure.md` for proper structure
+- Follow `.clinerules/rules/08-file-naming-conventions.md` for naming standards
+
+## Completion Criteria
+
+- All automated checks pass
+- Manual review confirms content quality standards
+- No outstanding issues requiring immediate attention
