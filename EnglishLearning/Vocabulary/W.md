@@ -34,6 +34,12 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: Formerly; at one time in the past.
 **Usage**: "A whilom fear can become today’s lesson once you face it with courage." - Shows that what once intimidated you can later become a source of strength.
 
+## Whittle
+
+**Meaning**: To reduce or trim something gradually by making small cuts or removing small amounts; to diminish or pare down bit by bit.
+
+**Usage**: "You must whittle away the excuses until only action remains." - Encourages eliminating distractions and justifications relentlessly to achieve clarity and forward momentum.
+
 ## Wholesome
 
 **Meaning**: Conducive to or promoting moral, mental, or physical health and well-being; beneficial and positive in nature.
@@ -54,15 +60,15 @@ This file contains definitions and example usage for "W" words found in the insp
 **Meaning**: A sudden, violent gust of cold wind, especially in coastal or mountainous regions.
 **Usage**: "Even when a williwaw of setbacks hit her plans, she kept her footing and adjusted her sails." - Frames sudden disruption as something that can be met with steadiness and resilience.
 
+## Winkle
+
+**Meaning**: To extract, draw out, or force out something (often information) with effort; also, a small edible sea snail (periwinkle).
+**Usage**: "With patient questions, she managed to winkle the truth out of the tangled story." - Shows drawing out information through persistent, careful effort.
+
 ## Winnow
 
 **Meaning**: To carefully separate what is useful or true from what is less important, unnecessary, or false.
 **Usage**: "In moments of doubt, winnow the noise from your values so your next step is guided by clarity." - Encourages thoughtful judgment by filtering distractions and focusing on what truly matters.
-
-## Winkle
-
-**Meaning**: o extract, draw out, or force out something (often information) with effort; also, a small edible sea snail (periwinkle).
-**Usage**: "With patient questions, she managed to winkle the truth out of the tangled story." - Shows drawing out information through persistent, careful effort.
 
 ## Winsome
 
