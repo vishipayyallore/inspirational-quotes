@@ -1,40 +1,31 @@
 # Quality Assurance
 
-## Code Quality Checklist
+## Vocabulary verification (required after every edit)
 
-### Python Scripts (`src/`)
+```powershell
+pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
+```
 
-- [ ] Follows PEP 8 style guide.
-- [ ] Type hints used for function arguments and return types.
-- [ ] Docstrings included for all public functions and classes.
-- [ ] No hardcoded paths (use `pathlib` or relative paths).
-- [ ] Meaningful variable names (`monthly_charges_scaled` not `mcs`).
+| Flag | Purpose |
+|------|---------|
+| `-ShowMismatches` | Show current vs. correct order |
+| `-OutFile "Logs/verify-<stamp>.txt"` | Save output to a log file |
 
-### Jupyter Notebooks (`notebooks/`)
+Exit codes: `0` = all files in order, `2` = one or more files out of order.
 
-- [ ] **Kernel Restart & Run All** passes without errors.
-- [ ] Logical flow: Import → Load → Process → Visualize/Evaluate → Save.
-- [ ] No hidden state (variables defined in deleted cells).
-- [ ] Markdown cells clearly explain each major section.
-- [ ] Visualizations have titles, labels, and legends.
-- [ ] Fixed seed: `random_state=42` or `np.random.seed(42)` in all stochastic steps.
-- [ ] Report figures saved to `reports/figures/`.
+**Always verify after adding, removing, or reordering any word.**
 
-## Data Governance Checklist
+## Content quality checklist
 
-- [ ] `data/01-raw/` unchanged — no modifications to original dataset files.
-- [ ] Interim outputs in `data/02-interim/`; processed datasets in `data/03-processed/`.
-- [ ] No large binary files committed to Git.
+- [ ] Quote attribution is present and accurate.
+- [ ] Vocabulary entry follows `## Word ` → `**Meaning**:` → `**Usage**:` format.
+- [ ] Words are in strict alphabetical order within the letter file.
+- [ ] No duplicate words across files.
+- [ ] Usage examples use real quotes (not fabricated).
+- [ ] Markdown renders correctly (no broken syntax).
 
-## Modelling Checklist
+## What not to check
 
-- [ ] Train/test split performed **before** any statistics-based transformation (scaling, encoding).
-- [ ] No target leakage in preprocessing or feature engineering.
-- [ ] Recall is prominently reported and contextualized for churn prediction.
-- [ ] All standard metrics reported: Accuracy, Precision, Recall, F1, ROC-AUC, Confusion Matrix.
-
-## Documentation Quality
-
-- `README.md` must match actual implementation status.
-- `docs/01-repository-structure.md` is the single source of truth for layout.
-- Code comments explain the *why* (business or algorithmic reason), not just the *what*.
+- There is no test suite, no linting, no typechecking — none of that applies.
+- The `.clinerules/` directory is for a different agent system; leave it alone.
+- `Logs/` files are append-only machine output; do not edit them.

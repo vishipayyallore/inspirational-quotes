@@ -1,23 +1,26 @@
 # Repository Structure
 
-**Project**: Customer Churn Prediction ML (M.Sc. DSAI — Advanced Apex Project)
+> **⚠️ README.md is outdated** — it references `InspirationalQuotes/` and `source-material/` which do **not** exist. Below is the real layout.
 
-> **Single Source of Truth**: Refer to `docs/01-repository-structure.md` for the complete detailed structure.
+## Top-level directories
 
-## Quick Summary
+| Path | Contents |
+|------|----------|
+| `EnglishLearning/` | All learning content |
+| `EnglishLearning/Vocabulary/` | `A.md`–`Z.md`, `WordsToOrganize.md`, `VocabularyDefinitions.md` |
+| `EnglishLearning/Grammer/` | `Day1.md`–`Day4.md`, `_Template.md` (note: directory is **Grammer** not Grammar) |
+| `EnglishLearning/Foundations/` | `Nouns.md`, `Pronouns.md`, `README.md` |
+| `EnglishLearning/ChatAbbreviations.md` | Modern chat abbreviation guide |
+| `Strategic-Literacy/` | Numbered personal-development content (`01-` through `07-`) |
+| `Scripts/` | PowerShell maintenance scripts |
+| `Scripts/Verify-Vocabulary.ps1` | Alphabetical-order verification |
+| `Logs/` | Verification output files (append-only) |
+| `.archive/` | Preserved content — do not modify |
+| `.clinerules/` | Cline agent configuration (not for OpenCode) |
+| `.opencode/` | OpenCode configuration (this directory) |
 
-- **`data/01-raw/`**: Immutable source datasets. Never modify.
-- **`data/02-interim/`**: Cleaned intermediate artifacts from data understanding and preprocessing.
-- **`data/03-processed/`**: Model-ready feature-engineered datasets.
-- **`models/`**: Serialized model artifacts (`best_model.pkl`, `scaler.pkl`).
-- **`notebooks/`**: Numbered workflow notebooks (`01_` through `05_` and `final_consolidated.ipynb`).
-- **`src/data_preprocessing/`**: Reusable preprocessing logic.
-- **`src/feature_engineering/`**: Feature creation and transformation.
-- **`src/modeling/`**: Model training and inference.
-- **`src/evaluation/`**: Metrics, validation, and model comparison.
-- **`reports/`**: Report Markdown sources (`*.md`); agents edit these only. Swamy exports `.docx` → PDF for `submissions/`.
-- **`reports/figures/`**: Exported charts and report-ready visuals.
-- **`tests/`**: Pytest suite exercising the `src/` modules.
-- **`tools/`**: Reusable PowerShell (`tools/psscripts/`) and Python (`tools/pyscripts/`) maintenance utilities; not part of the ML pipeline.
-- **`docs/`**: Project documentation.
-- **`submissions/`**: Hand-off packages per milestone. Each submission folder must be self-contained and must not expose internal work-item IDs.
+## Key facts
+
+- No `InspirationalQuotes/` directory exists despite README references.
+- No `source-material/` directory exists despite older rule references.
+- No build system, package.json, tests, or CI/CD — pure Markdown.

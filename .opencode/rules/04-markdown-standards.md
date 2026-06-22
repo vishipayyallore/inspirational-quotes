@@ -1,29 +1,38 @@
 # Markdown Standards
 
-## Documentation Files
+## Vocabulary entries
 
-- Use proper heading hierarchy (H1 → H2 → H3); do not skip levels.
-- Include code fence language specifications (` ```python `, ` ```bash `, etc.).
-- Use UTF-8 encoding.
-- Keep line length reasonable (~120 chars).
+```
+## WordName
 
-## Code Examples
+**Meaning**: Definition text here.
+**Usage**: "Example sentence." - Context explanation.
+```
 
-- Always specify language in code fences.
-- Include comments explaining complex logic.
-- Show complete, runnable examples when possible.
+- H2 for the word name, bold labels for meaning/usage.
+- Keep definitions concise and beginner-friendly.
 
-## File References
+## Quote entries
 
-- Use relative paths for internal references.
-- Verify all file references point to existing files.
-- Update references when files are moved or renamed.
+```
+> "Quote text here."
 
-## Tables
+_— Author Name_
+```
 
-- Use for model comparison results, metric summaries, and structured data.
-- Align columns consistently.
+- Attribution is always italic, on its own line.
+- Use `_—` (italic em-dash) not `—` or `-`.
 
-## Blockquotes
+## Grammar / lesson files
 
-- Use (`>`) for key findings, interpretations, or important callouts.
+- H2 (`##`) for major topics, H3 (`###`) for subsections.
+- Use tables for comparisons when helpful (e.g., tense forms).
+- Exercises should follow explanations.
+
+## General
+
+- UTF-8 encoding.
+- No trailing whitespace.
+- End every file with a newline.
+- Internal links use relative paths (e.g., `[A](./A.md)`).
+- Code fences only for PowerShell or system-language examples.
