@@ -39,11 +39,6 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: Inspired or permeated with a feeling or quality.
 **Usage**: "Her speech was imbued with passion." - Her words were filled with strong emotion.
 
-## Inclement
-
-**Meaning**: Harsh, severe, or unpleasant, especially when referring to weather conditions.
-**Usage**: "Despite the inclement weather, the team continued their outdoor training."
-
 ## Imminent
 
 **Meaning**: About to happen; impending.
@@ -59,10 +54,20 @@ This file contains definitions and example usage for "I" words found in the insp
 **Meaning**: A driving force; an incentive or motivation to act.
 **Usage**: "The new policy provided the impetus for change." - The updated guidelines served as a catalyst for transformation.
 
+## Impressionistic
+
+**Meaning**: Based on feelings or immediate impressions rather than exact facts; relating to a style that captures mood and atmosphere.
+**Usage**: "Her impressionistic account of the trip painted how it felt, not the exact route." - Emphasizes subjective experience over precise detail.
+
 ## Inciting
 
 **Meaning**: Encouraging or stirring up (an action or feeling).
 **Usage**: "Inciting violence is a serious offense." - Provoking harmful actions can lead to severe consequences.
+
+## Inclement
+
+**Meaning**: Harsh, severe, or unpleasant, especially when referring to weather conditions.
+**Usage**: "Despite the inclement weather, the team continued their outdoor training."
 
 ## Incommunicado
 
