@@ -1,9 +1,5 @@
 # Words to Organize
 
-## Impressionistic
-
-*Meaning*: Based on feelings or immediate impressions rather than exact facts; relating to a style that captures mood and atmosphere.
-*Usage*: "Her impressionistic account of the trip painted how it felt, not the exact route." - Emphasizes subjective experience over precise detail.
 
 ## Virtuous
 
