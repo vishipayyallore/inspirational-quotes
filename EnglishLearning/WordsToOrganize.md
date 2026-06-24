@@ -1,16 +1,5 @@
 # Words to Organize
 
-
-## Virtuous
-
-*Meaning*: Having high moral standards; behaving in a good and righteous way.
-*Usage*: "A virtuous leader earns trust by aligning actions with principles." - Highlights character and integrity as the basis for influence.
-
-## Honing
-
-*Meaning*: Sharpening, refining, or improving something over time through practice.
-*Usage*: "He spent a decade honing his skill until the craft became effortless." - Shows deliberate improvement leading to mastery.
-
 ## Gazelle
 
 *Meaning*: A small, slender antelope known for speed and grace; often used as a symbol of agility.

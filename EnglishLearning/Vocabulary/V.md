@@ -99,6 +99,11 @@ This file contains definitions and example usage for "V" words found in the insp
 **Meaning**: Behavior showing high moral standards.
 **Usage**: "Patience is a virtue." - This highlights the importance of being patient as a moral quality.
 
+## Virtuous
+
+**Meaning**: Having high moral standards; behaving in a good and righteous way.
+**Usage**: "A virtuous leader earns trust by aligning actions with principles." - Highlights character and integrity as the basis for influence.
+
 ## Vision
 
 **Meaning**: Mental sharpness and inventiveness; keen intelligence.
