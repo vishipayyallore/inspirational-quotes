@@ -84,6 +84,11 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: A word that sounds the same as another word but differs in meaning and usually in spelling.
 **Usage**: "'Flour' and 'flower' are homophones, reminding us that sound alone does not guarantee meaning." - Identical pronunciation can still carry distinct written forms and ideas.
 
+## Honing
+
+**Meaning**: Sharpening, refining, or improving something over time through practice.
+**Usage**: "He spent a decade honing his skill until the craft became effortless." - Shows deliberate improvement leading to mastery.
+
 ## Hooly
 
 **Meaning**: Slowly, cautiously, or carefully (Scottish dialect); gradually or gently.
