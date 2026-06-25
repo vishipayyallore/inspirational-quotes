@@ -1,10 +1,5 @@
 # Words to Organize
 
-## Gazelle
-
-*Meaning*: A small, slender antelope known for speed and grace; often used as a symbol of agility.
-*Usage*: "She moved through the project like a gazelle — fast, graceful, and focused." - Metaphor for speed combined with elegance.
-
 ## Propel
 
 *Meaning*: To drive or push something forward with force.

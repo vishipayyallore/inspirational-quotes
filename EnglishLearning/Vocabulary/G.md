@@ -19,6 +19,11 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: The art or practice of choosing, cooking, and enjoying good food.
 **Usage**: "Treat your learning like gastronomy: savor concepts slowly instead of splurging on information you will never digest." - Connects mindful study with mindful eating.
 
+## Gazelle
+
+**Meaning**: A small, slender antelope known for speed and grace; often used as a symbol of agility.
+**Usage**: "She moved through the project like a gazelle — fast, graceful, and focused." - Metaphor for speed combined with elegance.
+
 ## Gerund
 
 **Meaning**: A verb form that functions as a noun, typically ending in -ing.
