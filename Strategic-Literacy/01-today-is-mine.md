@@ -177,7 +177,7 @@ Wisdom is knowing what to say, what to keep private, and when to do both.
 
 Not everyone needs access to my journey.
 
-Trust is earned through character and consistency.
+Trust is earned over time through integrity, consistency, and sound judgment.
 
 ## Reflection
 
@@ -214,7 +214,7 @@ My reputation is built one interaction at a time.
 
 Skills open doors.
 
-Character keeps them open.
+Character determines what I do after I walk through them.
 
 ### Reflection
 
@@ -241,11 +241,11 @@ The goal is to become the kind of person who can sustain it.
 
 When uncertain:
 
-1. Focus on today.
-2. Take the next right action.
-3. Grow through obstacles.
-4. Practice strategic discretion.
-5. Choose character over convenience.
+Focus on today.
+Take the next right action.
+Grow through obstacles.
+Practice strategic discretion.
+Choose character over convenience.
 
 Then begin again tomorrow.
 
@@ -253,4 +253,4 @@ That is enough.
 
 That is how an extraordinary life is built.
 
-**LET'S BEGIN.**
+**TODAY IS MINE. LET'S BEGIN.**
