@@ -59,7 +59,7 @@ At the end of today, I will be able to say:
 * ✅ I did the work.
 * ✅ I moved forward.
 
-## Reflection
+## Reflection - Morning
 
 * ✅ Progress compounds.
 * ✅ Small wins repeated daily become extraordinary results.
@@ -179,7 +179,7 @@ Not everyone needs access to my journey.
 
 Trust is earned over time through integrity, consistency, and sound judgment.
 
-## Reflection
+## Reflection - Evening
 
 * ✅ Privacy preserves focus.
 * ✅ Silence protects momentum.
