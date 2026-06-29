@@ -9,6 +9,21 @@ This file contains definitions and example usage for "B" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Baring
+
+**Meaning**: Revealing, uncovering, or exposing something hidden.
+**Usage**: "Baring your true goals makes accountability easier." - Shows vulnerability as a tool for commitment.
+
+## Balk
+
+**Meaning**: Hesitate or be unwilling to accept/do something.
+**Usage**: "Do not balk at the first sign of difficulty; challenges are where growth begins." - Encourages pushing through initial resistance to achieve progress.
+
+## Ballerina
+
+**Meaning**: A female ballet dancer.
+**Usage**: "Like a ballerina who masters each pose through countless rehearsals, grace in life comes from disciplined practice, not natural talent alone." - Draws a parallel between dance training and personal development.
+
 ## Balance
 
 **Meaning**: A state of equilibrium or equal distribution of weight or force.
@@ -33,6 +48,11 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: A light or fire on a hill or tower serving as a signal or warning; a source of guidance or inspiration.
 **Usage**: "Her wisdom served as a beacon during difficult times." - Someone who provides direction and hope can inspire others to find their way.
+
+## Beggingly
+
+**Meaning**: In a way that pleads or begs.
+**Usage**: "She looked beggingly at her mentor, hoping for one more chance to prove herself." - Describes a look or manner that appeals earnestly for help or favor.
 
 ## Beatific
 
@@ -149,6 +169,11 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: Showy but cheap or worthless; counterfeit or pretentious in appearance.
 **Usage**: "Do not chase brummagem success that looks impressive from a distance but collapses under honest scrutiny." - Warns against valuing flashy appearances over real substance.
 
+## Bunny Trail
+
+**Meaning**: A distraction or side issue that leads away from the main point.
+**Usage**: "Ignore the bunny trails; chase the one goal that moves the needle today." - Warns against scattered focus.
+
 ## Bucolic
 
 **Meaning**: Relating to the pleasant aspects of the countryside and rural life; pastoral.
@@ -158,6 +183,11 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Able to remain afloat; cheerful, optimistic, and resilient even under pressure.
 **Usage**: "Stay buoyant in difficult times—those who keep an optimistic spirit tend to rise above challenges others sink beneath." - Uses the idea of floating to inspire resilience and a positive mindset.
+
+## Bunk
+
+**Meaning**: A bed, or nonsense.
+**Usage**: "His excuse was pure bunk—clearly he just didn't want to try." - Describes something that is obviously false or ridiculous.
 
 ## Burnout
 

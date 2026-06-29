@@ -269,6 +269,16 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Conducive to success; favorable; indicating a good chance of a positive outcome.
 **Usage**: "They chose an auspicious day to begin their journey." - Suggests the timing was favorable and likely to bring positive results.
 
+## Astounding
+
+**Meaning**: Surprisingly impressive; overwhelmingly amazing.
+**Usage**: "Her astounding turnaround started with one honest morning routine." - Links huge results to small, consistent habits.
+
+## Awed
+
+**Meaning**: Filled with wonder or respect.
+**Usage**: "She was awed by the beauty of the sunset." - Shows being deeply impressed and moved by something magnificent.
+
 ## Authenticity
 
 **Meaning**: The quality of being genuine or true to oneself.
@@ -283,6 +293,16 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: Knowledge or perception of a situation or fact.
 **Usage**: "Awareness is the first step to change." - Recognizing a problem is the initial move toward making improvements.
+
+## Amid
+
+**Meaning**: In the middle of, surrounded by.
+**Usage**: "Amid the chaos, she found her center." - Shows finding stability and focus even when surrounded by disorder.
+
+## Analogous
+
+**Meaning**: Comparable in certain respects; similar.
+**Usage**: "Learning a new skill is analogous to building muscle—it requires consistent practice and gradual progression." - Draws a comparison between skill development and physical training to illustrate the process.
 
 ## Axiom
 

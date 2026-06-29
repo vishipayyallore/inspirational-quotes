@@ -9,6 +9,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
 -->
 
+## Caressing
+
+**Meaning**: Touching or stroking gently or lovingly.
+**Usage**: "Her caressing touch brought comfort during his difficult time." - Shows how gentle, caring contact can provide emotional support and healing.
+
 ## Caesura
 
 **Meaning**: A pause or break in a line of poetry (often marked by punctuation), or more generally, a natural pause in speech or music.
@@ -63,6 +68,11 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: Idle talk, gossip, or trivial chatter (Scottish dialect).
 **Usage**: "Skip the clishmaclaver and spend your words on conversations that matter." - Encourages focusing on meaningful dialogue instead of wasting time on gossip.
+
+## Chuckle
+
+**Meaning**: Laugh quietly or inwardly.
+**Usage**: "A gentle chuckle escaped her lips as she read the humorous note." - Shows a soft, private laugh that expresses amusement or joy.
 
 ## Clowder
 
@@ -193,6 +203,16 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: Having the same boundaries, scope, or duration as something else; coextensive.
 **Usage**: "For disciplined people, freedom is often coterminous with responsibility, because real choice grows stronger when it is anchored to clear principles." - Connects maturity and self-mastery by showing how two ideas can exist within the same boundaries.
+
+## Construe
+
+**Meaning**: Interpret a word or action in a particular way.
+**Usage**: "Do not construe his silence as indifference—sometimes reflection speaks louder than words." - Warns against misinterpreting someone's behavior based on surface observations.
+
+## Cortex
+
+**Meaning**: The outer layer of an organ, like the brain's cerebral cortex.
+**Usage**: "Just as the cortex governs higher thought, guard your mental space—what you feed your mind shapes your reality." - Emphasizes the importance of mindful input and mental discipline.
 
 ## Courage
 
