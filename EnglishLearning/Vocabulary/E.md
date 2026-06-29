@@ -110,6 +110,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: Calm, composed, and even-tempered, especially in difficult situations.
 **Usage**: "By returning to her breath, she stayed equanimous through the day’s ups and downs." - Links emotional steadiness with simple, repeatable habits.
 
+## Envisioned
+
+**Meaning**: Imagined or pictured something as a future possibility.
+**Usage**: "She envisioned a world where everyone had access to quality education." - Shows creating a mental image of a desired future state or outcome.
+
 ## Erinaceous
 
 **Meaning**: Resembling or relating to a hedgehog; covered with spines or prickly in nature.

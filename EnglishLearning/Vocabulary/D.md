@@ -64,6 +64,31 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Showing a skillful use of underhanded tactics to achieve goals; not straightforward or honest.
 **Usage**: "A devious person may seem friendly but harbor hidden intentions." - Someone who uses dishonest or indirect methods to get what they want.
 
+## Dawn
+
+**Meaning**: First light of day; also to begin to be understood.
+**Usage**: "Every dawn brings a fresh start—embrace the new possibilities each day offers." - Encourages viewing each new day as an opportunity for growth and change.
+
+## Depleted
+
+**Meaning**: Used up; greatly reduced in amount.
+**Usage**: "After the long journey, his energy was depleted, but his determination remained strong." - Shows physical exhaustion while highlighting mental resilience.
+
+## Diabolical
+
+**Meaning**: Characteristic of the devil; extremely wicked.
+**Usage**: "His diabolical plan was designed to cause maximum harm to innocent people." - Describes something that is deliberately evil or malicious.
+
+## Diligently
+
+**Meaning**: With careful and persistent effort.
+**Usage**: "She worked diligently on her project, paying attention to every detail." - Shows thorough, dedicated work with consistent attention.
+
+## Discernibly
+
+**Meaning**: In a way that can be seen, recognized, or understood clearly.
+**Usage**: "Her confidence grew discernibly with each small win." - Marks progress that is obvious and measurable.
+
 ## Dexterity
 
 **Meaning**: Skill and ease in using the hands or mind; adroitness in handling situations or performing tasks with precision and efficiency.
@@ -123,6 +148,16 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: To wander in thought or speech; to digress from the main subject.
 **Usage**: "Do not divagate from your purpose when challenges arise." - Staying focused helps you avoid drifting away from what truly matters.
+
+## Dragging
+
+**Meaning**: Pulling with effort; boring or slow.
+**Usage**: "Stop dragging your feet and take decisive action toward your goals." - Encourages moving forward with energy instead of hesitating or procrastinating.
+
+## Dusk
+
+**Meaning**: The darker stage of twilight.
+**Usage**: "As dusk fell, she reflected on the day's lessons and prepared for tomorrow's challenges." - Shows using the transition time for thoughtful reflection and planning.
 
 ## Droll
 

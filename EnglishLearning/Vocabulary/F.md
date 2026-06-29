@@ -74,6 +74,26 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: A traditional English steamed pudding made with figs, suet, and spices, often associated with Christmas celebrations and carols.
 **Usage**: "Like figgy pudding at a holiday feast, small traditions bring sweetness to the seasons of life—cherish them." - Uses a festive treat to remind us that rituals and traditions add warmth to our lives.
 
+## Flung
+
+**Meaning**: Thrown or hurled forcefully; past tense of fling.
+**Usage**: "He flung himself into the work, leaving hesitation behind." - Describes total, energetic commitment.
+
+## Folly
+
+**Meaning**: Lack of good sense; a foolish act.
+**Usage**: "His folly was evident when he ignored all warnings and proceeded anyway." - Shows a clear lack of judgment or wisdom.
+
+## Forage
+
+**Meaning**: Search widely for food or provisions.
+**Usage**: "Like a squirrel foraging for nuts, seek opportunities in unexpected places." - Encourages actively searching for resources and chances for growth.
+
+## Forsake
+
+**Meaning**: Abandon or give up completely.
+**Usage**: "Do not forsake your dreams when challenges arise—persevere through difficulties." - Encourages staying committed to goals despite obstacles.
+
 ## First-Foot
 
 **Meaning**: The first person to enter a home after midnight on New Year’s Day (a tradition in parts of the UK), believed to bring luck.

@@ -14,6 +14,16 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: To gather or collect something, especially information or approval.
 **Usage**: "She garnered support from her peers for the project." - This indicates that she collected or received support from others.
 
+## Genesis
+
+**Meaning**: The origin or beginning of something.
+**Usage**: "Every great achievement has a genesis in a simple idea and the courage to act on it." - Shows how significant accomplishments start with basic concepts and bold action.
+
+## Gargantuan
+
+**Meaning**: Enormous, huge.
+**Usage**: "The gargantuan task seemed impossible, but she broke it into manageable pieces." - Shows tackling massive challenges through systematic division.
+
 ## Gastronomy
 
 **Meaning**: The art or practice of choosing, cooking, and enjoying good food.
@@ -28,6 +38,26 @@ This file contains definitions and example usage for "G" words found in the insp
 
 **Meaning**: A verb form that functions as a noun, typically ending in -ing.
 **Usage**: "In the sentence 'Swimming is fun,' 'swimming' is a gerund." - Here, 'swimming' acts as a noun, representing the activity itself.
+
+## Gloomy
+
+**Meaning**: Dark, sad, or depressing.
+**Usage**: "Despite the gloomy weather, she found reasons to smile and stay positive." - Shows maintaining optimism even during difficult or dreary times.
+
+## Gorge
+
+**Meaning**: A narrow valley between hills, or to eat greedily.
+**Usage**: "The river carved a beautiful gorge through the mountains over thousands of years." - Describes a natural geographical feature formed by water erosion.
+
+## Gouging
+
+**Meaning**: Making a groove or hole; overcharging someone.
+**Usage**: "The company was accused of gouging customers with excessive prices during the crisis." - Shows taking unfair advantage by charging unreasonable amounts.
+
+## Groveling
+
+**Meaning**: Acting in an overly submissive way.
+**Usage**: "His groveling apology seemed insincere and desperate rather than genuine." - Describes behavior that appears excessively deferential or servile.
 
 ## Glisten
 
@@ -73,6 +103,11 @@ This file contains definitions and example usage for "G" words found in the insp
 
 **Meaning**: A person who is easily deceived or taken advantage of; a naive or gullible person.
 **Usage**: "He felt like a gudgeon after trusting the too-good-to-be-true offer." - This describes someone who has been tricked because they were overly trusting.
+
+## Gutted
+
+**Meaning**: Devastated, or having had the insides removed.
+**Usage**: "He was gutted when his proposal was rejected, but used the disappointment as fuel for improvement." - Shows deep emotional pain that can be transformed into motivation.
 
 ## Gumption
 
