@@ -51,8 +51,8 @@ This file contains definitions and example usage for "K" words found in the insp
 
 ## Knead
 
-**Definition:** To work dough or clay into a uniform mixture by pressing, folding, and stretching.
-**Example Usage:** "She learned to knead the dough until it was smooth and elastic."
+**Meaning**: To work dough or clay into a uniform mixture by pressing, folding, and stretching.
+**Usage**: "She learned to knead the dough until it was smooth and elastic."
 
 ## Krummholz
 

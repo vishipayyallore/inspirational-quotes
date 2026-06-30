@@ -14,11 +14,6 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: Calm, peaceful, and free from disturbance; often referring to an idyllic time.
 **Usage**: "During halcyon mornings, she studies with unhurried focus, reminded that steady progress feels gentle." - Links tranquility with consistent learning momentum.
 
-## Harried
-
-**Meaning**: Feeling strained by continual demands; harassed or worried.
-**Usage**: "A harried mind misses opportunities that a calm mind catches." - Warns that stress reduces clarity and effectiveness.
-
 ## Hallucination
 
 **Meaning**: An experience involving the apparent perception of something not present.  
@@ -29,11 +24,6 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: A long, impassioned, and often critical speech delivered to someone; to lecture or berate at length.
 **Usage**: "Instead of haranguing your team when things go wrong, ask what they learned—criticism turns into coaching when delivered with curiosity." - Encourages replacing blame-driven lectures with growth-oriented dialogue.
 
-## Haunt
-
-**Meaning**: To be persistently and disturbingly present in the mind; to recur as a memory or thought.
-**Usage**: "Don't let past failures haunt your next attempt; let lessons guide it." - Encourages learning from the past without being trapped by it.
-
 ## Harbinger
 
 **Meaning**: A person or thing that announces or signals the approach of another; a forerunner or omen.
@@ -43,6 +33,16 @@ This file contains definitions and example usage for "H" words found in the insp
 
 **Meaning**: A pleasing combination of elements working together; agreement, accord, or peaceful coexistence.
 **Usage**: "When your actions align with your values, you create harmony in your life." - Living in accordance with your principles brings inner peace and balance.
+
+## Harried
+
+**Meaning**: Feeling strained by continual demands; harassed or worried.
+**Usage**: "A harried mind misses opportunities that a calm mind catches." - Warns that stress reduces clarity and effectiveness.
+
+## Haunt
+
+**Meaning**: To be persistently and disturbingly present in the mind; to recur as a memory or thought.
+**Usage**: "Don't let past failures haunt your next attempt; let lessons guide it." - Encourages learning from the past without being trapped by it.
 
 ## Hearten
 

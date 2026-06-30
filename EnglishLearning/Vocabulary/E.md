@@ -74,6 +74,11 @@ This file contains definitions and example usage for "E" words found in the insp
 **Meaning**: To involve something as a necessary or inevitable part or consequence.
 **Usage**: "Success entails hard work and dedication." - Achieving success requires effort and commitment.
 
+## Envisioned
+
+**Meaning**: Imagined or pictured something as a future possibility.
+**Usage**: "She envisioned a world where everyone had access to quality education." - Shows creating a mental image of a desired future state or outcome.
+
 ## Envy
 
 **Meaning**: A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.
@@ -109,11 +114,6 @@ This file contains definitions and example usage for "E" words found in the insp
 
 **Meaning**: Calm, composed, and even-tempered, especially in difficult situations.
 **Usage**: "By returning to her breath, she stayed equanimous through the day’s ups and downs." - Links emotional steadiness with simple, repeatable habits.
-
-## Envisioned
-
-**Meaning**: Imagined or pictured something as a future possibility.
-**Usage**: "She envisioned a world where everyone had access to quality education." - Shows creating a mental image of a desired future state or outcome.
 
 ## Erinaceous
 
