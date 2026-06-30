@@ -27,6 +27,7 @@ A practical guide to common abbreviations used in informal digital communication
 | Full Form  | **CLT**        | Central Limit Theorem                 | —                                        |
 | Full Form  | **ERP**        | Enterprise Resource Planning          | —                                        |
 | Full Form  | **FTO**        | Fashion Trends Online (eCommerce)     | —                                        |
+| Full Form  | **HIPAA**      | Health Insurance Portability and Accountability Act | —                                        |
 | Full Form  | **KPI**        | Key Performance Indicators            | —                                        |
 | Full Form  | **MTBF**       | Mean Time Between Failures            | —                                        |
 | Full Form  | **NPA**        | Non Performing Asset                  | —                                        |
