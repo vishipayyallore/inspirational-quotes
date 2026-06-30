@@ -34,6 +34,7 @@ A practical guide to common abbreviations used in informal digital communication
 | Full Form  | **PI**         | Proportional Integral                 | —                                        |
 | Full Form  | **PMF**        | Probability Mass Function             | —                                        |
 | Full Form  | **PPF**        | Percent Point Function                | —                                        |
+| Full Form  | **RPM**        | Remote Patient Monitoring             | —                                        |
 | Full Form  | **SLR**        | Simple Linear Regression              | —                                        |
 | Full Form  | **SSE**        | Sum of Squared Errors                 | —                                        |
 | Full Form  | **TRP**        | Television Rating Point               | —                                        |
