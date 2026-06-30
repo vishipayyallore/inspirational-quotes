@@ -32,23 +32,27 @@ Here are common abbreviations you might see in quick chats (especially in tech o
 * Context matters - use appropriately based on your team culture
 
 
-#### *A. Full Forms — 18 Total* 
-*A-Z Order*
-- *ANOVA* = Analysis of Variance 
-- *BLUE* = Best Linear Unbiased Estimates 
-- *BSE* = Bombay Stock Exchange 
-- *CDF* = Cumulative Distribution Function 
-- *CHD* = Coronary Heart Disease 
-- *CLT* = Central Limit Theorem 
-- *ERP* = Enterprise Resource Planning 
-- *FTO* = Fashion Trends Online (eCommerce) 
-- *KPI* = Key Performance Indicators 
-- *MTBF* = Mean Time Between Failures 
-- *NPA* = Non Performing Asset 
-- *OLS* = Ordinary Least Squares 
-- *PI* = Proportional Integral 
-- *PMF* = Probability Mass Function 
-- *PPF* = Percent Point Function 
-- *SLR* = Simple Linear Regression 
-- *SSE* = Sum of Squared Errors 
-- *TRP* = Television Rating Point 
+## Full Forms
+
+*18 terms in A-Z order*
+
+| Abbreviation   | Full Form                             |
+| -------------- | ------------------------------------- |
+| **ANOVA**      | Analysis of Variance                  |
+| **BLUE**       | Best Linear Unbiased Estimates        |
+| **BSE**        | Bombay Stock Exchange                 |
+| **CDF**        | Cumulative Distribution Function      |
+| **CHD**        | Coronary Heart Disease                |
+| **CLT**        | Central Limit Theorem                 |
+| **ERP**        | Enterprise Resource Planning          |
+| **FTO**        | Fashion Trends Online (eCommerce)     |
+| **KPI**        | Key Performance Indicators            |
+| **MTBF**       | Mean Time Between Failures            |
+| **NPA**        | Non Performing Asset                  |
+| **OLS**        | Ordinary Least Squares                |
+| **PI**         | Proportional Integral                 |
+| **PMF**        | Probability Mass Function             |
+| **PPF**        | Percent Point Function                |
+| **SLR**        | Simple Linear Regression              |
+| **SSE**        | Sum of Squared Errors                 |
+| **TRP**        | Television Rating Point               | 
