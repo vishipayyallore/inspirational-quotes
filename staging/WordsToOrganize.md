@@ -1,34 +1,190 @@
 # Words to Organize
 
+## Amid
+
+**Meaning**: In the middle of, surrounded by
+
+## Analogous
+
+**Meaning**: Comparable in certain respects; similar
+
+## Apparel
+
+**Meaning**: Clothing or garments
+
 ## Astounding
 
 **Meaning**: Surprisingly impressive; overwhelmingly amazing.
 **Usage**: "Her astounding turnaround started with one honest morning routine." - Links huge results to small, consistent habits.
+
+## Avionic
+
+**Meaning**: Relating to electronics used in aviation
+
+## Awed
+
+**Meaning**: Filled with wonder or respect
+
+## Balk
+
+**Meaning**: Hesitate or be unwilling to accept/do something
+
+## Ballerina
+
+**Meaning**: A female ballet dancer
 
 ## Baring
 
 **Meaning**: Revealing, uncovering, or exposing something hidden.
 **Usage**: "Baring your true goals makes accountability easier." - Shows vulnerability as a tool for commitment.
 
+## Beggingly
+
+**Meaning**: In a way that pleads or begs
+
+## Begot
+
+**Meaning**: Past tense of beget = caused or brought about
+
 ## Bucolic
 
 **Meaning**: Relating to the pleasant aspects of countryside and rural life.
 **Usage**: "He took a bucolic walk to clear his head before the big decision." - Uses nature and simplicity to restore focus.
+
+## Bunk
+
+**Meaning**: A bed, or nonsense
 
 ## Bunny Trail
 
 **Meaning**: A distraction or side issue that leads away from the main point.
 **Usage**: "Ignore the bunny trails; chase the one goal that moves the needle today." - Warns against scattered focus.
 
+## Caressing
+
+**Meaning**: Touching or stroking gently or lovingly
+
+## Chuckle
+
+**Meaning**: Laugh quietly or inwardly
+
+## Construe
+
+**Meaning**: Interpret a word or action in a particular way
+
+## Contender
+
+**Meaning**: A person/company competing for a position or title
+
+## Cortex
+
+**Meaning**: The outer layer of an organ, like the brain's cerebral cortex
+
+## Credence
+
+**Meaning**: Belief that something is true
+
+## Dawn
+
+**Meaning**: First light of day; also to begin to be understood
+
+## Defy
+
+**Meaning**: Resist or refuse to obey; challenge
+
+## Depleted
+
+**Meaning**: Used up; greatly reduced in amount
+
+## Diabolical
+
+**Meaning**: Characteristic of the devil; extremely wicked
+
+## Diligently
+
+**Meaning**: With careful and persistent effort
+
 ## Discernibly
 
 **Meaning**: In a way that can be seen, recognized, or understood clearly.
 **Usage**: "Her confidence grew discernibly with each small win." - Marks progress that is obvious and measurable.
 
+## Dominant
+
+**Meaning**: Most powerful, controlling, or prominent
+
+## Dragging
+
+**Meaning**: Pulling with effort; boring or slow
+
+## Dusk
+
+**Meaning**: The darker stage of twilight
+
+## Easily
+
+**Meaning**: With little effort or difficulty
+
+## Envisioned
+
+**Meaning**: Imagined or pictured something as a future possibility
+
 ## Flung
 
 **Meaning**: Thrown or hurled forcefully; past tense of fling.
 **Usage**: "He flung himself into the work, leaving hesitation behind." - Describes total, energetic commitment.
+
+## Folly
+
+**Meaning**: Lack of good sense; a foolish act
+
+## Forage
+
+**Meaning**: Search widely for food or provisions
+
+## Forsake
+
+**Meaning**: Abandon or give up completely
+
+## Fortitude
+
+**Meaning**: Courage in pain or adversity
+
+## Gargantuan
+
+**Meaning**: Enormous, huge
+
+## Genesis
+
+**Meaning**: The origin or beginning of something
+
+## Gloomy
+
+**Meaning**: Dark, sad, or depressing
+
+## Gorge
+
+**Meaning**: A narrow valley between hills, or to eat greedily
+
+## Gouging
+
+**Meaning**: Making a groove or hole; overcharging someone
+
+## Grit
+
+**Meaning**: Courage and resolve; also small loose particles of stone
+
+## Groveling
+
+**Meaning**: Acting in an overly submissive way
+
+## Gutted
+
+**Meaning**: Devastated, or having had the insides removed
+
+## Halo Effect
+
+**Meaning**: When one positive trait influences overall perception
 
 ## Harried
 
@@ -43,52 +199,284 @@
 ## Haunt
 
 **Meaning**: To be persistently and disturbingly present in the mind; to recur as a memory or thought.
-**Usage**: "Don’t let past failures haunt your next attempt; let lessons guide it." - Encourages learning from the past without being trapped by it.
+**Usage**: "Don't let past failures haunt your next attempt; let lessons guide it." - Encourages learning from the past without being trapped by it.
+
+## Hexis
+
+**Meaning**: A stable state or disposition, esp. in philosophy
+
+## Hunch
+
+**Meaning**: A feeling or guess based on intuition
+
+## Imminent
+
+**Meaning**: About to happen very soon
+
+## Impeded
+
+**Meaning**: Blocked or slowed down
+
+## Imperceptible
+
+**Meaning**: So slight you can't notice it
+
+## Implication
+
+**Meaning**: Something suggested or implied, but not stated directly
+
+## Imputation
+
+**Meaning**: Assigning blame/value; in stats, filling in missing data
+
+## Inductance
+
+**Meaning**: Property of an electrical conductor by which a change in current induces an EMF
+
+## Inertia
+
+**Meaning**: Resistance to change in motion or state; tendency to stay the same
+
+## Infiltrated
+
+**Meaning**: Entered gradually and secretly
+
+## Intimidating
+
+**Meaning**: Frightening or overawing someone
 
 ## Intuitively
 
 **Meaning**: By instinct or natural feeling, without conscious reasoning.
 **Usage**: "Experts often decide intuitively because years of practice shaped their gut sense." - Shows how intuition is trained, not random.
 
+## Irrevocably
+
+**Meaning**: In a way that cannot be changed or undone
+
+## Jockeying
+
+**Meaning**: Maneuvering for position or advantage
+
+## Laments
+
+**Meaning**: Expresses grief or sorrow
+
+## Laureate
+
+**Meaning**: A person honored for achievement, like a Nobel Laureate
+
+## Lexis
+
+**Meaning**: The total set of words in a language
+
+## Litter
+
+**Meaning**: Trash lying around; or a group of young animals born at once
+
 ## Lode
 
 **Meaning**: A rich source or supply of something, originally a vein of mineral ore.
 **Usage**: "Deep work is a lode of breakthrough ideas waiting to be mined." - Frames concentrated effort as a source of value.
+
+## Loom
+
+**Meaning**: Appear as a large/threatening shape; seem likely to happen
+
+## Lousy
+
+**Meaning**: Very poor or bad
+
+## Lozenge
+
+**Meaning**: A medicated tablet for sore throats, or a diamond shape
 
 ## Maxim
 
 **Meaning**: A short, concise rule or principle for conduct; a saying.
 **Usage**: "Live by the maxim: progress over perfection." - Uses a guiding phrase to direct daily choices.
 
+## Mealy
+
+**Meaning**: Containing meal; soft and dry/friable
+
+## Megaphobia
+
+**Meaning**: An extreme fear of large things
+
 ## Metaphor
 
 **Meaning**: A figure of speech comparing two unlike things without using "like" or "as" to show a similarity.
-**Usage**: "Life is a metaphor — read it well, and you’ll write a better next chapter." - Uses symbolic language to create insight.
+**Usage**: "Life is a metaphor — read it well, and you'll write a better next chapter." - Uses symbolic language to create insight.
+
+## Meteoric
+
+**Meaning**: Extremely fast or successful, like a meteor
 
 ## Muddle
 
 **Meaning**: To bring into a disordered or confusing state; a mess.
 **Usage**: "Clarity beats speed — rushing will only muddle your thinking." - Values clear thought over frantic action.
 
+## Nicked
+
+**Meaning**: Cut or damaged slightly; also British slang for stolen
+
+## Nudge
+
+**Meaning**: Push gently, or a slight encouragement
+
 ## Obscured
 
 **Meaning**: Hidden, unclear, or difficult to see or understand.
-**Usage**: "Fear obscured the opportunity that patience later revealed." - Shows how emotion can hide what’s actually present.
+**Usage**: "Fear obscured the opportunity that patience later revealed." - Shows how emotion can hide what's actually present.
 
 ## Pauper
 
 **Meaning**: A very poor person; someone with no money or means.
 **Usage**: "A pauper in wealth can be rich in discipline — choose your currency." - Redefines richness in terms of character, not cash.
 
+## Pivotal
+
+**Meaning**: Critically important; something that something else turns on
+
+## Plunge
+
+**Meaning**: Jump or dive quickly; fall steeply
+
+## Prefer
+
+**Meaning**: Like one thing more than another
+
+## Presume
+
+**Meaning**: Assume something is true without proof
+
+## Presumption
+
+**Meaning**: A belief based on probability, or bold behavior without permission
+
+## Proclaimed
+
+**Meaning**: Announced officially or publicly
+
 ## Propel
 
 **Meaning**: To drive or push something forward with force.
 **Usage**: "Clear goals can propel ordinary effort into extraordinary results." - Shows how purpose creates forward momentum.
 
+## Propensity
+
+**Meaning**: A natural tendency to behave in a certain way
+
+## Proposition
+
+**Meaning**: A suggested plan or offer
+
+## Prudent
+
+**Meaning**: Acting with care and thought for the future
+
+## Quest
+
+**Meaning**: A long search for something
+
+## Reinforces
+
+**Meaning**: Strengthens or supports something further
+
+## Relegated
+
+**Meaning**: Moved to a lower position or less important place
+
+## Reorients
+
+**Meaning**: Changes direction or focus
+
+## Repercussions
+
+**Meaning**: Unintended consequences of an action
+
+## Replenish
+
+**Meaning**: Fill up again; restore to a former level
+
+## Resonate
+
+**Meaning**: To produce or be filled with a deep, full sound; to evoke strong shared emotion
+
+## Restraining
+
+**Meaning**: Holding back or preventing
+
+## Retrospect
+
+**Meaning**: Looking back on past events
+
+## Rival
+
+**Meaning**: A person/company competing with another
+
+## Rung
+
+**Meaning**: A step of a ladder; also a level in a hierarchy
+
+## Runt
+
+**Meaning**: The smallest animal in a litter; a small person
+
+## Sabotaging
+
+**Meaning**: Deliberately destroying or obstructing something
+
+## Salient
+
+**Meaning**: Most noticeable or important
+
+## Sapped
+
+**Meaning**: Weakened or drained of energy
+
+## Scoffed
+
+**Meaning**: Spoke or acted with derision or contempt
+
+## Scrimped
+
+**Meaning**: Used as little as possible; was thrifty to the point of hardship
+
+## Serene
+
+**Meaning**: Calm, peaceful, untroubled
+
+## Shattered
+
+**Meaning**: Broken into pieces; completely devastated emotionally
+
+## Sheer
+
+**Meaning**: Pure, complete, or very steep
+
+## Shod
+
+**Meaning**: Wearing shoes
+
+## Sneaky
+
+**Meaning**: Acting secretly or in a way to avoid notice; underhanded
+
 ## Spurious
 
 **Meaning**: Not genuine, authentic, or true; false but made to appear real.
 **Usage**: "Reject spurious shortcuts — real skill compounds, fake hacks collapse." - Urges reliance on substance over appearance.
+
+## Squelching
+
+**Meaning**: Making a wet sucking sound, like walking in mud
+
+## Squirming
+
+**Meaning**: Wriggling or twisting the body
 
 ## Staggering
 
@@ -100,226 +488,67 @@
 **Meaning**: To have a strong, unpleasant smell; informally, to be extremely bad or low quality.
 **Usage**: "If the plan stinks, admit it early and redesign." - Encourages honest evaluation over forced persistence.
 
+## Stratified
+
+**Meaning**: Arranged in layers or groups/strata
+
+## Successively
+
+**Meaning**: Following one after another in order
+
+## Tanning
+
+**Meaning**: Making leather from animal skins, or getting darker skin from the sun
+
+## Tightrope
+
+**Meaning**: A rope stretched tight; also a risky, delicate situation
+
+## Topple
+
+**Meaning**: Fall over or cause to fall over; overthrow
+
+## Trajectory
+
+**Meaning**: The path something follows through space/air/time
+
+## Trenches
+
+**Meaning**: Long narrow ditches; often for defense in war
+
+## Turmoil
+
+**Meaning**: A state of great disturbance, confusion, or uncertainty
+
+## Twitch
+
+**Meaning**: Make a sudden, quick movement
+
+## Unrelenting
+
+**Meaning**: Not stopping or easing; relentless
+
+## Unwittingly
+
+**Meaning**: Without being aware; unintentionally
+
 ## Vincible
 
 **Meaning**: Capable of being overcome or defeated. *Note: your note says "Vincosns" — likely "vincible".*
 **Usage**: "Every obstacle is vincible when broken into smaller steps." - Reframes challenges as beatable with strategy.
 
-All set — here’s your consolidated A-Z master list. *86 words* total now 👇
+## Virtuous
 
-*Master List A-Z*
-- *Amid*: In the middle of, surrounded by
-- *Analogous*: Comparable in certain respects; similar
-- *Awed*: Filled with wonder or respect
-- *Balk*: Hesitate or be unwilling to accept/do something
-- *Ballerina*: A female ballet dancer
-- *Beggingly*: In a way that pleads or begs
-- *Bunk*: A bed, or nonsense
-- *Caressing*: Touching or stroking gently or lovingly
-- *Chuckle*: Laugh quietly or inwardly
-- *Construe*: Interpret a word or action in a particular way
-- *Cortex*: The outer layer of an organ, like the brain’s cerebral cortex
-- *Credence*: Belief that something is true
-- *Dawn*: First light of day; also to begin to be understood
-- *Depleted*: Used up; greatly reduced in amount
-- *Diabolical*: Characteristic of the devil; extremely wicked
-- *Diligently*: With careful and persistent effort
-- *Dragging*: Pulling with effort; boring or slow
-- *Dusk*: The darker stage of twilight
-- *Envisioned*: Imagined or pictured something as a future possibility
-- *Folly*: Lack of good sense; a foolish act
-- *Forage*: Search widely for food or provisions
-- *Forsake*: Abandon or give up completely
-- *Fortitude*: Courage in pain or adversity
-- *Gargantuan*: Enormous, huge
-- *Genesis*: The origin or beginning of something
-- *Gloomy*: Dark, sad, or depressing _[used for "Grolly" — confirm if different]_
-- *Gorge*: A narrow valley between hills, or to eat greedily
-- *Gouging*: Making a groove or hole; overcharging someone
-- *Grit*: Courage and resolve; also small loose particles of stone
-- *Groveling*: Acting in an overly submissive way
-- *Gutted*: Devastated, or having had the insides removed
-- *Hexis*: A stable state or disposition, esp. in philosophy
-- *Hunch*: A feeling or guess based on intuition
-- *Imminent*: About to happen very soon
-- *Impeded*: Blocked or slowed down
-- *Imperceptible*: So slight you can't notice it
-- *Infiltrated*: Entered gradually and secretly
-- *Intimidating*: Frightening or overawing someone
-- *Irrevocably*: In a way that cannot be changed or undone
-- *Laments*: Expresses grief or sorrow
-- *Laureate*: A person honored for achievement, like a Nobel Laureate
-- *Lexis*: The total set of words in a language
-- *Litter*: Trash lying around; or a group of young animals born at once
-- *Lousy*: Very poor or bad
-- *Lozenge*: A medicated tablet for sore throats, or a diamond shape
-- *Mealy*: Containing meal; soft and dry/friable
-- *Megaphobia*: An extreme fear of large things
-- *Meteoric*: Extremely fast or successful, like a meteor
-- *Nicked*: Cut or damaged slightly; also British slang for stolen
-- *Nudge*: Push gently, or a slight encouragement
-- *Plunge*: Jump or dive quickly; fall steeply
-- *Presume*: Assume something is true without proof
-- *Presumption*: A belief based on probability, or bold behavior without permission
-- *Prefer*: Like one thing more than another
-- *Proclaimed*: Announced officially or publicly
-- *Proposition*: A suggested plan or offer
-- *Propensity*: A natural tendency to behave in a certain way
-- *Prudent*: Acting with care and thought for the future
-- *Quest*: A long search for something
-- *Reinforces*: Strengthens or supports something further
-- *Reorients*: Changes direction or focus
-- *Repercussions*: Unintended consequences of an action
-- *Replenish*: Fill up again; restore to a former level
-- *Resonate*: To produce or be filled with a deep, full sound; to evoke strong shared emotion
-- *Restraining*: Holding back or preventing
-- *Retrospect*: Looking back on past events
-- *Rung*: A step of a ladder; also a level in a hierarchy
-- *Runt*: The smallest animal in a litter; a small person
-- *Sabotaging*: Deliberately destroying or obstructing something
-- *Sapped*: Weakened or drained of energy
-- *Scoffed*: Spoke or acted with derision or contempt
-- *Scrimped*: Used as little as possible; was thrifty to the point of hardship
-- *Serene*: Calm, peaceful, untroubled
-- *Shattered*: Broken into pieces; completely devastated emotionally
-- *Sheer*: Pure, complete, or very steep
-- *Shod*: Wearing shoes
-- *Sneaky*: Acting secretly or in a way to avoid notice; underhanded
-- *Squelching*: Making a wet sucking sound, like walking in mud
-- *Squirming*: Wriggling or twisting the body
-- *Staggering*: Deeply shocking; also walking unsteadily
-- *Tanning*: Making leather from animal skins, or getting darker skin from the sun
-- *Tightrope*: A rope stretched tight; also a risky, delicate situation
-- *Trajectory*: The path something follows through space/air/time
-- *Trenches*: Long narrow ditches; often for defense in war
-- *Twitch*: Make a sudden, quick movement
-- *Unrelenting*: Not stopping or easing; relentless
-- *Unwittingly*: Without being aware; unintentionally
-- *Virtuous*: Having high moral standards
-- *Wanes*: Decreases in size or intensity
-- *Wistfully*: With longing or regret
+**Meaning**: Having high moral standards
 
-Here’s your single consolidated doc with both sections 👇 
+## Wanes
 
----
+**Meaning**: Decreases in size or intensity
 
+## Whack
 
-#### *B. Vocab Words — 109 Total* 
-*A-Z Master List*
-- *Amid*: In the middle of, surrounded by
-- *Analogous*: Comparable in certain respects; similar
-- *Apparel*: Clothing or garments
-- *Avionic*: Relating to electronics used in aviation 
-- *Awed*: Filled with wonder or respect
-- *Balk*: Hesitate or be unwilling to accept/do something
-- *Ballerina*: A female ballet dancer
-- *Beggingly*: In a way that pleads or begs
-- *Begot*: Past tense of beget = caused or brought about 
-- *Bunk*: A bed, or nonsense
-- *Caressing*: Touching or stroking gently or lovingly
-- *Chuckle*: Laugh quietly or inwardly
-- *Construe*: Interpret a word or action in a particular way
-- *Contender*: A person/company competing for a position or title 
-- *Cortex*: The outer layer of an organ, like the brain’s cerebral cortex
-- *Credence*: Belief that something is true
-- *Dawn*: First light of day; also to begin to be understood
-- *Depleted*: Used up; greatly reduced in amount
-- *Defy*: Resist or refuse to obey; challenge
-- *Diabolical*: Characteristic of the devil; extremely wicked
-- *Diligently*: With careful and persistent effort
-- *Dominant*: Most powerful, controlling, or prominent
-- *Dragging*: Pulling with effort; boring or slow
-- *Dusk*: The darker stage of twilight
-- *Easily*: With little effort or difficulty 
-- *Envisioned*: Imagined or pictured something as a future possibility
-- *Folly*: Lack of good sense; a foolish act
-- *Forage*: Search widely for food or provisions
-- *Forsake*: Abandon or give up completely
-- *Fortitude*: Courage in pain or adversity
-- *Gargantuan*: Enormous, huge
-- *Genesis*: The origin or beginning of something
-- *Gloomy*: Dark, sad, or depressing 
-- *Gorge*: A narrow valley between hills, or to eat greedily
-- *Gouging*: Making a groove or hole; overcharging someone
-- *Grit*: Courage and resolve; also small loose particles of stone
-- *Groveling*: Acting in an overly submissive way
-- *Gutted*: Devastated, or having had the insides removed
-- *Halo Effect*: When one positive trait influences overall perception 
-- *Hexis*: A stable state or disposition, esp. in philosophy
-- *Hunch*: A feeling or guess based on intuition
-- *Implication*: Something suggested or implied, but not stated directly 
-- *Imminent*: About to happen very soon
-- *Impeded*: Blocked or slowed down
-- *Imperceptible*: So slight you can’t notice it
-- *Imputation*: Assigning blame/value; in stats, filling in missing data 
-- *Inductance*: Property of an electrical conductor by which a change in current induces an EMF
-- *Inertia*: Resistance to change in motion or state; tendency to stay the same
-- *Infiltrated*: Entered gradually and secretly
-- *Intimidating*: Frightening or overawing someone
-- *Irrevocably*: In a way that cannot be changed or undone
-- *Jockeying*: Maneuvering for position or advantage 
-- *Laments*: Expresses grief or sorrow
-- *Laureate*: A person honored for achievement, like a Nobel Laureate
-- *Lexis*: The total set of words in a language
-- *Litter*: Trash lying around; or a group of young animals born at once
-- *Loom*: Appear as a large/threatening shape; seem likely to happen
-- *Lousy*: Very poor or bad
-- *Lozenge*: A medicated tablet for sore throats, or a diamond shape
-- *Mealy*: Containing meal; soft and dry/friable
-- *Megaphobia*: An extreme fear of large things
-- *Meteoric*: Extremely fast or successful, like a meteor
-- *Nicked*: Cut or damaged slightly; also British slang for stolen
-- *Nudge*: Push gently, or a slight encouragement
-- *Pivotal*: Critically important; something that something else turns on
-- *Plunge*: Jump or dive quickly; fall steeply
-- *Presume*: Assume something is true without proof
-- *Presumption*: A belief based on probability, or bold behavior without permission
-- *Prefer*: Like one thing more than another
-- *Proclaimed*: Announced officially or publicly
-- *Proposition*: A suggested plan or offer
-- *Propensity*: A natural tendency to behave in a certain way
-- *Prudent*: Acting with care and thought for the future
-- *Quest*: A long search for something
-- *Relegated*: Moved to a lower position or less important place
-- *Reinforces*: Strengthens or supports something further
-- *Reorients*: Changes direction or focus
-- *Repercussions*: Unintended consequences of an action
-- *Replenish*: Fill up again; restore to a former level
-- *Resonate*: To produce or be filled with a deep, full sound; to evoke strong shared emotion
-- *Restraining*: Holding back or preventing
-- *Retrospect*: Looking back on past events
-- *Rival*: A person/company competing with another
-- *Rung*: A step of a ladder; also a level in a hierarchy
-- *Runt*: The smallest animal in a litter; a small person
-- *Sabotaging*: Deliberately destroying or obstructing something
-- *Salient*: Most noticeable or important
-- *Sapped*: Weakened or drained of energy
-- *Scoffed*: Spoke or acted with derision or contempt
-- *Scrimped*: Used as little as possible; was thrifty to the point of hardship
-- *Serene*: Calm, peaceful, untroubled
-- *Shattered*: Broken into pieces; completely devastated emotionally
-- *Sheer*: Pure, complete, or very steep
-- *Shod*: Wearing shoes
-- *Sneaky*: Acting secretly or in a way to avoid notice; underhanded
-- *Squelching*: Making a wet sucking sound, like walking in mud
-- *Squirming*: Wriggling or twisting the body
-- *Staggering*: Deeply shocking; also walking unsteadily
-- *Stratified*: Arranged in layers or groups/strata 
-- *Successively*: Following one after another in order 
-- *Tanning*: Making leather from animal skins, or getting darker skin from the sun
-- *Tightrope*: A rope stretched tight; also a risky, delicate situation
-- *Topple*: Fall over or cause to fall over; overthrow 
-- *Trajectory*: The path something follows through space/air/time
-- *Trenches*: Long narrow ditches; often for defense in war
-- *Turmoil*: A state of great disturbance, confusion, or uncertainty 
-- *Twitch*: Make a sudden, quick movement
-- *Unrelenting*: Not stopping or easing; relentless
-- *Unwittingly*: Without being aware; unintentionally
-- *Virtuous*: Having high moral standards
-- *Wanes*: Decreases in size or intensity
-- *Whack*: Hit forcefully; also slang for an attempt
-- *Wistfully*: With longing or regret
+**Meaning**: Hit forcefully; also slang for an attempt
 
----
+## Wistfully
 
-Want me to export this as a PDF, Excel sheet, or flashcards so you can revise offline?
+**Meaning**: With longing or regret
