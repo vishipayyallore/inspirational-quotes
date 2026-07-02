@@ -1,9 +1,5 @@
 # Words to Organize
 
-## Amid
-
-**Meaning**: In the middle of, surrounded by
-
 ## Analogous
 
 **Meaning**: Comparable in certain respects; similar
