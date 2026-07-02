@@ -152,7 +152,7 @@ It grew around the obstacle.
 
 ## Step 4: Practice Strategic Discretion
 
-### Protect These Areas of Your Life
+### I Protect These Areas of My Life
 
 * ✅ My next move — Build first. Announce later.
 * ✅ My unfinished plans and early-stage ideas — Protect the blueprint until it is ready.
