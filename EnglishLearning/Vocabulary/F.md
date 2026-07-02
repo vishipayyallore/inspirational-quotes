@@ -119,6 +119,26 @@ This file contains definitions and example usage for "F" words found in the insp
 **Meaning**: To confuse or perplex someone; to leave someone unsure how to proceed.
 **Usage**: "The unexpected question flummoxed him, but he paused, took a breath, and responded thoughtfully." - Staying calm helps you regain clarity when surprised.
 
+## Flung
+
+**Meaning**: Thrown or hurled forcefully; past tense of fling.
+**Usage**: "He flung himself into the work, leaving hesitation behind." - Describes total, energetic commitment.
+
+## Folly
+
+**Meaning**: Lack of good sense; a foolish act.
+**Usage**: "His folly was evident when he ignored all warnings and proceeded anyway." - Shows a clear lack of judgment or wisdom.
+
+## Forage
+
+**Meaning**: Search widely for food or provisions.
+**Usage**: "Like a squirrel foraging for nuts, seek opportunities in unexpected places." - Encourages actively searching for resources and chances for growth.
+
+## Forsake
+
+**Meaning**: Abandon or give up completely.
+**Usage**: "Do not forsake your dreams when challenges arise—persevere through difficulties." - Encourages staying committed to goals despite obstacles.
+
 ## Fortitude
 
 **Meaning**: Courage and strength of mind in the face of adversity; mental resilience.

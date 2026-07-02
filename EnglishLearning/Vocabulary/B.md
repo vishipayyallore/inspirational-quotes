@@ -14,6 +14,16 @@ This file contains definitions and example usage for "B" words found in the insp
 **Meaning**: A state of equilibrium or equal distribution of weight or force.
 **Usage**: "Balance is key to a fulfilling life." - Finding harmony between different aspects of life is essential for happiness.
 
+## Balk
+
+**Meaning**: Hesitate or be unwilling to accept/do something.
+**Usage**: "Do not balk at the first sign of difficulty; challenges are where growth begins." - Encourages pushing through initial resistance to achieve progress.
+
+## Ballerina
+
+**Meaning**: A female ballet dancer.
+**Usage**: "Like a ballerina who masters each pose through countless rehearsals, grace in life comes from disciplined practice, not natural talent alone." - Draws a parallel between dance training and personal development.
+
 ## Balneal
 
 **Meaning**: Relating to baths or bathing; used to describe something therapeutic or suitable for bathing.
@@ -23,6 +33,11 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: A row of small columns topped by a rail, often used as a protective barrier on balconies, staircases, or terraces.
 **Usage**: "Every small habit is like a balustrade, quietly guarding your progress from slipping backward." - Uses the image of a railing to show how steady routines protect your growth.
+
+## Baring
+
+**Meaning**: Revealing, uncovering, or exposing something hidden.
+**Usage**: "Baring your true goals makes accountability easier." - Shows vulnerability as a tool for commitment.
 
 ## Barnstorm
 
@@ -38,6 +53,11 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Feeling or expressing blissful happiness; having a saintly or peaceful radiance.
 **Usage**: "A beatific smile crossed her face as she held her newborn for the first time." - Describes the pure, glowing joy that comes from moments of profound peace or love.
+
+## Beggingly
+
+**Meaning**: In a way that pleads or begs.
+**Usage**: "She looked beggingly at her mentor, hoping for one more chance to prove herself." - Describes a look or manner that appeals earnestly for help or favor.
 
 ## Benevolence
 
@@ -153,6 +173,16 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Relating to the pleasant aspects of the countryside and rural life; pastoral.
 **Usage**: "The bucolic setting offered a peaceful retreat from city life." - Rural environments can provide tranquility and simplicity that contrasts with urban stress.
+
+## Bunk
+
+**Meaning**: A bed, or nonsense.
+**Usage**: "His excuse was pure bunk—clearly he just didn't want to try." - Describes something that is obviously false or ridiculous.
+
+## Bunny Trail
+
+**Meaning**: A distraction or side issue that leads away from the main point.
+**Usage**: "Ignore the bunny trails; chase the one goal that moves the needle today." - Warns against scattered focus.
 
 ## Buoyant
 

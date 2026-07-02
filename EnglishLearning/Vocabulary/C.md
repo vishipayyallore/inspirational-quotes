@@ -34,6 +34,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: An ornamental covering or decorative harness placed on a horse; by extension, a rich or showy outer appearance.
 **Usage**: "Let your character matter more than caparison, because substance outlasts anything worn only for display." - Contrasts outward decoration with enduring inner worth.
 
+## Caressing
+
+**Meaning**: Touching or stroking gently or lovingly.
+**Usage**: "Her caressing touch brought comfort during his difficult time." - Shows how gentle, caring contact can provide emotional support and healing.
+
 ## Cater
 
 **Meaning**: To provide food and drink, typically at social events; to supply what is needed or required.  
@@ -43,6 +48,11 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: The power or quality of pleasing or delighting people; attractiveness.
 **Usage**: "Do not be fooled by charm or courtesy; true intentions emerge through actions, not appearances." - Don't be deceived by someone's pleasing or attractive manner.
+
+## Chuckle
+
+**Meaning**: Laugh quietly or inwardly.
+**Usage**: "A gentle chuckle escaped her lips as she read the humorous note." - Shows a soft, private laugh that expresses amusement or joy.
 
 ## Circumambient
 
@@ -154,6 +164,11 @@ This file contains definitions and example usage for "C" words found in the insp
 **Meaning**: The quality of always behaving in the same way or of having the same opinions, standard, etc.  
 **Usage**: "Success does not come from what you do occasionally, it comes from what you do consistently." - Achievement comes from regular, persistent effort, not occasional bursts.
 
+## Construe
+
+**Meaning**: Interpret a word or action in a particular way.
+**Usage**: "Do not construe his silence as indifference—sometimes reflection speaks louder than words." - Warns against misinterpreting someone's behavior based on surface observations.
+
 ## Contemporary
 
 **Meaning**: Belonging to or occurring in the present.
@@ -188,6 +203,11 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: A collection of written or spoken material stored in digital form.
 **Usage**: "Linguists analyze a corpus of texts to study language patterns." - Large databases of language samples are essential for linguistic research.
+
+## Cortex
+
+**Meaning**: The outer layer of an organ, like the brain's cerebral cortex.
+**Usage**: "Just as the cortex governs higher thought, guard your mental space—what you feed your mind shapes your reality." - Emphasizes the importance of mindful input and mental discipline.
 
 ## Coterminous
 
@@ -278,4 +298,3 @@ This file contains definitions and example usage for "C" words found in the insp
 
 **Meaning**: An inclination to believe that people are motivated purely by self-interest; skepticism.
 **Usage**: "Cynicism can cloud your judgment and prevent you from seeing the good in others." - Doubting people's intentions can lead to a negative outlook on life.
-

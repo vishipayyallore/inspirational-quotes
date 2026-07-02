@@ -154,6 +154,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To make something better or more tolerable; to improve a difficult situation.
 **Usage**: "Each small habit you change can ameliorate your day." - Emphasizes that gradual improvements can make life noticeably better over time.
 
+## Amid
+
+**Meaning**: In the middle of, surrounded by.
+**Usage**: "Amid the chaos, she found her center." - Shows finding stability and focus even when surrounded by disorder.
+
 ## Amphibians
 
 **Meaning**: Cold-blooded vertebrates (such as frogs, toads, and salamanders) that can live both on land and in water, typically beginning life with gills and later developing lungs.
@@ -163,6 +168,11 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: The extent or range of a quality or property; breadth or scope.
 **Usage**: "The amplitude of your impact is determined by your actions." - The extent of your influence is shaped by what you do.
+
+## Analogous
+
+**Meaning**: Comparable in certain respects; similar.
+**Usage**: "Learning a new skill is analogous to building muscle—it requires consistent practice and gradual progression." - Draws a comparison between skill development and physical training to illustrate the process.
 
 ## Anecdotes
 
@@ -254,6 +264,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Showing great care, effort, and perseverance; diligent and attentive.
 **Usage**: "With assiduous practice, she turned a fragile skill into a steady strength." - Emphasizes consistent, careful effort as the path to mastery.
 
+## Astounding
+
+**Meaning**: Surprisingly impressive; overwhelmingly amazing.
+**Usage**: "Her astounding turnaround started with one honest morning routine." - Links huge results to small, consistent habits.
+
 ## Atiptoe
 
 **Meaning**: On tiptoe; moving quietly or cautiously.
@@ -283,6 +298,11 @@ This file contains definitions and example usage for "A" words found in the insp
 
 **Meaning**: Knowledge or perception of a situation or fact.
 **Usage**: "Awareness is the first step to change." - Recognizing a problem is the initial move toward making improvements.
+
+## Awed
+
+**Meaning**: Filled with wonder or respect.
+**Usage**: "She was awed by the beauty of the sunset." - Shows being deeply impressed and moved by something magnificent.
 
 ## Axiom
 

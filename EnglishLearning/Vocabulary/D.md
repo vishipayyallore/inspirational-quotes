@@ -24,6 +24,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: A small sofa or couch, often with a back and arms, designed for one or two people.
 **Usage**: "She curled up on the old davenport by the window." - Refers to a classic upholstered sofa, especially in older or literary contexts.
 
+## Dawn
+
+**Meaning**: First light of day; also to begin to be understood.
+**Usage**: "Every dawn brings a fresh start—embrace the new possibilities each day offers." - Encourages viewing each new day as an opportunity for growth and change.
+
 ## Deception
 
 **Meaning**: The act of deceiving or misleading someone; a trick or falsehood.
@@ -59,6 +64,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Relating to or supporting democracy or its principles; treating all people equally without social distinctions.
 **Usage**: "Democratic leadership styles empower team members by giving them a voice in decisions." - Leadership that involves everyone equally in the decision-making process.
 
+## Depleted
+
+**Meaning**: Used up; greatly reduced in amount.
+**Usage**: "After the long journey, his energy was depleted, but his determination remained strong." - Shows physical exhaustion while highlighting mental resilience.
+
 ## Devious
 
 **Meaning**: Showing a skillful use of underhanded tactics to achieve goals; not straightforward or honest.
@@ -68,6 +78,11 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Skill and ease in using the hands or mind; adroitness in handling situations or performing tasks with precision and efficiency.
 **Usage**: "With the dexterity of a master craftsman, she navigated every obstacle and turned each setback into a stepping stone." - Highlights how combining physical and mental agility allows one to handle challenges gracefully.
+
+## Diabolical
+
+**Meaning**: Characteristic of the devil; extremely wicked.
+**Usage**: "His diabolical plan was designed to cause maximum harm to innocent people." - Describes something that is deliberately evil or malicious.
 
 ## Diagnosis
 
@@ -84,6 +99,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: Having or showing care and conscientiousness in one's work or duties; hardworking and persistent.
 **Usage**: "Diligent effort leads to mastery over time." - Consistent, careful work is the path to achieving excellence and skill.
 
+## Diligently
+
+**Meaning**: With careful and persistent effort.
+**Usage**: "She worked diligently on her project, paying attention to every detail." - Shows thorough, dedicated work with consistent attention.
+
 ## Disambiguate
 
 **Meaning**: To make something clear by removing ambiguity; to clarify.
@@ -93,6 +113,11 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: To recognize or find out; to distinguish with difficulty by sight or by the intellect.
 **Usage**: "Be wary of the sweet words of a swindler." - The ability to discern true intentions behind pleasant words.
+
+## Discernibly
+
+**Meaning**: In a way that can be seen, recognized, or understood clearly.
+**Usage**: "Her confidence grew discernibly with each small win." - Marks progress that is obvious and measurable.
 
 ## Discernment
 
@@ -124,6 +149,11 @@ This file contains definitions and example usage for "D" words found in the insp
 **Meaning**: To wander in thought or speech; to digress from the main subject.
 **Usage**: "Do not divagate from your purpose when challenges arise." - Staying focused helps you avoid drifting away from what truly matters.
 
+## Dragging
+
+**Meaning**: Pulling with effort; boring or slow.
+**Usage**: "Stop dragging your feet and take decisive action toward your goals." - Encourages moving forward with energy instead of hesitating or procrastinating.
+
 ## Droll
 
 **Meaning**: Curious or unusual in a way that provokes dry amusement; whimsically funny.
@@ -133,3 +163,8 @@ This file contains definitions and example usage for "D" words found in the insp
 
 **Meaning**: Deceitfulness; double-dealing or being two-faced.
 **Usage**: "Duplicity is a trait often found in those who seek personal gain at the expense of others." - Dishonesty can manifest in various forms, including betrayal and deceit.
+
+## Dusk
+
+**Meaning**: The darker stage of twilight.
+**Usage**: "As dusk fell, she reflected on the day's lessons and prepared for tomorrow's challenges." - Shows using the transition time for thoughtful reflection and planning.

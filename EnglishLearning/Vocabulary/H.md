@@ -34,6 +34,16 @@ This file contains definitions and example usage for "H" words found in the insp
 **Meaning**: A pleasing combination of elements working together; agreement, accord, or peaceful coexistence.
 **Usage**: "When your actions align with your values, you create harmony in your life." - Living in accordance with your principles brings inner peace and balance.
 
+## Harried
+
+**Meaning**: Feeling strained by continual demands; harassed or worried.
+**Usage**: "A harried mind misses opportunities that a calm mind catches." - Warns that stress reduces clarity and effectiveness.
+
+## Haunt
+
+**Meaning**: To be persistently and disturbingly present in the mind; to recur as a memory or thought.
+**Usage**: "Don't let past failures haunt your next attempt; let lessons guide it." - Encourages learning from the past without being trapped by it.
+
 ## Hearten
 
 **Meaning**: To encourage, cheer, or give confidence to someone.

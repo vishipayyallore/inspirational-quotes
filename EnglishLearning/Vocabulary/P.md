@@ -190,6 +190,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: The belief in or worship of more than one god.
 **Usage**: "In polytheism, each deity may represent a different aspect of life—reminding us that many values and virtues deserve our attention." - Suggests that honoring multiple principles can enrich how we live.
 
+## Postern
+
+**Meaning**: A back entrance or secondary door, especially one in a castle or town wall; a small gate or side-door.
+**Usage**: "She slipped through the postern of old habits to quietly build a new, stronger routine." - Uses 'postern' as a metaphor for a small but significant way of entering change.
+
 ## Potential
 
 **Meaning**: Having or showing the capacity to develop into something in the future.
@@ -199,11 +204,6 @@ This file contains definitions and example usage for "P" words found in the insp
 
 **Meaning**: A commotion, fuss, or anxious disturbance over something often minor.
 **Usage**: "Do not waste your energy in pother over small setbacks; steady focus will carry you farther." - Encourages calm attention on what truly matters instead of getting agitated by trivial obstacles.
-
-## Postern
-
-**Meaning**: A back entrance or secondary door, especially one in a castle or town wall; a small gate or side-door.
-**Usage**: "She slipped through the postern of old habits to quietly build a new, stronger routine." - Uses 'postern' as a metaphor for a small but significant way of entering change.
 
 ## Pragmatic
 
