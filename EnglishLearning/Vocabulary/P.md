@@ -49,6 +49,11 @@ This file contains definitions and example usage for "P" words found in the insp
 **Meaning**: A person who gives financial or other support to a person, organization, or cause.
 **Usage**: "Every artist needs a patron to support their work." - Financial backing is often crucial for creative individuals to thrive.
 
+## Pedagogy
+
+**Meaning**: The art, science, or profession of teaching; the methods and principles used to educate others.
+**Usage**: "Great pedagogy transforms not just what students know, but how they think and approach the world." - Effective teaching shapes minds and builds the capacity for lifelong learning.
+
 ## Pellucid
 
 **Meaning**: Translucently clear; easily understood; expressed with admirable clarity.
