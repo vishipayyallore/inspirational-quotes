@@ -38,6 +38,10 @@
 
 **Meaning**: Past tense of beget = caused or brought about
 
+## BSE
+
+**Meaning**: Bombay Stock Exchange
+
 ## Bucolic
 
 **Meaning**: Relating to the pleasant aspects of countryside and rural life.
@@ -137,6 +141,10 @@
 ## Forsake
 
 **Meaning**: Abandon or give up completely
+
+## FTO
+
+**Meaning**: Fashion Trends Online (eCommerce)
 
 ## Fortitude
 
@@ -305,6 +313,10 @@
 
 **Meaning**: Extremely fast or successful, like a meteor
 
+## MTBF
+
+**Meaning**: Mean Time Between Failures; a reliability metric representing the average operating time before failure.
+
 ## Muddle
 
 **Meaning**: To bring into a disordered or confusing state; a mess.
@@ -347,6 +359,14 @@
 ## Presumption
 
 **Meaning**: A belief based on probability, or bold behavior without permission
+
+## PI
+
+**Meaning**: Proportional Integral; a controller type that combines proportional (Kp) and integral (Ki) gains.
+
+## PPF
+
+**Meaning**: Percent Point Function; in statistics, the inverse of the cumulative distribution function (CDF) that returns the value for a given probability.
 
 ## Proclaimed
 
