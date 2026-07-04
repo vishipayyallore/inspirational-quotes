@@ -45,6 +45,30 @@ A practical guide to common abbreviations used in informal digital communication
 * **PMF** (Probability Mass Function): Used for discrete random variables. Example: P(X = 2) for dice rolls.
 * **CDF** (Cumulative Distribution Function): Used for both discrete and continuous variables. It gives P(X <= x).
 
+## Running Notes (15-Jun-2026 + 16-Jun-2026)
+
+### 16-Jun-2026: Added/Confirmed Full Forms
+
+* **FTO**: Fashion Trends Online (eCommerce)
+* **BSE**: Bombay Stock Exchange
+* **MTBF**: Mean Time Between Failures; reliability metric for average run time before failure
+* **PPF**: Percent Point Function; inverse of CDF, returns x for a given probability p
+* **PI**: Proportional Integral controller; uses Kp + Ki gains
+
+### 16-Jun-2026: Vocabulary Captured With Notes
+
+* Apparel: Clothing or garments
+* Avionic: Related to aviation electronics
+* Inductance, Defy, Rival, Loom, Whack
+* Inertia, Jockeying, Relegated, Halo Effect
+* Salient, Dominant, Pivotal
+
+### Quick Context Notes
+
+* Halo Effect: One positive trait makes people assume other traits are also positive.
+* Salient: Most noticeable or important.
+* MTBF in ANN/control context: Useful for reliability-focused system understanding.
+
 ## Usage Tips
 
 * These abbreviations are typically used in informal settings
