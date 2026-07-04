@@ -1,9 +1,5 @@
 # Words to Organize
 
-## Analogous
-
-**Meaning**: Comparable in certain respects; similar
-
 ## Apparel
 
 **Meaning**: Clothing or garments
