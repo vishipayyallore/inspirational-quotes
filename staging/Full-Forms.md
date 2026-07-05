@@ -39,15 +39,3 @@ A practical guide to common abbreviations used in informal digital communication
 | Full Form  | **SLR**        | Simple Linear Regression              | —                                        |
 | Full Form  | **SSE**        | Sum of Squared Errors                 | —                                        |
 | Full Form  | **TRP**        | Television Rating Point               | —                                        |
-
-## Stats Quick Context
-
-* **PMF** (Probability Mass Function): Used for discrete random variables. Example: P(X = 2) for dice rolls.
-* **CDF** (Cumulative Distribution Function): Used for both discrete and continuous variables. It gives P(X <= x).
-
-## Usage Tips
-
-* These abbreviations are typically used in informal settings
-* Professional contexts may require full words depending on your audience
-* When in doubt, spell it out for clarity
-* Context matters - use appropriately based on your team culture
