@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Select-String -Path \"Scripts/Debug\\.md\" -Pattern \"2026-07-05: Reasoning summary: Added Apparel\" \\| ForEach-Object \\{ \"\\{0\\}:\\{1\\}: \\{2\\}\" -f \\$_\\.Path\\.Replace\\(\\(Get-Location\\)\\.Path \\+ '\\\\\\\\',''\\), \\$_\\.LineNumber, \\$_\\.Line\\.Trim\\(\\) \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "ForEach-Object": true
+    }
+}

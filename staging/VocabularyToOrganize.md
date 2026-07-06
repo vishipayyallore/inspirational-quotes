@@ -1,9 +1,5 @@
 # Words to Organize
 
-## Apparel
-
-**Meaning**: Clothing or garments
-
 ## Astounding
 
 **Meaning**: Surprisingly impressive; overwhelmingly amazing.
