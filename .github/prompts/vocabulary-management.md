@@ -12,6 +12,13 @@ You are working with an inspirational quotes repository that includes English le
 - Each word is represented as a markdown heading: `## WordName`
 - Template entries (`## WordName`) should be excluded from verification
 - Any ordering violations must be fixed immediately
+- Compare the full spelling of near-prefix words before insertion so entries like `Avionic` and `Avionics` land in the correct order
+
+### 1.1 Duplicate Prevention
+
+- Search the entire `EnglishLearning/Vocabulary/` folder before adding a word
+- If the word already exists, update the existing entry instead of creating a duplicate
+- If the user supplies a partial entry, preserve the given text and add only the missing field(s) when that can be done cleanly
 
 ### 2. Verification Process
 
@@ -59,6 +66,13 @@ Each vocabulary entry follows this exact format:
 4. **Run verification** to confirm ordering
 5. **Fix any ordering issues** immediately
 6. **Log the verification results**
+
+## Agent Instructions
+
+- Before editing, check whether the target word already exists elsewhere in the vocabulary set
+- Do not rely on the currently selected file alone; verify the intended target letter against the first character of the word
+- Keep additions minimal and avoid changing unrelated entries while inserting a new word
+- Prefer one focused edit followed by verification over multiple speculative changes
 
 ## Common Issues & Solutions
 

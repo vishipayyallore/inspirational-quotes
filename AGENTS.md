@@ -26,6 +26,13 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 Add `-ShowMismatches` to see current vs. correct order; add `-OutFile "Logs/verify-<stamp>.txt"` to persist. Exit codes: 0 = OK, 2 = out of order.
 
+## Vocabulary agent rules
+
+- Check the full vocabulary set before adding a new word to avoid duplicates or near-duplicate spellings.
+- Put the entry in the file that matches the word's first letter and verify the exact insertion point against neighboring words.
+- Preserve both Meaning and Usage when possible; if a field is missing, add it cleanly without rewriting unrelated content.
+- After every vocabulary edit, run the verification script and record the result in `Logs/` and `Scripts/Debug.md`.
+
 ## Content conventions
 
 - **Vocab entries**: `## WordName` then `**Meaning**: …` then `**Usage**: "…"`.
