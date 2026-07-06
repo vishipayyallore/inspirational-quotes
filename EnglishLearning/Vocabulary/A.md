@@ -294,6 +294,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: The quality of being genuine or true to oneself.
 **Usage**: "Authenticity is the key to meaningful connections." - Being true to yourself fosters deeper relationships with others.
 
+## Avionic
+
+**Meaning**: Relating to electronics used in aviation.
+**Usage**: "Modern avionic systems help pilots navigate safely through changing weather." - Highlights how aircraft electronics support safe and reliable flight.
+
 ## Avionics
 
 **Meaning**: The electronic systems used in aircraft, including navigation, communication, and flight control systems.
