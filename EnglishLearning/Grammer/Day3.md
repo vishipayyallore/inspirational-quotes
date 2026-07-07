@@ -29,10 +29,11 @@
   - Key pattern / formula: Subject + Verb-ed (or irregular past form).
 
 - **Mini-drills (4 x 45 sec):**
- 1. Read the sample: "I transcended my expectations yesterday."
- 2. Transform to negative: "I did not transcend my expectations yesterday."
- 3. Transform to a question: "Did I transcend my expectations yesterday?"
- 4. Create your own sentence: "Last year, she transcended the difficulties she faced."
+
+  1. Read the sample: "I transcended my expectations yesterday."
+  2. Transform to negative: "I did not transcend my expectations yesterday."
+  3. Transform to a question: "Did I transcend my expectations yesterday?"
+  4. Create your own sentence: "Last year, she transcended the difficulties she faced."
 
 ### 4. Integration Wrap-Up (1 minute)
 

@@ -1,23 +1,22 @@
 # Inspirational Quotes & English Learning
 
-A collection of inspirational quotes from various sources, organized vocabulary for learning English, and a structured English learning plan.
+A personal English-learning workspace with organized vocabulary, grammar foundations, and strategic literacy notes.
 
 ## Repository Structure
 
 This repository contains three main sections:
 
-### 1. Inspirational Quotes
+### 1. Strategic Literacy
 
-A curated collection of meaningful quotes organized by categories such as:
+A curated set of reading notes and defensive learning summaries:
 
-- Daily Wisdom
-- Life Lessons
-- Success
-- Leadership
-- Perseverance
-- And many more...
+- Daily ownership
+- Execution discipline
+- Foundational principles
+- Human nature
+- Negotiation
 
-[Browse Quotes →](./InspirationalQuotes/InspirationalQuotes.md)
+[Browse Strategic Literacy](./Strategic-Literacy/01-today-is-mine.md)
 
 ### 2. Vocabulary Collection
 
@@ -27,28 +26,24 @@ An alphabetically organized collection of words with:
 - Example usage from quotes
 - Context explanations
 
-[Vocabulary Index →](./Vocabulary/VocabularyDefinitions.md)
+[Vocabulary Index](./EnglishLearning/Vocabulary/VocabularyDefinitions.md)
 
-### 3. English Learning Plan
+### 3. English Learning Foundations
 
-A structured approach to learning English across four levels:
+A structured set of foundational grammar and vocabulary references:
 
-- Primary: Basic vocabulary and simple sentences
-- Middle: Intermediate vocabulary and grammar
-- High School: Advanced vocabulary and complex structures
-- Professional: Business/academic English and sophisticated communication
+- Nouns and pronouns
+- Grammar practice lessons
+- Alphabetized vocabulary definitions
 
-The plan is designed for just 18 minutes of daily practice.
-
-[Learning Plan →](./EnglishLearning/EnglishLearningPlan.md)
-[Daily Template →](./EnglishLearning/DailyLearningTemplate.md)
-[Sample Plan →](./EnglishLearning/SampleDailyLearningPlan.md)
+[Foundations](./EnglishLearning/Foundations/README.md)
+[Grammar Lessons](./EnglishLearning/Grammer/Day1.md)
 
 ## How to Use This Repository
 
-1. Explore the inspirational quotes for motivation and wisdom
+1. Explore the strategic literacy notes for motivation and reflection
 2. Use the vocabulary collection to expand your English knowledge
-3. Follow the 18-minute daily learning plan to systematically improve your English skills
+3. Practice grammar foundations to systematically improve your English skills
 
 ## License
 

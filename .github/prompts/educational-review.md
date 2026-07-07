@@ -58,28 +58,28 @@ You are reviewing educational content for an inspirational quotes and English le
 
 ### Content Analysis Framework
 
-**Step 1: Initial Assessment**
+#### Step 1: Initial Assessment
 
 1. Review content for overall educational value
 2. Check alignment with project objectives
 3. Verify appropriate difficulty level
 4. Assess cultural sensitivity and inclusivity
 
-**Step 2: Detailed Evaluation**
+#### Step 2: Detailed Evaluation
 
 1. Analyze vocabulary definitions for clarity and accuracy
 2. Review example sentences for appropriateness and effectiveness
 3. Check quotes for authenticity and educational value
 4. Verify formatting consistency and adherence to templates
 
-**Step 3: Learning Effectiveness Review**
+#### Step 3: Learning Effectiveness Review
 
 1. Evaluate how well content supports language acquisition
 2. Assess practical applicability of examples and concepts
 3. Review progression and logical flow of information
 4. Consider multiple learning pathways and styles
 
-**Step 4: Quality Assurance Check**
+#### Step 4: Quality Assurance Check
 
 1. Verify all sources and attributions
 2. Check grammar, spelling, and formatting

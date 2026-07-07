@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-06-09 13:42:08 — Added Gudgeon (G.md) — all 26 files OK
+Last verification: 2026-07-07 09:46:23 — Formatting cleanup in L.md — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
  
+- 2026-07-07: Reasoning summary: Cleaned up markdown formatting for documentation CI without changing vocabulary content. Action(s) taken: Ensured `EnglishLearning/Vocabulary/L.md` ends with a single trailing newline; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260707-094623.txt"`. Outcome / verification: all 26 letter files OK; log saved at Logs/verify-20260707-094623.txt.
 - 2026-07-05: Reasoning summary: Added the missing Usage line for Apparel (A.md) to match vocabulary format requirements. Action(s) taken: Updated `EnglishLearning/Vocabulary/A.md` with a Usage example for Apparel; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260705-110514.txt"`. Outcome / verification: all 26 letter files OK; `A.md` -> OK (62 words); log saved at Logs/verify-20260705-110514.txt.
 - 2026-07-05: Reasoning summary: Added Apparel (A.md) in the main vocabulary collection per request. Action(s) taken: Inserted Apparel in strict alphabetical order in `EnglishLearning/Vocabulary/A.md`; updated `EnglishLearning/Vocabulary/VocabularyDefinitions.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260705-110354.txt"`. Outcome / verification: all 26 letter files OK; `A.md` -> OK (62 words); log saved at Logs/verify-20260705-110354.txt.
 - 2026-06-17: Reasoning summary: Added Nonage (N.md) after confirming it was not already present. Action(s) taken: Inserted the word in strict alphabetical order in `EnglishLearning/Vocabulary/N.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -ShowMismatches -OutFile "Logs/verify-20260617-164848.txt"`. Outcome / verification: N.md -> OK (18 words); overall verification reported P.md and V.md out of order; log saved at Logs/verify-20260617-164848.txt.

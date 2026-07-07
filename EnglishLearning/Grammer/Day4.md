@@ -29,10 +29,11 @@
   - Key pattern / formula: Subject + am/is/are + verb-ing.
 
 - **Mini-drills (4 x 45 sec):**
- 1. Read the sample: "I am becoming more erudite through daily reading."
- 2. Transform to negative: "I am not becoming more erudite through daily reading."
- 3. Transform to a question: "Am I becoming more erudite through daily reading?"
- 4. Create your own sentence: "She is becoming erudite by studying every evening."
+
+  1. Read the sample: "I am becoming more erudite through daily reading."
+  2. Transform to negative: "I am not becoming more erudite through daily reading."
+  3. Transform to a question: "Am I becoming more erudite through daily reading?"
+  4. Create your own sentence: "She is becoming erudite by studying every evening."
 
 ### 4. Integration Wrap-Up (1 minute)
 
