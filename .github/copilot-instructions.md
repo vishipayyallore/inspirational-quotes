@@ -76,7 +76,10 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 
 1. **Complete Alphabet Coverage**: ALL 26 alphabet files (A.md through Z.md) exist and are ready for content
 2. **Alphabetical Organization**: ALL vocabulary words within each file MUST be in strict alphabetical order
-3. **Template Format**: Each file includes a consistent template for adding new words:
+3. **Duplicate Check First**: Before adding a word, search the entire vocabulary folder to confirm the word does not already exist under a different file or as a near-duplicate spelling
+4. **Correct File Selection**: Place the entry in the file that matches the word's first letter, and compare the full spelling when choosing the insertion point for near-prefix words
+5. **Entry Completeness**: Each added word must have both a Meaning and a Usage line unless the user explicitly requests a partial entry
+6. **Template Format**: Each file includes a consistent template for adding new words:
 
    ```markdown
    <!-- Add vocabulary words here following the format:
@@ -87,7 +90,7 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
    -->
    ```
 
-4. **Consistent Format**: Use this exact structure for each word entry:
+7. **Consistent Format**: Use this exact structure for each word entry:
 
    ```markdown
    ## WordName
@@ -96,8 +99,8 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
    **Usage**: "Quote or example sentence." - Explanation of the usage context.
    ```
 
-5. **File Naming**: Use single letter filenames (A.md, B.md, etc.) for vocabulary organized by first letter
-6. **Header Format**: Each file should start with `# [Letter] Vocabulary Definitions`
+8. **File Naming**: Use single letter filenames (A.md, B.md, etc.) for vocabulary organized by first letter
+9. **Header Format**: Each file should start with `# [Letter] Vocabulary Definitions`
 
 ### Verification Requirements
 
@@ -119,6 +122,8 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 - Always exclude template "WordName" entries from verification
 - Exit codes: 0 = All files OK, 2 = One or more files out of order
 - Keep `Scripts/Debug.md` under 50 lines; use it only as a quick reference with pointers to detailed logs in `Logs/`
+- If a user asks to add a word and the word already exists, update the existing entry instead of duplicating it
+- If the user provides only a meaning or only a usage, preserve what was given and add the missing field only when it can be done cleanly without changing the intended word
 
 ### Content Standards
 
@@ -206,6 +211,7 @@ The entire routine should take no more than nine minutes. If any vocabulary file
 2. Insert the entry into the correct `EnglishLearning/Vocabulary/[A-Z].md` file, maintaining strict alphabetical order and the standard format (meaning + usage).
 3. Update `EnglishLearning/Vocabulary/VocabularyDefinitions.md` if the letter summary needs to mention the new word.
 4. Run `Scripts/Verify-Vocabulary.ps1` after every vocabulary edit and log the command/output in `Scripts/Debug.md`.
+5. Never assume a new word belongs in the active file without checking its first letter and nearby alphabetic neighbors.
 
 ### Daily English Mastery Workflow (`EnglishLearning/Daily`)
 

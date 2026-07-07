@@ -1,18 +1,5 @@
 # Words to Organize
 
-## Astounding
-
-**Meaning**: Surprisingly impressive; overwhelmingly amazing.
-**Usage**: "Her astounding turnaround started with one honest morning routine." - Links huge results to small, consistent habits.
-
-## Avionic
-
-**Meaning**: Relating to electronics used in aviation
-
-## Awed
-
-**Meaning**: Filled with wonder or respect
-
 ## Balk
 
 **Meaning**: Hesitate or be unwilling to accept/do something
