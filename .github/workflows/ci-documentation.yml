@@ -1,0 +1,99 @@
+name: Documentation Quality
+
+on:
+  push:
+    branches: [main, master, 'swamy/**']
+    paths:
+      - '**/*.md'
+      - '.github/workflows/ci-documentation.yml'
+      - '.markdownlint-cli2.yaml'
+      - 'lychee.toml'
+      - 'Scripts/Verify-Vocabulary.ps1'
+  pull_request:
+    branches: [main, master]
+    paths:
+      - '**/*.md'
+      - '.github/workflows/ci-documentation.yml'
+      - '.markdownlint-cli2.yaml'
+      - 'lychee.toml'
+      - 'Scripts/Verify-Vocabulary.ps1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: documentation-quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  vocabulary-order:
+    name: Vocabulary Order
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify vocabulary alphabetical order
+        shell: pwsh
+        run: |
+          ./Scripts/Verify-Vocabulary.ps1 -Root "EnglishLearning/Vocabulary"
+
+  markdown-lint:
+    name: Markdown Linting
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Markdown linting
+        run: npx --yes markdownlint-cli2@0.23.0
+
+  link-checker:
+    name: Link Checking (Lychee)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee link checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --config lychee.toml
+            --cache
+            --max-cache-age 1d
+            README.md
+            AGENTS.md
+            .github/**/*.md
+            EnglishLearning/**/*.md
+            Strategic-Literacy/**/*.md
+          format: markdown
+          output: ./lychee/out.md
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create lychee report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: ./lychee/out.md
+          if-no-files-found: ignore
+          retention-days: 7

@@ -1,0 +1,20 @@
+config:
+  default: true
+  MD013: false
+  MD060: false
+
+globs:
+  - "*.md"
+  - ".github/**/*.md"
+  - "EnglishLearning/**/*.md"
+  - "Strategic-Literacy/**/*.md"
+  - "docs/**/*.md"
+
+ignores:
+  - ".archive/**"
+  - ".clinerules/**"
+  - ".github/copilot-instructions.md"
+  - ".opencode/**"
+  - ".opencode/node_modules/**"
+  - "Logs/**"
+  - "staging/**"

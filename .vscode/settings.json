@@ -4,6 +4,42 @@
             "approve": true,
             "matchCommandLine": true
         },
-        "ForEach-Object": true
+        "ForEach-Object": true,
+        "/^git status --short; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2 \"README\\.md\" \"AGENTS\\.md\" \"\\.github/\\*\\*/\\*\\.md\" \"EnglishLearning/\\*\\*/\\*\\.md\" \"Strategic-Literacy/\\*\\*/\\*\\.md\" \"docs/\\*\\*/\\*\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2 --config '\\{\"MD013\":false\\}' \"README\\.md\" \"AGENTS\\.md\" \"\\.github/\\*\\*/\\*\\.md\" \"EnglishLearning/\\*\\*/\\*\\.md\" \"Strategic-Literacy/\\*\\*/\\*\\.md\" \"docs/\\*\\*/\\*\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"EnglishLearning/Vocabulary\"; npx --yes markdownlint-cli2@0\\.23\\.0$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$log = \"Logs/verify-\\$stamp\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"EnglishLearning/Vocabulary\" -OutFile \\$log; Write-Host \"Vocabulary verification log: \\$log\"; npx --yes markdownlint-cli2@0\\.23\\.0$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$log = \"Logs/verify-\\$stamp\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"EnglishLearning/Vocabulary\" -OutFile \\$log; Write-Host \"Vocabulary verification log: \\$log\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$cmd = Get-Command lychee -ErrorAction SilentlyContinue; if \\(\\$cmd\\) \\{ lychee --config lychee\\.toml --cache --max-cache-age 1d README\\.md AGENTS\\.md \\.github/\\*\\*/\\*\\.md EnglishLearning/\\*\\*/\\*\\.md Strategic-Literacy/\\*\\*/\\*\\.md docs/\\*\\*/\\*\\.md \\} else \\{ Write-Host 'lychee is not installed locally' \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^lychee --config lychee\\.toml --cache --max-cache-age 1d README\\.md AGENTS\\.md \\.github/\\*\\*/\\*\\.md EnglishLearning/\\*\\*/\\*\\.md Strategic-Literacy/\\*\\*/\\*\\.md$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$cmd = Get-Command lychee -ErrorAction Stop; & \\$cmd\\.Source --config lychee\\.toml --cache --max-cache-age 1d README\\.md AGENTS\\.md \\.github/\\*\\*/\\*\\.md EnglishLearning/\\*\\*/\\*\\.md Strategic-Literacy/\\*\\*/\\*\\.md$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
     }
 }

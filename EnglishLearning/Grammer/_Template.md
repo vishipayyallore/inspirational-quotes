@@ -25,14 +25,15 @@
 
 - **Grammar concept:** ____________________
 - **Essentials:**
- 	- Rule summary: ______________________________________
- 	- Key pattern / formula: ______________________________
+  - Rule summary: ______________________________________
+  - Key pattern / formula: ______________________________
 
 - **Mini-drills (4 x 45 sec):**
- 1. Read the rule and sample sentence.
- 2. Transform the sample into a negative form.
- 3. Transform it into a question.
- 4. Create your own sentence using today’s vocabulary word.
+
+  1. Read the rule and sample sentence.
+  2. Transform the sample into a negative form.
+  3. Transform it into a question.
+  4. Create your own sentence using today’s vocabulary word.
 
 ### 4. Integration Wrap-Up (1 minute)
 
