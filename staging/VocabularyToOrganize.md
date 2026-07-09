@@ -1,9 +1,19 @@
 # Words to Organize
 
+## Aisle
+
+**Meaning**: A passage between rows of seats or shelves.
+**Usage**: "Walk down the supermarket aisle."
+
 ## Altar
 
 **Meaning**: A table used in religious ceremonies.
 **Usage**: "Offering placed on the altar."
+
+## Astray
+
+**Meaning**: Away from the correct path.
+**Usage**: "Do not go astray from the project goals."
 
 ## Balk
 
@@ -120,6 +130,11 @@
 **Meaning**: In a way that can be seen, recognized, or understood clearly.
 **Usage**: "Her confidence grew discernibly with each small win." - Marks progress that is obvious and measurable.
 
+## Dissuade
+
+**Meaning**: To persuade someone not to do something.
+**Usage**: "My mentor dissuaded me from quitting the job."
+
 ## Distress
 
 **Meaning**: Extreme pain, sorrow, or danger.
@@ -155,10 +170,20 @@
 **Meaning**: Said or done in a strong, forceful way to show importance.
 **Usage**: "The director was emphatic about meeting the deadline."
 
+## Empirically
+
+**Meaning**: Based on observation, experiment, or evidence rather than theory.
+**Usage**: "We validated the assumption empirically with A/B testing."
+
 ## Envisioned
 
 **Meaning**: Imagined or pictured something as a future possibility
 **Usage**: "I used Envisioned in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Eradicate
+
+**Meaning**: To destroy completely; wipe out.
+**Usage**: "We need to eradicate bugs from the code."
 
 ## Flung
 
@@ -249,6 +274,11 @@
 
 **Meaning**: To be persistently and disturbingly present in the mind; to recur as a memory or thought.
 **Usage**: "Don't let past failures haunt your next attempt; let lessons guide it." - Encourages learning from the past without being trapped by it.
+
+## Hay
+
+**Meaning**: Dried grass used as animal feed.
+**Usage**: "The farm stored hay for winter."
 
 ## Hearth
 
@@ -375,6 +405,11 @@
 **Meaning**: A medicated tablet for sore throats, or a diamond shape
 **Usage**: "I used Lozenge in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
 
+## Lured
+
+**Meaning**: Tempted or enticed into doing something.
+**Usage**: "The ad lured customers with a 50% discount."
+
 ## Maxim
 
 **Meaning**: A short, concise rule or principle for conduct; a saying.
@@ -410,6 +445,11 @@
 **Meaning**: To bring into a disordered or confusing state; a mess.
 **Usage**: "Clarity beats speed ΓÇö rushing will only muddle your thinking." - Values clear thought over frantic action.
 
+## Niche
+
+**Meaning**: A specialized segment of a market or area.
+**Usage**: "Find a niche in fintech where your team has domain strength."
+
 ## Nicked
 
 **Meaning**: Cut or damaged slightly; also British slang for stolen
@@ -425,10 +465,25 @@
 **Meaning**: Hidden, unclear, or difficult to see or understand.
 **Usage**: "Fear obscured the opportunity that patience later revealed." - Shows how emotion can hide what's actually present.
 
+## Orchard
+
+**Meaning**: A farm where fruit trees are grown.
+**Usage**: "They visited an apple orchard during harvest season."
+
 ## Pauper
 
 **Meaning**: A very poor person; someone with no money or means.
 **Usage**: "A pauper in wealth can be rich in discipline ΓÇö choose your currency." - Redefines richness in terms of character, not cash.
+
+## Pave
+
+**Meaning**: To cover a road or surface with material such as asphalt or concrete; also, to make future progress easier.
+**Usage**: "This project will pave the way for AI adoption."
+
+## PCA
+
+**Meaning**: Principal Component Analysis, a statistical technique used to reduce data dimensions while preserving important variance.
+**Usage**: "We applied PCA to reduce 100 features to 10 while keeping most of the information."
 
 ## PI
 
@@ -605,6 +660,11 @@
 **Meaning**: Collapsed, bent forward, or declined suddenly.
 **Usage**: "Sales slumped after the price hike."
 
+## Snares
+
+**Meaning**: Traps, or things that catch and hold you.
+**Usage**: "Avoid the snares of technical debt."
+
 ## Sneaky
 
 **Meaning**: Acting secretly or in a way to avoid notice; underhanded
@@ -660,6 +720,26 @@
 **Meaning**: Following one after another in order
 **Usage**: "I used Successively in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
 
+## Surefire
+
+**Meaning**: Certain to succeed; guaranteed.
+**Usage**: "A surefire way to increase retention is to shorten onboarding time."
+
+## SVD
+
+**Meaning**: Singular Value Decomposition, a matrix factorization method where $A = U \Sigma V^T$.
+**Usage**: "SVD is used in recommendation systems, image compression, and as a foundation for PCA."
+
+## Sway
+
+**Meaning**: To move back and forth; also, to influence someone.
+**Usage**: "The trees swayed in the wind." / "Data can sway business decisions."
+
+## Tangles
+
+**Meaning**: Twists together in a messy way; also, complicated problems.
+**Usage**: "The wires got tangled." / "The team resolved legal tangles before launch."
+
 ## Tanning
 
 **Meaning**: Making leather from animal skins, or getting darker skin from the sun
@@ -694,6 +774,11 @@
 
 **Meaning**: Long narrow ditches; often for defense in war
 **Usage**: "I used Trenches in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Trite
+
+**Meaning**: Overused and lacking originality.
+**Usage**: "Avoid trite answers in interviews and give specific examples instead."
 
 ## Tugging
 
@@ -754,89 +839,4 @@
 
 **Meaning**: With longing or regret
 **Usage**: "I used Wistfully in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-
-## Aisle
-
-**Meaning**: A passage between rows of seats or shelves.
-**Usage**: "Walk down the supermarket aisle."
-
-## Astray
-
-**Meaning**: Away from the correct path.
-**Usage**: "Do not go astray from the project goals."
-
-## Dissuade
-
-**Meaning**: To persuade someone not to do something.
-**Usage**: "My mentor dissuaded me from quitting the job."
-
-## Empirically
-
-**Meaning**: Based on observation, experiment, or evidence rather than theory.
-**Usage**: "We validated the assumption empirically with A/B testing."
-
-## Eradicate
-
-**Meaning**: To destroy completely; wipe out.
-**Usage**: "We need to eradicate bugs from the code."
-
-## Pave
-
-**Meaning**: To cover a road or surface with material such as asphalt or concrete; also, to make future progress easier.
-**Usage**: "This project will pave the way for AI adoption."
-
-## Hay
-
-**Meaning**: Dried grass used as animal feed.
-**Usage**: "The farm stored hay for winter."
-
-## Lured
-
-**Meaning**: Tempted or enticed into doing something.
-**Usage**: "The ad lured customers with a 50% discount."
-
-## Niche
-
-**Meaning**: A specialized segment of a market or area.
-**Usage**: "Find a niche in fintech where your team has domain strength."
-
-## Orchard
-
-**Meaning**: A farm where fruit trees are grown.
-**Usage**: "They visited an apple orchard during harvest season."
-
-## PCA
-
-**Meaning**: Principal Component Analysis, a statistical technique used to reduce data dimensions while preserving important variance.
-**Usage**: "We applied PCA to reduce 100 features to 10 while keeping most of the information."
-
-## Snares
-
-**Meaning**: Traps, or things that catch and hold you.
-**Usage**: "Avoid the snares of technical debt."
-
-## Surefire
-
-**Meaning**: Certain to succeed; guaranteed.
-**Usage**: "A surefire way to increase retention is to shorten onboarding time."
-
-## SVD
-
-**Meaning**: Singular Value Decomposition, a matrix factorization method where $A = U \Sigma V^T$.
-**Usage**: "SVD is used in recommendation systems, image compression, and as a foundation for PCA."
-
-## Sway
-
-**Meaning**: To move back and forth; also, to influence someone.
-**Usage**: "The trees swayed in the wind." / "Data can sway business decisions."
-
-## Tangles
-
-**Meaning**: Twists together in a messy way; also, complicated problems.
-**Usage**: "The wires got tangled." / "The team resolved legal tangles before launch."
-
-## Trite
-
-**Meaning**: Overused and lacking originality.
-**Usage**: "Avoid trite answers in interviews and give specific examples instead."
 
