@@ -755,54 +755,80 @@
 **Meaning**: With longing or regret
 **Usage**: "I used Wistfully in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
 
-## 09-Jul-2026 Organized Batch
-
-### General Vocabulary
-
-## Lured
-
-**Meaning**: Tempted or enticed into doing something.
-**Usage**: "The ad lured customers with a 50% discount."
-
-## Hay
-
-**Meaning**: Dried grass used as animal feed.
-**Usage**: "The farm stored hay for winter."
-
-## Dissuade
-
-**Meaning**: To persuade someone not to do something.
-**Usage**: "My mentor dissuaded me from quitting the job."
-
-## Sway
-
-**Meaning**: To move back and forth; also, to influence someone.
-**Usage**: "The trees swayed in the wind." / "Data can sway business decisions."
-
 ## Aisle
 
 **Meaning**: A passage between rows of seats or shelves.
 **Usage**: "Walk down the supermarket aisle."
-
-## Pave
-
-**Meaning**: To cover a road or surface with material such as asphalt or concrete; also, to make future progress easier.
-**Usage**: "This project will pave the way for AI adoption."
-
-## Eradicate
-
-**Meaning**: To destroy completely; wipe out.
-**Usage**: "We need to eradicate bugs from the code."
 
 ## Astray
 
 **Meaning**: Away from the correct path.
 **Usage**: "Do not go astray from the project goals."
 
+## Dissuade
+
+**Meaning**: To persuade someone not to do something.
+**Usage**: "My mentor dissuaded me from quitting the job."
+
+## Empirically
+
+**Meaning**: Based on observation, experiment, or evidence rather than theory.
+**Usage**: "We validated the assumption empirically with A/B testing."
+
+## Eradicate
+
+**Meaning**: To destroy completely; wipe out.
+**Usage**: "We need to eradicate bugs from the code."
+
+## Pave
+
+**Meaning**: To cover a road or surface with material such as asphalt or concrete; also, to make future progress easier.
+**Usage**: "This project will pave the way for AI adoption."
+
+## Hay
+
+**Meaning**: Dried grass used as animal feed.
+**Usage**: "The farm stored hay for winter."
+
+## Lured
+
+**Meaning**: Tempted or enticed into doing something.
+**Usage**: "The ad lured customers with a 50% discount."
+
+## Niche
+
+**Meaning**: A specialized segment of a market or area.
+**Usage**: "Find a niche in fintech where your team has domain strength."
+
+## Orchard
+
+**Meaning**: A farm where fruit trees are grown.
+**Usage**: "They visited an apple orchard during harvest season."
+
+## PCA
+
+**Meaning**: Principal Component Analysis, a statistical technique used to reduce data dimensions while preserving important variance.
+**Usage**: "We applied PCA to reduce 100 features to 10 while keeping most of the information."
+
 ## Snares
 
 **Meaning**: Traps, or things that catch and hold you.
 **Usage**: "Avoid the snares of technical debt."
+
+## Surefire
+
+**Meaning**: Certain to succeed; guaranteed.
+**Usage**: "A surefire way to increase retention is to shorten onboarding time."
+
+## SVD
+
+**Meaning**: Singular Value Decomposition, a matrix factorization method where $A = U \Sigma V^T$.
+**Usage**: "SVD is used in recommendation systems, image compression, and as a foundation for PCA."
+
+## Sway
+
+**Meaning**: To move back and forth; also, to influence someone.
+**Usage**: "The trees swayed in the wind." / "Data can sway business decisions."
 
 ## Tangles
 
@@ -813,36 +839,4 @@
 
 **Meaning**: Overused and lacking originality.
 **Usage**: "Avoid trite answers in interviews and give specific examples instead."
-
-## Orchard
-
-**Meaning**: A farm where fruit trees are grown.
-**Usage**: "They visited an apple orchard during harvest season."
-
-## Surefire
-
-**Meaning**: Certain to succeed; guaranteed.
-**Usage**: "A surefire way to increase retention is to shorten onboarding time."
-
-## Niche
-
-**Meaning**: A specialized segment of a market or area.
-**Usage**: "Find a niche in fintech where your team has domain strength."
-
-## Empirically
-
-**Meaning**: Based on observation, experiment, or evidence rather than theory.
-**Usage**: "We validated the assumption empirically with A/B testing."
-
-### Tech and ML Terms
-
-## PCA
-
-**Meaning**: Principal Component Analysis, a statistical technique used to reduce data dimensions while preserving important variance.
-**Usage**: "We applied PCA to reduce 100 features to 10 while keeping most of the information."
-
-## SVD
-
-**Meaning**: Singular Value Decomposition, a matrix factorization method where $A = U \Sigma V^T$.
-**Usage**: "SVD is used in recommendation systems, image compression, and as a foundation for PCA."
 
