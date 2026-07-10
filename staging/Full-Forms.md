@@ -32,10 +32,12 @@ A practical guide to common abbreviations used in informal digital communication
 | Full Form  | **MTBF**       | Mean Time Between Failures            | —                                        |
 | Full Form  | **NPA**        | Non Performing Asset                  | —                                        |
 | Full Form  | **OLS**        | Ordinary Least Squares                | —                                        |
+| Full Form  | **PCA**        | Principal Component Analysis          | —                                        |
 | Full Form  | **PI**         | Proportional Integral                 | —                                        |
 | Full Form  | **PMF**        | Probability Mass Function             | —                                        |
 | Full Form  | **PPF**        | Percent Point Function                | —                                        |
 | Full Form  | **RPM**        | Remote Patient Monitoring             | —                                        |
 | Full Form  | **SLR**        | Simple Linear Regression              | —                                        |
 | Full Form  | **SSE**        | Sum of Squared Errors                 | —                                        |
+| Full Form  | **SVD**        | Singular Value Decomposition          | —                                        |
 | Full Form  | **TRP**        | Television Rating Point               | —                                        |
