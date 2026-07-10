@@ -48,6 +48,16 @@
         "/^\\$path = 'd:\\\\GitHub\\\\inspirational-quotes\\\\staging\\\\VocabularyToOrganize\\.md';\n\\$lines = Get-Content -Path \\$path;\n\\$indices = for \\(\\$i = 0; \\$i -lt \\$lines\\.Count; \\$i\\+\\+\\) \\{ if \\(\\$lines\\[\\$i\\] -match '\\^##\\\\s\\+'\\) \\{ \\$i \\} \\};\nif \\(\\$indices\\.Count -eq 0\\) \\{ throw 'No vocabulary headings found\\.' \\}\n\\$preamble = if \\(\\$indices\\[0\\] -gt 0\\) \\{ \\$lines\\[0\\.\\.\\(\\$indices\\[0\\]-1\\)\\] \\} else \\{ @\\(\\) \\};\n\\$blocks = @\\(\\);\nfor \\(\\$j = 0; \\$j -lt \\$indices\\.Count; \\$j\\+\\+\\) \\{\n  \\$start = \\$indices\\[\\$j\\];\n  \\$end = if \\(\\$j -lt \\$indices\\.Count - 1\\) \\{ \\$indices\\[\\$j\\+1\\] - 1 \\} else \\{ \\$lines\\.Count - 1 \\};\n  \\$blockLines = \\$lines\\[\\$start\\.\\.\\$end\\];\n  \\$key = \\(\\$lines\\[\\$start\\] -replace '\\^##\\\\s\\+', ''\\)\\.Trim\\(\\)\\.ToLowerInvariant\\(\\);\n  \\$blocks \\+= \\[pscustomobject\\]@\\{ Index = \\$j; Key = \\$key; Lines = \\$blockLines \\}\n\\}\n\\$sorted = \\$blocks \\| Sort-Object @\\{Expression='Key'; Ascending=\\$true\\}, @\\{Expression='Index'; Ascending=\\$true\\};\n\\$out = @\\(\\);\n\\$out \\+= \\$preamble;\nforeach \\(\\$b in \\$sorted\\) \\{ \\$out \\+= \\$b\\.Lines \\}\nSet-Content -Path \\$path -Value \\$out;\n\n# quick verification of heading order\n\\$heads = Get-Content -Path \\$path \\| Where-Object \\{ \\$_ -match '\\^##\\\\s\\+' \\} \\| ForEach-Object \\{ \\(\\$_ -replace '\\^##\\\\s\\+', ''\\)\\.Trim\\(\\) \\};\n\\$bad = \\$null;\nfor \\(\\$k = 1; \\$k -lt \\$heads\\.Count; \\$k\\+\\+\\) \\{\n  if \\(\\[string\\]::Compare\\(\\$heads\\[\\$k-1\\], \\$heads\\[\\$k\\], \\$true\\) -gt 0\\) \\{ \\$bad = \"Out of order: '\\$\\(\\$heads\\[\\$k-1\\]\\)' > '\\$\\(\\$heads\\[\\$k\\]\\)'\"; break \\}\n\\}\nif \\(\\$bad\\) \\{ Write-Output \\$bad; exit 2 \\} else \\{ Write-Output \"Sorted \\$\\(\\$heads\\.Count\\) entries alphabetically\\.\" \\}\n$/": {
             "approve": true,
             "matchCommandLine": true
-        }
+        },
+        "/^powershell -Command \"\\$content = Get-Content -Raw 'd:\\\\GitHub\\\\inspirational-quotes\\\\staging\\\\VocabularyToOrganize\\.md'; \\$parts = \\$content -split '\\(\\?m\\)\\^## '; \\$header = \\$parts\\[0\\]; \\$entries = \\$parts\\[1\\.\\.\\(\\$parts\\.Count - 1\\)\\] \\| Sort-Object; \\$newContent = \\$header \\+ '## ' \\+ \\(\\$entries -join '## '\\); Set-Content -Path 'd:\\\\GitHub\\\\inspirational-quotes\\\\staging\\\\VocabularyToOrganize\\.md' -Value \\$newContent; Write-Host 'Sorted\\.'\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -Command \"\\$content = Get-Content -Raw 'd:\\\\GitHub\\\\inspirational-quotes\\\\staging\\\\VocabularyToOrganize\\.md'; \\$parts = \\$content -split '\\(\\?m\\)\\^## '; \\$header = \\$parts\\[0\\]; \\$entries = \\$parts\\[1\\.\\.\\(\\$parts\\.Count - 1\\)\\] \\| Sort-Object; \\$newContent = \\$header \\+ '## ' \\+ \\(\\$entries -join '## '\\); Set-Content -Path 'd:\\\\GitHub\\\\inspirational-quotes\\\\staging\\\\VocabularyToOrganize\\.md' -Value \\$newContent; Write-Host 'Sorted\\.'\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        ".\\staging\\doit.ps1": true,
+        ".\\staging\\dedup.ps1": true
     }
 }

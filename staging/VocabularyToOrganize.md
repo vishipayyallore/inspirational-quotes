@@ -10,6 +10,11 @@
 **Meaning**: A table used in religious ceremonies.
 **Usage**: "Offering placed on the altar."
 
+## Analogous
+
+**Meaning**: Similar to something in a particular way. Comparable.
+**Usage**: "PCA is analogous to finding the main directions in data."
+
 ## Astray
 
 **Meaning**: Away from the correct path.
@@ -35,6 +40,11 @@
 **Meaning**: A tool to drip liquid over food while cooking.
 **Usage**: "Use a baster for the turkey."
 
+## Beamed
+
+**Meaning**: Smiled widely. Also: sent out signals.
+**Usage**: "She beamed with pride." / "Data beamed from the satellite."
+
 ## Beggingly
 
 **Meaning**: In a way that pleads or begs
@@ -44,6 +54,11 @@
 
 **Meaning**: Past tense of beget = caused or brought about
 **Usage**: "I used Begot in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Bowlines
+
+**Meaning**: A strong knot used in sailing/boating.
+**Usage**: "Sailors use a bowline knot to secure ropes."
 
 ## BSE
 
@@ -70,10 +85,20 @@
 **Meaning**: Touching or stroking gently or lovingly
 **Usage**: "I used Caressing in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
 
+## Cherokee
+
+**Meaning**: A Native American tribe. Also a type of Jeep.
+**Usage**: "The Cherokee nation is one of the largest tribes in the US."
+
 ## Chuckle
 
 **Meaning**: Laugh quietly or inwardly
 **Usage**: "I used Chuckle in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Clinched
+
+**Meaning**: Secured or finalized something successfully.
+**Usage**: "We clinched the deal yesterday."
 
 ## Construe
 
@@ -89,6 +114,11 @@
 
 **Meaning**: The outer layer of an organ, like the brain's cerebral cortex
 **Usage**: "I used Cortex in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Craving
+
+**Meaning**: Strong desire/want for something.
+**Usage**: "Craving for data to make decisions."
 
 ## Credence
 
@@ -184,6 +214,11 @@
 
 **Meaning**: To destroy completely; wipe out.
 **Usage**: "We need to eradicate bugs from the code."
+
+## Fidelity
+
+**Meaning**: 1. Loyalty 2. Accuracy/Exactness
+**Usage**: "Brand fidelity" / "High fidelity audio = high quality sound"
 
 ## Flung
 
@@ -284,6 +319,11 @@
 
 **Meaning**: The floor of a fireplace, or the home as a symbol of warmth.
 **Usage**: "Gather around the hearth."
+
+## Heuristics
+
+**Meaning**: Practical problem-solving methods using experience, not perfect rules. Shortcuts to find good solutions fast. (In ML: Rules of thumb to guide search/optimization.)
+**Usage**: "We used heuristics to prioritize bugs instead of testing everything."
 
 ## Hexis
 
@@ -420,6 +460,11 @@
 **Meaning**: Containing meal; soft and dry/friable
 **Usage**: "I used Mealy in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
 
+## Meekly
+
+**Meaning**: In a quiet, gentle, submissive way. Without arguing.
+**Usage**: "She meekly accepted the feedback."
+
 ## Megaphobia
 
 **Meaning**: An extreme fear of large things
@@ -434,6 +479,11 @@
 
 **Meaning**: Extremely fast or successful, like a meteor
 **Usage**: "I used Meteoric in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Mortality
+
+**Meaning**: The rate of death. Being subject to death.
+**Usage**: "Child mortality rates have dropped."
 
 ## MTBF
 
@@ -565,6 +615,11 @@
 **Meaning**: Moved to a lower position or less important place
 **Usage**: "I used Relegated in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
 
+## Remorse
+
+**Meaning**: Deep regret for doing something wrong.
+**Usage**: "He felt remorse after lying to the team."
+
 ## Reorients
 
 **Meaning**: Changes direction or focus
@@ -695,6 +750,11 @@
 **Meaning**: Astonishing or overwhelming in size, amount, or impact.
 **Usage**: "The staggering growth came from tiny improvements compounded daily." - Emphasizes how small steps create huge outcomes.
 
+## Stern
+
+**Meaning**: 1. Serious/strict 2. Back part of a ship
+**Usage**: "The manager gave a stern warning." / "Stand at the stern of the boat."
+
 ## Stink
 
 **Meaning**: To have a strong, unpleasant smell; informally, to be extremely bad or low quality.
@@ -709,6 +769,11 @@
 
 **Meaning**: To try very hard to achieve something.
 **Usage**: "We strive for 99.99% uptime."
+
+## Stumbled
+
+**Meaning**: Tripped, or made a mistake/failed.
+**Usage**: "The startup stumbled during funding."
 
 ## Submersible
 
@@ -839,4 +904,14 @@
 
 **Meaning**: With longing or regret
 **Usage**: "I used Wistfully in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Yanked
+
+**Meaning**: Pulled suddenly and forcefully.
+**Usage**: "He yanked the cable out."
+## Yanked
+
+**Meaning**: Pulled suddenly and forcefully.
+**Usage**: "He yanked the cable out."
+
 
