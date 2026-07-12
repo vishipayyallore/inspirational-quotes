@@ -1,5 +1,11 @@
 # Words to Organize
 
+## Abject
+
+**Meaning**: Extremely bad, miserable, or hopeless. Often used for severe poverty or failure.
+**Usage**: "He lived in abject poverty."
+**Synonyms**: miserable, terrible, complete
+
 ## Aisle
 
 **Meaning**: A passage between rows of seats or shelves.
@@ -115,6 +121,12 @@
 **Meaning**: A person/company competing for a position or title
 **Usage**: "I used Contender in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
 
+## Converged
+
+**Meaning**: Came together from different directions to meet at one point. In ML/AI, it means an algorithm reached a stable solution.
+**Usage**: "The two roads converged at the bridge." / "The model converged after 50 epochs."
+**Synonyms**: merged, met, joined
+
 ## Cortex
 
 **Meaning**: The outer layer of an organ, like the brain's cerebral cortex
@@ -220,10 +232,21 @@
 **Meaning**: To destroy completely; wipe out.
 **Usage**: "We need to eradicate bugs from the code."
 
+## Fatalistic
+
+**Meaning**: Believing that all events are decided by fate and cannot be changed.
+**Usage**: "Do not be so fatalistic. You can still fix the code."
+**Synonyms**: resigned, hopeless, deterministic
+
 ## Fidelity
 
 **Meaning**: 1. Loyalty 2. Accuracy/Exactness
 **Usage**: "Brand fidelity" / "High fidelity audio = high quality sound"
+
+## Fleece
+
+**Meaning**: 1. The wool of a sheep. 2. A soft, warm fabric. 3. As a verb, to cheat someone out of money.
+**Usage**: "She wore a fleece jacket." / "Do not let them fleece you at the market."
 
 ## Flung
 
@@ -455,6 +478,11 @@
 **Meaning**: Tempted or enticed into doing something.
 **Usage**: "The ad lured customers with a 50% discount."
 
+## Mantle
+
+**Meaning**: 1. A cloak or covering. 2. A role or responsibility someone takes on. 3. In geology, the Earth layer between crust and core.
+**Usage**: "He took on the mantle of team leader."
+
 ## Maxim
 
 **Meaning**: A short, concise rule or principle for conduct; a saying.
@@ -594,6 +622,12 @@
 
 **Meaning**: To drive or push something forward with force.
 **Usage**: "Clear goals can propel ordinary effort into extraordinary results." - Shows how purpose creates forward momentum.
+
+## Propels
+
+**Meaning**: Pushes or drives something forward with force.
+**Usage**: "Curiosity propels scientists to discover new things."
+**Synonyms**: drives, launches, pushes
 
 ## Propensity
 
@@ -745,6 +779,12 @@
 **Meaning**: To sleep lightly, or to delay an alarm.
 **Usage**: "Hit snooze on the 6 AM meeting."
 
+## Sparkle
+
+**Meaning**: To shine brightly with flashes of light; also to be lively and energetic.
+**Usage**: "Her eyes sparkle when she talks about AI."
+**Synonyms**: glitter, shine, twinkle
+
 ## Spurious
 
 **Meaning**: Not genuine, authentic, or true; false but made to appear real.
@@ -879,6 +919,12 @@
 
 **Meaning**: Make a sudden, quick movement
 **Usage**: "I used Twitch in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Unanimous
+
+**Meaning**: Everyone agrees; complete agreement with no disagreement.
+**Usage**: "The committee made a unanimous decision to approve the project."
+**Synonyms**: united, agreed, collective
 
 ## Unrelenting
 

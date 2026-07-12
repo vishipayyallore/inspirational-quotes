@@ -58,6 +58,10 @@
             "matchCommandLine": true
         },
         ".\\staging\\doit.ps1": true,
-        ".\\staging\\dedup.ps1": true
+        ".\\staging\\dedup.ps1": true,
+        "/^\\$p='d:\\\\GitHub\\\\inspirational-quotes\\\\staging\\\\VocabularyToOrganize\\.md'; Select-String -Path \\$p -Pattern '\\^## ' \\| ForEach-Object \\{ \"\\{0\\}`t\\{1\\}\" -f \\$_\\.LineNumber, \\$_\\.Line\\.Trim\\(\\) \\} \\| Set-Content \"\\$env:TEMP\\\\vocab_heads\\.txt\"; Get-Content \"\\$env:TEMP\\\\vocab_heads\\.txt\" \\| Select-String -Pattern '\\^\\\\d\\+\\\\t## \\(A\\|B\\|C\\|D\\|E\\|F\\|G\\|H\\|I\\|J\\|K\\|L\\|M\\|N\\|O\\|P\\|Q\\|R\\|S\\|T\\|U\\)'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
     }
 }
