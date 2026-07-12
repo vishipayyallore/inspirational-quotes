@@ -1,11 +1,5 @@
 # Words to Organize
 
-## Abject
-
-**Meaning**: Extremely bad, miserable, or hopeless. Often used for severe poverty or failure.
-**Usage**: "He lived in abject poverty."
-**Synonyms**: miserable, terrible, complete
-
 ## Aisle
 
 **Meaning**: A passage between rows of seats or shelves.

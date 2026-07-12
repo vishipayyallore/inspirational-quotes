@@ -14,6 +14,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: To leave behind or give up completely.
 **Usage**: "Never abandon your dreams." - Always hold on to your aspirations, no matter the challenges you face.
 
+## Abject
+
+**Meaning**: Extremely bad, miserable, or hopeless. Often used for severe poverty or failure.
+**Usage**: "He lived in abject poverty." - Describes a condition of extreme hardship.
+
 ## Acculturation
 
 **Meaning**: The process of cultural and psychological change that results from the meeting and blending of different cultures.
