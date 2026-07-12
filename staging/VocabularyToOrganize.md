@@ -5,6 +5,11 @@
 **Meaning**: A passage between rows of seats or shelves.
 **Usage**: "Walk down the supermarket aisle."
 
+## Ahas
+
+**Meaning**: Plural of "aha"; moments of sudden understanding or realization.
+**Usage**: "I had three ahas while reading that research paper."
+
 ## Altar
 
 **Meaning**: A table used in religious ceremonies.
@@ -485,6 +490,16 @@
 **Meaning**: The rate of death. Being subject to death.
 **Usage**: "Child mortality rates have dropped."
 
+## MRP (Material Requirement Planning)
+
+**Meaning**: A system used to plan and control inventory, production scheduling, and procurement.
+**Usage**: "MRP tells the factory to order 500 screws for next month's production."
+
+## MRP (Maximum Retail Price)
+
+**Meaning**: The highest price at which a product can be sold in India, including all taxes.
+**Usage**: "The bottle of water has an MRP of Rs. 20, so the shop cannot charge more."
+
 ## MTBF
 
 **Meaning**: Mean Time Between Failures; a reliability metric representing the average operating time before failure.
@@ -764,6 +779,11 @@
 
 **Meaning**: Arranged in layers or groups/strata
 **Usage**: "I used Stratified in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+
+## Stringent
+
+**Meaning**: Strict, precise, and enforced rigorously.
+**Usage**: "We have stringent data privacy policies and stringent deadlines this quarter."
 
 ## Strive
 
