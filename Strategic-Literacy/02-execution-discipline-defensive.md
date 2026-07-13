@@ -89,7 +89,7 @@
 
 ---
 
-## 7. 🔥 VISIBILITY SYSTEM -- Here
+## 7. 🔥 VISIBILITY SYSTEM
 
 ### 7.1. I create visibility at all stages
 
@@ -163,7 +163,7 @@
 
 ---
 
-## 8. 🎯 IMPACT COMMUNICATION
+## 8. 🎯 IMPACT COMMUNICATION -- Here
 
 ### I communicate
 
