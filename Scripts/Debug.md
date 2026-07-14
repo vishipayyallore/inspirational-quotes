@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-07-12 18:59:45 — Added Abject in A.md — all 26 files OK
+Last verification: 2026-07-14 20:28:36 — Added Aisle in A.md — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,7 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
- 
+
+- 2026-07-14: Reasoning summary: Added Aisle to A.md after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted Aisle in strict alphabetical order between Agrestic and Akimbo; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260714-202835.txt"`. Outcome / verification: all 26 letter files OK; `A.md` -> OK (66 words); log saved at Logs/verify-20260714-202835.txt.
 - 2026-07-12: Reasoning summary: Added Abject to the main A vocabulary file using the provided meaning and a matching usage sentence to keep entry format complete. Action(s) taken: Updated EnglishLearning/Vocabulary/A.md in alphabetical order after Abandon; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260712-185945.txt"`. Outcome / verification: all 26 letter files OK; A.md -> OK (64 words); log saved at Logs/verify-20260712-185945.txt.
 - 2026-07-12: Reasoning summary: Added 8 provided 12-Jul words in staging intake content with meanings/usages (plus synonyms where supplied). Action(s) taken: Updated staging/VocabularyToOrganize.md with Abject, Converged, Fatalistic, Fleece, Mantle, Propels, Sparkle, and Unanimous; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260712-184434.txt"`. Outcome / verification: all 26 letter files OK; log saved at Logs/verify-20260712-184434.txt.
 - 2026-07-07: Reasoning summary: Cleaned up markdown formatting for documentation CI without changing vocabulary content. Action(s) taken: Ensured `EnglishLearning/Vocabulary/L.md` ends with a single trailing newline; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260707-094623.txt"`. Outcome / verification: all 26 letter files OK; log saved at Logs/verify-20260707-094623.txt.
