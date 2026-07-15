@@ -1,10 +1,5 @@
 # Words to Organize
 
-## Ahas
-
-**Meaning**: Plural of "aha"; moments of sudden understanding or realization.
-**Usage**: "I had three ahas while reading that research paper."
-
 ## Altar
 
 **Meaning**: A table used in religious ceremonies.
