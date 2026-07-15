@@ -1,10 +1,5 @@
 # Words to Organize
 
-## Aisle
-
-**Meaning**: A passage between rows of seats or shelves.
-**Usage**: "Walk down the supermarket aisle."
-
 ## Ahas
 
 **Meaning**: Plural of "aha"; moments of sudden understanding or realization.

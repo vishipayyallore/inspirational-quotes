@@ -109,6 +109,11 @@ This file contains definitions and example usage for "A" words found in the insp
 **Meaning**: Rural; rustic; characteristic of the countryside.
 **Usage**: "The agrestic charm of the village attracted many city dwellers." - The simple, rural beauty of the village appealed to those from urban areas.
 
+## Aisle
+
+**Meaning**: A passage between rows of seats or shelves.
+**Usage**: "She walked slowly down the aisle, reading each shelf label before choosing a book." - Shows how an aisle is the passageway between rows in a store or other arranged space.
+
 ## Akimbo
 
 **Meaning**: With hands on the hips and elbows turned outward; a stance expressing confidence or defiance.
