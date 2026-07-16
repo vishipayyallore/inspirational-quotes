@@ -4,153 +4,153 @@
 
 **Meaning**: A table used in religious ceremonies.
 **Usage**: "Offering placed on the altar."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: shrine, chancel table, sacred table
+**Antonyms**: secular space, profane area
 
 ## Analogous
 
 **Meaning**: Similar to something in a particular way. Comparable.
 **Usage**: "PCA is analogous to finding the main directions in data."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: similar, comparable, parallel
+**Antonyms**: different, dissimilar, unrelated
 
 ## Astray
 
 **Meaning**: Away from the correct path.
 **Usage**: "Do not go astray from the project goals."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb, adjective
+**Synonyms**: off course, misguided, lost
+**Antonyms**: on track, aligned, guided
 
 ## Balk
 
 **Meaning**: Hesitate or be unwilling to accept/do something
 **Usage**: "I used Balk in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: hesitate, resist, recoil
+**Antonyms**: accept, comply, proceed
 
 ## Ballerina
 
 **Meaning**: A female ballet dancer
 **Usage**: "I used Ballerina in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: ballet dancer, danseuse
+**Antonyms**: N/A (role noun)
 
 ## Baring
 
 **Meaning**: Revealing, uncovering, or exposing something hidden.
 **Usage**: "Baring your true goals makes accountability easier." - Shows vulnerability as a tool for commitment.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (present participle of bare)
+**Synonyms**: revealing, exposing, uncovering
+**Antonyms**: concealing, covering, hiding
 
 ## Baster
 
 **Meaning**: A tool to drip liquid over food while cooking.
 **Usage**: "Use a baster for the turkey."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: basting tool, turkey baster, bulb baster
+**Antonyms**: N/A (tool noun)
 
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
 **Usage**: "She beamed with pride." / "Data beamed from the satellite."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense of beam)
+**Synonyms**: smiled, radiated, transmitted
+**Antonyms**: frowned, glowered, concealed
 
 ## Beggingly
 
 **Meaning**: In a way that pleads or begs
 **Usage**: "I used Beggingly in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: pleadingly, imploringly, beseechingly
+**Antonyms**: assertively, confidently, demandingly
 
 ## Begot
 
 **Meaning**: Past tense of beget = caused or brought about
 **Usage**: "I used Begot in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense of beget)
+**Synonyms**: caused, produced, generated
+**Antonyms**: prevented, suppressed, halted
 
 ## Bowlines
 
 **Meaning**: A strong knot used in sailing/boating.
 **Usage**: "Sailors use a bowline knot to secure ropes."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun (plural)
+**Synonyms**: bowline knots, fixed loops, loop knots
+**Antonyms**: N/A (knot noun)
 
 ## BSE
 
 **Meaning**: Bombay Stock Exchange
 **Usage**: "I used BSE in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Proper noun (abbreviation)
+**Synonyms**: Bombay Stock Exchange, stock exchange
+**Antonyms**: N/A (institution name)
 
 ## Bucolic
 
 **Meaning**: Relating to the pleasant aspects of countryside and rural life.
 **Usage**: "He took a bucolic walk to clear his head before the big decision." - Uses nature and simplicity to restore focus.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: pastoral, rural, rustic
+**Antonyms**: urban, metropolitan, industrial
 
 ## Bunk
 
 **Meaning**: A bed, or nonsense
 **Usage**: "I used Bunk in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb (informal)
+**Synonyms**: berth, bunk bed, nonsense
+**Antonyms**: truth, fact
 
 ## Bunny Trail
 
 **Meaning**: A distraction or side issue that leads away from the main point.
 **Usage**: "Ignore the bunny trails; chase the one goal that moves the needle today." - Warns against scattered focus.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun phrase (idiomatic)
+**Synonyms**: tangent, digression, sidetrack
+**Antonyms**: focus, main line, straight path
 
 ## Caressing
 
 **Meaning**: Touching or stroking gently or lovingly
 **Usage**: "I used Caressing in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (present participle), adjective
+**Synonyms**: stroking, soothing, fondling
+**Antonyms**: striking, hitting, scratching
 
 ## Cherokee
 
 **Meaning**: A Native American tribe. Also a type of Jeep.
 **Usage**: "The Cherokee nation is one of the largest tribes in the US."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Proper noun
+**Synonyms**: Cherokee Nation
+**Antonyms**: N/A (proper noun)
 
 ## Chuckle
 
 **Meaning**: Laugh quietly or inwardly
 **Usage**: "I used Chuckle in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb, noun
+**Synonyms**: giggle, snicker, chortle
+**Antonyms**: sob, wail, weep
 
 ## Clinched
 
 **Meaning**: Secured or finalized something successfully.
 **Usage**: "We clinched the deal yesterday."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense of clinch)
+**Synonyms**: secured, finalized, sealed
+**Antonyms**: lost, missed, relinquished
 
 ## Clinging
 
@@ -164,737 +164,737 @@
 
 **Meaning**: Interpret a word or action in a particular way
 **Usage**: "I used Construe in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: interpret, infer, understand
+**Antonyms**: misconstrue, ignore, overlook
 
 ## Contender
 
 **Meaning**: A person/company competing for a position or title
 **Usage**: "I used Contender in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: competitor, challenger, aspirant
+**Antonyms**: noncontender, spectator, bystander
 
 ## Converged
 
 **Meaning**: Came together from different directions to meet at one point. In ML/AI, it means an algorithm reached a stable solution.
 **Usage**: "The two roads converged at the bridge." / "The model converged after 50 epochs."
-**Grammer**: To be added.
+**Grammer**: Verb (past tense of converge)
 **Synonyms**: merged, met, joined
-**Antonyms**: To be added.
+**Antonyms**: diverged, separated, dispersed
 
 ## Cortex
 
 **Meaning**: The outer layer of an organ, like the brain's cerebral cortex
 **Usage**: "I used Cortex in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: outer layer, cerebral cortex, rind
+**Antonyms**: core, medulla, interior
 
 ## Craving
 
 **Meaning**: Strong desire/want for something.
 **Usage**: "Craving for data to make decisions."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb (present participle)
+**Synonyms**: longing, yearning, urge
+**Antonyms**: aversion, indifference, disgust
 
 ## Credence
 
 **Meaning**: Belief that something is true
 **Usage**: "I used Credence in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: belief, trust, acceptance
+**Antonyms**: disbelief, doubt, skepticism
 
 ## Dawn
 
 **Meaning**: First light of day; also to begin to be understood
 **Usage**: "I used Dawn in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb
+**Synonyms**: daybreak, sunrise, onset
+**Antonyms**: dusk, sunset, ending
 
 ## Defy
 
 **Meaning**: Resist or refuse to obey; challenge
 **Usage**: "I used Defy in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: resist, challenge, disobey
+**Antonyms**: obey, comply, submit
 
 ## Depleted
 
 **Meaning**: Used up; greatly reduced in amount
 **Usage**: "I used Depleted in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective, verb (past participle)
+**Synonyms**: exhausted, drained, reduced
+**Antonyms**: replenished, restored, abundant
 
 ## Diabolical
 
 **Meaning**: Characteristic of the devil; extremely wicked
 **Usage**: "I used Diabolical in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: devilish, fiendish, wicked
+**Antonyms**: benevolent, angelic, virtuous
 
 ## Diligently
 
 **Meaning**: With careful and persistent effort
 **Usage**: "I used Diligently in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: carefully, industriously, assiduously
+**Antonyms**: carelessly, lazily, negligently
 
 ## Disarray
 
 **Meaning**: A state of disorder or confusion.
 **Usage**: "The data was in complete disarray."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: disorder, confusion, chaos
+**Antonyms**: order, arrangement, harmony
 
 ## Discernibly
 
 **Meaning**: In a way that can be seen, recognized, or understood clearly.
 **Usage**: "Her confidence grew discernibly with each small win." - Marks progress that is obvious and measurable.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: noticeably, perceptibly, clearly
+**Antonyms**: imperceptibly, vaguely, indistinctly
 
 ## Dissuade
 
 **Meaning**: To persuade someone not to do something.
 **Usage**: "My mentor dissuaded me from quitting the job."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: deter, discourage, disincline
+**Antonyms**: persuade, encourage, urge
 
 ## Distress
 
 **Meaning**: Extreme pain, sorrow, or danger.
 **Usage**: "The system is in distress under high load."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb
+**Synonyms**: anguish, suffering, hardship
+**Antonyms**: comfort, ease, relief
 
 ## Dominant
 
 **Meaning**: Most powerful, controlling, or prominent
 **Usage**: "I used Dominant in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: prevailing, commanding, predominant
+**Antonyms**: subordinate, minor, weak
 
 ## Dragging
 
 **Meaning**: Pulling with effort; boring or slow
 **Usage**: "I used Dragging in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (present participle), adjective
+**Synonyms**: pulling, hauling, sluggish
+**Antonyms**: lifting, accelerating, brisk
 
 ## Dusk
 
 **Meaning**: The darker stage of twilight
 **Usage**: "I used Dusk in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: twilight, sundown, nightfall
+**Antonyms**: dawn, sunrise, daybreak
 
 ## Easily
 
 **Meaning**: With little effort or difficulty
 **Usage**: "I used Easily in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: effortlessly, readily, smoothly
+**Antonyms**: arduously, difficultly, laboriously
 
 ## Elongated
 
 **Meaning**: Made longer or stretched out.
 **Usage**: "Elongated timeline for the project."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective, verb (past participle)
+**Synonyms**: lengthened, stretched, extended
+**Antonyms**: shortened, compressed, compact
 
 ## Emphatic
 
 **Meaning**: Said or done in a strong, forceful way to show importance.
 **Usage**: "The director was emphatic about meeting the deadline."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: forceful, assertive, unequivocal
+**Antonyms**: weak, tentative, ambiguous
 
 ## Empirically
 
 **Meaning**: Based on observation, experiment, or evidence rather than theory.
 **Usage**: "We validated the assumption empirically with A/B testing."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: experimentally, observationally, evidence-based
+**Antonyms**: theoretically, speculatively, hypothetically
 
 ## Envisioned
 
 **Meaning**: Imagined or pictured something as a future possibility
 **Usage**: "I used Envisioned in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense), adjective
+**Synonyms**: imagined, conceived, pictured
+**Antonyms**: ignored, overlooked, dismissed
 
 ## Eradicate
 
 **Meaning**: To destroy completely; wipe out.
 **Usage**: "We need to eradicate bugs from the code."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: eliminate, exterminate, wipe out
+**Antonyms**: establish, preserve, foster
 
 ## Fatalistic
 
 **Meaning**: Believing that all events are decided by fate and cannot be changed.
 **Usage**: "Do not be so fatalistic. You can still fix the code."
-**Grammer**: To be added.
+**Grammer**: Adjective
 **Synonyms**: resigned, hopeless, deterministic
-**Antonyms**: To be added.
+**Antonyms**: hopeful, proactive, optimistic
 
 ## Fidelity
 
 **Meaning**: 1. Loyalty 2. Accuracy/Exactness
 **Usage**: "Brand fidelity" / "High fidelity audio = high quality sound"
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: loyalty, faithfulness, accuracy
+**Antonyms**: disloyalty, infidelity, inaccuracy
 
 ## Fleece
 
 **Meaning**: 1. The wool of a sheep. 2. A soft, warm fabric. 3. As a verb, to cheat someone out of money.
 **Usage**: "She wore a fleece jacket." / "Do not let them fleece you at the market."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb
+**Synonyms**: wool, pile fabric, swindle
+**Antonyms**: honesty, fairness, reimburse
 
 ## Flung
 
 **Meaning**: Thrown or hurled forcefully; past tense of fling.
 **Usage**: "He flung himself into the work, leaving hesitation behind." - Describes total, energetic commitment.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense of fling)
+**Synonyms**: hurled, tossed, cast
+**Antonyms**: placed, set, laid
 
 ## Folly
 
 **Meaning**: Lack of good sense; a foolish act
 **Usage**: "I used Folly in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: foolishness, stupidity, imprudence
+**Antonyms**: wisdom, prudence, sense
 
 ## Forage
 
 **Meaning**: Search widely for food or provisions
 **Usage**: "I used Forage in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb, noun
+**Synonyms**: search, scavenge, rummage
+**Antonyms**: store, hoard, stockpile
 
 ## Forsake
 
 **Meaning**: Abandon or give up completely
 **Usage**: "I used Forsake in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: abandon, desert, renounce
+**Antonyms**: keep, retain, embrace
 
 ## Fortitude
 
 **Meaning**: Courage in pain or adversity
 **Usage**: "I used Fortitude in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: courage, resilience, grit
+**Antonyms**: cowardice, weakness, fearfulness
 
 ## FTO
 
 **Meaning**: Fashion Trends Online (eCommerce)
 **Usage**: "I used FTO in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Proper noun (abbreviation)
+**Synonyms**: fashion eCommerce brand, online fashion retailer
+**Antonyms**: N/A (organization name)
 
 ## Gargantuan
 
 **Meaning**: Enormous, huge
 **Usage**: "I used Gargantuan in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: gigantic, immense, colossal
+**Antonyms**: tiny, minute, small
 
 ## Genesis
 
 **Meaning**: The origin or beginning of something
 **Usage**: "I used Genesis in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: origin, beginning, inception
+**Antonyms**: end, conclusion, termination
 
 ## Gloomy
 
 **Meaning**: Dark, sad, or depressing
 **Usage**: "I used Gloomy in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: bleak, somber, dreary
+**Antonyms**: cheerful, bright, optimistic
 
 ## Gorge
 
 **Meaning**: A narrow valley between hills, or to eat greedily
 **Usage**: "I used Gorge in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb
+**Synonyms**: ravine, chasm, devour
+**Antonyms**: abstain, fast, plateau
 
 ## Gouging
 
 **Meaning**: Making a groove or hole; overcharging someone
 **Usage**: "I used Gouging in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (present participle), noun
+**Synonyms**: gashing, carving, overcharging
+**Antonyms**: smoothing, discounting, fair pricing
 
 ## Grit
 
 **Meaning**: Courage and resolve; also small loose particles of stone
 **Usage**: "I used Grit in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: courage, resolve, perseverance
+**Antonyms**: timidity, cowardice, indecision
 
 ## Groveling
 
 **Meaning**: Acting in an overly submissive way
 **Usage**: "I used Groveling in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (present participle), adjective
+**Synonyms**: cowering, fawning, kowtowing
+**Antonyms**: assertive, dignified, self-possessed
 
 ## Gutted
 
 **Meaning**: Devastated, or having had the insides removed
 **Usage**: "I used Gutted in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective, verb (past participle)
+**Synonyms**: devastated, eviscerated, emptied
+**Antonyms**: elated, fulfilled, intact
 
 ## Halo Effect
 
 **Meaning**: When one positive trait influences overall perception
 **Usage**: "I used Halo Effect in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun phrase
+**Synonyms**: cognitive bias, spillover effect, positive bias
+**Antonyms**: horn effect, neutral judgment, objective assessment
 
 ## Harried
 
 **Meaning**: Feeling strained by continual demands; harassed or worried.
 **Usage**: "A harried mind misses opportunities that a calm mind catches." - Warns that stress reduces clarity and effectiveness.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: stressed, rushed, hounded
+**Antonyms**: calm, composed, unhurried
 
 ## Harshly
 
 **Meaning**: In a severe, cruel, or unpleasantly strict manner.
 **Usage**: "Judge your work honestly, but not harshly ΓÇö critique to improve, not to punish." - Balances accountability with self-compassion.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: severely, sternly, brutally
+**Antonyms**: gently, kindly, mildly
 
 ## Haunt
 
 **Meaning**: To be persistently and disturbingly present in the mind; to recur as a memory or thought.
 **Usage**: "Don't let past failures haunt your next attempt; let lessons guide it." - Encourages learning from the past without being trapped by it.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb, noun
+**Synonyms**: trouble, torment, revisit
+**Antonyms**: comfort, reassure, soothe
 
 ## Hay
 
 **Meaning**: Dried grass used as animal feed.
 **Usage**: "The farm stored hay for winter."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: fodder, dried grass, forage
+**Antonyms**: fresh pasture, green forage
 
 ## Hearth
 
 **Meaning**: The floor of a fireplace, or the home as a symbol of warmth.
 **Usage**: "Gather around the hearth."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: fireside, fireplace, home
+**Antonyms**: outdoors, exterior
 
 ## Heuristics
 
 **Meaning**: Practical problem-solving methods using experience, not perfect rules. Shortcuts to find good solutions fast. (In ML: Rules of thumb to guide search/optimization.)
 **Usage**: "We used heuristics to prioritize bugs instead of testing everything."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun (plural)
+**Synonyms**: rules of thumb, shortcuts, practical strategies
+**Antonyms**: exact methods, exhaustive search, strict algorithms
 
 ## Hexis
 
 **Meaning**: A stable state or disposition, esp. in philosophy
 **Usage**: "I used Hexis in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: disposition, habitus, stable state
+**Antonyms**: instability, inconsistency, fluctuation
 
 ## Hunch
 
 **Meaning**: A feeling or guess based on intuition
 **Usage**: "I used Hunch in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb
+**Synonyms**: intuition, inkling, suspicion
+**Antonyms**: certainty, proof, verification
 
 ## Imminent
 
 **Meaning**: About to happen very soon
 **Usage**: "I used Imminent in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: impending, forthcoming, near
+**Antonyms**: distant, remote, unlikely
 
 ## Impeded
 
 **Meaning**: Blocked or slowed down
 **Usage**: "I used Impeded in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense), adjective
+**Synonyms**: obstructed, hindered, blocked
+**Antonyms**: facilitated, aided, expedited
 
 ## Imperceptible
 
 **Meaning**: So slight you can't notice it
 **Usage**: "I used Imperceptible in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: undetectable, subtle, indistinguishable
+**Antonyms**: perceptible, obvious, noticeable
 
 ## Implication
 
 **Meaning**: Something suggested or implied, but not stated directly
 **Usage**: "I used Implication in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: inference, suggestion, consequence
+**Antonyms**: explicit statement, certainty, direct claim
 
 ## Implosion
 
 **Meaning**: Collapsing inward violently. Opposite of explosion.
 **Usage**: "The project imploded due to poor planning."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: inward collapse, cave-in, inward burst
+**Antonyms**: explosion, expansion, outward burst
 
 ## Imputation
 
 **Meaning**: Assigning blame/value; in stats, filling in missing data
 **Usage**: "I used Imputation in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: attribution, assignment, estimation
+**Antonyms**: exoneration, vindication, omission
 
 ## Inductance
 
 **Meaning**: Property of an electrical conductor by which a change in current induces an EMF
 **Usage**: "I used Inductance in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: electrical inductance, coil property
+**Antonyms**: N/A (physical quantity)
 
 ## Inertia
 
 **Meaning**: Resistance to change in motion or state; tendency to stay the same
 **Usage**: "I used Inertia in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: sluggishness, resistance, immobility
+**Antonyms**: responsiveness, agility, momentum
 
 ## Infiltrated
 
 **Meaning**: Entered gradually and secretly
 **Usage**: "I used Infiltrated in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense)
+**Synonyms**: penetrated, entered, seeped in
+**Antonyms**: withdrew, exited, evacuated
 
 ## Intimidating
 
 **Meaning**: Frightening or overawing someone
 **Usage**: "I used Intimidating in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective, verb (present participle)
+**Synonyms**: frightening, daunting, menacing
+**Antonyms**: reassuring, comforting, encouraging
 
 ## Intuitively
 
 **Meaning**: By instinct or natural feeling, without conscious reasoning.
 **Usage**: "Experts often decide intuitively because years of practice shaped their gut sense." - Shows how intuition is trained, not random.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: instinctively, naturally, spontaneously
+**Antonyms**: analytically, deliberately, methodically
 
 ## Irrevocably
 
 **Meaning**: In a way that cannot be changed or undone
 **Usage**: "I used Irrevocably in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: irreversibly, permanently, definitively
+**Antonyms**: reversibly, temporarily, conditionally
 
 ## Jockeying
 
 **Meaning**: Maneuvering for position or advantage
 **Usage**: "I used Jockeying in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (present participle), noun
+**Synonyms**: maneuvering, vying, positioning
+**Antonyms**: yielding, conceding, retreating
 
 ## Laments
 
 **Meaning**: Expresses grief or sorrow
 **Usage**: "I used Laments in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (third-person singular), noun (plural)
+**Synonyms**: mourns, grieves, bewails
+**Antonyms**: celebrates, rejoices, praises
 
 ## Laureate
 
 **Meaning**: A person honored for achievement, like a Nobel Laureate
 **Usage**: "I used Laureate in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, adjective
+**Synonyms**: honoree, prizewinner, awardee
+**Antonyms**: unrecognized person, nonrecipient
 
 ## Lexis
 
 **Meaning**: The total set of words in a language
 **Usage**: "I used Lexis in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: vocabulary, word stock, lexicon
+**Antonyms**: N/A (linguistic system term)
 
 ## Litter
 
 **Meaning**: Trash lying around; or a group of young animals born at once
 **Usage**: "I used Litter in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb
+**Synonyms**: trash, rubbish, brood
+**Antonyms**: cleanliness, tidiness, sanitation
 
 ## Lode
 
 **Meaning**: A rich source or supply of something, originally a vein of mineral ore.
 **Usage**: "Deep work is a lode of breakthrough ideas waiting to be mined." - Frames concentrated effort as a source of value.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: vein, source, reservoir
+**Antonyms**: scarcity, shortage, depletion
 
 ## Loiter
 
 **Meaning**: To stand around with no purpose.
 **Usage**: "Do not loiter in the lobby."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: linger, idle, dawdle
+**Antonyms**: hurry, depart, proceed
 
 ## Loom
 
 **Meaning**: Appear as a large/threatening shape; seem likely to happen
 **Usage**: "I used Loom in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb, noun
+**Synonyms**: emerge, appear, impend
+**Antonyms**: recede, fade, disappear
 
 ## Lousy
 
 **Meaning**: Very poor or bad
 **Usage**: "I used Lousy in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: poor, awful, inferior
+**Antonyms**: excellent, superb, outstanding
 
 ## Lozenge
 
 **Meaning**: A medicated tablet for sore throats, or a diamond shape
 **Usage**: "I used Lozenge in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: pastille, cough drop, rhombus
+**Antonyms**: N/A (object/shape noun)
 
 ## Lured
 
 **Meaning**: Tempted or enticed into doing something.
 **Usage**: "The ad lured customers with a 50% discount."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense of lure)
+**Synonyms**: enticed, tempted, attracted
+**Antonyms**: repelled, deterred, discouraged
 
 ## Mantle
 
 **Meaning**: 1. A cloak or covering. 2. A role or responsibility someone takes on. 3. In geology, the Earth layer between crust and core.
 **Usage**: "He took on the mantle of team leader."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun, verb
+**Synonyms**: cloak, covering, responsibility
+**Antonyms**: exposure, relinquishment, abandonment
 
 ## Maxim
 
 **Meaning**: A short, concise rule or principle for conduct; a saying.
 **Usage**: "Live by the maxim: progress over perfection." - Uses a guiding phrase to direct daily choices.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: saying, aphorism, principle
+**Antonyms**: nonsense, contradiction, fallacy
 
 ## Mealy
 
 **Meaning**: Containing meal; soft and dry/friable
 **Usage**: "I used Mealy in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: starchy, powdery, crumbly
+**Antonyms**: smooth, moist, juicy
 
 ## Meekly
 
 **Meaning**: In a quiet, gentle, submissive way. Without arguing.
 **Usage**: "She meekly accepted the feedback."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adverb
+**Synonyms**: submissively, humbly, gently
+**Antonyms**: defiantly, boldly, assertively
 
 ## Megaphobia
 
 **Meaning**: An extreme fear of large things
 **Usage**: "I used Megaphobia in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: fear of large objects, macrophobia
+**Antonyms**: fearlessness, confidence, composure
 
 ## Metaphor
 
 **Meaning**: A figure of speech comparing two unlike things without using "like" or "as" to show a similarity.
 **Usage**: "Life is a metaphor ΓÇö read it well, and you'll write a better next chapter." - Uses symbolic language to create insight.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: figure of speech, analogy, symbol
+**Antonyms**: literal statement, direct expression
 
 ## Meteoric
 
 **Meaning**: Extremely fast or successful, like a meteor
 **Usage**: "I used Meteoric in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Adjective
+**Synonyms**: rapid, soaring, skyrocketing
+**Antonyms**: slow, gradual, stagnant
 
 ## Mortality
 
 **Meaning**: The rate of death. Being subject to death.
 **Usage**: "Child mortality rates have dropped."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: death rate, fatality, perishability
+**Antonyms**: immortality, longevity, survival
 
 ## MRP (Material Requirement Planning)
 
 **Meaning**: A system used to plan and control inventory, production scheduling, and procurement.
 **Usage**: "MRP tells the factory to order 500 screws for next month's production."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Proper noun (abbreviation)
+**Synonyms**: material planning system, production planning
+**Antonyms**: ad hoc planning, unplanned procurement
 
 ## MRP (Maximum Retail Price)
 
 **Meaning**: The highest price at which a product can be sold in India, including all taxes.
 **Usage**: "The bottle of water has an MRP of Rs. 20, so the shop cannot charge more."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Proper noun (abbreviation)
+**Synonyms**: list price, price ceiling, marked price
+**Antonyms**: discounted price, subsidized price
 
 ## MTBF
 
 **Meaning**: Mean Time Between Failures; a reliability metric representing the average operating time before failure.
 **Usage**: "I used MTBF in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Proper noun (abbreviation)
+**Synonyms**: average uptime, reliability interval, mean operating interval
+**Antonyms**: MTTR, downtime frequency
 
 ## Muddle
 
 **Meaning**: To bring into a disordered or confusing state; a mess.
 **Usage**: "Clarity beats speed ΓÇö rushing will only muddle your thinking." - Values clear thought over frantic action.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb, noun
+**Synonyms**: confuse, jumble, mess up
+**Antonyms**: clarify, organize, straighten
 
 ## Niche
 
 **Meaning**: A specialized segment of a market or area.
 **Usage**: "Find a niche in fintech where your team has domain strength."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: segment, specialty, corner
+**Antonyms**: mainstream, broad market, general category
 
 ## Nicked
 
 **Meaning**: Cut or damaged slightly; also British slang for stolen
 **Usage**: "I used Nicked in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense), adjective
+**Synonyms**: cut, chipped, stolen
+**Antonyms**: intact, uncut, returned
 
 ## Nudge
 
 **Meaning**: Push gently, or a slight encouragement
 **Usage**: "I used Nudge in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb, noun
+**Synonyms**: prod, prompt, encourage
+**Antonyms**: deter, discourage, restrain
 
 ## Obscured
 
 **Meaning**: Hidden, unclear, or difficult to see or understand.
 **Usage**: "Fear obscured the opportunity that patience later revealed." - Shows how emotion can hide what's actually present.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb (past tense), adjective
+**Synonyms**: hidden, veiled, blurred
+**Antonyms**: revealed, clarified, exposed
 
 ## Orchard
 
 **Meaning**: A farm where fruit trees are grown.
 **Usage**: "They visited an apple orchard during harvest season."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: grove, fruit farm, plantation
+**Antonyms**: barren land, wasteland
 
 ## Pauper
 
 **Meaning**: A very poor person; someone with no money or means.
 **Usage**: "A pauper in wealth can be rich in discipline ΓÇö choose your currency." - Redefines richness in terms of character, not cash.
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Noun
+**Synonyms**: beggar, destitute person, indigent
+**Antonyms**: wealthy person, millionaire, affluent person
 
 ## Pave
 
 **Meaning**: To cover a road or surface with material such as asphalt or concrete; also, to make future progress easier.
 **Usage**: "This project will pave the way for AI adoption."
-**Grammer**: To be added.
-**Synonyms**: To be added.
-**Antonyms**: To be added.
+**Grammer**: Verb
+**Synonyms**: surface, asphalt, prepare
+**Antonyms**: unpave, obstruct, hinder
 
 ## PCA
 
