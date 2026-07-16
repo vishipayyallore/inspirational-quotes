@@ -66,6 +66,10 @@
         "/^\\$ts = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$log = \"Logs/verify-\\$ts\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \\$log; \\$exit = \\$LASTEXITCODE; Write-Output \"VERIFY_LOG=\\$log\"; exit \\$exit$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$out = \"Logs/verify-\\$stamp\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \\$out; Write-Output \"LOG_FILE=\\$out\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
