@@ -25,11 +25,17 @@ Each vocabulary entry must follow this structure:
 
 **Meaning**: Clear, concise definition of the word.
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 ```
 
 ### Quality Guidelines
 - **Meaning**: Provide a clear, practical definition that learners can understand and use
 - **Usage**: Include a real example from quotes in the repository when possible
+- **Grammar**: Specify part of speech and form details where relevant
+- **Synonyms**: Include meaningful related words
+- **Antonyms**: Include meaningful opposite words when applicable
 - **Context**: Explain how the word is used in the specific context
 - **Clarity**: Avoid overly technical or complex explanations
 

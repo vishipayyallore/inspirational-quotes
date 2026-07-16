@@ -68,7 +68,7 @@ When reordering words:
 
 As you reorder each file:
 - Verify H2 headings remain intact
-- Ensure **Meaning** and **Usage** sections are properly formatted
+- Ensure **Meaning**, **Usage**, **Grammar**, **Synonyms**, and **Antonyms** sections are properly formatted
 - Check that quote examples and attributions are preserved
 - Confirm markdown syntax is correct
 - Maintain consistent spacing throughout

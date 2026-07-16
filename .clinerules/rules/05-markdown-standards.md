@@ -28,7 +28,7 @@ Brief explanation or context about the quote's meaning and relevance.
 ## Vocabulary Entries
 
 - Use H2 (`##`) for word names
-- Use bold formatting for section headers: **Meaning**, **Usage**
+- Use bold formatting for section headers: **Meaning**, **Usage**, **Grammar**, **Synonyms**, **Antonyms**
 - Include example sentences in quotation marks
 - Add clear explanations of usage context
 
@@ -37,8 +37,10 @@ Example format:
 ## WordName
 
 **Meaning**: Clear, concise definition of the word.
-
 **Usage**: "Example sentence from a quote." - Explanation of how the word is used in this context.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 ```
 
 ## Grammar Entries

@@ -34,6 +34,9 @@ Ensure consistent addition of new vocabulary words with proper formatting, organ
 Gather accurate information about the word:
 - **Meaning**: Clear, practical definition suitable for English learners
 - **Usage**: Find or create a quote example from the repository
+- **Grammar**: Part of speech and form details
+- **Synonyms**: Comma-separated related words
+- **Antonyms**: Comma-separated opposite words
 - **Context**: Understand how the word is used in the specific quote context
 
 ### 4. Format the Entry
@@ -43,8 +46,10 @@ Follow the standard vocabulary entry format:
 ## WordName
 
 **Meaning**: Clear, concise definition of the word.
-
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 ```
 
 Example:
@@ -52,8 +57,10 @@ Example:
 ## Ambition
 
 **Meaning**: A strong desire to achieve something, typically requiring determination and hard work.
-
 **Usage**: "Ambition is the path to success, but persistence is the vehicle that drives you there." - Shows ambition as a motivating force that requires sustained effort to achieve goals.
+**Grammar**: Noun
+**Synonyms**: aspiration, drive, determination
+**Antonyms**: apathy, indifference, aimlessness
 ```
 
 ### 5. Insert in Correct Alphabetical Position
@@ -69,6 +76,9 @@ Check that the entry follows all standards:
 - H2 heading with word name
 - **Meaning** section in bold
 - **Usage** section in bold
+- **Grammar** section in bold
+- **Synonyms** section in bold
+- **Antonyms** section in bold
 - Quote example in quotation marks
 - Clear context explanation
 - Proper punctuation and spacing
@@ -94,7 +104,7 @@ Check that the entry follows all standards:
 The new vocabulary entry should:
 - Be in the correct alphabetical position
 - Follow all formatting standards
-- Include accurate meaning and usage information
+- Include accurate meaning, usage, grammar, synonyms, and antonyms
 - Contain proper quote attribution
 - Pass vocabulary verification script
 

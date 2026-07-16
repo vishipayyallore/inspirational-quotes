@@ -10,7 +10,7 @@
 - [ ] Quotes are organized by appropriate themes/categories
 
 ### Vocabulary Definitions
-- [ ] Each entry follows the standard format (WordName, Meaning, Usage)
+- [ ] Each entry follows the standard format (WordName, Meaning, Usage, Grammar, Synonyms, Antonyms)
 - [ ] Definitions are clear, practical, and learnable
 - [ ] Usage examples come from actual quotes in the collection
 - [ ] Context explanations are provided

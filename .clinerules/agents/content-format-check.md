@@ -12,7 +12,7 @@ When invoked:
 
 2. Check vocabulary entries for proper formatting:
    - H2 headings for word names
-   - **Meaning** and **Usage** sections in bold
+   - **Meaning**, **Usage**, **Grammar**, **Synonyms**, and **Antonyms** sections in bold
    - Example sentences in quotation marks
    - Clear context explanations
 
