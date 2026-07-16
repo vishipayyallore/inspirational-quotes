@@ -95,6 +95,14 @@
 **Meaning**: Secured or finalized something successfully.
 **Usage**: "We clinched the deal yesterday."
 
+## Clinging
+
+**Meaning**: 1. Literal: Holding on tightly to something; sticking to a surface. 2. Figurative: Not wanting to let go of an idea, habit, memory, or person.
+**Usage**: "The child was clinging to her mother." / "Wet leaves were clinging to the car." / "He is still clinging to his old coding style instead of learning new frameworks." / "Do not cling to past mistakes; learn and move on."
+**Grammar**: Verb form: cling -> clinging -> clung -> clung
+**Synonyms**: holding, gripping, sticking, adhering, depending
+**Antonyms**: Letting go, Releasing, Detaching
+
 ## Construe
 
 **Meaning**: Interpret a word or action in a particular way
