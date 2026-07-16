@@ -12,6 +12,9 @@ Every word in `EnglishLearning/Vocabulary/*.md` must follow:
 
 **Meaning**: Clear, practical definition.
 **Usage**: "Example sentence from a quote." - Brief context explanation.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 ```
 
 - Words in each letter file must be in **strict alphabetical order** (case-insensitive).

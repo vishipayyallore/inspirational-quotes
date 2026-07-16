@@ -30,12 +30,12 @@ Add `-ShowMismatches` to see current vs. correct order; add `-OutFile "Logs/veri
 
 - Check the full vocabulary set before adding a new word to avoid duplicates or near-duplicate spellings.
 - Put the entry in the file that matches the word's first letter and verify the exact insertion point against neighboring words.
-- Preserve both Meaning and Usage when possible; if a field is missing, add it cleanly without rewriting unrelated content.
+- Preserve all five fields (`Meaning`, `Usage`, `Grammar`, `Synonyms`, `Antonyms`) when possible; if one is missing, add only that field cleanly without rewriting unrelated content.
 - After every vocabulary edit, run the verification script and record the result in `Logs/` and `Scripts/Debug.md`.
 
 ## Content conventions
 
-- **Vocab entries**: `## WordName` then `**Meaning**: …` then `**Usage**: "…"`.
+- **Vocab entries**: `## WordName` then `**Meaning**: …`, `**Usage**: "…"`, `**Grammar**: …`, `**Synonyms**: …`, `**Antonyms**: …`.
 - Words must be in **strict alphabetical order** within each letter file.
 - Quote formatting: blockquote (`>`) for quote text, italic (`_— Author_`) for attribution.
 - Attribution must be preserved when known.

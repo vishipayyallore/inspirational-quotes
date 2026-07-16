@@ -78,7 +78,7 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 2. **Alphabetical Organization**: ALL vocabulary words within each file MUST be in strict alphabetical order
 3. **Duplicate Check First**: Before adding a word, search the entire vocabulary folder to confirm the word does not already exist under a different file or as a near-duplicate spelling
 4. **Correct File Selection**: Place the entry in the file that matches the word's first letter, and compare the full spelling when choosing the insertion point for near-prefix words
-5. **Entry Completeness**: Each added word must have both a Meaning and a Usage line unless the user explicitly requests a partial entry
+5. **Entry Completeness**: Each added word must have `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms` lines unless the user explicitly requests a partial entry
 6. **Template Format**: Each file includes a consistent template for adding new words:
 
    ```markdown
@@ -87,6 +87,9 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 
    **Meaning**: Clear, concise definition of the word.
    **Usage**: "Quote or example sentence." - Explanation of the usage context.
+   **Grammar**: Part of speech and form details.
+   **Synonyms**: Comma-separated related words.
+   **Antonyms**: Comma-separated opposite words.
    -->
    ```
 
@@ -97,6 +100,9 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 
    **Meaning**: Clear, concise definition of the word.
    **Usage**: "Quote or example sentence." - Explanation of the usage context.
+   **Grammar**: Part of speech and form details.
+   **Synonyms**: Comma-separated related words.
+   **Antonyms**: Comma-separated opposite words.
    ```
 
 8. **File Naming**: Use single letter filenames (A.md, B.md, etc.) for vocabulary organized by first letter
@@ -123,24 +129,24 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 - Exit codes: 0 = All files OK, 2 = One or more files out of order
 - Keep `Scripts/Debug.md` under 50 lines; use it only as a quick reference with pointers to detailed logs in `Logs/`
 - If a user asks to add a word and the word already exists, update the existing entry instead of duplicating it
-- If the user provides only a meaning or only a usage, preserve what was given and add the missing field only when it can be done cleanly without changing the intended word
+- If the user provides one or more of `Meaning`, `Usage`, `Grammar`, `Synonyms`, or `Antonyms`, preserve what was given and add only missing fields when it can be done cleanly without changing the intended word
 
 ### Content Standards
 
 1. **Inspirational Quotes**: Focus on motivational, educational, and positive content
-2. **Vocabulary Definitions**: Provide clear, educational definitions with practical usage examples
+2. **Vocabulary Definitions**: Provide clear, educational definitions with practical usage examples, complete grammar metadata, and meaningful synonyms/antonyms
 3. **Learning Materials**: Structure content to support progressive English language learning
 
 ### Quality Assurance
 
 - Maintain consistent markdown formatting throughout all files
-- Ensure all vocabulary entries include both meaning and usage examples
+- Ensure all vocabulary entries include `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms`
 - Keep the master vocabulary index (`VocabularyDefinitions.md`) synchronized with individual files
 - Regular verification of alphabetical ordering is essential
 - Use markdown linting to maintain file quality (MD032, MD022, MD047, MD036)
 
 - Maintain consistent markdown formatting throughout all files
-- Ensure all vocabulary entries include both meaning and usage examples
+- Ensure all vocabulary entries include `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms`
 - Keep the master vocabulary index (`VocabularyDefinitions.md`) synchronized with individual files
 - Regular verification of alphabetical ordering is essential
 
@@ -200,7 +206,7 @@ This project serves learners of English as a second language. Ensure all content
 
 To stay aligned with the user’s goals, every study session must cover:
 
-1. **Vocabulary (≈3 minutes):** Introduce exactly one new word each day, add it to the appropriate `EnglishLearning/Vocabulary/[A-Z].md` file in strict alphabetical order, and document its meaning and usage.
+1. **Vocabulary (≈3 minutes):** Introduce exactly one new word each day, add it to the appropriate `EnglishLearning/Vocabulary/[A-Z].md` file in strict alphabetical order, and document `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms`.
 2. **Core Grammar Practice (≈6 minutes):** Use the updated `EnglishLearning/Daily/_Template.md` to drill a focused grammar concept, transforming sentences and creating an original example that applies the day’s vocabulary word.
 
 The entire routine should take no more than nine minutes. If any vocabulary file is edited, immediately run the verification script noted above and capture the command/output in `Scripts/Debug.md`.

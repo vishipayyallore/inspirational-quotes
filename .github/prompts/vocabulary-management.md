@@ -18,7 +18,7 @@ You are working with an inspirational quotes repository that includes English le
 
 - Search the entire `EnglishLearning/Vocabulary/` folder before adding a word
 - If the word already exists, update the existing entry instead of creating a duplicate
-- If the user supplies a partial entry, preserve the given text and add only the missing field(s) when that can be done cleanly
+- If the user supplies a partial entry, preserve the given text and add only missing fields among `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms` when that can be done cleanly
 
 ### 2. Verification Process
 
@@ -50,6 +50,9 @@ Each vocabulary entry follows this exact format:
 
 **Meaning**: Clear, concise definition of the word.
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 ```
 
 ### 4. Documentation Requirements

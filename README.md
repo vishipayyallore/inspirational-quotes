@@ -22,9 +22,11 @@ A curated set of reading notes and defensive learning summaries:
 
 An alphabetically organized collection of words with:
 
-- Clear definitions
-- Example usage from quotes
-- Context explanations
+- Clear definitions (`Meaning`)
+- Example usage from quotes (`Usage`)
+- Grammar metadata (`Grammar`)
+- Related words (`Synonyms`)
+- Opposite words (`Antonyms`)
 
 [Vocabulary Index](./EnglishLearning/Vocabulary/VocabularyDefinitions.md)
 

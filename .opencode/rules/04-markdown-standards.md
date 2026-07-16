@@ -7,9 +7,12 @@
 
 **Meaning**: Definition text here.
 **Usage**: "Example sentence." - Context explanation.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 ```
 
-- H2 for the word name, bold labels for meaning/usage.
+- H2 for the word name, bold labels for all five fields.
 - Keep definitions concise and beginner-friendly.
 
 ## Quote entries
