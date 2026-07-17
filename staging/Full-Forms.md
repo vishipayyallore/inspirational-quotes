@@ -28,12 +28,12 @@ A practical guide to common abbreviations used in informal digital communication
 | Full Form  | **ERP**        | Enterprise Resource Planning          | —                                        |
 | Full Form  | **FTO**        | Fashion Trends Online (eCommerce)     | —                                        |
 | Full Form  | **HIPAA**      | Health Insurance Portability and Accountability Act | —                                        |
-| Full Form  | **KPI**        | Key Performance Indicators            | —                                        |
+| Full Form  | **KPI**        | Key Performance Indicator             | —                                        |
 | Full Form  | **MTBF**       | Mean Time Between Failures            | —                                        |
-| Full Form  | **NPA**        | Non Performing Asset                  | —                                        |
+| Full Form  | **NPA**        | Non-Performing Asset                  | —                                        |
 | Full Form  | **OLS**        | Ordinary Least Squares                | —                                        |
 | Full Form  | **PCA**        | Principal Component Analysis          | —                                        |
-| Full Form  | **PI**         | Proportional Integral                 | —                                        |
+| Full Form  | **PI**         | Proportional-Integral                 | —                                        |
 | Full Form  | **PMF**        | Probability Mass Function             | —                                        |
 | Full Form  | **PPF**        | Percent Point Function                | —                                        |
 | Full Form  | **RPM**        | Remote Patient Monitoring             | —                                        |
