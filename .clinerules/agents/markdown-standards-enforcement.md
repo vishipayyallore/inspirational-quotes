@@ -17,7 +17,7 @@ When invoked:
 
 3. Validate vocabulary entry formatting:
    - H2 headings for word names
-   - Bold section headers: **Meaning**, **Usage**
+   - Bold section headers: **Meaning**, **Usage**, **Grammar**, **Synonyms**, **Antonyms**
    - Example sentences in quotation marks
    - Clear context explanations
 

@@ -7,6 +7,9 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: Clear, concise definition of the word.
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 -->
 
 ## Balance

@@ -12,6 +12,7 @@ This directory contains comprehensive prompts for managing various aspects of th
 **Key Features:**
 
 - Alphabetical ordering requirements and verification procedures
+- Five-field vocabulary schema (`Meaning`, `Usage`, `Grammar`, `Synonyms`, `Antonyms`)
 - PowerShell script usage and troubleshooting
 - File structure standards and formatting guidelines
 - Emergency recovery procedures for ordering issues
@@ -24,6 +25,7 @@ This directory contains comprehensive prompts for managing various aspects of th
 **Key Features:**
 
 - Quality criteria for inspirational quotes and vocabulary definitions
+- Vocabulary template standards including `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms`
 - Template structures and formatting requirements
 - Content integration workflows and quality assurance
 - Cultural sensitivity and educational effectiveness guidelines

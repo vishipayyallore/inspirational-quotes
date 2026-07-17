@@ -7,6 +7,9 @@ This file contains vocabulary words starting with the letter Y, along with their
 
 **Meaning**: Clear, concise definition of the word.
 **Usage**: "Quote or example sentence." - Explanation of the usage context.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 -->
 
 ## Yare

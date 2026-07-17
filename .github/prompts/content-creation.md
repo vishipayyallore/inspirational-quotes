@@ -40,6 +40,9 @@ You are working with an inspirational quotes and English learning repository tha
 
 **Meaning**: Clear, concise definition using simple language.
 **Usage**: "Example sentence or quote containing the word." - Contextual explanation of how the word is used.
+**Grammar**: Part of speech and form details.
+**Synonyms**: Comma-separated related words.
+**Antonyms**: Comma-separated opposite words.
 ```
 
 **Definition Writing Guidelines:**
@@ -137,7 +140,7 @@ You are working with an inspirational quotes and English learning repository tha
 ### After Content Integration
 
 - [ ] Vocabulary files maintain alphabetical order
-- [ ] All entries include both meaning and usage
+- [ ] All entries include Meaning, Usage, Grammar, Synonyms, and Antonyms
 - [ ] Cross-references are updated
 - [ ] Verification scripts run successfully
 - [ ] Content logged in appropriate documentation
