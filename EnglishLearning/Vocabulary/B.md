@@ -16,188 +16,302 @@ This file contains definitions and example usage for "B" words found in the insp
 
 **Meaning**: A state of equilibrium or equal distribution of weight or force.
 **Usage**: "Balance is key to a fulfilling life." - Finding harmony between different aspects of life is essential for happiness.
+**Grammar**: Noun; also a verb meaning to keep or put something in a steady position.
+**Synonyms**: Equilibrium, stability, harmony.
+**Antonyms**: Imbalance, instability, disorder.
 
 ## Balk
 
 **Meaning**: Hesitate or be unwilling to accept/do something.
 **Usage**: "Do not balk at the first sign of difficulty; challenges are where growth begins." - Encourages pushing through initial resistance to achieve progress.
+**Grammar**: Verb; base form, with past tense and past participle `balked`.
+**Synonyms**: Hesitate, resist, recoil.
+**Antonyms**: Proceed, accept, comply.
 
 ## Ballerina
 
 **Meaning**: A female ballet dancer.
 **Usage**: "Like a ballerina who masters each pose through countless rehearsals, grace in life comes from disciplined practice, not natural talent alone." - Draws a parallel between dance training and personal development.
+**Grammar**: Countable noun; plural: ballerinas.
+**Synonyms**: Ballet dancer, danseuse.
+**Antonyms**: Non-dancer.
 
 ## Balneal
 
 **Meaning**: Relating to baths or bathing; used to describe something therapeutic or suitable for bathing.
 **Usage**: "The balneal springs drew visitors seeking rest and recovery." - Refers to places known for restorative baths.
+**Grammar**: Adjective; usually used before a noun.
+**Synonyms**: Bathing, therapeutic, spa-related.
+**Antonyms**: Nontherapeutic, dry.
 
 ## Balustrade
 
 **Meaning**: A row of small columns topped by a rail, often used as a protective barrier on balconies, staircases, or terraces.
 **Usage**: "Every small habit is like a balustrade, quietly guarding your progress from slipping backward." - Uses the image of a railing to show how steady routines protect your growth.
+**Grammar**: Countable noun; plural: balustrades.
+**Synonyms**: Railing, banister, guardrail.
+**Antonyms**: Opening, gap, unguarded edge.
 
 ## Baring
 
 **Meaning**: Revealing, uncovering, or exposing something hidden.
 **Usage**: "Baring your true goals makes accountability easier." - Shows vulnerability as a tool for commitment.
+**Grammar**: Verb; present participle of `bare`; can also function as an adjective.
+**Synonyms**: Revealing, exposing, uncovering.
+**Antonyms**: Concealing, covering, hiding.
 
 ## Barnstorm
 
 **Meaning**: To travel around giving performances or speeches, especially to promote a show, product, or political campaign; to tour energetically and persuasively.
 **Usage**: "The theatre troupe would barnstorm small towns each summer, bringing lively performances to places that rarely saw live shows." - Describes traveling widely to perform or campaign and galvanize local audiences.
+**Grammar**: Verb; base form, with past tense and past participle `barnstormed`.
+**Synonyms**: Tour, campaign, promote.
+**Antonyms**: Stay, withdraw, remain inactive.
 
 ## Beacon
 
 **Meaning**: A light or fire on a hill or tower serving as a signal or warning; a source of guidance or inspiration.
 **Usage**: "Her wisdom served as a beacon during difficult times." - Someone who provides direction and hope can inspire others to find their way.
+**Grammar**: Countable noun; also a verb meaning to guide or signal.
+**Synonyms**: Signal, guide, light.
+**Antonyms**: Obscurity, confusion, misdirection.
 
 ## Beatific
 
 **Meaning**: Feeling or expressing blissful happiness; having a saintly or peaceful radiance.
 **Usage**: "A beatific smile crossed her face as she held her newborn for the first time." - Describes the pure, glowing joy that comes from moments of profound peace or love.
+**Grammar**: Adjective.
+**Synonyms**: Blissful, serene, radiant.
+**Antonyms**: Miserable, troubled, unhappy.
 
 ## Beggingly
 
 **Meaning**: In a way that pleads or begs.
 **Usage**: "She looked beggingly at her mentor, hoping for one more chance to prove herself." - Describes a look or manner that appeals earnestly for help or favor.
+**Grammar**: Adverb.
+**Synonyms**: Pleadingly, imploringly, beseechingly.
+**Antonyms**: Assertively, demandingly, confidently.
 
 ## Benevolence
 
 **Meaning**: The quality of being well-meaning and generous; kindness toward others.
 **Usage**: "Small acts of benevolence can change someone's day." - Even brief, kind actions add up and inspire those around you.
+**Grammar**: Uncountable noun.
+**Synonyms**: Kindness, generosity, goodwill.
+**Antonyms**: Cruelty, malice, selfishness.
 
 ## Benevolent
 
 **Meaning**: Well-meaning and kindly; showing goodwill and generosity.
 **Usage**: "A benevolent leader cares deeply for the wellbeing of their team." - Compassionate leadership fosters trust and loyalty.
+**Grammar**: Adjective.
+**Synonyms**: Kind, charitable, generous.
+**Antonyms**: Cruel, malicious, selfish.
 
 ## Bergschrund
 
 **Meaning**: A deep crevasse that forms where moving glacier ice pulls away from the stagnant ice or rock above it, often marking a dramatic boundary between stability and movement.
 **Usage**: "Every major change in life has a bergschrund—a scary crack between where you stand now and the moving glacier of who you are becoming; cross it carefully, but do not let it stop you." - Uses the image of a bergschrund to symbolize the daunting gap between comfort and growth.
+**Grammar**: Countable noun; plural: bergschrunds.
+**Synonyms**: Crevasse, fissure, chasm.
+**Antonyms**: Solid ground, connection, continuity.
 
-## bespoke
+## Bespoke
 
 **Meaning**: Made for a particular customer or user; custom-made.
 **Usage**: "The bespoke suit fit him perfectly." - Tailored clothing is designed to meet the specific measurements and preferences of an individual.
+**Grammar**: Adjective; often used before a noun.
+**Synonyms**: Custom-made, tailored, personalized.
+**Antonyms**: Mass-produced, standard, off-the-shelf.
 
 ## Birr
 
 **Meaning**: A whirring sound, as of something spinning or rushing through the air; also used to mean force, energy, or momentum.
 **Usage**: "She tackled every morning task with such birr that the whole team felt the energy lift." - Vigorous momentum can be contagious and drive a group forward.
+**Grammar**: Noun; chiefly British and Scottish.
+**Synonyms**: Whirr, hum, energy.
+**Antonyms**: Stillness, quiet, sluggishness.
 
 ## Bland
 
 **Meaning**: Lacking strong features or characteristics and therefore uninteresting.
 **Usage**: "A bland personality can make it difficult to connect with others." - Someone who is uninteresting may struggle to form relationships.
+**Grammar**: Adjective.
+**Synonyms**: Dull, uninteresting, insipid.
+**Antonyms**: Vivid, exciting, distinctive.
 
 ## Blatherskite
 
 **Meaning**: A person who talks at great length in a foolish, empty, or nonsensical way.
 **Usage**: "Do not mistake loud certainty for wisdom; a blatherskite can fill a room with words and still leave it empty of insight." - Warns that excessive talk without substance can distract from meaningful thought.
+**Grammar**: Countable noun; plural: blatherskites.
+**Synonyms**: Nonsense-talker, windbag, chatterbox.
+**Antonyms**: Sage, expert, thoughtful speaker.
 
 ## Bliss
 
 **Meaning**: Perfect happiness; great joy.
 **Usage**: "Follow your bliss and the universe will open doors for you." - Pursuing your true passion leads to opportunities and fulfillment.
+**Grammar**: Uncountable noun.
+**Synonyms**: Joy, happiness, ecstasy.
+**Antonyms**: Misery, sorrow, despair.
 
 ## Bon Ton
 
 **Meaning**: Sophisticated manner, style, or good breeding; observing the proper social conventions.
 **Usage**: "True bon ton is not just about style, but treating others with genuine respect and grace." - Real sophistication comes from kindness and good character, not just appearance.
+**Grammar**: Uncountable noun; a French phrase used in English.
+**Synonyms**: Elegance, refinement, sophistication.
+**Antonyms**: Vulgarity, rudeness, coarseness.
 
 ## Boondoggle
 
 **Meaning**: Work or activity that is wasteful, pointless, or needlessly complicated, often appearing busy without producing real value.
 **Usage**: "Do not let your goals dissolve into a boondoggle of endless planning; choose one clear action and make progress today." - Warns against busywork that looks productive but delays meaningful results.
+**Grammar**: Countable noun; also a verb meaning to waste time or resources.
+**Synonyms**: Busywork, waste, folly.
+**Antonyms**: Efficiency, necessity, productive work.
 
 ## Boscage
 
 **Meaning**: A mass of trees, shrubs, or foliage; a shady, wooded area.
 **Usage**: "When life feels harsh and exposed, seek a boscage of quiet habits where your strength can regrow in the shade." - Encourages finding a protected space of routine and reflection to recover.
+**Grammar**: Noun; usually uncountable.
+**Synonyms**: Woodland, grove, thicket.
+**Antonyms**: Clearing, openness, barrenness.
 
 ## Boundaries
 
 **Meaning**: A limit of a subject or sphere of activity; a dividing line.
 **Usage**: "Setting boundaries is essential for self-care." - Knowing where to draw the line in relationships and responsibilities is important for mental health.
+**Grammar**: Plural noun; singular: boundary.
+**Synonyms**: Limits, borders, restrictions.
+**Antonyms**: Freedom, openness, limitlessness.
 
 ## Boustrophedon
 
 **Meaning**: A style of writing in which alternate lines are written in opposite directions (left-to-right, then right-to-left), resembling the path of an ox plowing a field.
 **Usage**: "Sometimes progress is not a straight line but boustrophedon—alternating back and forth, yet still covering the ground steadily." - Uses the ancient writing method to illustrate non-linear but consistent advancement.
+**Grammar**: Noun; also used as an adjective before a noun.
+**Synonyms**: Alternating script, reverse writing, bidirectional writing.
+**Antonyms**: Linear writing, unidirectional writing.
 
 ## Bragging
 
 **Meaning**: Boastful or arrogant behavior; talking about one's achievements or possessions in a way that shows too much pride.
 **Usage**: "His constant bragging about his success became tiresome." - Excessive pride in one's accomplishments can alienate others.
+**Grammar**: Uncountable noun; present participle of `brag` when used as a verb.
+**Synonyms**: Boasting, showing off, crowing.
+**Antonyms**: Humility, modesty, self-effacement.
 
 ## Braird
 
 **Meaning**: Early growth or first shoots of plants; the initial stage of visible development.
 **Usage**: "Treat every new habit like braird in a field—small at first, but full of future harvest." - Early signs of progress deserve patience and care.
+**Grammar**: Noun; chiefly Scottish.
+**Synonyms**: Sprouts, shoots, seedlings.
+**Antonyms**: Withering, decay, dormancy.
 
 ## Breathe
 
 **Meaning**: To take air into the lungs and then expel it; to inhale and exhale.
 **Usage**: "Take a moment to breathe and relax." - Pausing to inhale and exhale can help reduce stress and clear your mind.
+**Grammar**: Verb; base form, with past tense and past participle `breathed`.
+**Synonyms**: Inhale, respire, exhale.
+**Antonyms**: Suffocate, choke, hold one's breath.
 
 ## Breviloquent
 
 **Meaning**: Using very few words; marked by brevity and conciseness of expression.
 **Usage**: "His breviloquent response settled the debate in seconds—proof that the right words, chosen wisely, carry more weight than many." - Illustrates that careful, concise speech can be more persuasive than lengthy argument.
+**Grammar**: Adjective.
+**Synonyms**: Concise, terse, succinct.
+**Antonyms**: Verbose, wordy, long-winded.
 
 ## Brevity
 
 **Meaning**: The quality of being brief and concise; shortness of time or expression.
 **Usage**: "Brevity is the soul of wit." - Expressing ideas in few, well-chosen words often has more impact than lengthy explanations.
+**Grammar**: Uncountable noun.
+**Synonyms**: Conciseness, terseness, succinctness.
+**Antonyms**: Verbosity, wordiness, lengthiness.
 
 ## Brindled
 
 **Meaning**: Having a streaked or mottled pattern of darker color on a lighter background (often used for animal fur).
 **Usage**: "The brindled coat of the hound showed its unique markings." - Describes a textured, striped appearance in fur or fabric.
+**Grammar**: Adjective; past participle of `brindle` when used as a verb.
+**Synonyms**: Mottled, streaked, striped.
+**Antonyms**: Solid-colored, uniform, plain.
 
 ## Brittle
 
 **Meaning**: Easily broken or damaged; fragile.
 **Usage**: "Her confidence was brittle after the criticism." - A lack of resilience can make one vulnerable to setbacks.
+**Grammar**: Adjective.
+**Synonyms**: Fragile, breakable, delicate.
+**Antonyms**: Strong, durable, resilient.
 
 ## Brumal
 
 **Meaning**: Relating to winter; wintry or characteristic of the winter season.
 **Usage**: "Even in a brumal season, keep one small habit alive each day." - Encourages steady effort during difficult or gloomy times.
+**Grammar**: Adjective.
+**Synonyms**: Wintry, icy, seasonal.
+**Antonyms**: Summery, warm, tropical.
 
 ## Brummagem
 
 **Meaning**: Showy but cheap or worthless; counterfeit or pretentious in appearance.
 **Usage**: "Do not chase brummagem success that looks impressive from a distance but collapses under honest scrutiny." - Warns against valuing flashy appearances over real substance.
+**Grammar**: Adjective; also a noun for something cheap or counterfeit.
+**Synonyms**: Tawdry, counterfeit, pretentious.
+**Antonyms**: Genuine, valuable, authentic.
 
 ## Bucolic
 
 **Meaning**: Relating to the pleasant aspects of the countryside and rural life; pastoral.
 **Usage**: "The bucolic setting offered a peaceful retreat from city life." - Rural environments can provide tranquility and simplicity that contrasts with urban stress.
+**Grammar**: Adjective; also a noun for a pastoral poem or person.
+**Synonyms**: Rural, pastoral, rustic.
+**Antonyms**: Urban, metropolitan, industrial.
 
 ## Bunk
 
 **Meaning**: A bed, or nonsense.
 **Usage**: "His excuse was pure bunk—clearly he just didn't want to try." - Describes something that is obviously false or ridiculous.
+**Grammar**: Countable noun; also a verb meaning to sleep in a bunk or leave suddenly.
+**Synonyms**: Nonsense, rubbish, foolishness.
+**Antonyms**: Truth, fact, sense.
 
 ## Bunny Trail
 
 **Meaning**: A distraction or side issue that leads away from the main point.
 **Usage**: "Ignore the bunny trails; chase the one goal that moves the needle today." - Warns against scattered focus.
+**Grammar**: Countable noun phrase; plural: bunny trails.
+**Synonyms**: Digression, tangent, distraction.
+**Antonyms**: Focus, main point, direct path.
 
 ## Buoyant
 
 **Meaning**: Able to remain afloat; cheerful, optimistic, and resilient even under pressure.
 **Usage**: "Stay buoyant in difficult times—those who keep an optimistic spirit tend to rise above challenges others sink beneath." - Uses the idea of floating to inspire resilience and a positive mindset.
+**Grammar**: Adjective.
+**Synonyms**: Cheerful, optimistic, resilient.
+**Antonyms**: Depressed, pessimistic, despondent.
 
 ## Burnout
 
 **Meaning**: Physical or mental collapse caused by overwork or stress.  
 **Usage**: "Burnout Is Not a Badge of Honor" - Exhausting yourself from overwork should not be seen as praiseworthy.
+**Grammar**: Countable and uncountable noun.
+**Synonyms**: Exhaustion, fatigue, overwork.
+**Antonyms**: Recovery, renewal, vitality.
 
 ## Bustling
 
 **Meaning**: Full of energetic and noisy activity.
 **Usage**: "The bustling market was alive with the sounds of vendors and customers." - A lively and busy environment can be invigorating.
+**Grammar**: Adjective; present participle of `bustle` when used as a verb.
+**Synonyms**: Busy, lively, vibrant.
+**Antonyms**: Quiet, calm, deserted.
