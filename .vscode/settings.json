@@ -154,6 +154,14 @@
         "/^\\$ts = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$log = \"Logs/verify-\\$ts\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \\$log; \\$code = \\$LASTEXITCODE; Write-Output \"VERIFY_LOG=\\$log\"; Write-Output \"VERIFY_EXIT=\\$code\"; exit \\$code$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^\\$targets = @\\('EnglishLearning/Vocabulary/B\\.md','EnglishLearning/Vocabulary/C\\.md'\\); foreach \\(\\$p in \\$targets\\) \\{ \\$lines = Get-Content -Path \\$p; \\$out = foreach \\(\\$line in \\$lines\\) \\{ if \\(\\$line -match '\\^\\\\\\*\\\\\\*Synonyms\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\) \\{ \\$v = \\$Matches\\[1\\]\\.Trim\\(\\); \\$v = \\$v\\.TrimEnd\\('\\.'\\); \\$items = \\$v -split ',' \\| ForEach-Object \\{ \\$_\\.Trim\\(\\) \\} \\| Where-Object \\{ \\$_ -ne '' \\} \\| ForEach-Object \\{ \\$_\\.ToLower\\(\\) \\}; \"\\*\\*Synonyms\\*\\*: \" \\+ \\(\\$items -join ', '\\) \\} elseif \\(\\$line -match '\\^\\\\\\*\\\\\\*Antonyms\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\) \\{ \\$v = \\$Matches\\[1\\]\\.Trim\\(\\); \\$v = \\$v\\.TrimEnd\\('\\.'\\); \\$items = \\$v -split ',' \\| ForEach-Object \\{ \\$_\\.Trim\\(\\) \\} \\| Where-Object \\{ \\$_ -ne '' \\} \\| ForEach-Object \\{ \\$_\\.ToLower\\(\\) \\}; \"\\*\\*Antonyms\\*\\*: \" \\+ \\(\\$items -join ', '\\) \\} else \\{ \\$line \\} \\}; Set-Content -Path \\$p -Value \\$out \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$p = 'EnglishLearning/Vocabulary/D\\.md'; \\$lines = Get-Content -Path \\$p; \\$out = foreach \\(\\$line in \\$lines\\) \\{ if \\(\\$line -match '\\^\\\\\\*\\\\\\*Synonyms\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\) \\{ \\$v = \\$Matches\\[1\\]\\.Trim\\(\\)\\.TrimEnd\\('\\.'\\); \\$items = \\$v -split ',' \\| ForEach-Object \\{ \\$_\\.Trim\\(\\) \\} \\| Where-Object \\{ \\$_ -ne '' \\} \\| ForEach-Object \\{ \\$_\\.ToLower\\(\\) \\}; \"\\*\\*Synonyms\\*\\*: \" \\+ \\(\\$items -join ', '\\) \\} elseif \\(\\$line -match '\\^\\\\\\*\\\\\\*Antonyms\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\) \\{ \\$v = \\$Matches\\[1\\]\\.Trim\\(\\)\\.TrimEnd\\('\\.'\\); \\$items = \\$v -split ',' \\| ForEach-Object \\{ \\$_\\.Trim\\(\\) \\} \\| Where-Object \\{ \\$_ -ne '' \\} \\| ForEach-Object \\{ \\$_\\.ToLower\\(\\) \\}; \"\\*\\*Antonyms\\*\\*: \" \\+ \\(\\$items -join ', '\\) \\} else \\{ \\$line \\} \\}; Set-Content -Path \\$p -Value \\$out$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
