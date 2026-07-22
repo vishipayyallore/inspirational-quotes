@@ -2,10 +2,14 @@
 
 Author: Robert Greene  
 Year: 1998  
+Reader: Viswanatha Swamy P K
+Purpose: Corporate-awareness & self-protection
 
 ## 📌 Note / Disclaimer
 
 This repository contains my personal defensive reflections while reading *The 48 Laws of Power* by Robert Greene. I am reading the original work directly from the published book. This document does NOT reproduce, summarize, paraphrase, or reinterpret the author's content. Each entry below is an independent corporate-awareness insight written in my own words, intended for professional risk literacy and strategic self-protection.
+
+> © Personal Study Notes - Not for distribution. No reproduction of original text.
 
 ---
 
