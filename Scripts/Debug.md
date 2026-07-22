@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-07-15 08:29:47 — Added Ahas in A.md — all 26 files OK
+Last verification: 2026-07-21 08:34:17 — Deep-dive consistency pass on A.md/B.md/C.md/D.md — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-07-21: Reasoning summary: Completed a deep-dive consistency pass on A-D vocabulary files to standardize list formatting while preserving content and order. Action(s) taken: Normalized Synonyms/Antonyms list style in B.md, C.md, and D.md; kept A.md unchanged after quality check; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260721-083417.txt"`. Outcome / verification: all 26 letter files OK; log saved at Logs/verify-20260721-083417.txt.
+- 2026-07-21: Reasoning summary: Completed required vocabulary entry fields in D.md without changing word order. Action(s) taken: Updated all D.md entries to include Grammar, Synonyms, and Antonyms; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260721-083155.txt"`. Outcome / verification: all 26 letter files OK; log saved at Logs/verify-20260721-083155.txt.
 - 2026-07-15: Reasoning summary: Added Ahas to A.md using the provided meaning and a matching usage sentence to keep the entry complete. Action(s) taken: Inserted Ahas in strict alphabetical order between Agrestic and Aisle; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260715-082946.txt"`. Outcome / verification: all 26 letter files OK; `A.md` -> OK (67 words); log saved at Logs/verify-20260715-082946.txt.
 - 2026-07-14: Reasoning summary: Added Aisle to A.md after confirming it was not already present in the vocabulary collection. Action(s) taken: Inserted Aisle in strict alphabetical order between Agrestic and Akimbo; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260714-202835.txt"`. Outcome / verification: all 26 letter files OK; `A.md` -> OK (66 words); log saved at Logs/verify-20260714-202835.txt.
 - 2026-07-12: Reasoning summary: Added Abject to the main A vocabulary file using the provided meaning and a matching usage sentence to keep entry format complete. Action(s) taken: Updated EnglishLearning/Vocabulary/A.md in alphabetical order after Abandon; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260712-185945.txt"`. Outcome / verification: all 26 letter files OK; A.md -> OK (64 words); log saved at Logs/verify-20260712-185945.txt.
