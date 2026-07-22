@@ -25,7 +25,7 @@ Where in my current environment could competence be misinterpreted as competitio
 
 ---
 
-## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
+## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies -- Here
 
 ### 2.1. Core Principle (Personal Interpretation)
 
@@ -189,7 +189,7 @@ Are my closest professional associations reinforcing my credibility — or subtl
 
 ---
 
-## 11. Learn to Keep People Dependent on You -- Here
+## 11. Learn to Keep People Dependent on You
 
 ### 11.1. Core Principle (Personal Interpretation)
 
