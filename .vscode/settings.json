@@ -190,6 +190,14 @@
         "/^& \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \"Logs/verify-20260723-2\\.txt\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$p='EnglishLearning/Vocabulary/E\\.md'; \\$raw=Get-Content -Raw \\$p; \\$raw=\\$raw\\.TrimEnd\\(\"`r\",\"`n\"\\) \\+ \"`r`n\"; Set-Content -NoNewline -Path \\$p -Value \\$raw; 'normalized-eof-newline'$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }

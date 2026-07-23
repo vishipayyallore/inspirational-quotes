@@ -284,4 +284,3 @@ This file contains definitions and example usage for "E" words found in the insp
 **Grammar**: Verb.
 **Synonyms**: discover, uncover, ascertain, reveal
 **Antonyms**: conceal, hide, overlook, ignore
-
