@@ -39,7 +39,7 @@ A structured set of foundational grammar and vocabulary references:
 - Alphabetized vocabulary definitions
 
 [Foundations](./EnglishLearning/Foundations/README.md)
-[Grammar Lessons](./EnglishLearning/Grammer/Day1.md)
+[Grammar Lessons](./EnglishLearning/Grammer/_Template.md)
 
 ## How to Use This Repository
 

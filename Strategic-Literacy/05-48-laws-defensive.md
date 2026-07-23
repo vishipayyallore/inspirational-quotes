@@ -2,10 +2,14 @@
 
 Author: Robert Greene  
 Year: 1998  
+Reader: Viswanatha Swamy P K
+Purpose: Corporate-awareness & self-protection
 
 ## 📌 Note / Disclaimer
 
 This repository contains my personal defensive reflections while reading *The 48 Laws of Power* by Robert Greene. I am reading the original work directly from the published book. This document does NOT reproduce, summarize, paraphrase, or reinterpret the author's content. Each entry below is an independent corporate-awareness insight written in my own words, intended for professional risk literacy and strategic self-protection.
+
+> © Personal Study Notes - Not for distribution. No reproduction of original text.
 
 ---
 
@@ -25,7 +29,7 @@ Where in my current environment could competence be misinterpreted as competitio
 
 ---
 
-## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
+## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies -- Here
 
 ### 2.1. Core Principle (Personal Interpretation)
 
@@ -189,7 +193,7 @@ Are my closest professional associations reinforcing my credibility — or subtl
 
 ---
 
-## 11. Learn to Keep People Dependent on You -- Here
+## 11. Learn to Keep People Dependent on You
 
 ### 11.1. Core Principle (Personal Interpretation)
 
