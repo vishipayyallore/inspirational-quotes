@@ -2,8 +2,7 @@
 
 **Author of Original Book:** Robert Greene  
 **Original Publication:** 1998  
-**Reader & Author of These Notes:** Viswanatha Swamy P K
-
+**Reader & Learner of These Notes:** Viswanatha Swamy P K  
 **Purpose:** Professional Awareness • Strategic Thinking • Ethical Self-Protection
 
 ---
@@ -82,7 +81,7 @@ Where in my current professional environment could visible competence be uninten
 
 ---
 
-## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
+## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies - Here
 
 ### 2.1. Core Principle (Personal Interpretation)
 

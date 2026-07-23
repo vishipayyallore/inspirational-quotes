@@ -34,7 +34,7 @@ This file contains definitions and example usage for "D" words found in the insp
 **Usage**: "She curled up on the old davenport by the window." - Refers to a classic upholstered sofa, especially in older or literary contexts.
 **Grammar**: Noun (countable).
 **Synonyms**: sofa, couch, settee, loveseat
-**Antonyms**: n/a (object noun)
+**Antonyms**: stool, bench, floor seat, standing space
 
 ## Dawn
 
@@ -90,7 +90,7 @@ This file contains definitions and example usage for "D" words found in the insp
 **Usage**: "Do not believe anyone solely by their words or demeanor." - Don't trust someone based only on how they appear to behave.
 **Grammar**: Noun (usually uncountable in general use).
 **Synonyms**: behavior, conduct, bearing, manner
-**Antonyms**: n/a (trait noun)
+**Antonyms**: rudeness, impropriety, volatility, discourtesy
 
 ## Democratic
 
