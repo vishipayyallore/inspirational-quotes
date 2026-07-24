@@ -34,14 +34,14 @@ This file contains definitions and example usage for "G" words found in the insp
 **Usage**: "Treat your learning like gastronomy: savor concepts slowly instead of splurging on information you will never digest." - Connects mindful study with mindful eating.
 **Grammar**: Noun.
 **Synonyms**: cookery, cuisine, culinary art, food culture.
-**Antonyms**: inattention to food, neglect, carelessness.
+**Antonyms**: abstinence, fasting, asceticism, austerity.
 
 ## Gazelle
 
 **Meaning**: A small, slender antelope known for speed and grace; often used as a symbol of agility.
 **Usage**: "She moved through the project like a gazelle — fast, graceful, and focused." - Metaphor for speed combined with elegance.
 **Grammar**: Noun.
-**Synonyms**: antelope, runner, symbol of grace.
+**Synonyms**: antelope, springbok, runner, leaper.
 **Antonyms**: lumbering figure, slow mover.
 
 ## Genesis
@@ -81,16 +81,16 @@ This file contains definitions and example usage for "G" words found in the insp
 **Meaning**: A narrow valley between hills, or to eat greedily.
 **Usage**: "The river carved a beautiful gorge through the mountains over thousands of years." - Describes a natural geographical feature formed by water erosion.
 **Grammar**: Noun or verb.
-**Synonyms**: canyon, ravine, chasm; devour, binge.
-**Antonyms**: plain, plateau; abstain, nibble.
+**Synonyms**: canyon, ravine, chasm, defile.
+**Antonyms**: plain, plateau, flatland, level ground.
 
 ## Gouging
 
 **Meaning**: Making a groove or hole; overcharging someone.
 **Usage**: "The company was accused of gouging customers with excessive prices during the crisis." - Shows taking unfair advantage by charging unreasonable amounts.
 **Grammar**: Verb, present participle of gouge; also a noun in some contexts.
-**Synonyms**: overcharging, exploiting, carving, scooping.
-**Antonyms**: charging fairly, protecting, smoothing, leveling.
+**Synonyms**: overcharging, exploiting, price hiking, profiteering.
+**Antonyms**: fair pricing, moderation, honesty, affordability.
 
 ## Gratitude
 
@@ -114,7 +114,7 @@ This file contains definitions and example usage for "G" words found in the insp
 **Usage**: "The ancient grimoire contained rituals and spells passed down through generations." - Referring to historical texts that preserve esoteric wisdom and magical practices.
 **Grammar**: Noun.
 **Synonyms**: spellbook, handbook, manual, tome.
-**Antonyms**: ordinary text, plain guide, nonmagical record.
+**Antonyms**: scientific handbook, rational treatise, empirical guide, factual manual.
 
 ## Grit
 
