@@ -162,6 +162,42 @@
         "/^\\$p = 'EnglishLearning/Vocabulary/D\\.md'; \\$lines = Get-Content -Path \\$p; \\$out = foreach \\(\\$line in \\$lines\\) \\{ if \\(\\$line -match '\\^\\\\\\*\\\\\\*Synonyms\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\) \\{ \\$v = \\$Matches\\[1\\]\\.Trim\\(\\)\\.TrimEnd\\('\\.'\\); \\$items = \\$v -split ',' \\| ForEach-Object \\{ \\$_\\.Trim\\(\\) \\} \\| Where-Object \\{ \\$_ -ne '' \\} \\| ForEach-Object \\{ \\$_\\.ToLower\\(\\) \\}; \"\\*\\*Synonyms\\*\\*: \" \\+ \\(\\$items -join ', '\\) \\} elseif \\(\\$line -match '\\^\\\\\\*\\\\\\*Antonyms\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\) \\{ \\$v = \\$Matches\\[1\\]\\.Trim\\(\\)\\.TrimEnd\\('\\.'\\); \\$items = \\$v -split ',' \\| ForEach-Object \\{ \\$_\\.Trim\\(\\) \\} \\| Where-Object \\{ \\$_ -ne '' \\} \\| ForEach-Object \\{ \\$_\\.ToLower\\(\\) \\}; \"\\*\\*Antonyms\\*\\*: \" \\+ \\(\\$items -join ', '\\) \\} else \\{ \\$line \\} \\}; Set-Content -Path \\$p -Value \\$out$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \"Logs/verify-20260723-1\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$path='EnglishLearning/Vocabulary/E\\.md'; \\$lines=Get-Content \\$path; \\$out=foreach\\(\\$line in \\$lines\\)\\{ if\\(\\$line -match '\\^\\\\\\*\\\\\\*\\(Synonyms\\|Antonyms\\)\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\)\\{ \\$prefix='\\*\\*'\\+\\$Matches\\[1\\]\\+'\\*\\*: '; \\$val=\\$Matches\\[2\\]\\.Trim\\(\\); if\\(\\$val\\.EndsWith\\('\\.'\\)\\)\\{ \\$val=\\$val\\.Substring\\(0,\\$val\\.Length-1\\) \\}; \\$parts=\\$val -split ',\\\\s\\*' \\| ForEach-Object \\{ if\\(\\$_\\.Length -gt 0\\)\\{ \\(\\$_\\.Substring\\(0,1\\)\\.ToLowerInvariant\\(\\)\\+\\$_\\.Substring\\(1\\)\\) \\} else \\{ \\$_ \\} \\}; \\$prefix \\+ \\(\\$parts -join ', '\\) \\} else \\{ \\$line \\} \\}; Set-Content -Path \\$path -Value \\$out$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$path='EnglishLearning/Vocabulary/E\\.md'; \\$content=Get-Content -Raw \\$path; \\$content=\\[regex\\]::Replace\\(\\$content,'\\(\\?m\\)\\^\\(\\\\\\*\\\\\\*\\(Synonyms\\|Antonyms\\)\\\\\\*\\\\\\*:\\\\s\\*\\)\\(\\.\\+\\)\\$',\\{ param\\(\\$m\\) \\$prefix=\\$m\\.Groups\\[1\\]\\.Value; \\$val=\\$m\\.Groups\\[3\\]\\.Value\\.Trim\\(\\); if\\(\\$val\\.EndsWith\\('\\.'\\)\\)\\{\\$val=\\$val\\.Substring\\(0,\\$val\\.Length-1\\)\\}; \\$parts=\\$val -split ',\\\\s\\*' \\| ForEach-Object \\{ if\\(\\$_\\.Length -gt 0\\)\\{ \\$_\\.Substring\\(0,1\\)\\.ToLowerInvariant\\(\\)\\+\\$_\\.Substring\\(1\\)\\} else \\{\\$_\\} \\}; return \\$prefix \\+ \\(\\$parts -join ', '\\) \\}\\); Set-Content -Path \\$path -Value \\$content$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$p='EnglishLearning/Vocabulary/E\\.md'; \\$o=@\\(\\); foreach\\(\\$l in Get-Content \\$p\\)\\{ if\\(\\$l -like '\\*\\*Synonyms\\*\\*:\\*' -or \\$l -like '\\*\\*Antonyms\\*\\*:\\*'\\)\\{ if\\(\\$l\\.EndsWith\\('\\.'\\)\\)\\{\\$l=\\$l\\.Substring\\(0,\\$l\\.Length-1\\)\\} \\}; \\$o\\+=\\$l \\}; Set-Content \\$p \\$o; 'done'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$p='EnglishLearning/Vocabulary/E\\.md'; \\$o=@\\(\\); foreach\\(\\$l in Get-Content \\$p\\)\\{ if\\(\\$l -match '\\^\\\\\\*\\\\\\*\\(Synonyms\\|Antonyms\\)\\\\\\*\\\\\\*:\\\\s\\*\\(\\.\\+\\)\\$'\\)\\{ \\$k=\\$Matches\\[1\\]; \\$v=\\$Matches\\[2\\]; \\$parts=@\\(\\); foreach\\(\\$t in \\(\\$v -split ',\\\\s\\*'\\)\\)\\{ if\\(\\$t\\.Length -gt 0\\)\\{ \\$parts \\+= \\(\\$t\\.Substring\\(0,1\\)\\.ToLower\\(\\)\\+\\$t\\.Substring\\(1\\)\\) \\} else \\{ \\$parts \\+= \\$t \\} \\}; \\$l='\\*\\*'\\+\\$k\\+'\\*\\*: '\\+\\(\\$parts -join ', '\\) \\}; \\$o\\+=\\$l \\}; Set-Content \\$p \\$o; 'done'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \"Logs/verify-20260723-2\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^& \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \"Logs/verify-20260723-2\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$p='EnglishLearning/Vocabulary/E\\.md'; \\$raw=Get-Content -Raw \\$p; \\$raw=\\$raw\\.TrimEnd\\(\"`r\",\"`n\"\\) \\+ \"`r`n\"; Set-Content -NoNewline -Path \\$p -Value \\$raw; 'normalized-eof-newline'$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
