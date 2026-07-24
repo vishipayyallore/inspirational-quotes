@@ -198,6 +198,10 @@
         "/^\\$p='EnglishLearning/Vocabulary/E\\.md'; \\$raw=Get-Content -Raw \\$p; \\$raw=\\$raw\\.TrimEnd\\(\"`r\",\"`n\"\\) \\+ \"`r`n\"; Set-Content -NoNewline -Path \\$p -Value \\$raw; 'normalized-eof-newline'$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$log = \"Logs/verify-\\$stamp\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \\$log; Write-Output \"LOG_PATH=\\$log\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }

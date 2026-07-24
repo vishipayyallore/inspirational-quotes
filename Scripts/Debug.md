@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file under 50 lines.
 
-Last verification: 2026-07-23 16:40:53 — Consistency pass on D.md/E.md — all 26 files OK
+Last verification: 2026-07-24 09:47:55 — G.md consistency facelift — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-07-24: Reasoning summary: Refreshed G.md to match the repository's five-field vocabulary format without changing word order. Action(s) taken: Added Grammar, Synonyms, and Antonyms to all entries in `EnglishLearning/Vocabulary/G.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260724-094753.txt"`. Outcome / verification: all 26 letter files OK; `G.md` -> OK (21 words); log saved at Logs/verify-20260724-094753.txt.
 - 2026-07-23: Reasoning summary: Completed consistency cleanup for D.md and E.md after review findings to improve educational quality and formatting uniformity. Action(s) taken: Replaced placeholder antonyms in `EnglishLearning/Vocabulary/D.md` (Davenport, Demeanor); normalized `Synonyms`/`Antonyms` list style in `EnglishLearning/Vocabulary/E.md` to lowercase without trailing periods (kept template lines unchanged); ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260723-2.txt"` (equivalent session run: `& "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260723-2.txt"`). Outcome / verification: all 26 letter files OK; `D.md` -> OK (32 words); `E.md` -> OK (34 words); log saved at Logs/verify-20260723-2.txt.
 - 2026-07-23: Reasoning summary: Standardized F.md entries to complete the five-field vocabulary format without changing word order. Action(s) taken: Added Grammar, Synonyms, and Antonyms to all entries in `EnglishLearning/Vocabulary/F.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260723-1.txt"`. Outcome / verification: all 26 letter files OK; `F.md` -> OK (33 words); log saved at Logs/verify-20260723-1.txt.
 - 2026-07-21: Reasoning summary: Completed a deep-dive consistency pass on A-D vocabulary files to standardize list formatting while preserving content and order. Action(s) taken: Normalized Synonyms/Antonyms list style in B.md, C.md, and D.md; kept A.md unchanged after quality check; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260721-083417.txt"`. Outcome / verification: all 26 letter files OK; log saved at Logs/verify-20260721-083417.txt.
