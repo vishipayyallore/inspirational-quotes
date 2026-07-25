@@ -202,6 +202,10 @@
         "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$log = \"Logs/verify-\\$stamp\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \\$log; Write-Output \"LOG_PATH=\\$log\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \"Logs/verify-20260725-000000\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
