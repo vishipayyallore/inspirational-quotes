@@ -2,6 +2,30 @@
 
 This file contains definitions and example usage for "G" words found in the inspirational quotes collection.
 
+## Quick Navigation
+
+- [Gargantuan](#gargantuan)
+- [Garnered](#garnered)
+- [Gastronomy](#gastronomy)
+- [Gazelle](#gazelle)
+- [Genesis](#genesis)
+- [Gerund](#gerund)
+- [Glisten](#glisten)
+- [Gloomy](#gloomy)
+- [Gorge](#gorge)
+- [Gouging](#gouging)
+- [Gratitude](#gratitude)
+- [Gregarious](#gregarious)
+- [Grimoire](#grimoire)
+- [Grit](#grit)
+- [Grok](#grok)
+- [Gross](#gross)
+- [Grossly](#grossly)
+- [Groveling](#groveling)
+- [Gudgeon](#gudgeon)
+- [Gumption](#gumption)
+- [Gutted](#gutted)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 

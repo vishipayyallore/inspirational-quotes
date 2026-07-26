@@ -2,6 +2,47 @@
 
 This file contains definitions and example usage for "B" words found in the inspirational quotes collection.
 
+## Quick Navigation
+
+- [Balance](#balance)
+- [Balk](#balk)
+- [Ballerina](#ballerina)
+- [Balneal](#balneal)
+- [Balustrade](#balustrade)
+- [Baring](#baring)
+- [Barnstorm](#barnstorm)
+- [Beacon](#beacon)
+- [Beatific](#beatific)
+- [Beggingly](#beggingly)
+- [Benevolence](#benevolence)
+- [Benevolent](#benevolent)
+- [Bergschrund](#bergschrund)
+- [Bespoke](#bespoke)
+- [Birr](#birr)
+- [Bland](#bland)
+- [Blatherskite](#blatherskite)
+- [Bliss](#bliss)
+- [Bon Ton](#bon-ton)
+- [Boondoggle](#boondoggle)
+- [Boscage](#boscage)
+- [Boundaries](#boundaries)
+- [Boustrophedon](#boustrophedon)
+- [Bragging](#bragging)
+- [Braird](#braird)
+- [Breathe](#breathe)
+- [Breviloquent](#breviloquent)
+- [Brevity](#brevity)
+- [Brindled](#brindled)
+- [Brittle](#brittle)
+- [Brumal](#brumal)
+- [Brummagem](#brummagem)
+- [Bucolic](#bucolic)
+- [Bunk](#bunk)
+- [Bunny Trail](#bunny-trail)
+- [Buoyant](#buoyant)
+- [Burnout](#burnout)
+- [Bustling](#bustling)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 
