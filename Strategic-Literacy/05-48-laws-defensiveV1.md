@@ -81,7 +81,7 @@ Where in my current professional environment could visible competence be uninten
 
 ---
 
-## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies -- Here
+## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
 ### 2.1. Core Principle (Personal Interpretation)
 
@@ -111,7 +111,7 @@ Am I evaluating professional relationships through observable behavior and align
 
 ---
 
-## 3. Conceal Your Intentions
+## 3. Conceal Your Intentions -- Here
 
 ### 3.1. Core Principle (Personal Interpretation)
 
