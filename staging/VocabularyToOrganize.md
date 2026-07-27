@@ -1,5 +1,13 @@
 # Words to Organize
 
+## Abject
+
+**Meaning**: Extremely bad, miserable, or hopeless; often used for failure or poverty.
+**Usage**: "He lived in abject poverty."
+**Grammar**: Adjective
+**Synonyms**: miserable, terrible, complete
+**Antonyms**: hopeful, prosperous, dignified
+
 ## Altar
 
 **Meaning**: A table used in religious ceremonies.
@@ -9,6 +17,24 @@
 **Antonyms**: secular space, profane area
 
 
+## ANOVA
+
+**Meaning**: Analysis of Variance; a statistical test used to check whether the means of three or more groups are significantly different.
+**Usage**: "Use ANOVA to check if three different teaching methods give different test scores."
+**Grammar**: Proper noun (abbreviation; statistical term)
+**Synonyms**: variance analysis, F-test framework, group mean comparison
+**Antonyms**: descriptive summary, non-comparative reporting, qualitative judgment
+
+
+## Apparel
+
+**Meaning**: Clothing, garments, or fashion items.
+**Usage**: "The startup expanded its apparel category with eco-friendly shirts and jackets."
+**Grammar**: Noun
+**Synonyms**: clothing, garments, attire
+**Antonyms**: nakedness, bareness, unclothed state
+
+
 ## Astray
 
 **Meaning**: Away from the correct path.
@@ -16,6 +42,15 @@
 **Grammar**: Adverb, adjective
 **Synonyms**: off course, misguided, lost
 **Antonyms**: on track, aligned, guided
+
+
+## Avionic
+
+**Meaning**: Related to electronic systems used in aircraft; the adjective form connected to avionics.
+**Usage**: "The flight navigation system is part of avionic technology."
+**Grammar**: Adjective
+**Synonyms**: avionics-related, aeronautical-electronics, flight-systems
+**Antonyms**: non-aerospace, non-electronic, mechanical-only
 
 
 ## Baster
@@ -61,6 +96,24 @@
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: Bombay Stock Exchange, stock exchange
 **Antonyms**: N/A (institution name)
+
+
+## CDF
+
+**Meaning**: Cumulative Distribution Function; gives the probability that a random variable is less than or equal to a specific value.
+**Usage**: "CDF(3) for dice = P(X<=3) = 3/6 = 0.5."
+**Grammar**: Proper noun (abbreviation; statistical term)
+**Synonyms**: cumulative probability function, distribution accumulator, cumulative probability curve
+**Antonyms**: PMF at a single point, point probability only, non-cumulative measure
+
+
+## CHD
+
+**Meaning**: Coronary Heart Disease; a heart condition caused by narrowing or blockage in coronary arteries and a major cause of heart attacks.
+**Usage**: "We used ML to predict CHD risk from patient data."
+**Grammar**: Proper noun (abbreviation; medical term)
+**Synonyms**: coronary artery disease, ischemic heart disease, CAD
+**Antonyms**: cardiovascular health, normal coronary function, low-risk cardiac status
 
 
 ## Cherokee
@@ -414,6 +467,15 @@
 **Antonyms**: yielding, conceding, retreating
 
 
+## KPI
+
+**Meaning**: Key Performance Indicator; a measurable value that shows how effectively a person, process, or system is performing.
+**Usage**: "Accuracy and F1-score are KPIs for our ML model."
+**Grammar**: Proper noun (abbreviation; analytics/business term)
+**Synonyms**: metric, benchmark, performance measure
+**Antonyms**: guesswork, unmeasured output, undefined target
+
+
 ## Laments
 
 **Meaning**: Expressions of grief or sorrow; also the third-person singular form of lament.
@@ -675,6 +737,15 @@
 **Antonyms**: rise, ascend, soar
 
 
+## PMF
+
+**Meaning**: Probability Mass Function; for a discrete random variable, it gives the probability of taking an exact value.
+**Usage**: "For a dice roll, PMF(3) = 1/6."
+**Grammar**: Proper noun (abbreviation; probability term)
+**Synonyms**: point probability function, discrete probability function, mass function
+**Antonyms**: CDF (cumulative probability), PDF (continuous density), interval-only estimate
+
+
 ## PPF
 
 **Meaning**: Percent Point Function; in statistics, the inverse of the cumulative distribution function (CDF) that returns the value for a given probability.
@@ -871,6 +942,15 @@
 **Grammar**: Verb (present participle)
 **Synonyms**: undermining, wrecking, obstructing
 **Antonyms**: supporting, helping, facilitating
+
+
+## Salient
+
+**Meaning**: Most noticeable, important, or prominent.
+**Usage**: "We highlighted the salient features of the data before model training."
+**Grammar**: Adjective
+**Synonyms**: notable, prominent, striking
+**Antonyms**: minor, obscure, insignificant
 
 
 ## Sapped
@@ -1168,6 +1248,15 @@
 **Grammar**: Adjective
 **Synonyms**: cliche, hackneyed, stale
 **Antonyms**: original, fresh, novel
+
+
+## TRP
+
+**Meaning**: Television Rating Point; a metric indicating how many people watched a TV program, where higher TRP suggests higher popularity.
+**Usage**: "The cricket match got the highest TRP this week."
+**Grammar**: Proper noun (abbreviation; media analytics term)
+**Synonyms**: audience rating, viewership metric, broadcast rating
+**Antonyms**: low viewership, poor ratings, audience drop
 
 
 ## Tugging
