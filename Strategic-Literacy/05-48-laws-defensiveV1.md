@@ -111,7 +111,7 @@ Am I evaluating professional relationships through observable behavior and align
 
 ---
 
-## 3. Conceal Your Intentions -- Here
+## 3. Conceal Your Intentions
 
 ### 3.1. Core Principle (Personal Interpretation)
 
@@ -143,7 +143,7 @@ Do I communicate strategic plans at the appropriate time, or do I reveal them be
 
 ---
 
-## 4. Always Say Less Than Necessary
+## 4. Always Say Less Than Necessary -- Here
 
 ### 4.1. Core Principle (Personal Interpretation)
 

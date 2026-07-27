@@ -92,7 +92,7 @@
 ## BSE
 
 **Meaning**: Bombay Stock Exchange
-**Usage**: "I used BSE in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "BSE is one of India's major stock exchanges, based in Mumbai."
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: Bombay Stock Exchange, stock exchange
 **Antonyms**: N/A (institution name)
@@ -173,7 +173,7 @@
 ## Defy
 
 **Meaning**: Resist or refuse to obey; challenge
-**Usage**: "I used Defy in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "The result seemed to defy expectations after the sudden market shift."
 **Grammar**: Verb
 **Synonyms**: resist, challenge, disobey
 **Antonyms**: obey, comply, submit
@@ -209,7 +209,7 @@
 ## Dominant
 
 **Meaning**: Most powerful, controlling, or prominent
-**Usage**: "I used Dominant in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "Transformer-based models are dominant in many current NLP tasks."
 **Grammar**: Adjective
 **Synonyms**: prevailing, commanding, predominant
 **Antonyms**: subordinate, minor, weak
@@ -290,7 +290,7 @@
 ## FTO
 
 **Meaning**: Fashion Trends Online (eCommerce)
-**Usage**: "I used FTO in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "FTO launched a new apparel collection for the festive season."
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: fashion eCommerce brand, online fashion retailer
 **Antonyms**: N/A (organization name)
@@ -299,7 +299,7 @@
 ## Halo Effect
 
 **Meaning**: When one positive trait influences overall perception
-**Usage**: "I used Halo Effect in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "In hiring, the halo effect can make one strong skill overshadow other weaknesses."
 **Grammar**: Noun phrase
 **Synonyms**: cognitive bias, spillover effect, positive bias
 **Antonyms**: horn effect, neutral judgment, objective assessment
@@ -407,7 +407,7 @@
 ## Inductance
 
 **Meaning**: Property of an electrical conductor by which a change in current induces an EMF
-**Usage**: "I used Inductance in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "The coil's inductance opposes sudden changes in current in the motor circuit."
 **Grammar**: Noun
 **Synonyms**: electrical inductance, coil property
 **Antonyms**: N/A (physical quantity)
@@ -416,7 +416,7 @@
 ## Inertia
 
 **Meaning**: Resistance to change in motion or state; tendency to stay the same
-**Usage**: "I used Inertia in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "Team inertia delayed adoption of the new deployment process."
 **Grammar**: Noun
 **Synonyms**: sluggishness, resistance, immobility
 **Antonyms**: responsiveness, agility, momentum
@@ -461,7 +461,7 @@
 ## Jockeying
 
 **Meaning**: Maneuvering for position or advantage
-**Usage**: "I used Jockeying in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "Several teams were jockeying for budget priority this quarter."
 **Grammar**: Verb (present participle), noun
 **Synonyms**: maneuvering, vying, positioning
 **Antonyms**: yielding, conceding, retreating
@@ -524,7 +524,7 @@
 ## Loom
 
 **Meaning**: Appear as a large/threatening shape; seem likely to happen
-**Usage**: "I used Loom in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "A critical deadline is looming at the end of the sprint."
 **Grammar**: Verb, noun
 **Synonyms**: emerge, appear, impend
 **Antonyms**: recede, fade, disappear
@@ -650,7 +650,7 @@
 ## MTBF
 
 **Meaning**: Mean Time Between Failures; a reliability metric representing the average operating time before failure.
-**Usage**: "I used MTBF in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "This storage node reports an MTBF of 50,000 operating hours."
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: average uptime, reliability interval, mean operating interval
 **Antonyms**: MTTR, downtime frequency
@@ -713,7 +713,7 @@
 ## PI
 
 **Meaning**: Proportional-Integral; a controller type that combines proportional (Kp) and integral (Ki) gains.
-**Usage**: "I used PI in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "A PI controller reduces steady-state error by combining Kp and Ki terms."
 **Grammar**: Proper noun (abbreviation; control systems term)
 **Synonyms**: PI controller, proportional-integral controller, feedback controller
 **Antonyms**: open-loop control, on-off control, uncontrolled system
@@ -722,7 +722,7 @@
 ## Pivotal
 
 **Meaning**: Critically important; something that something else turns on
-**Usage**: "I used Pivotal in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "The migration to cloud storage was pivotal for the product's scale."
 **Grammar**: Adjective
 **Synonyms**: crucial, critical, key
 **Antonyms**: trivial, minor, insignificant
@@ -749,7 +749,7 @@
 ## PPF
 
 **Meaning**: Percent Point Function; in statistics, the inverse of the cumulative distribution function (CDF) that returns the value for a given probability.
-**Usage**: "I used PPF in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "PPF(0.95) returns the value at the 95th percentile of the distribution."
 **Grammar**: Proper noun (abbreviation; statistical term)
 **Synonyms**: inverse CDF, quantile function, percentile function
 **Antonyms**: CDF, PDF, direct probability mapping
@@ -857,7 +857,7 @@
 ## Relegated
 
 **Meaning**: Moved to a lower position or less important place
-**Usage**: "I used Relegated in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "After poor performance, the club was relegated to the second division."
 **Grammar**: Verb (past tense), adjective
 **Synonyms**: demoted, downgraded, assigned
 **Antonyms**: promoted, elevated, advanced
@@ -911,7 +911,7 @@
 ## Rival
 
 **Meaning**: A person/company competing with another
-**Usage**: "I used Rival in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "Google and Meta are rivals in the AI platform market."
 **Grammar**: Noun, adjective
 **Synonyms**: competitor, challenger, opponent
 **Antonyms**: ally, partner, supporter
@@ -1342,8 +1342,8 @@
 
 ## Whack
 
-**Meaning**: Hit forcefully; also slang for an attempt
-**Usage**: "I used Whack in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Meaning**: Hit forcefully; in informal slang, can also mean strange or unreasonable.
+**Usage**: "He gave the ball a hard whack." / "That is a whack idea for a production system."
 **Grammar**: Verb, noun
 **Synonyms**: smack, strike, hit
 **Antonyms**: caress, miss, avoid

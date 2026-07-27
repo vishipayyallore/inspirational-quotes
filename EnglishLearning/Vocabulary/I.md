@@ -31,6 +31,7 @@ This file contains curated "I" vocabulary for English learning, with practical e
 - [Instincts](#instincts)
 - [Integrity](#integrity)
 - [Interlard](#interlard)
+- [Interpose](#interpose)
 - [Intimidate](#intimidate)
 - [Intonation](#intonation)
 - [Intrepid](#intrepid)
@@ -187,6 +188,14 @@ This file contains curated "I" vocabulary for English learning, with practical e
 
 **Meaning**: To mix or insert something at intervals among something else; to intersperse.
 **Usage**: "Interlard your practice with small challenges, and the routine stays fresh while your skills steadily grow." - Shows how spacing harder tasks among easier ones keeps progress engaging.
+
+## Interpose
+
+**Meaning**: To come between people, events, or forces in order to prevent harm, reduce conflict, or influence an outcome.
+**Usage**: "Good manners can interpose between disagreement and hostility in a tense meeting." - Highlights how tact can prevent escalation.
+**Grammar**: Verb
+**Synonyms**: intervene, mediate, step in
+**Antonyms**: withdraw, abstain, ignore
 
 ## Intimidate
 
