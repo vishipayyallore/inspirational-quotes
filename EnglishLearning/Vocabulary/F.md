@@ -2,6 +2,42 @@
 
 This file contains definitions and example usage for "F" words found in the inspirational quotes collection.
 
+## Quick Navigation
+
+- [Fabricate](#fabricate)
+- [Facetious](#facetious)
+- [Facets](#facets)
+- [Fait Accompli](#fait-accompli)
+- [Fallible](#fallible)
+- [Fantasticate](#fantasticate)
+- [Farrago](#farrago)
+- [Fathom](#fathom)
+- [Felicitate](#felicitate)
+- [Felicity](#felicity)
+- [Fervent](#fervent)
+- [Fictitious](#fictitious)
+- [Figgy pudding](#figgy-pudding)
+- [First-Foot](#first-foot)
+- [Flagship](#flagship)
+- [Flâneur](#flneur)
+- [Flattery](#flattery)
+- [Flaunt](#flaunt)
+- [Flocculent](#flocculent)
+- [Floriferous](#floriferous)
+- [Flourish](#flourish)
+- [Flummox](#flummox)
+- [Flung](#flung)
+- [Folly](#folly)
+- [Forage](#forage)
+- [Forsake](#forsake)
+- [Fortitude](#fortitude)
+- [Fragmented](#fragmented)
+- [Frenzy](#frenzy)
+- [Frontier](#frontier)
+- [Fuse](#fuse)
+- [Fusion](#fusion)
+- [Futz](#futz)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 

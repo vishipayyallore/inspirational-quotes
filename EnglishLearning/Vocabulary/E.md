@@ -2,6 +2,43 @@
 
 This file contains definitions and example usage for "E" words found in the inspirational quotes collection.
 
+## Quick Navigation
+
+- [Ebullient](#ebullient)
+- [Effulgent](#effulgent)
+- [Eidolon](#eidolon)
+- [Elated](#elated)
+- [Elevate](#elevate)
+- [Elicit](#elicit)
+- [Eloquent](#eloquent)
+- [Elucidate](#elucidate)
+- [Embeddings](#embeddings)
+- [Empowerment](#empowerment)
+- [Enduring](#enduring)
+- [Enkindle](#enkindle)
+- [Entail](#entail)
+- [Envisioned](#envisioned)
+- [Envy](#envy)
+- [Ephemeral](#ephemeral)
+- [Epiphany](#epiphany)
+- [Episodic](#episodic)
+- [Equable](#equable)
+- [Equanimity](#equanimity)
+- [Equanimous](#equanimous)
+- [Erinaceous](#erinaceous)
+- [Erstwhile](#erstwhile)
+- [Erudite](#erudite)
+- [Esemplastic](#esemplastic)
+- [Esoteric](#esoteric)
+- [Eudaimonia](#eudaimonia)
+- [Eunoia](#eunoia)
+- [Euphonious](#euphonious)
+- [Evolved](#evolved)
+- [Execution](#execution)
+- [Exemplar](#exemplar)
+- [Exhort](#exhort)
+- [Expiscate](#expiscate)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 

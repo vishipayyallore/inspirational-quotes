@@ -18,9 +18,13 @@ foreach ($file in $files) {
     $name = $file.Name
     $lines = Get-Content -LiteralPath $file.FullName
     $words = @()
+    $excludedHeadings = @('WordName', 'Quick Navigation', 'Entries')
     foreach ($line in $lines) {
-        if ($line -like '## *' -and $line -ne '## WordName') {
-            $words += $line.Substring(3).Trim()
+        if ($line -like '## *') {
+            $heading = $line.Substring(3).Trim()
+            if ($heading -notin $excludedHeadings) {
+                $words += $heading
+            }
         }
     }
     $sorted = $words | Sort-Object

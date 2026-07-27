@@ -1,6 +1,47 @@
 # I Vocabulary Definitions
 
-This file contains definitions and example usage for "I" words found in the inspirational quotes collection.
+This file contains curated "I" vocabulary for English learning, with practical examples tied to clarity, expression, and personal growth.
+
+## Quick Navigation
+
+- [Idioglossia](#idioglossia)
+- [Idoneous](#idoneous)
+- [Iiwi](#iiwi)
+- [Illustrate](#illustrate)
+- [Imbricate](#imbricate)
+- [Imbued](#imbued)
+- [Imminent](#imminent)
+- [Impetrate](#impetrate)
+- [Impetus](#impetus)
+- [Impressionistic](#impressionistic)
+- [Inciting](#inciting)
+- [Inclement](#inclement)
+- [Incommunicado](#incommunicado)
+- [Indignation](#indignation)
+- [Indistinguishable](#indistinguishable)
+- [Ineffable](#ineffable)
+- [Inevitable](#inevitable)
+- [Inevitably](#inevitably)
+- [Infomania](#infomania)
+- [Ingeminate](#ingeminate)
+- [Ingenuity](#ingenuity)
+- [Ingest](#ingest)
+- [Inhere](#inhere)
+- [Instigating](#instigating)
+- [Instincts](#instincts)
+- [Integrity](#integrity)
+- [Interlard](#interlard)
+- [Intimidate](#intimidate)
+- [Intonation](#intonation)
+- [Intrepid](#intrepid)
+- [Intricacies](#intricacies)
+- [Intricate](#intricate)
+- [Intuitive](#intuitive)
+- [Inure](#inure)
+- [Invaluable](#invaluable)
+- [Irreplaceable](#irreplaceable)
+
+### Entries
 
 <!-- Add vocabulary words here following the format:
 ## WordName
@@ -70,7 +111,7 @@ This file contains definitions and example usage for "I" words found in the insp
 ## Inclement
 
 **Meaning**: Harsh, severe, or unpleasant, especially when referring to weather conditions.
-**Usage**: "Despite the inclement weather, the team continued their outdoor training."
+**Usage**: "Despite the inclement weather, the team continued their outdoor training." - Persistence matters even when external conditions are difficult.
 
 ## Incommunicado
 

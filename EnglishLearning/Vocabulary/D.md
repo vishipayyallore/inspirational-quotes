@@ -2,6 +2,41 @@
 
 This file contains definitions and example usage for "D" words found in the inspirational quotes collection.
 
+## Quick Navigation
+
+- [Dabble](#dabble)
+- [Daunting](#daunting)
+- [Davenport](#davenport)
+- [Dawn](#dawn)
+- [Deception](#deception)
+- [Deciphering](#deciphering)
+- [Dedicated](#dedicated)
+- [Deletable](#deletable)
+- [Delineate](#delineate)
+- [Demeanor](#demeanor)
+- [Democratic](#democratic)
+- [Depleted](#depleted)
+- [Devious](#devious)
+- [Dexterity](#dexterity)
+- [Diabolical](#diabolical)
+- [Diagnosis](#diagnosis)
+- [Diaphanous](#diaphanous)
+- [Diligent](#diligent)
+- [Diligently](#diligently)
+- [Disambiguate](#disambiguate)
+- [Discern](#discern)
+- [Discernibly](#discernibly)
+- [Discernment](#discernment)
+- [Discontent](#discontent)
+- [Discontented](#discontented)
+- [Discrete](#discrete)
+- [Distillation](#distillation)
+- [Divagate](#divagate)
+- [Dragging](#dragging)
+- [Droll](#droll)
+- [Duplicity](#duplicity)
+- [Dusk](#dusk)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 
