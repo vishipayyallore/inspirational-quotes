@@ -19,7 +19,7 @@ This file contains definitions and example usage for "F" words found in the insp
 - [Figgy pudding](#figgy-pudding)
 - [First-Foot](#first-foot)
 - [Flagship](#flagship)
-- [Flâneur](#flneur)
+- [Flâneur](#flâneur)
 - [Flattery](#flattery)
 - [Flaunt](#flaunt)
 - [Flocculent](#flocculent)
