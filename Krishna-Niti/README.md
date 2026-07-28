@@ -7,5 +7,5 @@ A personal collection of timeless wisdom translated into practical principles fo
 ## Nitis
 
 1. [Smile and Survive the Court](01-smile-and-survive-the-court.md)
-2. _Coming soon..._
+2. [Don't Expect Eagles to Live by Lamb Morality](02-dont-expect-eagles-to-live-by-lamb-morality.md)
 3. _Coming soon..._

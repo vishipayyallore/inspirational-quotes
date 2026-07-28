@@ -135,9 +135,9 @@ That is the Niti.
 
 ---
 
-# 4. Three Rules for Self-Protection
+## 4. Three Rules for Self-Protection
 
-## Rule 1: Understand Prakriti — Read Patterns, Not Promises
+### Rule 1: Understand Prakriti — Read Patterns, Not Promises
 
 If someone repeatedly takes credit, manipulates information, ignores boundaries, or changes position whenever power is at stake, another speech about teamwork may not change the behaviour.
 
@@ -162,7 +162,7 @@ One incident can be a mistake.
 
 Repeated behaviour becomes evidence.
 
-### Office Rule
+#### Office Rule
 
 > **Stop moral-shaming. Start pattern-reading.**
 
@@ -176,13 +176,13 @@ Plan around:
 
 Then remain willing to update your judgement when the evidence changes.
 
-### Personal Reminder
+#### Personal Reminder
 
 > **Trust patterns more than promises — but leave room for people to prove that the pattern has changed.**
 
 ---
 
-## Rule 2: Don't Build Your Identity Around "I Am Not an Eagle"
+### Rule 2: Don't Build Your Identity Around "I Am Not an Eagle"
 
 There is another trap.
 
@@ -229,7 +229,7 @@ It teaches:
 
 > **Develop capability without surrendering character.**
 
-### Office Rule
+#### Office Rule
 
 > **Do not confuse goodness with helplessness.**
 
@@ -249,13 +249,13 @@ You do not need domination.
 
 You need the ability to protect your position when necessary.
 
-### Protection Formula
+#### Protection Formula
 
 > **Goodness + Capability + Boundaries = Strength.**
 
 ---
 
-## Rule 3: Don't Bleat Louder — Increase Your Agency
+### Rule 3: Don't Bleat Louder — Increase Your Agency
 
 Nietzsche's lambs whisper among themselves about the wickedness of the birds of prey.
 
@@ -279,7 +279,7 @@ Or you can ask:
 
 That shift is crucial.
 
-### Option 1: Build Capability
+#### Option 1: Build Capability
 
 Become harder to marginalise through:
 
@@ -291,7 +291,7 @@ Become harder to marginalise through:
 * Strategic relationships
 * Credibility
 
-### Option 2: Build Boundaries
+#### Option 2: Build Boundaries
 
 Clarify:
 
@@ -306,13 +306,13 @@ Say no when necessary.
 
 Push back professionally when necessary.
 
-### Option 3: Build Visibility
+#### Option 3: Build Visibility
 
 Create visibility before, during, and after important work.
 
 Do not wait until somebody takes credit before explaining what you contributed.
 
-### Option 4: Build Process
+#### Option 4: Build Process
 
 Use:
 
@@ -326,7 +326,7 @@ Use:
 
 When goodwill is insufficient, structure reduces ambiguity.
 
-### Option 5: Change the Environment
+#### Option 5: Change the Environment
 
 Sometimes the system itself rewards behaviour fundamentally incompatible with your values.
 
@@ -334,7 +334,7 @@ In that case, leaving is not necessarily weakness.
 
 It can be agency.
 
-### Office Rule
+#### Office Rule
 
 > **When repeated complaining changes nothing, change your capability, boundary, process, positioning, or environment.**
 
@@ -344,13 +344,13 @@ Become more capable of acting.
 
 ---
 
-# 5. Modern Example
+## 5. Modern Example
 
 Imagine a project succeeds.
 
 One highly visible colleague presents the result to leadership and receives most of the recognition.
 
-## The Reactive Response
+### The Reactive Response
 
 Two contributors privately message each other:
 
@@ -374,7 +374,7 @@ It did not provide protection.
 
 ---
 
-## The Krishna Niti Response
+### The Krishna Niti Response
 
 The same contributors act differently.
 
@@ -428,7 +428,7 @@ And Niti 01 remains intact:
 
 ---
 
-# 6. Personality Development Lesson
+## 6. Personality Development Lesson
 
 This passage raises an uncomfortable but valuable question:
 
@@ -472,7 +472,7 @@ Not an inability to act differently.
 
 ---
 
-# 7. Leadership Lesson
+## 7. Leadership Lesson
 
 A naive leader assumes:
 
@@ -520,7 +520,7 @@ It channels ambition toward productive outcomes.
 
 ---
 
-# 8. Spiritual Lesson
+## 8. Spiritual Lesson
 
 Spirituality does not require helplessness.
 
@@ -562,25 +562,25 @@ Discernment allows compassion and self-protection to coexist.
 
 ---
 
-# 9. The Third Path
+## 9. The Third Path
 
 Nietzsche gives us the lamb and the bird of prey.
 
 Krishna Niti introduces a third archetype.
 
-## The Lamb
+### The Lamb
 
 > **Good intention without sufficient agency.**
 
 The lamb may be kind, but lacks the capability or boundaries necessary to protect that kindness.
 
-## The Predator
+### The Predator
 
 > **Capability without ethical restraint.**
 
 The predator possesses agency but uses it primarily for domination, exploitation, or self-interest.
 
-## The Krishna / Yogi Path
+### The Krishna / Yogi Path
 
 > **Capability governed by discernment, discipline, and dharma.**
 
@@ -603,7 +603,7 @@ Develop enough capability, discernment, boundaries, and self-control that neithe
 
 ---
 
-# 10. The Niti
+## 10. The Niti
 
 > **Moral judgement is not protection. Discernment plus agency is.**
 
@@ -633,7 +633,7 @@ The goal is to become:
 
 ---
 
-# 11. Personal Rule
+## 11. Personal Rule
 
 > **Be good, but develop strength.**
 >
@@ -655,7 +655,7 @@ The goal is to become:
 
 ---
 
-# Core Takeaway
+## Core Takeaway
 
 Nietzsche's metaphor warns:
 
@@ -681,7 +681,7 @@ And retain your character.
 
 ---
 
-# Remember
+## Remember
 
 > **Niti 01 — Manners + Process = Protection.**
 >

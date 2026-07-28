@@ -1,6 +1,6 @@
 # Krishna Niti 01: Smile and Survive the Court
 
-### The Passage
+## The Passage
 
 > "Courts are, unquestionably, the seats of politeness and good breeding; were they not so, they would be the seats of slaughter and desolation. Those who now smile upon and embrace, would affront and stab, each other, if manners did not interpose..."
 >
@@ -73,7 +73,7 @@ That is the Niti.
 
 ## 4. Three Rules for Self-Protection
 
-## Rule 1: Muskurahat Is an Astra, Not Weakness
+### Rule 1: Muskurahat Is an Astra, Not Weakness
 
 A calm and pleasant manner can itself be a form of strength.
 
@@ -91,7 +91,7 @@ Therefore, the objective is not to "win" the emotional moment.
 
 The objective is to **retain command of yourself**.
 
-### Office Rule
+#### Office Rule
 
 > **When provoked, lower your voice, slow your response, and remain composed.**
 
@@ -101,7 +101,7 @@ The person who maintains composure retains more options.
 
 ---
 
-## Rule 2: Vani Ka Anushasan — Discipline of Speech
+### Rule 2: Vani Ka Anushasan — Discipline of Speech
 
 The Bhagavad Gita 17.15 describes disciplined speech using the expression:
 
@@ -131,7 +131,7 @@ Consider:
 
 Instead of attacking the person, address the **issue, decision, evidence, or process**.
 
-### Office Rule
+#### Office Rule
 
 > **Tell the truth without adding unnecessary hostility.**
 
@@ -143,7 +143,7 @@ No unnecessary enemies.
 
 ---
 
-## Rule 3: Prevent the Slaughter Before It Starts
+### Rule 3: Prevent the Slaughter Before It Starts
 
 Chesterfield's key word is **interpose**.
 
@@ -169,11 +169,11 @@ Written decisions, clear ownership, meeting notes, explicit priorities, and stak
 
 Escalation mechanisms such as management or HR should be used deliberately when the situation genuinely warrants them — not as the first response to ordinary disagreement.
 
-### Office Rule
+#### Office Rule
 
 > **Do not wait for conflict to become personal. Introduce clarity and process early.**
 
-### Protection Formula
+#### Protection Formula
 
 > **Manners + Process = Protection**
 
