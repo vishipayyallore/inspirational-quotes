@@ -18,12 +18,12 @@ The same people who smile, shake hands, and speak respectfully may have competin
 
 The modern equivalent of the royal court can be:
 
-* Corporate offices
-* Leadership teams
-* Politics
-* Professional networks
-* Social circles
-* Any environment where **power and ambition intersect**
+- Corporate offices
+- Leadership teams
+- Politics
+- Professional networks
+- Social circles
+- Any environment where **power and ambition intersect**
 
 The deeper lesson is:
 
@@ -35,11 +35,11 @@ They allow people with competing interests to coexist, negotiate, disagree, and 
 
 ## 2. Key Words
 
-* **Courts** — Royal courts in Chesterfield's time. In modern life: workplaces, politics, leadership circles, and other environments involving power and influence.
-* **Good breeding** — Good upbringing, refinement, etiquette, and socially disciplined behaviour.
-* **Seats of slaughter and desolation** — Places that could descend into destruction and hostility.
-* **Affront** — To insult or offend someone openly.
-* **Interpose** — To come between two things and prevent or moderate what might otherwise happen.
+- **Courts** — Royal courts in Chesterfield's time. In modern life: workplaces, politics, leadership circles, and other environments involving power and influence.
+- **Good breeding** — Good upbringing, refinement, etiquette, and socially disciplined behaviour.
+- **Seats of slaughter and desolation** — Places that could descend into destruction and hostility.
+- **Affront** — To insult or offend someone openly.
+- **Interpose** — To come between two things and prevent or moderate what might otherwise happen.
 
 ---
 
@@ -81,11 +81,11 @@ When someone provokes you, they may consciously or unconsciously be inviting you
 
 Once you lose emotional control, you may:
 
-* Say something unnecessary
-* Reveal what you really think
-* Make accusations you cannot substantiate
-* Damage an important relationship
-* Give others material that can later be used against you
+- Say something unnecessary
+- Reveal what you really think
+- Make accusations you cannot substantiate
+- Damage an important relationship
+- Give others material that can later be used against you
 
 Therefore, the objective is not to "win" the emotional moment.
 
@@ -217,10 +217,10 @@ Soft skills are not "soft" in their consequences.
 
 Tone, listening, emotional regulation, diplomacy, and disciplined speech determine whether your technical competence creates:
 
-* Trust or resistance
-* Allies or adversaries
-* Influence or isolation
-* Cooperation or unnecessary conflict
+- Trust or resistance
+- Allies or adversaries
+- Influence or isolation
+- Cooperation or unnecessary conflict
 
 Technical strength without interpersonal discipline can create avoidable enemies.
 
@@ -264,12 +264,12 @@ Anyone can remain polite when everything is going their way.
 
 The real test comes when:
 
-* Ego is challenged
-* Someone insults you
-* Someone receives credit you wanted
-* Someone misunderstands you
-* Someone behaves unfairly
-* You possess the power to retaliate
+- Ego is challenged
+- Someone insults you
+- Someone receives credit you wanted
+- Someone misunderstands you
+- Someone behaves unfairly
+- You possess the power to retaliate
 
 The disciplined person asks:
 

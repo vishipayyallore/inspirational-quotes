@@ -49,202 +49,260 @@ Questions intended to encourage self-awareness and continuous improvement.
 
 ---
 
-## 1. Never Outshine the Master
+# 1. Never Outshine the Master
 
 ### 1.1. Core Principle (Personal Interpretation)
 
-In hierarchical environments, visible superiority can unintentionally threaten authority. Even when intentions are positive, exceptional performance may be interpreted as competition rather than contribution.
+People naturally compare competence, influence, and status. In hierarchical organizations, exceptional performance can sometimes be perceived as a challenge to authority rather than as a valuable contribution.
+
+Success depends not only on what you achieve, but also on how others experience your success.
 
 ### 1.2. Defensive Insight
 
-Professional success depends not only on competence but also on how competence is perceived.
+Professional excellence should strengthen the organization, not threaten relationships.
 
-Present achievements in ways that reinforce team objectives and leadership success. Allow others to feel strengthened rather than overshadowed by your contributions.
-
-Influence grows more sustainably when others feel respected instead of challenged.
+Present achievements in ways that reinforce leadership objectives, recognize team contributions, and demonstrate alignment with broader business goals. When people feel respected rather than overshadowed, trust and influence grow more naturally.
 
 ### 1.3. Practical Application
 
-When presenting successful work, acknowledge the team's contribution and the strategic direction provided by leadership.
+When presenting a successful project or initiative:
 
-Frame achievements as shared organizational progress instead of individual accomplishment. This encourages collaboration while reducing unnecessary political resistance.
+- Begin with the business outcome.
+- Acknowledge the contributions of the team.
+- Recognize leadership support where appropriate.
+- Explain your role factually without exaggeration.
+
+This approach builds credibility while minimizing unnecessary political resistance.
 
 ### 1.4. Misapplication Risk
 
-Excessive restraint can unintentionally suppress innovation or limit career growth.
+Suppressing your capabilities to avoid making others uncomfortable ultimately limits both personal growth and organizational value.
 
-Protecting relationships should never require hiding competence or accepting mediocrity. The objective is respectful visibility—not self-limitation.
+The objective is not to hide excellence, but to communicate it with humility, maturity, and respect.
 
-### 1.5. Reflection Prompt
+### 1.5. Key Takeaway
 
-Where in my current professional environment could visible competence be unintentionally perceived as competition?
+Professional influence grows when competence is combined with emotional intelligence and organizational awareness.
+
+### 1.6. Reflection Prompt
+
+Where in my current professional environment could visible competence be unintentionally interpreted as competition?
 
 ---
 
-## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
+# 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
 
 ### 2.1. Core Principle (Personal Interpretation)
 
-Professional relationships are influenced more by incentives than emotions. Alignment today does not guarantee alignment tomorrow.
+Professional relationships are shaped more by incentives, responsibilities, and shared objectives than by personal friendships. Alignment can change as organizational priorities evolve.
 
 ### 2.2. Defensive Insight
 
-Maintain professional objectivity regardless of personal relationships.
+Build trust through consistent behaviour rather than familiarity.
 
-Build trust gradually through observed behavior, consistency, and shared outcomes rather than familiarity alone. Respectful relationships with those who disagree with you often provide valuable perspectives and reduce blind spots.
+Maintain professional respect across the organization, including with people who challenge your ideas. Constructive disagreement often improves decision quality and reduces blind spots.
+
+Diversified professional relationships create resilience during organizational change.
 
 ### 2.3. Practical Application
 
-Collaborate across teams instead of relying exclusively on familiar colleagues.
+- Collaborate beyond your immediate circle.
+- Build relationships across departments.
+- Separate professional decisions from personal preferences.
+- Treat disagreement as an opportunity to improve thinking rather than a personal conflict.
 
-Maintain professional relationships even after disagreements. Healthy professional diversity strengthens resilience during organizational changes.
+A broad network provides stability when teams, managers, or priorities change.
 
 ### 2.4. Misapplication Risk
 
-Viewing every relationship through suspicion damages trust and collaboration.
+Viewing every relationship with suspicion creates unnecessary distance and weakens collaboration.
 
-Professional caution should never become cynicism. Trust should be earned thoughtfully—not withheld indefinitely.
+Healthy professional skepticism should never become chronic distrust.
 
-### 2.5. Reflection Prompt
+Trust should be earned thoughtfully, maintained consistently, and reviewed objectively.
 
-Am I evaluating professional relationships through observable behavior and aligned incentives, or relying primarily on familiarity?
+### 2.5. Key Takeaway
+
+Respect everyone, trust gradually, and rely on observed behaviour rather than assumptions.
+
+### 2.6. Reflection Prompt
+
+Am I building relationships based on demonstrated character and aligned incentives, or primarily on familiarity?
 
 ---
 
-## 3. Conceal Your Intentions
+# 3. Conceal Your Intentions
 
 ### 3.1. Core Principle (Personal Interpretation)
 
-Premature disclosure of strategy can reduce flexibility and expose plans to unnecessary interference.
+Ideas are often most vulnerable before they are fully developed. Sharing plans too early may invite unnecessary criticism, interference, or misunderstanding.
 
 ### 3.2. Defensive Insight
 
-Communicate with appropriate timing.
+Communicate with strategic timing.
 
-Share objectives openly once alignment exists, but avoid exposing incomplete strategies before they are sufficiently validated or supported.
+Share goals openly once alignment exists, but avoid exposing incomplete thinking before sufficient analysis, validation, and stakeholder support have been established.
 
-Strategic patience often protects execution.
+Well-timed communication protects execution.
 
 ### 3.3. Practical Application
 
-When designing new initiatives, discuss desired business outcomes first.
+When proposing a new initiative:
 
-Delay detailed implementation discussions until stakeholders are aligned on objectives and governance has been established.
+- Start with the business problem.
+- Gain agreement on desired outcomes.
+- Validate assumptions with key stakeholders.
+- Share implementation details only after strategic alignment has been achieved.
+
+This sequence encourages collaboration while protecting the quality of the solution.
 
 ### 3.4. Misapplication Risk
 
-Excessive secrecy damages trust and encourages speculation.
+Excessive secrecy creates confusion, reduces trust, and weakens collaboration.
 
-Transparency remains essential for collaboration. The objective is thoughtful timing—not withholding information unnecessarily.
+Strategic discretion should never become habitual withholding of information.
 
-### 3.5. Reflection Prompt
+Transparency remains essential once appropriate timing has been reached.
 
-Do I communicate strategic plans at the appropriate time, or do I reveal them before sufficient alignment exists?
+### 3.5. Key Takeaway
+
+The effectiveness of communication depends not only on what is shared, but also on when it is shared.
+
+### 3.6. Reflection Prompt
+
+Do I communicate ideas at the right stage of development, or do I expose them before they are ready?
 
 ---
 
-## 4. Always Say Less Than Necessary -- Here
+# 4. Always Say Less Than Necessary
 
 ### 4.1. Core Principle (Personal Interpretation)
 
-Clear and concise communication often carries greater influence than excessive explanation.
+Clear, focused communication usually creates greater influence than lengthy explanation.
+
+People remember clarity more than complexity.
 
 ### 4.2. Defensive Insight
 
 Speak deliberately.
 
-Over-explaining may unintentionally weaken authority, create confusion, or invite unnecessary debate.
-
-Precision demonstrates confidence.
+Unnecessary explanation often creates confusion, weakens authority, and invites avoidable debate. Communicating with precision demonstrates confidence and respect for the audience's time.
 
 ### 4.3. Practical Application
 
-During executive meetings, answer questions directly before providing supporting detail.
+Before responding:
 
-Tailor communication to the audience's needs instead of sharing everything you know.
+- Identify the primary question.
+- Answer it directly.
+- Provide supporting information only when it improves understanding.
+- Stop once the objective has been achieved.
+
+Executive communication values clarity over completeness.
 
 ### 4.4. Misapplication Risk
 
-Excessive brevity can create ambiguity and misunderstandings.
+Excessive brevity may leave stakeholders without sufficient context to make informed decisions.
 
-Professional communication should be concise without sacrificing clarity or completeness.
+Communication should be concise without becoming incomplete.
 
-### 4.5. Reflection Prompt
+### 4.5. Key Takeaway
 
-Do I communicate with purposeful clarity, or do I over-explain in situations where simplicity would be more effective?
+Effective communication is measured by understanding—not by the number of words spoken.
+
+### 4.6. Reflection Prompt
+
+Do I communicate with deliberate clarity, or do I over-explain in an attempt to prove competence?
 
 ---
 
-## 5. So Much Depends on Reputation — Guard It With Your Life
+# 5. So Much Depends on Reputation — Guard It With Your Life
 
 ### 5.1. Core Principle (Personal Interpretation)
 
-Reputation compounds over time and influences how future actions are interpreted.
+Reputation is a professional asset that compounds throughout a career.
 
-Long before people evaluate performance, they often evaluate reputation.
+Before people evaluate your work, they often evaluate the expectations created by your reputation.
 
 ### 5.2. Defensive Insight
 
-Treat reputation as one of your most valuable professional assets.
+Protect your reputation through consistency.
 
-Consistent integrity, reliability, and accountability create trust that compounds throughout a career.
+Integrity, reliability, accountability, and professionalism gradually establish trust that influences opportunities, responsibilities, and leadership confidence.
 
-Every interaction contributes to the narrative others build about your professional identity.
+Every interaction contributes to the professional story others tell about you.
 
 ### 5.3. Practical Application
 
-Honor commitments consistently.
+Strengthen your reputation by consistently:
 
-Respond professionally under pressure.
+- Delivering on commitments.
+- Responding professionally under pressure.
+- Taking ownership of mistakes.
+- Communicating honestly.
+- Leaving every project better than you found it.
 
-Ensure written communication, meeting behavior, and delivery quality reinforce the reputation you wish to establish.
+Small actions repeated consistently build lasting credibility.
 
 ### 5.4. Misapplication Risk
 
-Overprotecting reputation may discourage calculated risks or honest admission of mistakes.
+Protecting reputation should never become protecting ego.
 
-Credibility grows not from perfection but from accountability, transparency, and continuous improvement.
+Avoid becoming defensive, risk-averse, or unwilling to acknowledge mistakes simply to preserve appearances.
 
-### 5.5. Reflection Prompt
+Authenticity strengthens credibility more than perfection.
 
-What consistent signals am I sending today that will shape how others describe my professional reputation tomorrow?
+### 5.5. Key Takeaway
+
+Reputation is built through countless small decisions made consistently over time.
+
+### 5.6. Reflection Prompt
+
+What professional habits am I practising today that will define my reputation five years from now?
 
 ---
 
-## 6. Court Attention at All Costs
+# 6. Court Attention at All Costs
 
 ### 6.1. Core Principle (Personal Interpretation)
 
-In organizations, valuable work creates influence only when the right stakeholders recognize its impact.
+Valuable work creates influence only when the appropriate people recognise its value.
 
-Visibility enables opportunity.
+In modern organizations, visibility enables opportunity.
 
 ### 6.2. Defensive Insight
 
-Engineer visibility ethically.
+Create visibility with integrity.
 
-Document achievements, communicate outcomes, and ensure important contributions are appropriately attributed without seeking unnecessary attention.
+Ensure meaningful contributions are documented, communicated, and appropriately attributed. Visibility should amplify genuine value rather than seek personal recognition.
 
-Professional visibility should amplify value—not ego.
+Professional visibility is a responsibility—not vanity.
 
 ### 6.3. Practical Application
 
-Maintain concise accomplishment summaries.
+After completing significant work:
 
-Share milestones during sprint reviews, architecture discussions, or leadership updates.
+- Summarize the business problem.
+- Describe the solution.
+- Highlight measurable outcomes.
+- Recognize collaborators.
+- Share lessons learned with relevant stakeholders.
 
-Allow measurable outcomes to become visible through consistent communication rather than self-promotion.
+Consistent communication makes impact visible without becoming self-promotional.
 
 ### 6.4. Misapplication Risk
 
-Seeking visibility without substance damages credibility.
+Seeking attention without delivering value eventually destroys credibility.
 
-Attention should follow meaningful contribution rather than replace it.
+Visibility should always follow substance.
 
-Visibility amplifies competence—it cannot substitute for competence.
+Recognition earned through contribution is sustainable; recognition pursued without contribution is temporary.
 
-### 6.5. Reflection Prompt
+### 6.5. Key Takeaway
 
-Is my work visible because it delivers meaningful value, or am I assuming quality alone will guarantee recognition?
+Outstanding work deserves visibility, but visibility should always be anchored in meaningful contribution.
+
+### 6.6. Reflection Prompt
+
+Is my work visible because it creates measurable value, or am I assuming that quality alone will guarantee recognition?
 
 ---

@@ -60,12 +60,12 @@ The deeper lesson is:
 
 ## 2. Key Ideas
 
-* **Lambs** — Nietzsche's metaphor for those who experience themselves as vulnerable before greater strength.
-* **Birds of Prey** — Nietzsche's metaphor for strength acting according to its nature.
-* **Good and Evil** — Nietzsche challenges moral systems created primarily by defining oneself as the opposite of one's adversary.
-* **Ressentiment** — Resentment that can transform powerlessness into moral condemnation of those possessing qualities one lacks or cannot exercise.
-* **Master and Slave Morality** — Nietzsche's broader distinction between moral frameworks arising from strength and self-affirmation versus those formed reactively against perceived oppressors.
-* **Prakriti / Swabhava** — In the Krishna Niti interpretation, these concepts remind us to pay attention to disposition and recurring patterns of behaviour.
+- **Lambs** — Nietzsche's metaphor for those who experience themselves as vulnerable before greater strength.
+- **Birds of Prey** — Nietzsche's metaphor for strength acting according to its nature.
+- **Good and Evil** — Nietzsche challenges moral systems created primarily by defining oneself as the opposite of one's adversary.
+- **Ressentiment** — Resentment that can transform powerlessness into moral condemnation of those possessing qualities one lacks or cannot exercise.
+- **Master and Slave Morality** — Nietzsche's broader distinction between moral frameworks arising from strength and self-affirmation versus those formed reactively against perceived oppressors.
+- **Prakriti / Swabhava** — In the Krishna Niti interpretation, these concepts remind us to pay attention to disposition and recurring patterns of behaviour.
 
 ### Important Distinction
 
@@ -151,12 +151,12 @@ Do something more useful:
 
 Ask:
 
-* What has this person repeatedly done?
-* What happens when recognition is available?
-* What happens when something goes wrong?
-* How do they behave when accountability appears?
-* Do their actions consistently match their words?
-* What incentives influence their behaviour?
+- What has this person repeatedly done?
+- What happens when recognition is available?
+- What happens when something goes wrong?
+- How do they behave when accountability appears?
+- Do their actions consistently match their words?
+- What incentives influence their behaviour?
 
 One incident can be a mistake.
 
@@ -208,16 +208,16 @@ But sometimes they conceal an uncomfortable reality:
 
 There is nothing unethical about:
 
-* Building professional relationships
-* Making your contribution visible
-* Negotiating
-* Understanding organisational power
-* Setting boundaries
-* Saying no
-* Defending your reasoning
-* Asking for recognition
-* Protecting your team's work
-* Building influence
+- Building professional relationships
+- Making your contribution visible
+- Negotiating
+- Understanding organisational power
+- Setting boundaries
+- Saying no
+- Defending your reasoning
+- Asking for recognition
+- Protecting your team's work
+- Building influence
 
 These capabilities become unethical only when we use them unethically.
 
@@ -283,24 +283,24 @@ That shift is crucial.
 
 Become harder to marginalise through:
 
-* Expertise
-* Execution
-* Decision-making ability
-* Communication
-* Leadership
-* Strategic relationships
-* Credibility
+- Expertise
+- Execution
+- Decision-making ability
+- Communication
+- Leadership
+- Strategic relationships
+- Credibility
 
 #### Option 2: Build Boundaries
 
 Clarify:
 
-* Ownership
-* Responsibilities
-* Decision rights
-* Expectations
-* Scope
-* Accountability
+- Ownership
+- Responsibilities
+- Decision rights
+- Expectations
+- Scope
+- Accountability
 
 Say no when necessary.
 
@@ -316,13 +316,13 @@ Do not wait until somebody takes credit before explaining what you contributed.
 
 Use:
 
-* Written decisions
-* Meeting notes
-* Clear ownership
-* Stakeholder alignment
-* Decision logs
-* Status updates
-* Explicit priorities
+- Written decisions
+- Meeting notes
+- Clear ownership
+- Stakeholder alignment
+- Decision logs
+- Status updates
+- Explicit priorities
 
 When goodwill is insufficient, structure reduces ambiguity.
 
@@ -444,13 +444,13 @@ Being humble is not weakness.
 
 But none of these virtues requires you to remain:
 
-* Unable to say no
-* Unable to negotiate
-* Unable to confront respectfully
-* Unable to protect your work
-* Unable to communicate your contribution
-* Unable to leave a harmful environment
-* Unable to enforce a boundary
+- Unable to say no
+- Unable to negotiate
+- Unable to confront respectfully
+- Unable to protect your work
+- Unable to communicate your contribution
+- Unable to leave a harmful environment
+- Unable to enforce a boundary
 
 True development is not becoming harder or more ruthless.
 
@@ -484,13 +484,13 @@ A mature leader understands:
 
 But so do:
 
-* Incentives
-* Accountability
-* Decision rights
-* Transparency
-* Organisational structure
-* Consequences
-* Leadership behaviour
+- Incentives
+- Accountability
+- Decision rights
+- Transparency
+- Organisational structure
+- Consequences
+- Leadership behaviour
 
 People bring different ambitions, temperaments, strengths, fears, and incentives into an organisation.
 
@@ -586,14 +586,14 @@ The predator possesses agency but uses it primarily for domination, exploitation
 
 This person can:
 
-* Fight, but prefers resolution when possible
-* Speak forcefully, but controls speech
-* Recognise manipulation without becoming manipulative
-* Understand politics without becoming consumed by politics
-* Build power without worshipping power
-* Forgive without forgetting patterns
-* Trust without abandoning discernment
-* Protect without becoming cruel
+- Fight, but prefers resolution when possible
+- Speak forcefully, but controls speech
+- Recognise manipulation without becoming manipulative
+- Understand politics without becoming consumed by politics
+- Build power without worshipping power
+- Forgive without forgetting patterns
+- Trust without abandoning discernment
+- Protect without becoming cruel
 
 Therefore:
 
