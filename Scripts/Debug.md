@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-07-26 10:32:56 — verifier updated for section headings — all 26 files OK
+Last verification: 2026-07-29 08:29:10 — J.md facelift completed — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-07-29: Reasoning summary: Facelifted `J.md` by completing each entry to the repository's five-field format while preserving existing meanings, usage, and alphabetical order. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/J.md`; ran `npx --yes markdownlint-cli2@0.23.0 "EnglishLearning/Vocabulary/J.md"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260729-082910.txt"`. Outcome / verification: markdownlint 0 errors; all 26 letter files OK; `J.md` -> OK (13 words); log saved at Logs/verify-20260729-082910.txt.
 - 2026-07-27: Reasoning summary: Facelifted `I.md` by completing all entries to the five-field format while preserving word order and quick navigation. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/I.md`; confirmed all A-I files already had `## Quick Navigation`; ran `npx --yes markdownlint-cli2@0.23.0 "EnglishLearning/Vocabulary/I.md"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260727-145151.txt"`. Outcome / verification: markdownlint 0 errors; all 26 letter files OK; `I.md` -> OK (37 words); log saved at Logs/verify-20260727-145151.txt.
 - 2026-07-27: Reasoning summary: Added `Interpose` to I vocabulary with navigation link and preserved ordering. Action(s) taken: Inserted `Interpose` in `EnglishLearning/Vocabulary/I.md` between `Interlard` and `Intimidate`; updated Quick Navigation; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260727-124335.txt"`. Outcome / verification: all 26 letter files OK; `I.md` -> OK (37 words); log saved at Logs/verify-20260727-124335.txt.
 - 2026-07-26: Reasoning summary: Updated the verifier so structural H2 sections do not get counted as vocabulary words. Action(s) taken: Modified `Scripts/Verify-Vocabulary.ps1` to exclude `Quick Navigation`, `Entries`, and `WordName` when collecting `##` headings; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260726-103255.txt"`. Outcome / verification: all 26 letter files OK, including `I.md` with `## Quick Navigation`; log saved at Logs/verify-20260726-103255.txt.
