@@ -49,7 +49,7 @@ Questions intended to encourage self-awareness and continuous improvement.
 
 ---
 
-# 1. Never Outshine the Master
+## 1. Never Outshine the Master
 
 ### 1.1. Core Principle (Personal Interpretation)
 
@@ -90,7 +90,7 @@ Where in my current professional environment could visible competence be uninten
 
 ---
 
-# 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies
+## 2. Never Put Too Much Trust in Friends, Learn How to Use Enemies **-- Here**
 
 ### 2.1. Core Principle (Personal Interpretation)
 
@@ -131,7 +131,7 @@ Am I building relationships based on demonstrated character and aligned incentiv
 
 ---
 
-# 3. Conceal Your Intentions
+## 3. Conceal Your Intentions
 
 ### 3.1. Core Principle (Personal Interpretation)
 
@@ -174,7 +174,7 @@ Do I communicate ideas at the right stage of development, or do I expose them be
 
 ---
 
-# 4. Always Say Less Than Necessary
+## 4. Always Say Less Than Necessary
 
 ### 4.1. Core Principle (Personal Interpretation)
 
@@ -215,7 +215,7 @@ Do I communicate with deliberate clarity, or do I over-explain in an attempt to 
 
 ---
 
-# 5. So Much Depends on Reputation — Guard It With Your Life
+## 5. So Much Depends on Reputation — Guard It With Your Life
 
 ### 5.1. Core Principle (Personal Interpretation)
 
@@ -261,7 +261,7 @@ What professional habits am I practising today that will define my reputation fi
 
 ---
 
-# 6. Court Attention at All Costs
+## 6. Court Attention at All Costs
 
 ### 6.1. Core Principle (Personal Interpretation)
 

@@ -234,6 +234,14 @@
         "/^\\$files = @\\('d:\\\\GitHub\\\\inspirational-quotes\\\\Krishna-Niti\\\\01-smile-and-survive-the-court\\.md','d:\\\\GitHub\\\\inspirational-quotes\\\\Krishna-Niti\\\\02-dont-expect-eagles-to-live-by-lamb-morality\\.md'\\); foreach \\(\\$f in \\$files\\) \\{ \\$c = \\[System\\.IO\\.File\\]::ReadAllText\\(\\$f\\); \\$u = \\[System\\.Text\\.RegularExpressions\\.Regex\\]::Replace\\(\\$c, '\\(\\?m\\)\\^\\\\\\* ', '- '\\); if \\(\\$u -ne \\$c\\) \\{ \\[System\\.IO\\.File\\]::WriteAllText\\(\\$f, \\$u, \\(New-Object System\\.Text\\.UTF8Encoding\\(\\$false\\)\\)\\) \\} \\}; 'done'$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/J\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"Krishna-Niti/README\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
