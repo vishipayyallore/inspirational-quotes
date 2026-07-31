@@ -2,6 +2,8 @@
 
 This file contains definitions and example usage for "C" words found in the inspirational quotes collection.
 
+## Entries
+
 ## Quick Navigation
 
 - [Caesura](#caesura)
