@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-07-29 08:29:10 — J.md facelift completed — all 26 files OK
+Last verification: 2026-07-31 20:54:28 — J.md visual facelift completed — all 26 files OK
 
 ## Standard Verification Command
 

@@ -1,6 +1,24 @@
 # J Vocabulary Definitions
 
-This file contains vocabulary words starting with the letter J, along with their definitions and usage examples from inspirational quotes.
+This file contains curated "J" vocabulary for English learning, with practical examples tied to clarity, expression, and personal growth.
+
+## Quick Navigation
+
+- [Jaggery](#jaggery)
+- [Jnana](#jnana)
+- [Jocose](#jocose)
+- [Jocularity](#jocularity)
+- [Jocund](#jocund)
+- [Jollification](#jollification)
+- [Journey](#journey)
+- [Jovial](#jovial)
+- [Jubilant](#jubilant)
+- [Judiciously](#judiciously)
+- [Juggernaut](#juggernaut)
+- [Juvenescent](#juvenescent)
+- [Juxtapose](#juxtapose)
+
+### Entries
 
 <!-- Add vocabulary words here following the format:
 ## WordName
