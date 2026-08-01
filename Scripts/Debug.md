@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-08-01 18:16:46 — K.md facelift completed — all 26 files OK
+Last verification: 2026-08-01 18:21:34 — I.md/J.md duplicate Entries heading fix completed — all 26 files OK
 
 ## Standard Verification Command
 
@@ -12,6 +12,7 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 
 ## Recent Logs
 
+- 2026-08-01: Reasoning summary: Fixed markdown lint MD024 in `I.md` and `J.md` by removing duplicate `Entries` headings while preserving all vocabulary content and ordering. Action(s) taken: Removed redundant `### Entries` heading in `EnglishLearning/Vocabulary/I.md` and `EnglishLearning/Vocabulary/J.md`; ran `npx --yes markdownlint-cli2@0.23.0 "EnglishLearning/Vocabulary/I.md" "EnglishLearning/Vocabulary/J.md"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260801-182134.txt"`. Outcome / verification: markdownlint 0 errors; all 26 letter files OK; `I.md` -> OK (37 words), `J.md` -> OK (13 words); log saved at Logs/verify-20260801-182134.txt.
 - 2026-08-01: Reasoning summary: Facelifted `K.md` by completing each entry to the repository's five-field vocabulary format while preserving existing meanings, usage context, and alphabetical order. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/K.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260801-181646.txt"`. Outcome / verification: all 26 letter files OK; `K.md` -> OK (11 words); log saved at Logs/verify-20260801-181646.txt.
 - 2026-07-29: Reasoning summary: Facelifted `J.md` by completing each entry to the repository's five-field format while preserving existing meanings, usage, and alphabetical order. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/J.md`; ran `npx --yes markdownlint-cli2@0.23.0 "EnglishLearning/Vocabulary/J.md"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260729-082910.txt"`. Outcome / verification: markdownlint 0 errors; all 26 letter files OK; `J.md` -> OK (13 words); log saved at Logs/verify-20260729-082910.txt.
 - 2026-07-27: Reasoning summary: Facelifted `I.md` by completing all entries to the five-field format while preserving word order and quick navigation. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/I.md`; confirmed all A-I files already had `## Quick Navigation`; ran `npx --yes markdownlint-cli2@0.23.0 "EnglishLearning/Vocabulary/I.md"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -OutFile "Logs/verify-20260727-145151.txt"`. Outcome / verification: markdownlint 0 errors; all 26 letter files OK; `I.md` -> OK (37 words); log saved at Logs/verify-20260727-145151.txt.

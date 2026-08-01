@@ -270,6 +270,10 @@
         "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-\\$\\(Get-Date -Format 'yyyyMMdd-HHmmss'\\)\\.txt\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\[A-J\\]\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
