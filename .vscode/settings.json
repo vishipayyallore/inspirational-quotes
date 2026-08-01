@@ -266,6 +266,10 @@
         "/^pwsh -NoProfile -ExecutionPolicy Bypass -File check_sections\\.ps1$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-\\$\\(Get-Date -Format 'yyyyMMdd-HHmmss'\\)\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
