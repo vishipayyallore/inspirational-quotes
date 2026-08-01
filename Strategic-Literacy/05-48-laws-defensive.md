@@ -131,7 +131,7 @@ Am I building relationships based on demonstrated character and aligned incentiv
 
 ---
 
-## 3. Conceal Your Intentions **-- Here**
+## 3. Conceal Your Intentions -- **Here**
 
 ### 3.1. Core Principle (Personal Interpretation)
 
