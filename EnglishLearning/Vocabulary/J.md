@@ -2,6 +2,8 @@
 
 This file contains curated "J" vocabulary for English learning, with practical examples tied to clarity, expression, and personal growth.
 
+## Entries
+
 ## Quick Navigation
 
 - [Jaggery](#jaggery)
