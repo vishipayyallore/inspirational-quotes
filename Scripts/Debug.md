@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-08-02 08:20:36 — L.md facelift completed — all 26 files OK
+Last verification: 2026-08-02 08:25:06 — K.md/L.md quick navigation restored — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,8 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-08-02: Reasoning summary: Restored the missing `## Entries` and `## Quick Navigation` sections in `K.md` and `L.md` to match the A-J vocabulary structure. Action(s) taken: Added navigation lists to `EnglishLearning/Vocabulary/K.md` and `EnglishLearning/Vocabulary/L.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260802-082506.txt"`. Outcome / verification: all 26 letter files OK; `K.md` and `L.md` now include quick navigation; log saved at Logs/verify-20260802-082506.txt.
 
 - 2026-08-02: Reasoning summary: Facelifted `L.md` by completing each entry to the repository's five-field vocabulary format while preserving alphabetical order and existing meanings. Action(s) taken: Added `Grammar`, `Synonyms`, and `Antonyms` lines to all L entries in `EnglishLearning/Vocabulary/L.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260802-082036.txt"`. Outcome / verification: all 26 letter files OK; `L.md` remains in order; log saved at Logs/verify-20260802-082036.txt.
 

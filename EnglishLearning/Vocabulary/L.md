@@ -2,6 +2,33 @@
 
 This file contains definitions and example usage for "L" words found in the inspirational quotes collection.
 
+## Entries
+
+## Quick Navigation
+
+- [Laconic](#laconic)
+- [Lagniappe](#lagniappe)
+- [Lampoon](#lampoon)
+- [Land of Nod](#land-of-nod)
+- [Lapidify](#lapidify)
+- [Largesse](#largesse)
+- [Latent](#latent)
+- [Laureate](#laureate)
+- [Layette](#layette)
+- [Lickety-Split](#lickety-split)
+- [Lilt](#lilt)
+- [Liminal](#liminal)
+- [Lionhearted](#lionhearted)
+- [Lodestar](#lodestar)
+- [Loquacious](#loquacious)
+- [Lucid](#lucid)
+- [Lucullan](#lucullan)
+- [Luminary](#luminary)
+- [Luminous](#luminous)
+- [Lumps](#lumps)
+- [Lunation](#lunation)
+- [Lyricism](#lyricism)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 
