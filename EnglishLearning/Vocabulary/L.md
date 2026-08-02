@@ -16,108 +16,174 @@ This file contains definitions and example usage for "L" words found in the insp
 
 **Meaning**: Using very few words; brief and direct.
 **Usage**: "His laconic reply ended the argument without drama." - Shows a concise, no-nonsense way of speaking.
+**Grammar**: Adjective.
+**Synonyms**: Concise, terse, brief, succinct.
+**Antonyms**: Verbose, wordy, long-winded, chatty.
 
 ## Lagniappe
 
 **Meaning**: A small extra gift, benefit, or bonus given in addition to what is expected.
 **Usage**: "Her mentor's final note of encouragement felt like a lagniappe at the end of an already valuable lesson." - Highlights an unexpected extra that adds warmth and value.
+**Grammar**: Noun.
+**Synonyms**: Bonus, extra, added gift, perk.
+**Antonyms**: Shortfall, deficit, omission.
 
 ## Lampoon
 
 **Meaning**: A sharp, often humorous critique that mocks someone or something to expose flaws.
 **Usage**: "A thoughtful lampoon can challenge bad ideas while still inviting people to reflect and improve." - Shows satire used as constructive social commentary.
+**Grammar**: Noun; verb.
+**Synonyms**: Satire, parody, spoof, caricature.
+**Antonyms**: Praise, tribute, admiration.
 
 ## Land of Nod
 
 **Meaning**: A poetic expression for sleep or the state of dreaming.
 **Usage**: "After finishing her goals for the day, she drifted into the Land of Nod with a peaceful mind." - Suggests restful sleep reached after calm effort and closure.
+**Grammar**: Noun phrase.
+**Synonyms**: Sleep, slumber, dreamland, bedtime.
+**Antonyms**: Wakefulness, alertness, insomnia.
 
 ## Lapidify
 
 **Meaning**: To express something in a polished, concise, and memorable way, as if fit to be carved in stone.
 **Usage**: "She learned to lapidify her values into one clear sentence she could return to in hard moments." - Emphasizes shaping an important idea into language that is brief, durable, and easy to remember.
+**Grammar**: Verb.
+**Synonyms**: Distill, crystallize, condense, refine.
+**Antonyms**: Expand, elaborate, obscure, diffuse.
 
 ## Largesse
 
 **Meaning**: Generous giving of money, kindness, or other benefits; liberality in bestowing gifts or help.
 **Usage**: "Practice largesse with your time and encouragement, and you will leave people stronger than you found them." - Emphasizes generosity as a deliberate habit that uplifts others.
+**Grammar**: Noun.
+**Synonyms**: Generosity, bounty, liberality, munificence.
+**Antonyms**: Stinginess, meanness, selfishness.
 
 ## Latent
 
 **Meaning**: Existing but not yet developed or manifest; hidden or concealed.
 **Usage**: "Latent talent will emerge with the right opportunities." - Hidden abilities can be revealed when the conditions are favorable.
+**Grammar**: Adjective.
+**Synonyms**: Dormant, hidden, concealed, potential.
+**Antonyms**: Active, visible, manifest, obvious.
 
 ## Laureate
 
 **Meaning**: A person honored or acclaimed for outstanding achievement, especially in literature, scholarship, or the arts.
 **Usage**: "She wrote with the steady confidence of a laureate, shaping ideas into language that could endure." - Describes someone recognized for exceptional creative or intellectual work.
+**Grammar**: Noun; adjective.
+**Synonyms**: Honoree, champion, award-winner, luminary.
+**Antonyms**: Unknown, novice, unrecognized.
 
 ## Layette
 
 **Meaning**: A complete set of clothing, bedding, and accessories for a newborn baby.
 **Usage**: "She spent the weekend organizing the layette her sister gifted her before the baby arrived." - Refers to the bundle of essentials parents prepare for a new infant.
+**Grammar**: Noun.
+**Synonyms**: Baby set, infant essentials, newborn outfit.
+**Antonyms**: N/A.
 
 ## Lickety-Split
 
 **Meaning**: Very quickly; immediately.
 **Usage**: "She finished her revision lickety-split and still had time to review her notes twice." - Conveys completing something with great speed.
+**Grammar**: Adverb.
+**Synonyms**: Quickly, rapidly, promptly, swiftly.
+**Antonyms**: Slowly, gradually, delayed.
 
 ## Lilt
 
 **Meaning**: A gentle, rhythmic rise and fall in speech, music, or movement.
 **Usage**: "Her voice carried a hopeful lilt that made even difficult lessons feel encouraging." - Highlights a light, musical tone that adds warmth and positivity.
+**Grammar**: Noun; verb.
+**Synonyms**: Cadence, rhythm, melody, swing.
+**Antonyms**: Monotony, flatness, stiffness.
 
 ## Liminal
 
 **Meaning**: Relating to a transitional or in-between state, space, or phase.
 **Usage**: "In the liminal moments between doubt and action, your future is quietly being shaped." - Highlights the power of transition phases in personal growth.
+**Grammar**: Adjective.
+**Synonyms**: Transitional, threshold, intermediate, in-between.
+**Antonyms**: Fixed, settled, final.
 
 ## Lionhearted
 
 **Meaning**: Brave and determined in the face of fear or difficulty; courageous.
-**Usage**: "Be lionhearted when setbacks roar—meet them with steady courage and keep moving forward." - Encourages facing challenges boldly instead of retreating.
+**Usage**: "Be lionhearted when setbacks roar - meet them with steady courage and keep moving forward." - Encourages facing challenges boldly instead of retreating.
+**Grammar**: Adjective.
+**Synonyms**: Courageous, brave, bold, fearless.
+**Antonyms**: Cowardly, timid, fearful.
 
 ## Lodestar
 
 **Meaning**: A star used as a point of reference for navigation; a person or principle that serves as a guide or inspiration.
-**Usage**: "Let your core values be your lodestar—when paths multiply and choices blur, they will always point you true." - Encourages using deeply held principles as a compass during uncertain times.
+**Usage**: "Let your core values be your lodestar - when paths multiply and choices blur, they will always point you true." - Encourages using deeply held principles as a compass during uncertain times.
+**Grammar**: Noun.
+**Synonyms**: Guide, compass, north star, inspiration.
+**Antonyms**: Distraction, confusion, misdirection.
 
 ## Loquacious
 
 **Meaning**: Tending to talk a great deal; talkative.
 **Usage**: "Her loquacious storytelling turned a short meeting into a lively exchange." - Shows someone speaking at length in an energetic way.
+**Grammar**: Adjective.
+**Synonyms**: Talkative, chatty, verbose, garrulous.
+**Antonyms**: Taciturn, terse, reserved, silent.
 
 ## Lucid
 
 **Meaning**: Clear and easy to understand; expressed plainly.
 **Usage**: "After reviewing the notes, he gave a lucid explanation of the plan." - Shows ideas communicated clearly without confusion.
+**Grammar**: Adjective.
+**Synonyms**: Clear, understandable, coherent, plain.
+**Antonyms**: Murky, confusing, obscure, unclear.
 
 ## Lucullan
 
 **Meaning**: Richly luxurious or elaborate, especially in relation to food, hospitality, or style.
 **Usage**: "The team celebrated the milestone with a lucullan dinner that marked the end of months of disciplined work." - Shows a reward that is notably abundant and lavish.
+**Grammar**: Adjective.
+**Synonyms**: Luxurious, lavish, sumptuous, opulent.
+**Antonyms**: Plain, modest, austere, simple.
 
 ## Luminary
 
 **Meaning**: A person who inspires or influences others significantly, especially in a particular field.
 **Usage**: "Every community needs a luminary who turns vision into shared progress." - Highlights a person whose leadership and insight motivate others.
+**Grammar**: Noun.
+**Synonyms**: Leader, influencer, icon, visionary.
+**Antonyms**: Follower, unknown, obscurity.
 
 ## Luminous
 
 **Meaning**: Emitting or reflecting light; bright.
 **Usage**: "The lighthouse stood luminous against the fog." - Describes something giving off light or glowing.
+**Grammar**: Adjective.
+**Synonyms**: Bright, radiant, glowing, shining.
+**Antonyms**: Dull, dark, dim, obscure.
 
 ## Lumps
 
 **Meaning**: A compact mass of a substance, especially one without a definite or regular shape.
 **Usage**: "Life's challenges can feel like lumps in the road." - Obstacles may be unexpected and irregular, but they are a natural part of the journey.
+**Grammar**: Noun.
+**Synonyms**: Clumps, masses, chunks, blobs.
+**Antonyms**: Smoothness, uniformity, flatness.
 
 ## Lunation
 
 **Meaning**: The interval from one new moon to the next; a complete lunar cycle.
-**Usage**: "Real change may take a full lunation—quiet daily effort before the new phase becomes visible." - Reminds us that growth often appears gradually over time.
+**Usage**: "Real change may take a full lunation - quiet daily effort before the new phase becomes visible." - Reminds us that growth often appears gradually over time.
+**Grammar**: Noun.
+**Synonyms**: Lunar cycle, moon cycle, month.
+**Antonyms**: N/A.
 
 ## Lyricism
 
 **Meaning**: A quality of expression that is poetic, musical, and emotionally vivid.
 **Usage**: "Her lyricism turned a simple message into something that stayed with everyone all day." - Shows language used in a graceful, expressive way that makes ideas memorable.
+**Grammar**: Noun.
+**Synonyms**: Poetry, musicality, expressiveness, eloquence.
+**Antonyms**: Flatness, dryness, prosaicness.
