@@ -20,8 +20,6 @@ This file contains curated "J" vocabulary for English learning, with practical e
 - [Juvenescent](#juvenescent)
 - [Juxtapose](#juxtapose)
 
-### Entries
-
 <!-- Add vocabulary words here following the format:
 ## WordName
 

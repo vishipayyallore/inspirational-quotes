@@ -44,8 +44,6 @@ This file contains curated "I" vocabulary for English learning, with practical e
 - [Invaluable](#invaluable)
 - [Irreplaceable](#irreplaceable)
 
-### Entries
-
 <!-- Add vocabulary words here following the format:
 ## WordName
 

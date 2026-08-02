@@ -16,53 +16,86 @@ This file contains definitions and example usage for "K" words found in the insp
 
 **Meaning**: The right or opportune moment to act; a time when conditions align for meaningful change.
 **Usage**: "When preparation finally met courage, she recognized the moment as kairos and stepped into the life she had been postponing." - Highlights the decisive moment when readiness and opportunity come together.
+**Grammar**: Noun.
+**Synonyms**: Opportunity, turning point, opening, decisive moment.
+**Antonyms**: Misfortune, wrong timing, delay.
 
 ## Kaleidoscopic
 
 **Meaning**: Having constantly changing patterns, elements, or colors; full of variety and movement.
 **Usage**: "Your life is a kaleidoscopic journey—each small turn reveals a new pattern of possibilities." - Encourages seeing change and diversity of experiences as something beautiful and enriching.
+**Grammar**: Adjective.
+**Synonyms**: Multicolored, varied, shifting, dynamic.
+**Antonyms**: Monotonous, uniform, static.
 
 ## Keen
 
 **Meaning**: Having or showing eagerness, enthusiasm, or intense interest; also, having a sharp edge or intellectually sharp.
 **Usage**: "She was keen to learn new skills and improve her abilities every day." - Describes someone who is enthusiastic and eager to pursue growth and knowledge.
+**Grammar**: Adjective.
+**Synonyms**: Eager, enthusiastic, sharp, perceptive.
+**Antonyms**: Indifferent, dull, apathetic.
 
 ## Kindred
 
 **Meaning**: Having similar origin, nature, or character; related or connected by qualities or interests.
 **Usage**: "They were kindred spirits, instantly understanding each other's thoughts." - Describes a deep connection or similarity between people.
+**Grammar**: Adjective; noun (less common).
+**Synonyms**: Similar, related, like-minded, allied.
+**Antonyms**: Unrelated, dissimilar, opposite.
 
 ## Kinetic
 
 **Meaning**: Relating to or resulting from motion; active and dynamic.
 **Usage**: "His kinetic energy inspired the entire team to move forward." - Describing dynamic, action-oriented enthusiasm.
+**Grammar**: Adjective.
+**Synonyms**: Dynamic, active, moving, energetic.
+**Antonyms**: Static, inactive, motionless.
 
 ## Kintsugi
 
 **Meaning**: The Japanese art of repairing broken pottery with lacquer mixed with gold, often used as a metaphor for embracing flaws and growth after hardship.
 **Usage**: "Her confidence was kintsugi in action, each past failure becoming a golden seam in the stronger person she became." - Shows how setbacks can be transformed into visible sources of strength.
+**Grammar**: Noun.
+**Synonyms**: Gold-repair craft, restorative art (contextual).
+**Antonyms**: Concealment, disposability (contextual).
 
 ## Kismet
 
 **Meaning**: Fate or destiny; the feeling that events are guided by forces beyond your control.
 **Usage**: "What looked like a setback felt like kismet in disguise—it pushed her toward the path she was meant to take." - Shows how an unexpected event can be seen as destiny guiding growth.
+**Grammar**: Noun.
+**Synonyms**: Destiny, fate, providence.
+**Antonyms**: Chance, randomness, free will.
 
 ## Klatsch
 
 **Meaning**: Gossip or idle talk.
 **Usage**: "Skip the klatsch and invest your attention in conversations that build people up." - Encourages choosing meaningful speech over distracting chatter.
+**Grammar**: Noun.
+**Synonyms**: Gossip, chatter, hearsay, tattle.
+**Antonyms**: Discretion, confidentiality, silence.
 
 ## Knead
 
 **Meaning**: To work dough or clay into a uniform mixture by pressing, folding, and stretching.
 **Usage**: "She learned to knead the dough until it was smooth and elastic."
+**Grammar**: Verb.
+**Synonyms**: Work, press, massage, blend.
+**Antonyms**: Neglect, leave untouched.
 
 ## Krummholz
 
 **Meaning**: Stunted, wind-deformed trees that grow at high altitudes or in harsh conditions near the tree line.
 **Usage**: "Like krummholz clinging to a mountainside, your persistence in tough conditions shapes you into something uniquely strong." - Uses the image of hardy, bent trees to symbolize resilience in adversity.
+**Grammar**: Noun.
+**Synonyms**: Stunted alpine trees, treeline scrub (contextual).
+**Antonyms**: Lush woodland, lowland forest.
 
 ## Kudos
 
 **Meaning**: Praise, honor, or recognition for an achievement or good work.
 **Usage**: "Kudos to you for staying disciplined every day; consistent effort quietly builds extraordinary results." - Appreciates steady commitment and reinforces positive progress.
+**Grammar**: Noun (uncountable in common usage).
+**Synonyms**: Praise, credit, acclaim, recognition.
+**Antonyms**: Criticism, blame, disapproval.
