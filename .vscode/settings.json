@@ -274,6 +274,10 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\[A-J\\]\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^\\$ts = Get-Date -Format 'yyyyMMdd-HHmmss'; pwsh -NoProfile -ExecutionPolicy Bypass -File \"c:/GitHub/inspirational-quotes/Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"c:/GitHub/inspirational-quotes/Logs/verify-\\$ts\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }

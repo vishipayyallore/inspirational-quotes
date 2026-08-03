@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-08-01 18:21:34 — I.md/J.md duplicate Entries heading fix completed — all 26 files OK
+Last verification: 2026-08-02 08:25:06 — K.md/L.md quick navigation restored — all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-08-02: Reasoning summary: Restored the missing `## Entries` and `## Quick Navigation` sections in `K.md` and `L.md` to match the A-J vocabulary structure. Action(s) taken: Added navigation lists to `EnglishLearning/Vocabulary/K.md` and `EnglishLearning/Vocabulary/L.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260802-082506.txt"`. Outcome / verification: all 26 letter files OK; `K.md` and `L.md` now include quick navigation; log saved at Logs/verify-20260802-082506.txt.
+
+- 2026-08-02: Reasoning summary: Facelifted `L.md` by completing each entry to the repository's five-field vocabulary format while preserving alphabetical order and existing meanings. Action(s) taken: Added `Grammar`, `Synonyms`, and `Antonyms` lines to all L entries in `EnglishLearning/Vocabulary/L.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260802-082036.txt"`. Outcome / verification: all 26 letter files OK; `L.md` remains in order; log saved at Logs/verify-20260802-082036.txt.
 
 - 2026-08-01: Reasoning summary: Fixed markdown lint MD024 in `I.md` and `J.md` by removing duplicate `Entries` headings while preserving all vocabulary content and ordering. Action(s) taken: Removed redundant `### Entries` heading in `EnglishLearning/Vocabulary/I.md` and `EnglishLearning/Vocabulary/J.md`; ran `npx --yes markdownlint-cli2@0.23.0 "EnglishLearning/Vocabulary/I.md" "EnglishLearning/Vocabulary/J.md"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260801-182134.txt"`. Outcome / verification: markdownlint 0 errors; all 26 letter files OK; `I.md` -> OK (37 words), `J.md` -> OK (13 words); log saved at Logs/verify-20260801-182134.txt.
 - 2026-08-01: Reasoning summary: Facelifted `K.md` by completing each entry to the repository's five-field vocabulary format while preserving existing meanings, usage context, and alphabetical order. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/K.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260801-181646.txt"`. Outcome / verification: all 26 letter files OK; `K.md` -> OK (11 words); log saved at Logs/verify-20260801-181646.txt.

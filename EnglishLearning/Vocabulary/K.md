@@ -2,6 +2,22 @@
 
 This file contains definitions and example usage for "K" words found in the inspirational quotes collection.
 
+## Entries
+
+## Quick Navigation
+
+- [Kairos](#kairos)
+- [Kaleidoscopic](#kaleidoscopic)
+- [Keen](#keen)
+- [Kindred](#kindred)
+- [Kinetic](#kinetic)
+- [Kintsugi](#kintsugi)
+- [Kismet](#kismet)
+- [Klatsch](#klatsch)
+- [Knead](#knead)
+- [Krummholz](#krummholz)
+- [Kudos](#kudos)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 
