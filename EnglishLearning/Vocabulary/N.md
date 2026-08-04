@@ -2,6 +2,29 @@
 
 This file contains definitions and example usage for "N" words found in the inspirational quotes collection.
 
+## Entries
+
+## Quick Navigation
+
+- [Nacreous](#nacreous)
+- [Nadir](#nadir)
+- [Nascent](#nascent)
+- [Nebulous](#nebulous)
+- [Nefarious](#nefarious)
+- [Neutralize](#neutralize)
+- [Nexus](#nexus)
+- [Niche](#niche)
+- [Nimble](#nimble)
+- [Noctivagant](#noctivagant)
+- [Nonage](#nonage)
+- [Nostalgia](#nostalgia)
+- [Novaturient](#novaturient)
+- [Nuanced](#nuanced)
+- [Nuances](#nuances)
+- [Nudge](#nudge)
+- [Numinous](#numinous)
+- [Nurture](#nurture)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 

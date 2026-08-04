@@ -294,6 +294,14 @@
         "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-\\$stamp\\.txt\"; Write-Output \"LOGFILE=Logs/verify-\\$stamp\\.txt\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; \\$out = \"Logs/verify-\\$stamp\\.txt\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \\$out; Write-Output \"LOG_PATH=\\$out\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }

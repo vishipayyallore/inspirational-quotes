@@ -2,6 +2,38 @@
 
 This file contains definitions and example usage for "M" words found in the inspirational quotes collection.
 
+## Entries
+
+## Quick Navigation
+
+- [Magnanimous](#magnanimous)
+- [Magniloquent](#magniloquent)
+- [Mascot](#mascot)
+- [Matrilineal](#matrilineal)
+- [Mayhap](#mayhap)
+- [Meddle](#meddle)
+- [Mediocre](#mediocre)
+- [Mellifluous](#mellifluous)
+- [Mephitic](#mephitic)
+- [Meraki](#meraki)
+- [Mercurial](#mercurial)
+- [Metanoia](#metanoia)
+- [Metaphors](#metaphors)
+- [Meticulous](#meticulous)
+- [Mettlesome](#mettlesome)
+- [Mindfulness](#mindfulness)
+- [Momentum](#momentum)
+- [Mondegreen](#mondegreen)
+- [Monotheism](#monotheism)
+- [Moschate](#moschate)
+- [Moxie](#moxie)
+- [Mumpsimus](#mumpsimus)
+- [Munificent](#munificent)
+- [Murmuration](#murmuration)
+- [Mussitate](#mussitate)
+- [Muzz](#muzz)
+- [Mythomania](#mythomania)
+
 <!-- Add vocabulary words here following the format:
 ## WordName
 
