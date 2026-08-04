@@ -278,6 +278,22 @@
         "/^\\$ts = Get-Date -Format 'yyyyMMdd-HHmmss'; pwsh -NoProfile -ExecutionPolicy Bypass -File \"c:/GitHub/inspirational-quotes/Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"c:/GitHub/inspirational-quotes/Logs/verify-\\$ts\\.txt\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -ShowMismatches$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"EnglishLearning/Vocabulary\" -ShowMismatches$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"EnglishLearning/Vocabulary\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^\\$stamp = Get-Date -Format 'yyyyMMdd-HHmmss'; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-\\$stamp\\.txt\"; Write-Output \"LOGFILE=Logs/verify-\\$stamp\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
