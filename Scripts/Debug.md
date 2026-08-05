@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-08-03 21:44:28 - M.md facelift completed - all 26 files OK
+Last verification: 2026-08-04 07:18:17 - M.md and N.md quick navigation added - all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-08-04: Reasoning summary: Added missing quick navigation sections to `M.md` and `N.md` to match the established vocabulary file structure. Action(s) taken: Inserted `## Entries` and `## Quick Navigation` lists in `EnglishLearning/Vocabulary/M.md` and `EnglishLearning/Vocabulary/N.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260804-071811.txt"`. Outcome / verification: all 26 letter files OK; `M.md` -> OK (27 words), `N.md` -> OK (18 words); log saved at Logs/verify-20260804-071811.txt.
+
+- 2026-08-04: Reasoning summary: Facelifted `N.md` by completing every vocabulary entry to the five-field repository standard while preserving alphabetical order and existing meanings. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/N.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260804-071639.txt"`. Outcome / verification: all 26 letter files OK; `N.md` -> OK (18 words); log saved at Logs/verify-20260804-071639.txt.
 
 - 2026-08-03: Reasoning summary: Facelifted `M.md` by completing every vocabulary entry to the five-field repository standard while preserving alphabetical order and existing meanings. Action(s) taken: Added missing `Grammar`, `Synonyms`, and `Antonyms` lines across `EnglishLearning/Vocabulary/M.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "EnglishLearning/Vocabulary"`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260803-214428.txt"`. Outcome / verification: all 26 letter files OK; `M.md` -> OK (27 words); log saved at Logs/verify-20260803-214428.txt.
 
