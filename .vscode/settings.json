@@ -326,6 +326,10 @@
         "/^\\$ts = Get-Date -Format 'yyyyMMdd-HHmmss'; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-\\$ts\\.txt\"; Write-Output \"LOG_FILE=Logs/verify-\\$ts\\.txt\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P\\}\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
