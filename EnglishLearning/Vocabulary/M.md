@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "M" words found in the inspirational quotes collection.
 
-## Entries
 
 ## Quick Navigation
 
@@ -43,6 +42,9 @@ This file contains definitions and example usage for "M" words found in the insp
 **Synonyms**: Comma-separated related words.
 **Antonyms**: Comma-separated opposite words.
 -->
+
+## Entries
+
 
 ## Magnanimous
 

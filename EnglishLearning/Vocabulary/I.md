@@ -2,7 +2,6 @@
 
 This file contains curated "I" vocabulary for English learning, with practical examples tied to clarity, expression, and personal growth.
 
-## Entries
 
 ## Quick Navigation
 
@@ -53,6 +52,9 @@ This file contains curated "I" vocabulary for English learning, with practical e
 **Synonyms**: Comma-separated related words.
 **Antonyms**: Comma-separated opposite words.
 -->
+
+## Entries
+
 
 ## Idioglossia
 

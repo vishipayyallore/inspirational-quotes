@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "C" words found in the inspirational quotes collection.
 
-## Entries
 
 ## Quick Navigation
 
@@ -74,6 +73,9 @@ This file contains definitions and example usage for "C" words found in the insp
 **Synonyms**: Comma-separated related words.
 **Antonyms**: Comma-separated opposite words.
 -->
+
+## Entries
+
 
 ## Caesura
 
@@ -389,7 +391,7 @@ This file contains definitions and example usage for "C" words found in the insp
 
 ## Cortex
 
-**Meaning**: The outer layer of an organ, like the brain's cerebral cortex.
+**Meaning**: The outer layer of an organ, especially the brain, where higher-level processing occurs.
 **Usage**: "Just as the cortex governs higher thought, guard your mental space—what you feed your mind shapes your reality." - Emphasizes the importance of mindful input and mental discipline.
 **Grammar**: Countable noun; plural: cortices or cortexes.
 **Synonyms**: outer layer, cerebral matter
