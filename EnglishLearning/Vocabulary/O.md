@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "O" words found in the inspirational quotes collection.
 
-
 ## Quick Navigation
 
 - [Obdurate](#obdurate)

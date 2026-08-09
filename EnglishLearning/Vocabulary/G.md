@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "G" words found in the inspirational quotes collection.
 
-
 ## Quick Navigation
 
 - [Gargantuan](#gargantuan)

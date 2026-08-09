@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "N" words found in the inspirational quotes collection.
 
-
 ## Quick Navigation
 
 - [Nacreous](#nacreous)
