@@ -48,9 +48,6 @@ This file contains definitions and example usage for "D" words found in the insp
 **Antonyms**: comma-separated opposite words
 -->
 
-## Entries
-
-
 ## Dabble
 
 **Meaning**: To take part in an activity in a casual or superficial way.

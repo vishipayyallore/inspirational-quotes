@@ -29,9 +29,6 @@ This file contains curated "J" vocabulary for English learning, with practical e
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Jaggery
 
 **Meaning**: A traditional unrefined sugar made from sugar cane or palm sap, commonly used in South Asian cuisine.

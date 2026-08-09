@@ -82,8 +82,6 @@ This file contains definitions and example usage for "A" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
 ## Abandon
 
 **Meaning**: To leave behind or give up completely.

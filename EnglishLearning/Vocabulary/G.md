@@ -37,9 +37,6 @@ This file contains definitions and example usage for "G" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Gargantuan
 
 **Meaning**: Enormous, huge.

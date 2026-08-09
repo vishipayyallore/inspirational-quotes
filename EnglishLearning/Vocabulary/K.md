@@ -27,9 +27,6 @@ This file contains definitions and example usage for "K" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Kairos
 
 **Meaning**: The right or opportune moment to act; a time when conditions align for meaningful change.

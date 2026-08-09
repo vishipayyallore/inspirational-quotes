@@ -74,9 +74,6 @@ This file contains definitions and example usage for "C" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Caesura
 
 **Meaning**: A pause or break in a line of poetry (often marked by punctuation), or more generally, a natural pause in speech or music.

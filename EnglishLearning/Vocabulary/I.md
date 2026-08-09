@@ -53,9 +53,6 @@ This file contains curated "I" vocabulary for English learning, with practical e
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Idioglossia
 
 **Meaning**: A private language developed and used by one person or by a small, close group, especially twins.

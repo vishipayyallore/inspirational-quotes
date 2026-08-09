@@ -34,9 +34,6 @@ This file contains definitions and example usage for "O" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Obdurate
 
 **Meaning**: Stubbornly refusing to change one's opinion or course of action.

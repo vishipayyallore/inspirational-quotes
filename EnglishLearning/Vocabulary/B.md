@@ -54,9 +54,6 @@ This file contains definitions and example usage for "B" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Balance
 
 **Meaning**: A state of equilibrium or equal distribution of weight or force.

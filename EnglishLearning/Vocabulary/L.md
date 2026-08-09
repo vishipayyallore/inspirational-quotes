@@ -38,9 +38,6 @@ This file contains definitions and example usage for "L" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Laconic
 
 **Meaning**: Using very few words; brief and direct.

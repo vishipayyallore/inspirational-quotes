@@ -43,9 +43,6 @@ This file contains definitions and example usage for "M" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Magnanimous
 
 **Meaning**: Generous, forgiving, and noble in spirit, especially toward someone less powerful or a former opponent.

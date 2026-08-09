@@ -80,8 +80,6 @@ This file contains definitions and example usage for "P" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
 ## Palimpsest
 
 **Meaning**: Something reused or altered but still bearing visible traces of its earlier form; originally, a manuscript page written over while older text remains beneath.

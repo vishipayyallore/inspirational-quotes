@@ -48,8 +48,6 @@ This file contains definitions and example usage for "F" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
 ## Fabricate
 
 **Meaning**: To invent or concoct something, typically with deceitful intent.

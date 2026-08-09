@@ -50,9 +50,6 @@ This file contains definitions and example usage for "E" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Ebullient
 
 **Meaning**: Cheerful and full of energy; exuberant and lively.

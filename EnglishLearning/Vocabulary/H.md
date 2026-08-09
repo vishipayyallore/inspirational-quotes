@@ -40,9 +40,6 @@ This file contains definitions and example usage for "H" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
-
 ## Halcyon
 
 **Meaning**: Calm, peaceful, and free from disturbance; often referring to an idyllic time.
