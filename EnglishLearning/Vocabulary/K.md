@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "K" words found in the inspirational quotes collection.
 
-## Entries
 
 ## Quick Navigation
 
@@ -27,6 +26,9 @@ This file contains definitions and example usage for "K" words found in the insp
 **Synonyms**: Comma-separated related words.
 **Antonyms**: Comma-separated opposite words.
 -->
+
+## Entries
+
 
 ## Kairos
 
@@ -95,7 +97,7 @@ This file contains definitions and example usage for "K" words found in the insp
 ## Knead
 
 **Meaning**: To work dough or clay into a uniform mixture by pressing, folding, and stretching.
-**Usage**: "She learned to knead the dough until it was smooth and elastic."
+**Usage**: "She learned to knead the dough until it was smooth and elastic." - Repeated, careful working builds texture and strength over time.
 **Grammar**: Verb.
 **Synonyms**: Work, press, massage, blend.
 **Antonyms**: Neglect, leave untouched.

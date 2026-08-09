@@ -2,7 +2,7 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-08-07 06:36:40 - Q.md facelift completed - all 26 files OK
+Last verification: 2026-08-08 11:45:11 - A-R normalization completed - all 26 files OK
 
 ## Standard Verification Command
 
@@ -11,6 +11,10 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1"
 ```
 
 ## Recent Logs
+
+- 2026-08-08: Reasoning summary: Standardized A-R vocabulary files so section layout and entry formatting are consistent across files. Action(s) taken: Moved `## Entries` below the template block in `EnglishLearning/Vocabulary/A.md` through `EnglishLearning/Vocabulary/O.md` to align with the current pattern (`## Quick Navigation` first); normalized `EnglishLearning/Vocabulary/P.md` entries to include all required fields (`Meaning`, `Usage`, `Grammar`, `Synonyms`, `Antonyms`) for all 65 entries; fixed `K.md` usage-format outlier for `Knead`; corrected circular definition wording for `Pervaded`; ran structural and usage consistency checks across `A.md` to `R.md`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260808-114510.txt"`. Outcome / verification: all A-R files now pass structure and usage-format checks; all 26 letter files verified OK; log saved at Logs/verify-20260808-114510.txt.
+
+- 2026-08-08: Reasoning summary: Facelifted `R.md` to match the repository vocabulary style by adding quick navigation, completing five-field metadata for all entries, and correcting the mixed `Rejuvenate`/`Relinquish` content. Action(s) taken: Added `## Quick Navigation` and `## Entries` in `EnglishLearning/Vocabulary/R.md`; added missing `Grammar`, `Synonyms`, and `Antonyms` fields for every R entry; split the misplaced relinquish sentence into a dedicated `Relinquish` entry; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260808-102216.txt"`. Outcome / verification: all 26 letter files OK; `R.md` -> OK (41 words); log saved at Logs/verify-20260808-102216.txt.
 
 - 2026-08-07: Reasoning summary: Facelifted `Q.md` with quick navigation and complete five-field learning metadata while preserving existing meanings, examples, and alphabetical order. Action(s) taken: Added `## Quick Navigation` and `## Entries`; added missing `Grammar`, `Synonyms`, and `Antonyms` fields for all Q entries; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260807-063640.txt"`. Outcome / verification: all 26 letter files OK; `Q.md` -> OK (13 words); log saved at Logs/verify-20260807-063640.txt.
 

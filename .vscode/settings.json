@@ -342,6 +342,10 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q\\}\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R\\}\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
