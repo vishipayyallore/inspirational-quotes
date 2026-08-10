@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "E" words found in the inspirational quotes collection.
 
-
 ## Quick Navigation
 
 - [Ebullient](#ebullient)
@@ -49,9 +48,6 @@ This file contains definitions and example usage for "E" words found in the insp
 **Synonyms**: Comma-separated related words.
 **Antonyms**: Comma-separated opposite words.
 -->
-
-## Entries
-
 
 ## Ebullient
 

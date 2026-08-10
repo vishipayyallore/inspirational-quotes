@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "C" words found in the inspirational quotes collection.
 
-
 ## Quick Navigation
 
 - [Caesura](#caesura)
@@ -73,9 +72,6 @@ This file contains definitions and example usage for "C" words found in the insp
 **Synonyms**: Comma-separated related words.
 **Antonyms**: Comma-separated opposite words.
 -->
-
-## Entries
-
 
 ## Caesura
 

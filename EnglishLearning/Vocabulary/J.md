@@ -2,7 +2,6 @@
 
 This file contains curated "J" vocabulary for English learning, with practical examples tied to clarity, expression, and personal growth.
 
-
 ## Quick Navigation
 
 - [Jaggery](#jaggery)
@@ -28,9 +27,6 @@ This file contains curated "J" vocabulary for English learning, with practical e
 **Synonyms**: Comma-separated related words.
 **Antonyms**: Comma-separated opposite words.
 -->
-
-## Entries
-
 
 ## Jaggery
 

@@ -2,7 +2,6 @@
 
 This file contains definitions and example usage for "D" words found in the inspirational quotes collection.
 
-
 ## Quick Navigation
 
 - [Dabble](#dabble)
@@ -47,9 +46,6 @@ This file contains definitions and example usage for "D" words found in the insp
 **Synonyms**: comma-separated related words
 **Antonyms**: comma-separated opposite words
 -->
-
-## Entries
-
 
 ## Dabble
 

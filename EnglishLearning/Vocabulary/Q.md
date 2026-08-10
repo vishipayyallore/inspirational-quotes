@@ -28,8 +28,6 @@ This file contains definitions and example usage for "Q" words found in the insp
 **Antonyms**: Comma-separated opposite words.
 -->
 
-## Entries
-
 ## Qanat
 
 **Meaning**: An underground channel or conduit for transporting water, especially in arid regions.
