@@ -350,6 +350,10 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/S\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^Set-Location 'c:/GitHub/inspirational-quotes'; pwsh -NoProfile -ExecutionPolicy Bypass -File 'Scripts/Verify-Vocabulary\\.ps1' -Root 'c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary' -OutFile 'Logs/verify-20260810-103000\\.txt'$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
