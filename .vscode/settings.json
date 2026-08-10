@@ -354,6 +354,18 @@
         "/^Set-Location 'c:/GitHub/inspirational-quotes'; pwsh -NoProfile -ExecutionPolicy Bypass -File 'Scripts/Verify-Vocabulary\\.ps1' -Root 'c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary' -OutFile 'Logs/verify-20260810-103000\\.txt'$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^Set-Location 'c:/GitHub/inspirational-quotes'; python - <<'PY'\nfrom pathlib import Path\nimport re\nfiles = \\[f'EnglishLearning/Vocabulary/\\{c\\}\\.md' for c in 'ABCDEFGHIJKLMNOPQRST'\\]\nfor f in files:\n    p = Path\\(f\\)\n    txt = p\\.read_text\\(encoding='utf-8'\\)\n    issues = \\[\\]\n    if '## Quick Navigation' not in txt:\n        issues\\.append\\('missing quick nav'\\)\n    if '## Entries' not in txt:\n        issues\\.append\\('missing entries section'\\)\n    # count headings of form ## WordName\n    words = re\\.findall\\(r'\\^##\\\\s\\+\\(\\.\\+\\)\\$', txt, flags=re\\.M\\)\n    # exclude headings that are not words\\? since $/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^Set-Location 'c:/GitHub/inspirational-quotes'; python -c \"from pathlib import Path; import re, sys; files=\\[f'EnglishLearning/Vocabulary/\\{c\\}\\.md' for c in 'ABCDEFGHIJKLMNOPQRST'\\]; bad=\\[\\]; for f in files: p=Path\\(f\\); txt=p\\.read_text\\(encoding='utf-8'\\); if '## Quick Navigation' not in txt: bad\\.append\\(\\(f,'missing quick nav'\\)\\); if '## Entries' not in txt: bad\\.append\\(\\(f,'missing entries section'\\)\\); entries=re\\.findall\\(r'\\^##\\\\s\\+\\(\\.\\+\\)\\$', txt, flags=re\\.M\\); for w in entries: if w in \\{'Quick Navigation','Entries','WordName'\\}: continue; block=re\\.search\\(rf'\\^##\\\\s\\+\\{re\\.escape\\(w\\)\\}\\\\s\\*\\$\\.\\*\\?\\(\\?=\\^##\\\\s\\+\\|\\\\Z\\)', txt, flags=re\\.M\\|re\\.S\\); if block: b=block\\.group\\(0\\); if '\\*\\*Grammar\\*\\*:' not in b or '\\*\\*Synonyms\\*\\*:' not in b or '\\*\\*Antonyms\\*\\*:' not in b: bad\\.append\\(\\(f,'missing metadata for '\\+w\\)\\); print\\(f'CHECK \\{f\\}: \\{len\\(entries\\)\\} headings'\\); print\\('BAD', bad\\[-10:\\]\\); break\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^Set-Location 'c:/GitHub/inspirational-quotes'; python - <<'PY'\nfrom pathlib import Path\nfiles = \\[f'EnglishLearning/Vocabulary/\\{c\\}\\.md' for c in 'ABCDEFGHIJKLMNOPQRST'\\]\nfor f in files:\n    p = Path\\(f\\)\n    txt = p\\.read_text\\(encoding='utf-8'\\)\n    old = '\\\\n## Entries\\\\n\\\\n'\n    if old in txt:\n        txt = txt\\.replace\\(old, '\\\\n'\\)\n        p\\.write_text\\(txt, encoding='utf-8'\\)\n        print\\(f'updated \\{f\\}'\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
