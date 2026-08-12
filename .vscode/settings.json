@@ -366,6 +366,18 @@
         "/^Set-Location 'c:/GitHub/inspirational-quotes'; python - <<'PY'\nfrom pathlib import Path\nfiles = \\[f'EnglishLearning/Vocabulary/\\{c\\}\\.md' for c in 'ABCDEFGHIJKLMNOPQRST'\\]\nfor f in files:\n    p = Path\\(f\\)\n    txt = p\\.read_text\\(encoding='utf-8'\\)\n    old = '\\\\n## Entries\\\\n\\\\n'\n    if old in txt:\n        txt = txt\\.replace\\(old, '\\\\n'\\)\n        p\\.write_text\\(txt, encoding='utf-8'\\)\n        print\\(f'updated \\{f\\}'\\)\nPY$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -OutFile \"Logs/verify-\\$\\(Get-Date -Format 'yyyyMMdd-HHmmss'\\)\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"C:\\\\GitHub\\\\inspirational-quotes\\\\Scripts\\\\Verify-Vocabulary\\.ps1\" -VocabPath \"C:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary\" -OutFile \"C:\\\\GitHub\\\\inspirational-quotes\\\\Logs\\\\verify-\\$\\(Get-Date -Format 'yyyyMMdd-HHmmss'\\)\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"C:\\\\GitHub\\\\inspirational-quotes\\\\Scripts\\\\Verify-Vocabulary\\.ps1\" -Root \"C:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
