@@ -378,6 +378,18 @@
         "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"C:\\\\GitHub\\\\inspirational-quotes\\\\Scripts\\\\Verify-Vocabulary\\.ps1\" -Root \"C:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary\" -OutFile \"Logs/verify-20260813-v-facelift\\.txt\" -ShowMismatches$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary\" -ShowMismatches; Write-Output \"EXIT_CODE=\\$LASTEXITCODE\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/V\\.md\" \"Scripts/Debug\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
