@@ -398,6 +398,10 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\{A\\.\\.V\\}\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-20260815-w-facelift\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
