@@ -410,6 +410,10 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"Krishna-Niti/01-smile-and-survive-the-court\\.md\" \"Krishna-Niti/02-dont-expect-eagles-to-live-by-lamb-morality\\.md\" \"Krishna-Niti/03-means-must-serve-dharma\\.md\" \"Krishna-Niti/04-strategy-over-strength\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^lychee --config lychee\\.toml README\\.md$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }

@@ -28,7 +28,7 @@ An alphabetically organized collection of words with:
 - Related words (`Synonyms`)
 - Opposite words (`Antonyms`)
 
-[Vocabulary Index](./EnglishLearning/Vocabulary/VocabularyDefinitions.md)
+[Vocabulary Index](./EnglishLearning/Vocabulary/_VocabularyDefinitions.md)
 
 ### 3. English Learning Foundations
 
