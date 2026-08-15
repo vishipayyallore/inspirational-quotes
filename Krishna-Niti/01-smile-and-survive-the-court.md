@@ -8,6 +8,14 @@
 
 ---
 
+### Reading the Niti
+
+> **Source** — What the original passage is saying.
+>
+> **Krishna Interpretation** — The lesson we draw through Krishna, Dharma, and the Gita.
+>
+> **Practical Application** — How the principle can be applied in life, leadership, and work.
+
 ## 1. Meaning in Simple Words
 
 Lord Chesterfield is saying that royal courts — places filled with **power, ambition, competition, ego, and conflicting interests** — function partly because people observe rules of politeness and good manners.
