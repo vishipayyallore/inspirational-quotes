@@ -9,6 +9,7 @@ A personal collection of timeless wisdom translated into practical principles fo
 1. [Smile and Survive the Court](01-smile-and-survive-the-court.md)
 2. [Don't Expect Eagles to Live by Lamb Morality](02-dont-expect-eagles-to-live-by-lamb-morality.md)
 3. [Means Must Serve Dharma](03-means-must-serve-dharma.md)
+4. [Strategy Over Strength](04-strategy-over-strength.md)
 
 ## Summary
 
@@ -23,3 +24,7 @@ A personal collection of timeless wisdom translated into practical principles fo
 ### 3. Krishna Niti 03 teaches `how to choose your actions`
 
 > *Methods must serve Dharma.*
+
+### 4. Krishna Niti 04 teaches `how to think strategically`
+
+> *Reaction wins the moment. Strategy wins the future.*
