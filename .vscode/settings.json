@@ -398,6 +398,22 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\{A\\.\\.V\\}\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-20260815-w-facelift\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\"; if \\(\\$LASTEXITCODE -ne 0\\) \\{ exit \\$LASTEXITCODE \\}; npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\*\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"Krishna-Niti/01-smile-and-survive-the-court\\.md\" \"Krishna-Niti/02-dont-expect-eagles-to-live-by-lamb-morality\\.md\" \"Krishna-Niti/03-means-must-serve-dharma\\.md\" \"Krishna-Niti/04-strategy-over-strength\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^lychee --config lychee\\.toml README\\.md$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }

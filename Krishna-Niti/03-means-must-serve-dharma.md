@@ -8,6 +8,14 @@
 
 ---
 
+### Reading the Niti
+
+> **Source** — What the original passage is saying.
+>
+> **Krishna Interpretation** — The lesson we draw through Krishna, Dharma, and the Gita.
+>
+> **Practical Application** — How the principle can be applied in life, leadership, and work.
+
 ## 1. Meaning in Simple Words
 
 Goethe makes a practical observation about human affairs.
