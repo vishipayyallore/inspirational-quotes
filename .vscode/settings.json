@@ -414,6 +414,14 @@
         "/^lychee --config lychee\\.toml README\\.md$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-20260816-214541\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/X\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
