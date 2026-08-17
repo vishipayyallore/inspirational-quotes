@@ -426,6 +426,10 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\{A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X\\}\\.md\"; pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\[A-Y\\]\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
