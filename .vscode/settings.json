@@ -430,6 +430,10 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\[A-Y\\]\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/Z\\.md\" \"Scripts/Debug\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
