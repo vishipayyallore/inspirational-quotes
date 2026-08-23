@@ -1372,12 +1372,12 @@
 
 | Word | Supplied meaning | Supplied work or data example | Status |
 | --- | --- | --- | --- |
+| Accustomed | Used to; familiar with. | "Users are accustomed to 200ms latency." | Pending organization; noted as repeated on 03-Jul |
+| Envision | Imagine; picture in the mind. | "Envision the data pipeline before building." | Pending organization; noted as repeated on 29-Jun |
 | Premise | Basic idea or assumption something is built on. | "The premise of Naive Bayes is feature independence." | Pending organization |
 | Prolific | Producing a lot; very productive. | "A prolific researcher publishes 10 papers a year." | Pending organization |
-| Accustomed | Used to; familiar with. | "Users are accustomed to 200ms latency." | Pending organization; noted as repeated on 03-Jul |
-| Resonate | Connect with, make sense, or strike a chord. | "That metric doesn't resonate with the business." | Already published in `EnglishLearning/Vocabulary/R.md` |
-| Envision | Imagine; picture in the mind. | "Envision the data pipeline before building." | Pending organization; noted as repeated on 29-Jun |
 | Re-envision | Imagine again, redesign, or think of a new way. | "Let's re-envision this feature for v2." | Pending organization |
+| Resonate | Connect with, make sense, or strike a chord. | "That metric doesn't resonate with the business." | Already published in `EnglishLearning/Vocabulary/R.md` |
 
 ### Supplied Mini Story
 
