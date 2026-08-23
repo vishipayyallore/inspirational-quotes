@@ -67,7 +67,7 @@ He negotiated.
 
 He maintained his composure.
 
-He gave peace every reasonable opportunity before accepting that conflict had become unavoidable.
+He pursued peace through diplomacy and negotiation before the conflict became unavoidable.
 
 This is an important distinction:
 
@@ -111,11 +111,11 @@ The person who maintains composure retains more options.
 
 ### Rule 2: Vani Ka Anushasan — Discipline of Speech
 
-The Bhagavad Gita 17.15 describes disciplined speech using the expression:
+The Bhagavad Gita 17.15 describes disciplined speech as speech that is **non-agitating, truthful, pleasant, and beneficial**.
 
-> **anudvega-karam vakyam**
+One of the expressions used is:
 
-Speech should not unnecessarily create agitation.
+> **anudvega-karam vākyam**
 
 This does not mean avoiding difficult truths.
 
@@ -234,6 +234,16 @@ Technical strength without interpersonal discipline can create avoidable enemies
 
 Interpersonal discipline allows technical strength to travel further.
 
+### Personality Rule
+
+> **Build Shakti to act and Samyam to not react.**
+
+Strength without self-control becomes aggression.
+
+Self-control without strength can become passivity.
+
+Maturity requires both.
+
 ---
 
 ## 7. Leadership Lesson
@@ -261,6 +271,20 @@ They separate:
 **Courtesy ≠ Weakness**
 
 That distinction is leadership maturity.
+
+### Leadership Rule
+
+> **Create an environment where disagreement can exist without becoming personal.**
+
+Set the tone.
+
+Clarify ownership.
+
+Make decisions transparent.
+
+Reward contribution.
+
+Address destructive behaviour early.
 
 ---
 
@@ -331,12 +355,41 @@ And when the environment becomes difficult:
 >
 > **Be diplomatic without surrendering your position.**
 
+---
+
 ## Examples
 
-- **Politeness as strategy:** Instead of saying, "Your proposal will not work," say, "I see the value in your proposal. Could we also consider how it would affect the budget and timeline?" This keeps the discussion focused on the decision rather than turning it into a personal conflict.
-- **Courteous without being naive:** "Thank you for the offer. I will review the details before I make a decision."
-- **Calm without being weak:** "I understand that this is urgent, but I cannot approve it without the required information."
-- **Diplomatic without surrendering your position:** "I respect your view. However, I believe this approach creates too much risk, so I recommend we proceed with the original plan."
+### Politeness as Strategy
+
+Instead of saying:
+
+> "Your proposal will not work."
+
+Say:
+
+> "I see the value in your proposal. Could we also consider how it would affect the budget and timeline?"
+
+This keeps the discussion focused on the decision rather than turning it into a personal conflict.
+
+### Courteous Without Being Naive
+
+> "Thank you for the offer. I will review the details before I make a decision."
+
+Courtesy does not require immediate trust or commitment.
+
+### Calm Without Being Weak
+
+> "I understand that this is urgent, but I cannot approve it without the required information."
+
+Composure and boundaries can exist together.
+
+### Diplomatic Without Surrendering Your Position
+
+> "I respect your view. However, I believe this approach creates too much risk, so I recommend we proceed with the original plan."
+
+Respecting another person's position does not require abandoning your own.
+
+---
 
 ## Remember
 
