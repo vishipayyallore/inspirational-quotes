@@ -430,6 +430,14 @@
         "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\[A-Y\\]\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/Z\\.md\" \"Scripts/Debug\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\"; npx --yes markdownlint-cli2@0\\.23\\.0 \"EnglishLearning/Vocabulary/\\[A-Z\\]\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
