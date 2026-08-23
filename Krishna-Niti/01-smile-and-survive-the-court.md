@@ -331,6 +331,13 @@ And when the environment becomes difficult:
 >
 > **Be diplomatic without surrendering your position.**
 
+## Examples
+
+- **Politeness as strategy:** Instead of saying, "Your proposal will not work," say, "I see the value in your proposal. Could we also consider how it would affect the budget and timeline?" This keeps the discussion focused on the decision rather than turning it into a personal conflict.
+- **Courteous without being naive:** "Thank you for the offer. I will review the details before I make a decision."
+- **Calm without being weak:** "I understand that this is urgent, but I cannot approve it without the required information."
+- **Diplomatic without surrendering your position:** "I respect your view. However, I believe this approach creates too much risk, so I recommend we proceed with the original plan."
+
 ## Remember
 
 > **Manners + Process = Protection.**
