@@ -2,7 +2,9 @@
 
 Short log and pointers to timestamped verification outputs. Keep this file concise.
 
-Last verification: 2026-08-21 07:35:34 - Z facelift completed - all 26 files OK
+Last verification: 2026-08-24 07:15:33 - Added 'Candid' to C.md - all 26 files OK
+
+- 2026-08-24: Reasoning summary: Added `Candid` to C.md between `Canary` and `Candor` with complete five-field metadata while preserving alphabetical order. Action(s) taken: Updated Quick Navigation in C.md; inserted new entry with `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms`; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260824-071533.txt"`. Outcome / verification: all 26 letter files OK; `C.md` -> OK (59 words); log saved at `Logs/verify-20260824-071533.txt`.
 
 - 2026-08-21: Reasoning summary: Facelifted `Z.md` to match the repository's polished vocabulary layout with quick navigation and complete five-field metadata while preserving the existing alphabetized word set. Action(s) taken: Added `## Quick Navigation` and missing `Grammar`, `Synonyms`, and `Antonyms` entries for all Z words; ran `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260821-073534.txt"`. Outcome / verification: all 26 letter files OK; `Z.md` -> OK (6 words); log saved at `Logs/verify-20260821-073534.txt`.
 
