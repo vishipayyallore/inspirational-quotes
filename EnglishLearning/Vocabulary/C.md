@@ -7,6 +7,7 @@ This file contains definitions and example usage for "C" words found in the insp
 - [Caesura](#caesura)
 - [Calque](#calque)
 - [Canary](#canary)
+- [Candid](#candid)
 - [Candor](#candor)
 - [Caparison](#caparison)
 - [Caressing](#caressing)
@@ -96,6 +97,14 @@ This file contains definitions and example usage for "C" words found in the insp
 **Grammar**: Countable noun; plural: canaries.
 **Synonyms**: songbird, warning signal, indicator
 **Antonyms**: reassurance, safety signal
+
+## Candid
+
+**Meaning**: Straightforward, frank, and honest; expressing one's thoughts openly without hiding anything.
+**Usage**: "A candid conversation about our challenges brought us closer than years of polite surface-level talk." - Shows how honest communication builds genuine understanding and connection.
+**Grammar**: Adjective.
+**Synonyms**: frank, honest, open, straightforward
+**Antonyms**: evasive, dishonest, deceitful
 
 ## Candor
 
