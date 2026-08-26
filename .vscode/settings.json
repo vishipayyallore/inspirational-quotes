@@ -442,6 +442,26 @@
         "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary\" -OutFile \"Logs/verify-20260824-071533\\.txt\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary\" -ShowMismatches$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^pwsh -NoProfile -ExecutionPolicy Bypass -File \"Scripts/Verify-Vocabulary\\.ps1\" -Root \"c:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary\" -OutFile \"Logs/verify-\\$\\(Get-Date -Format 'yyyyMMdd-HHmmss'\\)\\.txt\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx markdownlint-cli \"Krishna-Niti/05-be-the-protector-not-the-predator\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx markdownlint-cli --fix \"Krishna-Niti/05-be-the-protector-not-the-predator\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git add Krishna-Niti/05-be-the-protector-not-the-predator\\.md$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
