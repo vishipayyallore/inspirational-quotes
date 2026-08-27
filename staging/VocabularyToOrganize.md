@@ -8,14 +8,6 @@
 **Synonyms**: miserable, terrible, complete
 **Antonyms**: hopeful, prosperous, dignified
 
-## Accustomed
-
-**Meaning**: Used to or familiar with something because of regular experience.
-**Usage**: "Users are accustomed to 200ms latency."
-**Grammar**: Adjective
-**Synonyms**: used to, familiar with, habituated
-**Antonyms**: unaccustomed, unfamiliar, unused
-
 ## Altar
 
 **Meaning**: A table used in religious ceremonies.
@@ -257,15 +249,6 @@
 **Grammar**: Adverb
 **Synonyms**: experimentally, observationally, evidence-based
 **Antonyms**: theoretically, speculatively, hypothetically
-
-## Envision
-
-**Meaning**: To imagine or picture something in the mind, especially a future possibility.
-**Usage**: "Envision the data pipeline before building."
-**Grammar**: Verb
-**Synonyms**: imagine, visualize, picture
-**Antonyms**: overlook, disregard, ignore
-
 
 ## Eradicate
 
@@ -779,15 +762,6 @@
 **Synonyms**: favor, choose, opt for
 **Antonyms**: dislike, reject, avoid
 
-## Premise
-
-**Meaning**: A basic idea or assumption on which an argument, theory, or plan is built.
-**Usage**: "The premise of Naive Bayes is feature independence."
-**Grammar**: Noun
-**Synonyms**: assumption, basis, foundation
-**Antonyms**: conclusion, consequence, result
-
-
 ## Presume
 
 **Meaning**: Assume something is true without proof
@@ -813,15 +787,6 @@
 **Grammar**: Verb (past tense of proclaim)
 **Synonyms**: declared, announced, pronounced
 **Antonyms**: concealed, denied, retracted
-
-## Prolific
-
-**Meaning**: Producing a large amount of work or results; very productive.
-**Usage**: "A prolific researcher publishes 10 papers a year."
-**Grammar**: Adjective
-**Synonyms**: productive, fruitful, abundant
-**Antonyms**: unproductive, barren, sparse
-
 
 ## Propel
 
@@ -875,15 +840,6 @@
 **Grammar**: Noun
 **Synonyms**: hermit, loner, solitary
 **Antonyms**: socialite, extrovert, participant
-
-## Re-envision
-
-**Meaning**: To imagine, redesign, or think about something again in a new way.
-**Usage**: "Let's re-envision this feature for v2."
-**Grammar**: Verb
-**Synonyms**: rethink, redesign, reimagine
-**Antonyms**: preserve, retain, maintain
-
 
 ## Reinforces
 
@@ -1405,66 +1361,4 @@
 **Grammar**: Verb (past tense of yank)
 **Synonyms**: pulled, jerked, tugged
 **Antonyms**: pushed, released, eased
-
-## 05-Jul-2026
-1. Premise
-2. Prolific
-3. Accustomed
-
-## Altar
-**Meaning**: A table used in religious ceremonies.
-**Usage**: "Offering placed on the altar."
-**Grammar**: Noun
-**Synonyms**: shrine, chancel table, sacred table
-**Antonyms**: secular space, profane area
-
-## Envision
-**Meaning**: To imagine or picture something in the mind, especially a future possibility.
-**Usage**: "Envision the data pipeline before building."
-**Grammar**: Verb
-**Synonyms**: imagine, visualize, picture
-**Antonyms**: overlook, disregard, ignore
-
-## Eradicate
-**Meaning**: To destroy completely; wipe out.
-**Usage**: "We need to eradicate bugs from the code."
-**Grammar**: Verb
-**Synonyms**: eliminate, exterminate, wipe out
-**Antonyms**: establish, preserve, foster
-
-## Premise
-**Meaning**: A basic idea or assumption on which an argument, theory, or plan is built.
-**Usage**: "The premise of Naive Bayes is feature independence."
-**Grammar**: Noun
-**Synonyms**: assumption, basis, foundation
-**Antonyms**: conclusion, consequence, result
-
-## Prolific
-**Meaning**: Producing a large amount of work or results; very productive.
-**Usage**: "A prolific researcher publishes 10 papers a year."
-**Grammar**: Adjective
-**Synonyms**: productive, fruitful, abundant
-**Antonyms**: unproductive, barren, sparse
-
-## Re-envision
-**Meaning**: To imagine, redesign, or think about something again in a new way.
-**Usage**: "Let's re-envision this feature for v2."
-**Grammar**: Verb
-**Synonyms**: rethink, redesign, reimagine
-**Antonyms**: preserve, retain, maintain
-
-## Reinforces
-**Meaning**: Strengthens or supports something further
-**Usage**: "I used Reinforces in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammar**: Verb (third-person singular)
-**Synonyms**: strengthens, bolsters, supports
-**Antonyms**: weakens, undermines, erodes
-
-## 05-Jul-2026
-1. Premise
-2. Prolific
-3. Accustomed
-4. Resonate
-5. Envision
-6. Re-envision
 

@@ -17,6 +17,7 @@ This file contains definitions and example usage for "E" words found in the insp
 - [Enduring](#enduring)
 - [Enkindle](#enkindle)
 - [Entail](#entail)
+- [Envision](#envision)
 - [Envisioned](#envisioned)
 - [Envy](#envy)
 - [Ephemeral](#ephemeral)
