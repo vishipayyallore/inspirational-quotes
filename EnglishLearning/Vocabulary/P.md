@@ -449,6 +449,14 @@ This file contains definitions and example usage for "P" words found in the insp
 **Synonyms**: context-dependent equivalent, related term
 **Antonyms**: context-dependent opposite, contrasting term
 
+## Premise
+
+**Meaning**: A basic idea or assumption on which an argument, theory, or plan is built.
+**Usage**: "The premise of Naive Bayes is feature independence."
+**Grammar**: Noun
+**Synonyms**: assumption, basis, foundation
+**Antonyms**: conclusion, consequence, result
+
 ## Prescience
 
 **Meaning**: Knowledge of or insight into events before they happen; foresight.
@@ -536,6 +544,14 @@ This file contains definitions and example usage for "P" words found in the insp
 **Grammar**: Adjective.
 **Synonyms**: context-dependent equivalent, related term
 **Antonyms**: context-dependent opposite, contrasting term
+
+## Prolific
+
+**Meaning**: Producing a large amount of work or results; very productive.
+**Usage**: "A prolific researcher publishes 10 papers a year."
+**Grammar**: Adjective
+**Synonyms**: productive, fruitful, abundant
+**Antonyms**: unproductive, barren, sparse
 
 ## Prominent
 

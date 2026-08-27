@@ -106,6 +106,14 @@ This file contains definitions and example usage for "A" words found in the insp
 **Synonyms**: cultural adaptation, assimilation, integration, adjustment
 **Antonyms**: isolation, separation, cultural resistance, alienation
 
+## Accustomed
+
+**Meaning**: Used to or familiar with something because of regular experience.
+**Usage**: "Users are accustomed to 200ms latency."
+**Grammar**: Adjective
+**Synonyms**: used to, familiar with, habituated
+**Antonyms**: unaccustomed, unfamiliar, unused
+
 ## Acedia
 
 **Meaning**: Spiritual or mental sloth; a state of listlessness or torpor, often linked to apathy or depression.

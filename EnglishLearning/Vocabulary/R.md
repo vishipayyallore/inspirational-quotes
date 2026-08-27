@@ -18,6 +18,7 @@ This file contains definitions and example usage for "R" words found in the insp
 - [Redacted](#redacted)
 - [Redaction](#redaction)
 - [Regnant](#regnant)
+- [Re-envision](#re-envision)
 - [Reify](#reify)
 - [Reinforce](#reinforce)
 - [Reinforcement](#reinforcement)
@@ -119,6 +120,14 @@ This file contains definitions and example usage for "R" words found in the insp
 **Grammar**: Verb (past tense and past participle of rat, informal).
 **Synonyms**: informed, betrayed, exposed, tattled
 **Antonyms**: protected, defended, stayed loyal
+
+## Re-envision
+
+**Meaning**: To imagine, redesign, or think about something again in a new way.
+**Usage**: "Let's re-envision this feature for v2."
+**Grammar**: Verb
+**Synonyms**: rethink, redesign, reimagine
+**Antonyms**: preserve, retain, maintain
 
 ## Reciprocate
 
