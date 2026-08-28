@@ -99,7 +99,7 @@ That is the Niti.
 
 ## 4. Three Rules for Self-Protection
 
-## Rule 1: Start With Understanding
+### Rule 1: Start With Understanding
 
 The first response to disagreement should not be force.
 
@@ -114,13 +114,13 @@ Ask:
 
 Many conflicts disappear once interests become clear.
 
-**Office Rule**
+#### Office Rule: Seek Understanding First
 
 > **Seek understanding before exercising authority.**
 
 ---
 
-## Rule 2: Escalate Methods, Not Emotions
+### Rule 2: Escalate Methods, Not Emotions
 
 Do not begin with the strongest response.
 
@@ -148,13 +148,13 @@ The objective is not to defeat people.
 
 The objective is to solve problems.
 
-**Office Rule**
+#### Office Rule: Increase Structure Before Heat
 
 > **Increase the structure before increasing the temperature.**
 
 ---
 
-## Rule 3: Let Dharma Choose the Method
+### Rule 3: Let Dharma Choose the Method
 
 Different situations require different responses.
 
@@ -176,7 +176,7 @@ Personal ego should never determine the response.
 
 Purpose should.
 
-**Office Rule**
+#### Office Rule: Serve the Mission
 
 > **Choose the method that serves the mission—not your emotions.**
 

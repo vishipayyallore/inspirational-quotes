@@ -107,7 +107,7 @@ Therefore, the objective is not to "win" the emotional moment.
 
 The objective is to **retain command of yourself**.
 
-#### Office Rule
+#### Office Rule: Hold the Ground
 
 > **When provoked, lower your voice, slow your response, and remain composed.**
 
@@ -181,20 +181,16 @@ It is:
 When ambiguity or disagreement begins increasing, introduce structure:
 
 > "Let's document the decision."
-
 > "Let's confirm the ownership."
-
 > "Let's capture the agreed next steps."
-
 > "Let's summarise this in writing so everyone has the same understanding."
-
 > "Let's align with the relevant stakeholders before proceeding."
 
 Written decisions, clear ownership, meeting notes, explicit priorities, and stakeholder alignment reduce the space available for later misunderstanding or reinterpretation.
 
 Escalation mechanisms such as management or HR should be used deliberately when the situation genuinely warrants them — not as the first response to ordinary disagreement.
 
-#### Office Rule
+#### Office Rule: Introduce Process Early
 
 > **Do not wait for conflict to become personal. Introduce clarity and process early.**
 
@@ -279,13 +275,13 @@ without communicating:
 
 They separate:
 
-**Person ≠ Position**
+### Person ≠ Position
 
-**Disagreement ≠ Disloyalty**
+### Disagreement ≠ Disloyalty
 
-**Assertiveness ≠ Aggression**
+### Assertiveness ≠ Aggression
 
-**Courtesy ≠ Weakness**
+### Courtesy ≠ Weakness
 
 That distinction is leadership maturity.
 
@@ -382,7 +378,7 @@ And when the environment becomes difficult:
 
 ---
 
-# How to Apply This Niti
+## How to Apply This Niti
 
 The purpose of this Niti is not simply to "be polite."
 
@@ -580,7 +576,7 @@ Escalate when the issue requires:
 
 ---
 
-# B. How to Apply It in Personal Life
+## B. How to Apply It in Personal Life
 
 The same principle applies outside work.
 
@@ -788,36 +784,22 @@ Respecting another person's position does not require abandoning your own.
 
 ---
 
-# Remember
+## Remember
 
 > **Manners + Process = Protection.**
-
-When challenged:
-
+>
 > **Pause before reacting.**
-
-When disagreeing:
-
+>
 > **Attack the issue, not the person.**
-
-When uncertain:
-
+>
 > **Create clarity.**
-
-When trust is incomplete:
-
+>
 > **Be courteous, but trust progressively.**
-
-When boundaries are crossed:
-
+>
 > **Be firm without becoming hostile.**
-
-When conflict escalates:
-
+>
 > **Move from emotion to process.**
-
-And above all:
-
+>
 > **Be strong enough to protect yourself without becoming the source of the conflict.**
 
 ---
@@ -825,15 +807,10 @@ And above all:
 ## Final Principle
 
 > **Politeness is not about pleasing everyone.**
->
 > **It is about retaining self-control, preserving dignity, reducing unnecessary conflict, and keeping your options open.**
-
 > **The smile is not surrender.**
->
 > **The calm is not weakness.**
->
 > **The courtesy is not blindness.**
->
 > **The process is your protection.**
 
 ### Krishna Niti 01

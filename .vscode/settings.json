@@ -478,6 +478,14 @@
         "/^python -c \"import re, pathlib; root=pathlib\\.Path\\(r'C:\\\\GitHub\\\\inspirational-quotes\\\\EnglishLearning\\\\Vocabulary'\\); staging=pathlib\\.Path\\(r'C:\\\\GitHub\\\\inspirational-quotes\\\\staging\\\\VocabularyToOrganize\\.md'\\); norm=lambda s:\\(re\\.sub\\(r'\\[\\^a-z0-9\\]\\+',' ', s\\.strip\\(\\)\\.replace\\('–','-'\\)\\.replace\\('—','-'\\)\\.replace\\('&',' and '\\)\\.casefold\\(\\)\\)\\)\\.strip\\(\\); vocab=set\\(\\);\nfor p in sorted\\(root\\.glob\\('\\*\\.md'\\)\\):\n    for m in re\\.finditer\\(r'\\(\\?m\\)\\^##\\\\s\\+\\(\\.\\+\\?\\)\\\\s\\*\\$', p\\.read_text\\(encoding='utf-8', errors='ignore'\\)\\):\n        vocab\\.add\\(norm\\(m\\.group\\(1\\)\\)\\)\nstage=\\[\\]\nfor m in re\\.finditer\\(r'\\(\\?m\\)\\^##\\\\s\\+\\(\\.\\+\\?\\)\\\\s\\*\\$', staging\\.read_text\\(encoding='utf-8', errors='ignore'\\)\\):\n    stage\\.append\\(m\\.group\\(1\\)\\.strip\\(\\)\\)\npresent=\\[w for w in stage if norm\\(w\\) in vocab\\]; missing=\\[w for w in stage if norm\\(w\\) not in vocab\\]; print\\('TOTAL_STAGING=' \\+ str\\(len\\(stage\\)\\)\\); print\\('PRESENT=' \\+ str\\(len\\(present\\)\\)\\); print\\('MISSING=' \\+ str\\(len\\(missing\\)\\)\\); print\\('PRESENT_WORDS=' \\+ ' \\| '\\.join\\(present\\)\\); print\\('MISSING_WORDS=' \\+ ' \\| '\\.join\\(missing\\)\\)\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^npx markdownlint-cli2 \"\\*\\*/\\*\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^npx markdownlint-cli2 \"Krishna-Niti/\\*\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
