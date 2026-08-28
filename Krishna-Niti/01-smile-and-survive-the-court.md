@@ -89,7 +89,7 @@ That is the Niti.
 
 ## 4. Three Rules for Self-Protection
 
-### Rule 1: Muskurahat Is an Astra, Not Weakness
+### Rule 1: Muskurahat Is an Astra — Not Surrender
 
 A calm and pleasant manner can itself be a form of strength.
 
@@ -341,6 +341,14 @@ You can disagree without becoming disrespectful.
 You can protect yourself without becoming aggressive.
 
 You can remain courteous without becoming naive.
+
+A few principles should remain clear:
+
+> **Courtesy is not trust.**
+>
+> **Politeness is not agreement.**
+>
+> **Diplomacy is not surrender.**
 
 ---
 
@@ -810,12 +818,6 @@ When conflict escalates:
 
 And above all:
 
-> **Be courteous without becoming naive.**
->
-> **Be calm without becoming weak.**
->
-> **Be diplomatic without surrendering your position.**
->
 > **Be strong enough to protect yourself without becoming the source of the conflict.**
 
 ---
