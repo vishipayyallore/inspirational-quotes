@@ -17,6 +17,7 @@ This file contains definitions and example usage for "E" words found in the insp
 - [Enduring](#enduring)
 - [Enkindle](#enkindle)
 - [Entail](#entail)
+- [Envision](#envision)
 - [Envisioned](#envisioned)
 - [Envy](#envy)
 - [Ephemeral](#ephemeral)
@@ -152,6 +153,14 @@ This file contains definitions and example usage for "E" words found in the insp
 **Grammar**: Verb.
 **Synonyms**: involve, require, necessitate, imply
 **Antonyms**: exclude, avoid, prevent, omit
+
+## Envision
+
+**Meaning**: To imagine or picture something in the mind, especially a future possibility.
+**Usage**: "Envision the data pipeline before building."
+**Grammar**: Verb
+**Synonyms**: imagine, visualize, picture
+**Antonyms**: overlook, disregard, ignore
 
 ## Envisioned
 

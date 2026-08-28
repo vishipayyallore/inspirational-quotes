@@ -130,6 +130,9 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 - Keep `Scripts/Debug.md` under 50 lines; use it only as a quick reference with pointers to detailed logs in `Logs/`
 - If a user asks to add a word and the word already exists, update the existing entry instead of duplicating it
 - If the user provides one or more of `Meaning`, `Usage`, `Grammar`, `Synonyms`, or `Antonyms`, preserve what was given and add only missing fields when it can be done cleanly without changing the intended word
+- When processing a dated list in `staging/VocabularyToOrganize.md`, first check every listed word for exact, case-insensitive, punctuation-normalized, and obvious inflection duplicates across staging and all letter files. Keep the existing complete entry as canonical, transfer only missing entries, and remove consumed definitions and list items from staging.
+- Distinguish base words from inflected forms by the user's requested spelling and existing heading; do not silently replace one with the other.
+- After adding an entry, update its letter file's quick-navigation list and `_VocabularyDefinitions.md` summary. Run the verifier with `-Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary"`, save a timestamped result in `Logs/`, and record the command and outcome in `Scripts/Debug.md`.
 
 ### Content Standards
 

@@ -32,6 +32,11 @@ Add `-ShowMismatches` to see current vs. correct order; add `-OutFile "Logs/veri
 - Put the entry in the file that matches the word's first letter and verify the exact insertion point against neighboring words.
 - Preserve all five fields (`Meaning`, `Usage`, `Grammar`, `Synonyms`, `Antonyms`) when possible; if one is missing, add only that field cleanly without rewriting unrelated content.
 - After every vocabulary edit, run the verification script and record the result in `Logs/` and `Scripts/Debug.md`.
+- For dated lists in `staging/VocabularyToOrganize.md`, process each listed word once: check exact and normalized duplicates across all letter files and staging, move complete entries to the correct letter file, then remove the transferred definition and dated list item from staging.
+- Treat inflected forms as distinct entries only when the requested word itself is the inflected form; do not add a base word when an inflected form already exists, or vice versa, without checking the user's intent.
+- Preserve an existing complete entry as the canonical copy; merge only missing fields when a duplicate has useful information, and never create duplicate headings.
+- Update the matching quick-navigation list and `_VocabularyDefinitions.md` summary when adding a letter-file entry.
+- Use the verifier with the workspace-specific root `-Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary"`; save the output under `Logs/` and note the command and result in `Scripts/Debug.md`.
 
 ## Content conventions
 
