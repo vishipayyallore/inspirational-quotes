@@ -1,13 +1,5 @@
 # Words to Organize
 
-## Abject
-
-**Meaning**: Extremely bad, miserable, or hopeless; often used for failure or poverty.
-**Usage**: "He lived in abject poverty."
-**Grammar**: Adjective
-**Synonyms**: miserable, terrible, complete
-**Antonyms**: hopeful, prosperous, dignified
-
 ## Altar
 
 **Meaning**: A table used in religious ceremonies.
@@ -26,15 +18,6 @@
 **Antonyms**: descriptive summary, non-comparative reporting, qualitative judgment
 
 
-## Apparel
-
-**Meaning**: Clothing, garments, or fashion items.
-**Usage**: "The startup expanded its apparel category with eco-friendly shirts and jackets."
-**Grammar**: Noun
-**Synonyms**: clothing, garments, attire
-**Antonyms**: nakedness, bareness, unclothed state
-
-
 ## Astray
 
 **Meaning**: Away from the correct path.
@@ -42,15 +25,6 @@
 **Grammar**: Adverb, adjective
 **Synonyms**: off course, misguided, lost
 **Antonyms**: on track, aligned, guided
-
-
-## Avionic
-
-**Meaning**: Related to electronic systems used in aircraft; the adjective form connected to avionics.
-**Usage**: "The flight navigation system is part of avionic technology."
-**Grammar**: Adjective
-**Synonyms**: avionics-related, aeronautical-electronics, flight-systems
-**Antonyms**: non-aerospace, non-electronic, mechanical-only
 
 
 ## Baster
@@ -938,15 +912,6 @@
 **Grammar**: Verb (present participle)
 **Synonyms**: undermining, wrecking, obstructing
 **Antonyms**: supporting, helping, facilitating
-
-
-## Salient
-
-**Meaning**: Most noticeable, important, or prominent.
-**Usage**: "We highlighted the salient features of the data before model training."
-**Grammar**: Adjective
-**Synonyms**: notable, prominent, striking
-**Antonyms**: minor, obscure, insignificant
 
 
 ## Sapped

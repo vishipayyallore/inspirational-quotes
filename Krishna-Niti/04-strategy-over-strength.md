@@ -118,7 +118,7 @@ A strategic person asks:
 - "What system produced this?"
 - "What structure can prevent this next time?"
 
-#### Office Rule
+#### Office Rule: Design Before Crisis
 
 > Spend less time fighting fires and more time designing the conditions that prevent fires from starting.
 
@@ -138,7 +138,7 @@ There is a difference between:
 The right use of intelligence is not to outsmart everyone.
 It is to outgrow confusion and protect the right outcomes.
 
-#### Office Rule
+#### Office Rule: Use Strategy for Clarity
 
 > Use strategy to create clarity, not to trap people. Use intelligence to safeguard dharma, not to feed ego.
 
@@ -155,7 +155,7 @@ The decisions you make quietly today shape the future more than the dramatic con
 
 If you document standards early, align people early, define ownership early, and decide values early, you prevent many later disasters.
 
-#### Office Rule
+#### Office Rule: Build Before the Crisis
 
 > Do not wait for the crisis to reveal the need for strategy. Build the structure before the problem becomes unavoidable.
 

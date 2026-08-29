@@ -170,7 +170,7 @@ One incident can be a mistake.
 
 Repeated behaviour becomes evidence.
 
-#### Office Rule
+#### Office Rule: Read the Pattern
 
 > **Stop moral-shaming. Start pattern-reading.**
 
@@ -342,13 +342,11 @@ In that case, leaving is not necessarily weakness.
 
 It can be agency.
 
-#### Office Rule
+#### Office Rule: Change Capability, Not Just Complaint
 
 > **When repeated complaining changes nothing, change your capability, boundary, process, positioning, or environment.**
-
-Do not merely become louder.
-
-Become more capable of acting.
+> Do not merely become louder.
+> Become more capable of acting.
 
 ---
 
@@ -363,11 +361,8 @@ One highly visible colleague presents the result to leadership and receives most
 Two contributors privately message each other:
 
 > "He took all the credit again."
-
 > "He's so political."
-
 > "We would never behave like that."
-
 > "Management should know who actually did the work."
 
 Perhaps all of that is true.
@@ -632,11 +627,8 @@ The goal is not to become harder than everyone around you.
 The goal is to become:
 
 > **Good without being helpless.**
-
 > **Kind without being naive.**
-
 > **Strong without becoming predatory.**
-
 > **Aware without becoming cynical.**
 
 ---
@@ -644,7 +636,6 @@ The goal is to become:
 ## 11. Personal Rule
 
 > **Be good, but develop strength.**
->
 > **Be kind, but maintain boundaries.**
 >
 > **Judge less by words and more by repeated patterns.**
