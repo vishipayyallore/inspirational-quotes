@@ -16,6 +16,8 @@
 >
 > **Practical Application** — How the principle can be applied in life, leadership, and work.
 
+---
+
 ## 1. Meaning in Simple Words
 
 Nietzsche uses **lambs and birds of prey** as a provocative metaphor for different relationships to strength, power, and morality.
@@ -84,6 +86,10 @@ That would oversimplify his argument.
 Our office and leadership applications use his metaphor as a starting point for a broader practical question:
 
 > **Am I understanding the world as it behaves, or merely judging it according to how I wish it behaved?**
+
+This Niti is therefore **not an argument for predatory behaviour**.
+
+It is an argument for **discernment, capability, and agency**.
 
 ---
 
@@ -155,7 +161,7 @@ Do not obsess about their motives.
 
 Do something more useful:
 
-**Study the pattern.**
+> **Study the pattern.**
 
 Ask:
 
@@ -212,7 +218,7 @@ Sometimes they are.
 
 But sometimes they conceal an uncomfortable reality:
 
-**We have renamed skills we have not developed as things beneath us.**
+> **We have renamed skills we have not developed as things beneath us.**
 
 There is nothing unethical about:
 
@@ -345,8 +351,10 @@ It can be agency.
 #### Office Rule: Change Capability, Not Just Complaint
 
 > **When repeated complaining changes nothing, change your capability, boundary, process, positioning, or environment.**
-> Do not merely become louder.
-> Become more capable of acting.
+
+Do not merely become louder.
+
+Become more capable of acting.
 
 ---
 
@@ -361,8 +369,11 @@ One highly visible colleague presents the result to leadership and receives most
 Two contributors privately message each other:
 
 > "He took all the credit again."
+>
 > "He's so political."
+>
 > "We would never behave like that."
+>
 > "Management should know who actually did the work."
 
 Perhaps all of that is true.
@@ -622,13 +633,16 @@ Act.
 
 But do all four without surrendering your values.
 
-The goal is not to become harder than everyone around you.
+The goal is not to become harder or more ruthless than everyone around you.
 
 The goal is to become:
 
 > **Good without being helpless.**
+>
 > **Kind without being naive.**
+>
 > **Strong without becoming predatory.**
+>
 > **Aware without becoming cynical.**
 
 ---
@@ -636,6 +650,7 @@ The goal is to become:
 ## 11. Personal Rule
 
 > **Be good, but develop strength.**
+>
 > **Be kind, but maintain boundaries.**
 >
 > **Judge less by words and more by repeated patterns.**
@@ -680,30 +695,588 @@ And retain your character.
 
 ---
 
-## Remember
+# How to Apply This Niti
 
-> **Niti 01 — Manners + Process = Protection.**
+The purpose of this Niti is not to make you suspicious of everyone.
+
+It is to develop a repeatable way of dealing with people and systems whose behaviour may not match your expectations.
+
+The pattern is:
+
+> **Observe → Assess → Prepare → Act → Review**
+
+Do not begin with:
+
+> "Is this person good or bad?"
+
+Begin with:
+
+> **"What pattern of behaviour am I observing, and what response does that pattern require?"**
+
+---
+
+## A. How to Apply It in the Office
+
+### 1. When Someone Repeatedly Takes Credit
+
+Do not immediately confront them emotionally.
+
+First create visibility.
+
+#### Before the Work
+
+Clarify ownership:
+
+> "I'll own the architecture and technical decisions. Ravi will own implementation. Priya will coordinate delivery."
+
+#### During the Work
+
+Provide concise progress updates:
+
+> "Architecture is complete. The team resolved X and Y this week. The next milestone is Z."
+
+#### At Important Decisions
+
+Record the decision:
+
+> "For reference, here is the decision, the alternatives considered, and the rationale."
+
+#### After Delivery
+
+Make contribution visible:
+
+> "Glad we delivered this successfully. Here is the contribution breakdown and the key decisions from each workstream."
+
+**Principle:**
+
+> **Do not wait until your contribution is erased before making it visible.**
+
+---
+
+### 2. When Someone Makes Promises but Repeatedly Behaves Differently
+
+Do not argue about their character.
+
+Look at the pattern.
+
+Ask:
+
+- What did they promise?
+- What did they actually do?
+- Has this happened before?
+- What changed when accountability appeared?
+- What evidence do I have?
+
+Then adjust your planning.
+
+If someone repeatedly misses commitments, stop planning critical work around verbal assurances alone.
+
+Use:
+
+- Written commitments
+- Milestones
+- Checkpoints
+- Clear ownership
+- Explicit dependencies
+
+**Principle:**
+
+> **Trust should be informed by behaviour, not words alone.**
+
+---
+
+### 3. When You Are Told, "Just Trust Me"
+
+Do not automatically interpret verification as distrust.
+
+You can say:
+
+> "I trust the intent. I would still like to document the details so we have a common understanding."
+
+Or:
+
+> "Happy to proceed. Let's capture the agreement and ownership so there is no ambiguity later."
+
+**Principle:**
+
+> **Verification is not hostility.**
+
+---
+
+### 4. When Someone Uses Organisational Politics
+
+Do not respond by becoming equally political in the negative sense.
+
+Instead, increase your organisational awareness.
+
+Understand:
+
+- Who makes the decision?
+- Who influences the decision?
+- Who owns the outcome?
+- Who needs to be informed?
+- What evidence matters?
+- What incentives are operating?
+
+Then work professionally within that reality.
+
+**Principle:**
+
+> **Understand politics without becoming consumed by politics.**
+
+---
+
+### 5. When Someone Tries to Marginalise Your Contribution
+
+Do not immediately complain:
+
+> "They don't value me."
+
+Ask:
+
+> "What part of my contribution is currently invisible?"
+
+Then improve:
+
+- Communication
+- Visibility
+- Stakeholder relationships
+- Documentation
+- Technical credibility
+- Leadership presence
+- Business understanding
+
+If the environment still systematically suppresses contribution despite repeated professional effort, evaluate whether the environment itself needs to change.
+
+**Principle:**
+
+> **Change the conditions that create vulnerability.**
+
+---
+
+### 6. When You Need to Say No
+
+You do not need to become aggressive to establish a boundary.
+
+Say:
+
+> "I cannot take this on without affecting the existing priority."
+
+Or:
+
+> "I can take this up, but we will need to move X. Which priority should we change?"
+
+Or:
+
+> "That is outside the scope I currently own. Let's clarify who should take responsibility."
+
+**Principle:**
+
+> **Agency often begins with a clear, professional "No."**
+
+---
+
+### 7. When Someone Tries to Intimidate You
+
+Do not mirror their aggression.
+
+Slow down.
+
+Return to facts.
+
+Say:
+
+> "Let's keep this focused on the decision and the evidence."
+
+Or:
+
+> "I understand the urgency. Here are the constraints we need to consider."
+
+Or:
+
+> "If you would like a different decision, let's involve the appropriate decision-maker."
+
+**Principle:**
+
+> **Confidence does not require aggression.**
+
+---
+
+### 8. When the System Itself Is Unhealthy
+
+Sometimes the problem is not one individual.
+
+It may be a system that consistently rewards:
+
+- Credit-taking
+- Blame-shifting
+- Information hoarding
+- Political behaviour
+- Unethical competition
+- Poor accountability
+
+Do not immediately conclude:
+
+> "I must become like them."
+
+First attempt:
+
+1. Improve your capability.
+2. Improve your visibility.
+3. Establish boundaries.
+4. Use process.
+5. Build healthy relationships.
+6. Seek appropriate leadership support.
+7. Evaluate whether the environment can realistically change.
+
+If the system remains fundamentally incompatible with your values and well-being, changing environments may be the most rational form of agency.
+
+**Principle:**
+
+> **You are allowed to change the environment rather than change your character.**
+
+---
+
+# B. How to Apply It in Personal Life
+
+The same principle applies outside the workplace.
+
+The "eagle and lamb" dynamic can appear in:
+
+- Friendships
+- Family relationships
+- Neighbourhood interactions
+- Financial dealings
+- Community groups
+- Social relationships
+- Negotiations
+- Situations involving trust and responsibility
+
+The lesson remains:
+
+> **See the pattern clearly without becoming cynical.**
+
+---
+
+### 1. When Someone Repeatedly Breaks Their Word
+
+Do not repeatedly argue about the promise.
+
+Look at the pattern.
+
+If someone says:
+
+> "I'll definitely do it."
+
+but repeatedly does not, adjust your expectations.
+
+You can say:
+
+> "I understand. I'll plan based on what is confirmed."
+
+Or:
+
+> "Let me know once it is final. Until then, I'll make another arrangement."
+
+**Principle:**
+
+> **Do not punish people for their pattern. Plan intelligently around it.**
+
+---
+
+### 2. When Someone Takes Advantage of Your Kindness
+
+Kindness should not require unlimited access to you.
+
+If a pattern develops:
+
+> "I have helped several times, but I won't be able to continue doing this."
+
+You do not need anger.
+
+You need a boundary.
+
+**Principle:**
+
+> **Kindness without boundaries can become self-neglect.**
+
+---
+
+### 3. When Someone Pressures You for an Immediate Decision
+
+Do not allow pressure to eliminate your judgement.
+
+Say:
+
+> "I need some time to think about this."
+
+Or:
+
+> "I will decide after I review the details."
+
+If someone refuses to give reasonable time for an important decision, treat that pressure itself as information.
+
+**Principle:**
+
+> **Urgency should not replace discernment.**
+
+---
+
+### 4. When Someone Repeatedly Violates a Boundary
+
+Do not keep explaining the same boundary indefinitely.
+
+First:
+
+> "I'd prefer that you don't do this."
+
+If repeated:
+
+> "I've already mentioned this. Please respect the boundary."
+
+If still repeated:
+
+> "Since this continues, I will need to change how I handle this situation."
+
+**Principle:**
+
+> **A boundary without a response to repeated violation is only a request.**
+
+---
+
+### 5. When Trust Has Been Broken
+
+Do not force yourself to trust again immediately.
+
+You can remain respectful while changing the level of trust.
+
+For example:
+
+> "I have no desire to hold this against you, but I will need some time before I can rely on you in the same way."
+
+Observe what happens next.
+
+Trust can be rebuilt through consistent behaviour.
+
+**Principle:**
+
+> **Forgiveness and trust are different decisions.**
+
+---
+
+### 6. When Someone Is More Aggressive Than You
+
+Do not assume that you must become aggressive to protect yourself.
+
+Remain calm.
+
+State your position.
+
+Set the boundary.
+
+If necessary, use an appropriate formal process.
+
+> "I am happy to discuss the issue, but I am not comfortable continuing the conversation in this manner."
+
+**Principle:**
+
+> **Strength does not require imitation of aggression.**
+
+---
+
+### 7. When Someone Uses Your Good Nature Against You
+
+Do not conclude:
+
+> "I should stop being good."
+
+Instead ask:
+
+> "What boundary was missing?"
+
+Maybe you need to:
+
+- Say no earlier
+- Clarify expectations
+- Stop over-explaining
+- Limit access
+- Verify commitments
+- Separate trust from kindness
+
+**Principle:**
+
+> **Improve your boundaries, not your heart.**
+
+---
+
+### 8. When You Need to Walk Away
+
+Sometimes the most powerful response is not confrontation.
+
+It is distance.
+
+If a relationship repeatedly produces:
+
+- Manipulation
+- Disrespect
+- Exploitation
+- Repeated boundary violations
+- Destructive conflict
+
+you may need to reduce your involvement.
+
+You can leave without hatred.
+
+You can forgive without returning.
+
+You can remain peaceful without remaining available.
+
+**Principle:**
+
+> **Distance can be a boundary, not a punishment.**
+
+---
+
+## Examples
+
+### Goodness Without Helplessness
+
+Instead of:
+
+> "I don't want to be political, so I'll just keep working quietly."
+
+Say:
+
+> "I will do excellent work, and I will also make the work and its outcomes appropriately visible."
+
+Goodness does not require invisibility.
+
+---
+
+### Trust Patterns, Not Promises
+
+Instead of:
+
+> "He promised he would do it, so I'll depend on him."
+
+Say:
+
+> "I'll give him the opportunity to demonstrate reliability, but I'll plan based on demonstrated behaviour."
+
+Trust can grow with evidence.
+
+---
+
+### Capability Without Aggression
+
+Instead of:
+
+> "If I want people to respect me, I need to become tough."
+
+Say:
+
+> "I need enough capability and confidence to remain calm while protecting my position."
+
+Strength does not require hostility.
+
+---
+
+### Boundaries Without Cruelty
+
+Instead of:
+
+> "If they take advantage of me, I'll teach them a lesson."
+
+Say:
+
+> "I'll make the boundary clear and change my level of involvement if it continues."
+
+Protection does not require revenge.
+
+---
+
+### Awareness Without Cynicism
+
+Instead of:
+
+> "Everyone is selfish. Nobody can be trusted."
+
+Say:
+
+> "People have different motivations. I'll remain open, but I'll let behaviour determine the level of trust."
+
+Discernment is not cynicism.
+
+---
+
+### Agency Instead of Complaint
+
+Instead of repeatedly saying:
+
+> "Management doesn't recognise my work."
+
+Ask:
+
+> "What can I change about my visibility, communication, relationships, evidence, positioning, or environment?"
+
+Then act on what is within your control.
+
+---
+
+# Remember
+
+> **Moral judgement is not protection. Discernment is.**
 >
-> **Niti 02 — Goodness + Capability + Boundaries = Strength.**
-
-Together:
-
-> **Be courteous without being blind.**
+> **Goodness is not helplessness.**
 >
+> **Kindness is not the absence of boundaries.**
+>
+> **Awareness is not cynicism.**
+>
+> **Capability is not aggression.**
+>
+> **Organisational awareness is not dirty politics.**
+>
+> **Forgiveness is not automatic restoration of trust.**
+>
+> **Distance is not revenge.**
+>
+> **Agency is stronger than repeated complaint.**
+
+And above all:
+
+> **Never become what you are protecting yourself against.**
+
+---
+
+## Final Principle
+
+> **Do not expect every person to behave according to your preferred morality.**
+>
+> **Understand the person.**
+>
+> **Observe the pattern.**
+>
+> **Develop your capability.**
+>
+> **Set your boundaries.**
+>
+> **Protect your interests.**
+>
+> **Use process when necessary.**
+>
+> **And keep your character intact.**
+
+### Krishna Niti 02
+
 > **Be good without being helpless.**
+>
+> **Be kind without being naive.**
 >
 > **Be strong without becoming predatory.**
 >
 > **See clearly without becoming cynical.**
-
-That is the third path:
-
-> **Kind enough to remain humane.**
 >
-> **Strong enough to set boundaries.**
+> **Develop capability without surrendering dharma.**
 >
-> **Wise enough to recognise patterns.**
->
-> **Disciplined enough not to become what you defend yourself against.**
-
-I would consider this **Krishna Niti 02 v1.0 / canonical**. The most important improvement is the **Third Path**: your collection is not teaching you to become an eagle; it is teaching you to develop **ethical agency—capability under the governance of dharma and self-control**.
+> **Protect yourself without becoming what you are protecting yourself against.**
