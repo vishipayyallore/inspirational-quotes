@@ -1,14 +1,5 @@
 # Words to Organize
 
-## Altar
-
-**Meaning**: A table used in religious ceremonies.
-**Usage**: "Offering placed on the altar."
-**Grammar**: Noun
-**Synonyms**: shrine, chancel table, sacred table
-**Antonyms**: secular space, profane area
-
-
 ## ANOVA
 
 **Meaning**: Analysis of Variance; a statistical test used to check whether the means of three or more groups are significantly different.

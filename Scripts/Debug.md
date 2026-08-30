@@ -20,3 +20,11 @@ Action(s) taken:
 - Removed consumed definitions and the dated list from staging
 Outcome / verification:
 All 26 vocabulary files OK; see `Logs/verify-20260827-vocabulary-organization.txt`.
+
+Reasoning summary: Moved the unique staged entry for Altar into A.md and synchronized its navigation and index.
+Action(s) taken:
+
+- Added Altar to A.md and removed its staging copy
+- Updated A.md quick navigation and `_VocabularyDefinitions.md`
+Outcome / verification:
+All 26 vocabulary files OK; see `Logs/verify-20260829-185900.txt`.

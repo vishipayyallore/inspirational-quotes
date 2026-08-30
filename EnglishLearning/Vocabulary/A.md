@@ -30,6 +30,7 @@ This file contains definitions and example usage for "A" words found in the insp
 - [Akimbo](#akimbo)
 - [Akin](#akin)
 - [Alacrity](#alacrity)
+- [Altar](#altar)
 - [Aleatory](#aleatory)
 - [Alleviate](#alleviate)
 - [Alpenglow](#alpenglow)
@@ -314,6 +315,14 @@ This file contains definitions and example usage for "A" words found in the insp
 **Grammar**: Noun; usually singular or uncountable.
 **Synonyms**: mountain glow, sunrise glow, sunset glow, rosy light
 **Antonyms**: darkness, shadow, gloom, nightfall
+
+## Altar
+
+**Meaning**: A table used in religious ceremonies.
+**Usage**: "Offering placed on the altar."
+**Grammar**: Noun
+**Synonyms**: shrine, chancel table, sacred table
+**Antonyms**: secular space, profane area
 
 ## Altruism
 

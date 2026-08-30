@@ -117,7 +117,7 @@ The person who maintains composure retains more options.
 
 ---
 
-### Rule 2: Vani Ka Anushasan — Discipline of Speech
+### Rule 2: Vani Ka Anushasan — Discipline of Speech **-- Here**
 
 The Bhagavad Gita 17.15 describes disciplined speech using the expression:
 
