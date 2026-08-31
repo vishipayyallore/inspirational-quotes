@@ -695,7 +695,7 @@ And retain your character.
 
 ---
 
-# How to Apply This Niti
+## How to Apply This Niti
 
 The purpose of this Niti is not to make you suspicious of everyone.
 
@@ -741,7 +741,7 @@ Record the decision:
 
 > "For reference, here is the decision, the alternatives considered, and the rationale."
 
-#### After Delivery
+#### After Delivery: Make It Visible
 
 Make contribution visible:
 
@@ -937,7 +937,7 @@ If the system remains fundamentally incompatible with your values and well-being
 
 ---
 
-# B. How to Apply It in Personal Life
+## B. How to Apply It in Personal Life
 
 The same principle applies outside the workplace.
 
@@ -1223,7 +1223,7 @@ Then act on what is within your control.
 
 ---
 
-# Remember
+## Remember
 
 > **Moral judgement is not protection. Discernment is.**
 >
