@@ -486,6 +486,14 @@
         "/^npx markdownlint-cli2 \"Krishna-Niti/\\*\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^cd \"c:/GitHub/inspirational-quotes\"; if \\(Get-Command markdownlint -ErrorAction SilentlyContinue\\) \\{ markdownlint \"\\*\\*/\\*\\.md\" \\} elseif \\(Get-Command npx -ErrorAction SilentlyContinue\\) \\{ npx --yes markdownlint-cli \"\\*\\*/\\*\\.md\" \\} else \\{ Write-Error \"markdownlint is not installed\\. Please install markdownlint-cli or markdownlint\\.\"; exit 1 \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd \"c:/GitHub/inspirational-quotes\"; npx --yes markdownlint-cli \"EnglishLearning/Vocabulary/A\\.md\" \"EnglishLearning/Vocabulary/_VocabularyDefinitions\\.md\" \"staging/VocabularyToOrganize\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
