@@ -44,6 +44,7 @@ This file contains definitions and example usage for "A" words found in the insp
 - [Analogous](#analogous)
 - [Anecdotes](#anecdotes)
 - [Anonymize](#anonymize)
+- [ANOVA](#anova)
 - [Antiquarian](#antiquarian)
 - [Aphorism](#aphorism)
 - [Aplomb](#aplomb)
@@ -403,6 +404,14 @@ This file contains definitions and example usage for "A" words found in the insp
 **Grammar**: Verb; base form: anonymize, past tense: anonymized, present participle: anonymizing.
 **Synonyms**: de-identify, mask, conceal, redact
 **Antonyms**: identify, reveal, disclose, name
+
+## ANOVA
+
+**Meaning**: Analysis of Variance; a statistical test used to check whether the means of three or more groups are significantly different.
+**Usage**: "Use ANOVA to check if three different teaching methods give different test scores."
+**Grammar**: Proper noun (abbreviation; statistical term)
+**Synonyms**: variance analysis, F-test framework, group mean comparison
+**Antonyms**: descriptive summary, non-comparative reporting, qualitative judgment
 
 ## Antiquarian
 

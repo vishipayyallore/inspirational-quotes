@@ -28,3 +28,11 @@ Action(s) taken:
 - Updated A.md quick navigation and `_VocabularyDefinitions.md`
 Outcome / verification:
 All 26 vocabulary files OK; see `Logs/verify-20260829-185900.txt`.
+
+Reasoning summary: Moved the unique staged ANOVA entry into A.md and synchronized its navigation and index.
+Action(s) taken:
+
+- Added ANOVA to A.md and removed its staging copy
+- Updated A.md quick navigation and `_VocabularyDefinitions.md`
+Outcome / verification:
+All 26 vocabulary files OK; see `Logs/verify-20260830-065844.txt`.

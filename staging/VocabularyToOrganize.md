@@ -1,14 +1,5 @@
 # Words to Organize
 
-## ANOVA
-
-**Meaning**: Analysis of Variance; a statistical test used to check whether the means of three or more groups are significantly different.
-**Usage**: "Use ANOVA to check if three different teaching methods give different test scores."
-**Grammar**: Proper noun (abbreviation; statistical term)
-**Synonyms**: variance analysis, F-test framework, group mean comparison
-**Antonyms**: descriptive summary, non-comparative reporting, qualitative judgment
-
-
 ## Astray
 
 **Meaning**: Away from the correct path.
