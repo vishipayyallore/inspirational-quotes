@@ -63,6 +63,7 @@ This file contains definitions and example usage for "A" words found in the insp
 - [Aspire](#aspire)
 - [Assiduous](#assiduous)
 - [Astounding](#astounding)
+- [Astray](#astray)
 - [Atiptoe](#atiptoe)
 - [Attain](#attain)
 - [Au Fond](#au-fond)
@@ -556,6 +557,14 @@ This file contains definitions and example usage for "A" words found in the insp
 **Grammar**: Adjective; present participle form of "astound" used descriptively.
 **Synonyms**: amazing, astonishing, remarkable, impressive
 **Antonyms**: ordinary, expected, unimpressive, dull
+
+## Astray
+
+**Meaning**: Away from the correct path; lost or deviating from the intended course.
+**Usage**: "Do not go astray from the project goals." - Stay focused on the plan so your effort remains aligned with the purpose.
+**Grammar**: Adjective and adverb; often used after a linking verb or as a directional modifier.
+**Synonyms**: off course, misguided, lost, misdirected
+**Antonyms**: on track, aligned, guided, directed
 
 ## Atiptoe
 

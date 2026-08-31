@@ -1,14 +1,5 @@
 # Words to Organize
 
-## Astray
-
-**Meaning**: Away from the correct path.
-**Usage**: "Do not go astray from the project goals."
-**Grammar**: Adverb, adjective
-**Synonyms**: off course, misguided, lost
-**Antonyms**: on track, aligned, guided
-
-
 ## Baster
 
 **Meaning**: A tool to drip liquid over food while cooking.

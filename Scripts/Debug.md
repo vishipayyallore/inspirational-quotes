@@ -36,3 +36,12 @@ Action(s) taken:
 - Updated A.md quick navigation and `_VocabularyDefinitions.md`
 Outcome / verification:
 All 26 vocabulary files OK; see `Logs/verify-20260830-065844.txt`.
+
+Reasoning summary: Moved the staged Astray entry into A.md and kept the alphabetical ordering and index synchronized.
+Action(s) taken:
+
+- Added Astray to A.md in the correct position between Astounding and Atiptoe
+- Updated the A.md quick navigation list and the master vocabulary index
+- Removed the duplicate entry from the staging list
+Outcome / verification:
+`pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260831-063548.txt"` -> All 26 vocabulary files OK.
