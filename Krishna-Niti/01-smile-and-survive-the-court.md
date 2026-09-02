@@ -117,7 +117,7 @@ The person who maintains composure retains more options.
 
 ---
 
-### Rule 2: Vani Ka Anushasan — Discipline of Speech **-- Here**
+### Rule 2: Vani Ka Anushasan — Discipline of Speech
 
 The Bhagavad Gita 17.15 describes disciplined speech using the expression:
 
@@ -180,11 +180,11 @@ It is:
 
 When ambiguity or disagreement begins increasing, introduce structure:
 
-> "Let's document the decision."
-> "Let's confirm the ownership."
-> "Let's capture the agreed next steps."
-> "Let's summarise this in writing so everyone has the same understanding."
-> "Let's align with the relevant stakeholders before proceeding."
+> 1. Let's document the decision.  
+> 1. Let's confirm the ownership.  
+> 1. Let's capture the agreed next steps.  
+> 1. Let's summarise this in writing so everyone has the same understanding.  
+> 1. Let's align with the relevant stakeholders before proceeding.
 
 Written decisions, clear ownership, meeting notes, explicit priorities, and stakeholder alignment reduce the space available for later misunderstanding or reinterpretation.
 
@@ -200,7 +200,7 @@ Escalation mechanisms such as management or HR should be used deliberately when 
 
 ---
 
-## 5. Modern Example
+## 5. Modern Example **-- Here**
 
 Imagine a Teams or Slack group with ten people.
 
