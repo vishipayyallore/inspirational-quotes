@@ -200,7 +200,7 @@ Escalation mechanisms such as management or HR should be used deliberately when 
 
 ---
 
-## 5. Modern Example **-- Here**
+## 5. Modern Example
 
 Imagine a Teams or Slack group with ten people.
 
@@ -232,7 +232,7 @@ That is strategic communication.
 
 ---
 
-## 6. Personality Development Lesson
+## 6. Personality Development Lesson **-- Here**
 
 Soft skills are not "soft" in their consequences.
 
