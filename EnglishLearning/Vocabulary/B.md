@@ -11,6 +11,7 @@ This file contains definitions and example usage for "B" words found in the insp
 - [Balustrade](#balustrade)
 - [Baring](#baring)
 - [Barnstorm](#barnstorm)
+- [Baster](#baster)
 - [Beacon](#beacon)
 - [Beatific](#beatific)
 - [Beggingly](#beggingly)
@@ -108,6 +109,14 @@ This file contains definitions and example usage for "B" words found in the insp
 **Grammar**: Verb; base form, with past tense and past participle `barnstormed`.
 **Synonyms**: tour, campaign, promote
 **Antonyms**: stay, withdraw, remain inactive
+
+## Baster
+
+**Meaning**: A tool to drip liquid over food while cooking.
+**Usage**: "Use a baster for the turkey."
+**Grammar**: Noun
+**Synonyms**: basting tool, turkey baster, bulb baster
+**Antonyms**: N/A (tool noun)
 
 ## Beacon
 

@@ -1,14 +1,5 @@
 # Words to Organize
 
-## Baster
-
-**Meaning**: A tool to drip liquid over food while cooking.
-**Usage**: "Use a baster for the turkey."
-**Grammar**: Noun
-**Synonyms**: basting tool, turkey baster, bulb baster
-**Antonyms**: N/A (tool noun)
-
-
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
