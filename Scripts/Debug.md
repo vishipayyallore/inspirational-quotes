@@ -1,17 +1,5 @@
 # Vocabulary Verification Log
 
-Reasoning summary: Ran vocabulary alphabetical order verification on all files and confirmed perfect order.
-
-Action(s) taken:
-
-- Executed Verify-Vocabulary.ps1 with correct root path
-
-- Checked A.md through Z.md
-- Exported findings to a log file
-
-Outcome / verification:
-All files OK. See Logs/ for details.
-
 Reasoning summary: Organized the 05-Jul-2026 vocabulary list and removed duplicates while preserving the existing Resonate entry.
 Action(s) taken:
 
@@ -45,3 +33,11 @@ Action(s) taken:
 - Removed the duplicate entry from the staging list
 Outcome / verification:
 `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260831-063548.txt"` -> All 26 vocabulary files OK.
+
+Reasoning summary: Moved the staged Baster entry into B.md and kept navigation plus the master index synchronized.
+Action(s) taken:
+
+- Added Baster to B.md after Barnstorm and removed its staging copy
+- Updated B.md quick navigation and `_VocabularyDefinitions.md`
+Outcome / verification:
+`pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260903-064743.txt"` -> All 26 vocabulary files OK.
