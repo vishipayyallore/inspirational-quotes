@@ -5,6 +5,7 @@ This file contains curated "J" vocabulary for English learning, with practical e
 ## Quick Navigation
 
 - [Jaggery](#jaggery)
+- [Jeopardize](#jeopardize)
 - [Jnana](#jnana)
 - [Jocose](#jocose)
 - [Jocularity](#jocularity)
@@ -35,6 +36,14 @@ This file contains curated "J" vocabulary for English learning, with practical e
 **Grammar**: Noun (countable or uncountable depending on context).
 **Synonyms**: Unrefined sugar, palm sugar, cane sugar.
 **Antonyms**: Refined sugar, artificial sweetener.
+
+## Jeopardize
+
+**Meaning**: To put something at risk or endanger it.
+**Usage**: "Don't jeopardize data privacy for speed." - Warns against sacrificing a critical protection for a short-term gain.
+**Grammar**: Verb.
+**Synonyms**: endanger, imperil, threaten, risk
+**Antonyms**: protect, secure, safeguard, preserve
 
 ## Jnana
 

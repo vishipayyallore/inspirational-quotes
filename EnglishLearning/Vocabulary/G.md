@@ -12,6 +12,7 @@ This file contains definitions and example usage for "G" words found in the insp
 - [Gerund](#gerund)
 - [Glisten](#glisten)
 - [Gloomy](#gloomy)
+- [Glum](#glum)
 - [Gorge](#gorge)
 - [Gouging](#gouging)
 - [Gratitude](#gratitude)
@@ -99,6 +100,14 @@ This file contains definitions and example usage for "G" words found in the insp
 **Grammar**: Adjective.
 **Synonyms**: dreary, somber, bleak, dismal.
 **Antonyms**: cheerful, bright, hopeful, upbeat.
+
+## Glum
+
+**Meaning**: Sad, gloomy, or in a low mood.
+**Usage**: "I felt glum after three failed experiments." - Describes discouragement after repeated setbacks.
+**Grammar**: Adjective.
+**Synonyms**: sad, gloomy, downcast, melancholy
+**Antonyms**: cheerful, happy, upbeat, optimistic
 
 ## Gorge
 

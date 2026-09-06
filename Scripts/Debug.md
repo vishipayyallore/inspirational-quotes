@@ -41,3 +41,12 @@ Action(s) taken:
 - Updated B.md quick navigation and `_VocabularyDefinitions.md`
 Outcome / verification:
 `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260903-064743.txt"` -> All 26 vocabulary files OK.
+
+Reasoning summary: Organized the unique 30-Aug-2026 intensity vocabulary set and preserved the uncertain "wail" reading as unconfirmed.
+Action(s) taken:
+
+- Added Avidly, Banter, Brazenly, Entourage, Flabby, Forfeit, Glum, Intimidating, Jeopardize, Reeled, Slay, Spurted, and Wheezed to their letter files
+- Updated each affected quick-navigation list and `_VocabularyDefinitions.md`
+- Removed the consumed Intimidating entry from staging; left possible Wail untouched pending confirmation
+Outcome / verification:
+`pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260906-1319.txt"` -> All 26 vocabulary files OK.

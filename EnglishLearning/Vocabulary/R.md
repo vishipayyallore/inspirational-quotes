@@ -17,6 +17,7 @@ This file contains definitions and example usage for "R" words found in the insp
 - [Rectitude](#rectitude)
 - [Redacted](#redacted)
 - [Redaction](#redaction)
+- [Reeled](#reeled)
 - [Regnant](#regnant)
 - [Re-envision](#re-envision)
 - [Reify](#reify)
@@ -168,6 +169,14 @@ This file contains definitions and example usage for "R" words found in the insp
 **Grammar**: Countable or uncountable noun.
 **Synonyms**: editing, censorship, omission, sanitization
 **Antonyms**: disclosure, revelation, publication in full
+
+## Reeled
+
+**Meaning**: Staggered physically or felt dizzy, shocked, or overwhelmed.
+**Usage**: "We reeled after seeing the data drift report." - Describes a strong reaction to surprising information.
+**Grammar**: Verb; past tense and past participle of reel.
+**Synonyms**: staggered, swayed, faltered, recoiled
+**Antonyms**: steadied, recovered, advanced, composed
 
 ## Regnant
 

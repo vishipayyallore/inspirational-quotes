@@ -69,6 +69,7 @@ This file contains definitions and example usage for "A" words found in the insp
 - [Au Fond](#au-fond)
 - [Auspicious](#auspicious)
 - [Authenticity](#authenticity)
+- [Avidly](#avidly)
 - [Avionic](#avionic)
 - [Avionics](#avionics)
 - [Awareness](#awareness)
@@ -605,6 +606,14 @@ This file contains definitions and example usage for "A" words found in the insp
 **Grammar**: Noun; usually uncountable.
 **Synonyms**: genuineness, sincerity, truthfulness, originality
 **Antonyms**: falseness, pretense, hypocrisy, artificiality
+
+## Avidly
+
+**Meaning**: With great enthusiasm or eagerness.
+**Usage**: "I avidly follow new papers on arXiv." - Shows eager and sustained interest in learning.
+**Grammar**: Adverb.
+**Synonyms**: eagerly, enthusiastically, keenly, passionately
+**Antonyms**: reluctantly, indifferently, apathetically, unwillingly
 
 ## Avionic
 

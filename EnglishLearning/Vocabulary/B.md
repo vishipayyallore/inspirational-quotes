@@ -9,6 +9,7 @@ This file contains definitions and example usage for "B" words found in the insp
 - [Ballerina](#ballerina)
 - [Balneal](#balneal)
 - [Balustrade](#balustrade)
+- [Banter](#banter)
 - [Baring](#baring)
 - [Barnstorm](#barnstorm)
 - [Baster](#baster)
@@ -30,6 +31,7 @@ This file contains definitions and example usage for "B" words found in the insp
 - [Boustrophedon](#boustrophedon)
 - [Bragging](#bragging)
 - [Braird](#braird)
+- [Brazenly](#brazenly)
 - [Breathe](#breathe)
 - [Breviloquent](#breviloquent)
 - [Brevity](#brevity)
@@ -93,6 +95,14 @@ This file contains definitions and example usage for "B" words found in the insp
 **Grammar**: Countable noun; plural: balustrades.
 **Synonyms**: railing, banister, guardrail
 **Antonyms**: opening, gap, unguarded edge
+
+## Banter
+
+**Meaning**: Light, playful joking conversation.
+**Usage**: "Team banter during standup keeps it light." - Friendly humor can maintain connection during routine work.
+**Grammar**: Noun; also a verb.
+**Synonyms**: teasing, joking, repartee, badinage
+**Antonyms**: hostility, seriousness, silence, conflict
 
 ## Baring
 
@@ -261,6 +271,14 @@ This file contains definitions and example usage for "B" words found in the insp
 **Grammar**: Noun; chiefly Scottish.
 **Synonyms**: sprouts, shoots, seedlings
 **Antonyms**: withering, decay, dormancy
+
+## Brazenly
+
+**Meaning**: Shamelessly or boldly, without guilt or embarrassment.
+**Usage**: "He brazenly claimed 100% accuracy with no proof." - Describes an unapologetic claim made without adequate evidence.
+**Grammar**: Adverb.
+**Synonyms**: shamelessly, boldly, audaciously, impudently
+**Antonyms**: modestly, timidly, humbly, discreetly
 
 ## Breathe
 

@@ -8,6 +8,7 @@ This file contains definitions and example usage for "W" words found in the insp
 - [Wary](#wary)
 - [Watershed](#watershed)
 - [Wheedle](#wheedle)
+- [Wheezed](#wheezed)
 - [Whilom](#whilom)
 - [Whittle](#whittle)
 - [Wholesome](#wholesome)
@@ -63,6 +64,14 @@ This file contains definitions and example usage for "W" words found in the insp
 **Grammar**: Verb; base form: wheedle; past tense and past participle: wheedled.
 **Synonyms**: coax, cajole, flatter, entice, beguile
 **Antonyms**: refuse, rebuff, deter, discourage, resist
+
+## Wheezed
+
+**Meaning**: Breathed with difficulty, often producing a high or rough gasping sound.
+**Usage**: "The old CPU wheezed when training an LLM." - Personifies an aging system struggling under heavy computational demand.
+**Grammar**: Verb; past tense and past participle of wheeze.
+**Synonyms**: gasped, panted, labored, struggled
+**Antonyms**: breathed easily, flowed, worked smoothly, recovered
 
 ## Whilom
 

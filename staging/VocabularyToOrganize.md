@@ -448,15 +448,6 @@
 **Antonyms**: withdrew, exited, evacuated
 
 
-## Intimidating
-
-**Meaning**: Frightening or overawing someone
-**Usage**: "I used Intimidating in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
-**Grammar**: Adjective, verb (present participle)
-**Synonyms**: frightening, daunting, menacing
-**Antonyms**: reassuring, comforting, encouraging
-
-
 ## Intuitively
 
 **Meaning**: By instinct or natural feeling, without conscious reasoning.
