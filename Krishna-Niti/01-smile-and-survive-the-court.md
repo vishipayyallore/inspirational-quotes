@@ -107,7 +107,7 @@ Therefore, the objective is not to "win" the emotional moment.
 
 The objective is to **retain command of yourself**.
 
-#### Office Rule
+#### Office Rule: Composure
 
 > **When provoked, lower your voice, slow your response, and remain composed.**
 
@@ -154,7 +154,7 @@ Instead of attacking the person, address the:
 - Process
 - Impact
 
-#### Office Rule
+#### Office Rule: Disciplined Speech
 
 > **Tell the truth without adding unnecessary hostility.**
 
@@ -181,20 +181,20 @@ It is:
 When ambiguity or disagreement begins increasing, introduce structure:
 
 > "Let's document the decision."
-
+>
 > "Let's confirm the ownership."
-
+>
 > "Let's capture the agreed next steps."
-
+>
 > "Let's summarise this in writing so everyone has the same understanding."
-
+>
 > "Let's align with the relevant stakeholders before proceeding."
 
 Written decisions, clear ownership, meeting notes, explicit priorities, and stakeholder alignment reduce the space available for later misunderstanding or reinterpretation.
 
 Escalation mechanisms such as management or HR should be used deliberately when the situation genuinely warrants them — not as the first response to ordinary disagreement.
 
-#### Office Rule
+#### Office Rule: Process
 
 > **Do not wait for conflict to become personal. Introduce clarity and process early.**
 
@@ -204,7 +204,7 @@ Escalation mechanisms such as management or HR should be used deliberately when 
 
 ---
 
-## 5. Modern Example **-- Here**
+## 5. Modern Example
 
 Imagine a Teams or Slack group with ten people.
 
@@ -279,13 +279,10 @@ without communicating:
 
 They separate:
 
-**Person ≠ Position**
-
-**Disagreement ≠ Disloyalty**
-
-**Assertiveness ≠ Aggression**
-
-**Courtesy ≠ Weakness**
+- **Person ≠ Position**
+- **Disagreement ≠ Disloyalty**
+- **Assertiveness ≠ Aggression**
+- **Courtesy ≠ Weakness**
 
 That distinction is leadership maturity.
 
@@ -382,7 +379,7 @@ And when the environment becomes difficult:
 
 ---
 
-# How to Apply This Niti
+## How to Apply This Niti
 
 The purpose of this Niti is not simply to "be polite."
 
@@ -580,7 +577,7 @@ Escalate when the issue requires:
 
 ---
 
-# B. How to Apply It in Personal Life
+## B. How to Apply It in Personal Life
 
 The same principle applies outside work.
 
@@ -788,7 +785,7 @@ Respecting another person's position does not require abandoning your own.
 
 ---
 
-# Remember
+## Remember
 
 > **Manners + Process = Protection.**
 
@@ -827,7 +824,7 @@ And above all:
 > **Politeness is not about pleasing everyone.**
 >
 > **It is about retaining self-control, preserving dignity, reducing unnecessary conflict, and keeping your options open.**
-
+>
 > **The smile is not surrender.**
 >
 > **The calm is not weakness.**
