@@ -33,6 +33,7 @@ This file contains curated "I" vocabulary for English learning, with practical e
 - [Interlard](#interlard)
 - [Interpose](#interpose)
 - [Intimidate](#intimidate)
+- [Intimidating](#intimidating)
 - [Intonation](#intonation)
 - [Intrepid](#intrepid)
 - [Intricacies](#intricacies)
@@ -283,6 +284,14 @@ This file contains curated "I" vocabulary for English learning, with practical e
 **Grammar**: Verb; base form: intimidate, past tense: intimidated, present participle: intimidating.
 **Synonyms**: frighten, bully, coerce, overawe
 **Antonyms**: reassure, encourage, comfort, embolden
+
+## Intimidating
+
+**Meaning**: Scary or likely to make someone feel less confident.
+**Usage**: "Deep math can be intimidating at first." - Difficult subjects may feel frightening before they become familiar.
+**Grammar**: Adjective; also the present participle of intimidate.
+**Synonyms**: frightening, daunting, imposing, menacing
+**Antonyms**: reassuring, comforting, approachable, encouraging
 
 ## Intonation
 

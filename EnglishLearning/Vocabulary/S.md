@@ -32,6 +32,7 @@ This file contains definitions and example usage for "S" words found in the insp
 - [Skimming](#skimming)
 - [Skirl](#skirl)
 - [Skosh](#skosh)
+- [Slay](#slay)
 - [Slop](#slop)
 - [Snarf](#snarf)
 - [Sockeroo](#sockeroo)
@@ -49,6 +50,7 @@ This file contains definitions and example usage for "S" words found in the insp
 - [Spooky](#spooky)
 - [Spoor](#spoor)
 - [Sprezzatura](#sprezzatura)
+- [Spurted](#spurted)
 - [Stalwarts](#stalwarts)
 - [Steadfast](#steadfast)
 - [Steer](#steer)
@@ -302,6 +304,14 @@ This file contains definitions and example usage for "S" words found in the insp
 **Synonyms**: bit, touch, little, smidge
 **Antonyms**: lot, abundance, excess, plenty
 
+## Slay
+
+**Meaning**: To kill; informally, to perform extremely well or impressively.
+**Usage**: "That model slayed the leaderboard." - Uses the slang sense to praise exceptional performance.
+**Grammar**: Verb; past tense: slew or slayed, depending on the sense.
+**Synonyms**: kill, defeat, excel, amaze
+**Antonyms**: spare, fail, struggle, disappoint
+
 ## Slop
 
 **Meaning**: Liquid spilled or splashed carelessly; to spill or splash liquid; also, food waste or unappetizing food.
@@ -437,6 +447,14 @@ This file contains definitions and example usage for "S" words found in the insp
 **Grammar**: Noun.
 **Synonyms**: effortless style, polished ease, casual mastery
 **Antonyms**: awkwardness, strain, stiffness, effortfulness
+
+## Spurted
+
+**Meaning**: Shot out or increased suddenly in a short burst.
+**Usage**: "Errors spurted after the deploy." - Describes a sudden burst of errors following a release.
+**Grammar**: Verb; past tense and past participle of spurt.
+**Synonyms**: burst, gushed, surged, sprayed
+**Antonyms**: trickled, slowed, dwindled, stopped
 
 ## Stalwarts
 

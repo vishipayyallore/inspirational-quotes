@@ -18,6 +18,7 @@ This file contains definitions and example usage for "F" words found in the insp
 - [Fictitious](#fictitious)
 - [Figgy pudding](#figgy-pudding)
 - [First-Foot](#first-foot)
+- [Flabby](#flabby)
 - [Flagship](#flagship)
 - [Flâneur](#flâneur)
 - [Flattery](#flattery)
@@ -29,6 +30,7 @@ This file contains definitions and example usage for "F" words found in the insp
 - [Flung](#flung)
 - [Folly](#folly)
 - [Forage](#forage)
+- [Forfeit](#forfeit)
 - [Forsake](#forsake)
 - [Fortitude](#fortitude)
 - [Fragmented](#fragmented)
@@ -160,6 +162,14 @@ This file contains definitions and example usage for "F" words found in the insp
 **Synonyms**: New Year caller, lucky visitor, threshold guest.
 **Antonyms**: Unlucky omen, unwelcome arrival, ill-timed visitor.
 
+## Flabby
+
+**Meaning**: Soft, weak, and lacking firmness or strength.
+**Usage**: "A flabby model with too many parameters has no muscle." - Describes a system that is bloated without being robust.
+**Grammar**: Adjective.
+**Synonyms**: soft, loose, weak, slack
+**Antonyms**: firm, strong, toned, resilient
+
 ## Flagship
 
 **Meaning**: The most important or leading item in a group, often used to describe a company's best product or service.
@@ -247,6 +257,14 @@ This file contains definitions and example usage for "F" words found in the insp
 **Grammar**: Verb; also noun in ecological/military contexts.
 **Synonyms**: Search, scavenge, gather, hunt.
 **Antonyms**: Store, supply, provide, stockpile.
+
+## Forfeit
+
+**Meaning**: To give up or lose something as a penalty or consequence.
+**Usage**: "If we miss the SLA, we forfeit client trust." - Missing an obligation can cause a valuable benefit to be lost.
+**Grammar**: Verb, noun, and adjective.
+**Synonyms**: surrender, relinquish, lose, sacrifice
+**Antonyms**: retain, keep, gain, recover
 
 ## Forsake
 

@@ -17,6 +17,7 @@ This file contains definitions and example usage for "E" words found in the insp
 - [Enduring](#enduring)
 - [Enkindle](#enkindle)
 - [Entail](#entail)
+- [Entourage](#entourage)
 - [Envision](#envision)
 - [Envisioned](#envisioned)
 - [Envy](#envy)
@@ -153,6 +154,14 @@ This file contains definitions and example usage for "E" words found in the insp
 **Grammar**: Verb.
 **Synonyms**: involve, require, necessitate, imply
 **Antonyms**: exclude, avoid, prevent, omit
+
+## Entourage
+
+**Meaning**: A group of people who surround and support an important person.
+**Usage**: "The main model and its entourage of helper scripts worked together." - Describes a central system supported by related tools.
+**Grammar**: Noun; usually singular in form.
+**Synonyms**: retinue, attendants, companions, staff
+**Antonyms**: isolation, solitude, detachment, individual
 
 ## Envision
 

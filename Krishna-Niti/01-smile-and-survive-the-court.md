@@ -107,7 +107,7 @@ Therefore, the objective is not to "win" the emotional moment.
 
 The objective is to **retain command of yourself**.
 
-#### Office Rule: Hold the Ground
+#### Office Rule: Composure
 
 > **When provoked, lower your voice, slow your response, and remain composed.**
 
@@ -154,7 +154,7 @@ Instead of attacking the person, address the:
 - Process
 - Impact
 
-#### Office Rule
+#### Office Rule: Disciplined Speech
 
 > **Tell the truth without adding unnecessary hostility.**
 
@@ -180,17 +180,21 @@ It is:
 
 When ambiguity or disagreement begins increasing, introduce structure:
 
-> 1. Let's document the decision.  
-> 1. Let's confirm the ownership.  
-> 1. Let's capture the agreed next steps.  
-> 1. Let's summarise this in writing so everyone has the same understanding.  
-> 1. Let's align with the relevant stakeholders before proceeding.
+> "Let's document the decision."
+>
+> "Let's confirm the ownership."
+>
+> "Let's capture the agreed next steps."
+>
+> "Let's summarise this in writing so everyone has the same understanding."
+>
+> "Let's align with the relevant stakeholders before proceeding."
 
 Written decisions, clear ownership, meeting notes, explicit priorities, and stakeholder alignment reduce the space available for later misunderstanding or reinterpretation.
 
 Escalation mechanisms such as management or HR should be used deliberately when the situation genuinely warrants them — not as the first response to ordinary disagreement.
 
-#### Office Rule: Introduce Process Early
+#### Office Rule: Process
 
 > **Do not wait for conflict to become personal. Introduce clarity and process early.**
 
@@ -232,7 +236,7 @@ That is strategic communication.
 
 ---
 
-## 6. Personality Development Lesson **-- Here**
+## 6. Personality Development Lesson
 
 Soft skills are not "soft" in their consequences.
 
@@ -275,13 +279,10 @@ without communicating:
 
 They separate:
 
-### Person ≠ Position
-
-### Disagreement ≠ Disloyalty
-
-### Assertiveness ≠ Aggression
-
-### Courtesy ≠ Weakness
+- **Person ≠ Position**
+- **Disagreement ≠ Disloyalty**
+- **Assertiveness ≠ Aggression**
+- **Courtesy ≠ Weakness**
 
 That distinction is leadership maturity.
 
@@ -787,19 +788,33 @@ Respecting another person's position does not require abandoning your own.
 ## Remember
 
 > **Manners + Process = Protection.**
->
+
+When challenged:
+
 > **Pause before reacting.**
->
+
+When disagreeing:
+
 > **Attack the issue, not the person.**
->
+
+When uncertain:
+
 > **Create clarity.**
->
+
+When trust is incomplete:
+
 > **Be courteous, but trust progressively.**
->
+
+When boundaries are crossed:
+
 > **Be firm without becoming hostile.**
->
+
+When conflict escalates:
+
 > **Move from emotion to process.**
->
+
+And above all:
+
 > **Be strong enough to protect yourself without becoming the source of the conflict.**
 
 ---
@@ -807,10 +822,15 @@ Respecting another person's position does not require abandoning your own.
 ## Final Principle
 
 > **Politeness is not about pleasing everyone.**
+>
 > **It is about retaining self-control, preserving dignity, reducing unnecessary conflict, and keeping your options open.**
+>
 > **The smile is not surrender.**
+>
 > **The calm is not weakness.**
+>
 > **The courtesy is not blindness.**
+>
 > **The process is your protection.**
 
 ### Krishna Niti 01
