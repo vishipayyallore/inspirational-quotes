@@ -24,6 +24,7 @@ This curated collection highlights practical T-words with clear meanings, engagi
 - [Tiffin](#tiffin)
 - [Tirade](#tirade)
 - [Tonality](#tonality)
+- [Touted](#touted)
 - [Traction](#traction)
 - [Tranquil](#tranquil)
 - [Tranquility](#tranquility)
@@ -206,6 +207,14 @@ This curated collection highlights practical T-words with clear meanings, engagi
 **Grammar**: Noun.
 **Synonyms**: tone, mood, atmosphere, character
 **Antonyms**: monotony, flatness, dullness, dissonance
+
+## Touted
+
+**Meaning**: Praised highly or promoted as being especially good.
+**Usage**: "The book was touted as a helpful guide for new learners."
+**Grammar**: Verb (past tense and past participle of tout).
+**Synonyms**: praised, promoted, advertised, acclaimed
+**Antonyms**: criticized, condemned, disparaged, downplayed
 
 ## Traction
 

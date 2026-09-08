@@ -50,6 +50,7 @@ This file contains definitions and example usage for "A" words found in the insp
 - [Aplomb](#aplomb)
 - [Apocope](#apocope)
 - [Apparel](#apparel)
+- [Apparent](#apparent)
 - [Appetence](#appetence)
 - [Apricity](#apricity)
 - [Archaic](#archaic)
@@ -57,6 +58,7 @@ This file contains definitions and example usage for "A" words found in the insp
 - [Armadillo](#armadillo)
 - [Armor](#armor)
 - [Aroused](#aroused)
+- [Arsenal](#arsenal)
 - [Articulate](#articulate)
 - [Ascribe](#ascribe)
 - [Aspects](#aspects)
@@ -455,6 +457,14 @@ This file contains definitions and example usage for "A" words found in the insp
 **Synonyms**: clothing, garments, attire, dress
 **Antonyms**: nakedness, undress, bareness, disrobing
 
+## Apparent
+
+**Meaning**: Seeming to be true or real; visible or obvious.
+**Usage**: "The cause of the delay was apparent after we reviewed the schedule."
+**Grammar**: Adjective.
+**Synonyms**: evident, obvious, visible, seeming
+**Antonyms**: hidden, obscure, unclear, doubtful
+
 ## Appetence
 
 **Meaning**: A natural inclination, desire, or craving toward something.
@@ -510,6 +520,14 @@ This file contains definitions and example usage for "A" words found in the insp
 **Grammar**: Verb; past tense and past participle of "arouse"; also used as an adjective.
 **Synonyms**: awakened, stirred, excited, inspired
 **Antonyms**: calmed, soothed, suppressed, dulled
+
+## Arsenal
+
+**Meaning**: A collection of weapons, tools, skills, or resources kept for a purpose.
+**Usage**: "Her problem-solving arsenal included research, patience, and clear communication."
+**Grammar**: Noun.
+**Synonyms**: collection, toolkit, resources, armory
+**Antonyms**: lack, scarcity, deficiency, inadequacy
 
 ## Articulate
 

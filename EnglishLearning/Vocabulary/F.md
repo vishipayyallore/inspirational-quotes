@@ -12,6 +12,7 @@ This file contains definitions and example usage for "F" words found in the insp
 - [Fantasticate](#fantasticate)
 - [Farrago](#farrago)
 - [Fathom](#fathom)
+- [Feigned](#feigned)
 - [Felicitate](#felicitate)
 - [Felicity](#felicity)
 - [Fervent](#fervent)
@@ -32,6 +33,7 @@ This file contains definitions and example usage for "F" words found in the insp
 - [Forage](#forage)
 - [Forfeit](#forfeit)
 - [Forsake](#forsake)
+- [Forthrightness](#forthrightness)
 - [Fortitude](#fortitude)
 - [Fragmented](#fragmented)
 - [Frenzy](#frenzy)
@@ -113,6 +115,14 @@ This file contains definitions and example usage for "F" words found in the insp
 **Grammar**: Verb.
 **Synonyms**: Understand, grasp, comprehend, discern.
 **Antonyms**: Misunderstand, overlook, misread, ignore.
+
+## Feigned
+
+**Meaning**: Pretended or faked, especially a feeling, action, or interest.
+**Usage**: "He gave a feigned smile although he was worried."
+**Grammar**: Adjective; past participle of feign.
+**Synonyms**: pretended, simulated, artificial, false
+**Antonyms**: genuine, sincere, real, authentic
 
 ## Felicitate
 
@@ -273,6 +283,14 @@ This file contains definitions and example usage for "F" words found in the insp
 **Grammar**: Verb.
 **Synonyms**: Abandon, desert, renounce, relinquish.
 **Antonyms**: Keep, retain, uphold, maintain.
+
+## Forthrightness
+
+**Meaning**: The quality of being direct, honest, and straightforward.
+**Usage**: "Her forthrightness made the difficult conversation easier to understand."
+**Grammar**: Noun.
+**Synonyms**: honesty, candor, directness, openness
+**Antonyms**: evasiveness, deceit, indirectness, concealment
 
 ## Fortitude
 

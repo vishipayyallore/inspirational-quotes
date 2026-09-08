@@ -32,6 +32,7 @@ This file contains definitions and example usage for "E" words found in the insp
 - [Erudite](#erudite)
 - [Esemplastic](#esemplastic)
 - [Esoteric](#esoteric)
+- [Espouse](#espouse)
 - [Eudaimonia](#eudaimonia)
 - [Eunoia](#eunoia)
 - [Euphonious](#euphonious)
@@ -275,6 +276,14 @@ This file contains definitions and example usage for "E" words found in the insp
 **Grammar**: Adjective.
 **Synonyms**: obscure, specialized, arcane, cryptic
 **Antonyms**: common, accessible, mainstream, familiar
+
+## Espouse
+
+**Meaning**: To support, adopt, or believe strongly in an idea, cause, or belief.
+**Usage**: "The group chose to espouse fairness and honesty in every decision."
+**Grammar**: Verb.
+**Synonyms**: support, adopt, advocate, embrace
+**Antonyms**: oppose, reject, renounce, abandon
 
 ## Eudaimonia
 

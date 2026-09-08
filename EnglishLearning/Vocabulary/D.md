@@ -5,9 +5,11 @@ This file contains definitions and example usage for "D" words found in the insp
 ## Quick Navigation
 
 - [Dabble](#dabble)
+- [Dangling](#dangling)
 - [Daunting](#daunting)
 - [Davenport](#davenport)
 - [Dawn](#dawn)
+- [Deceivers](#deceivers)
 - [Deception](#deception)
 - [Deciphering](#deciphering)
 - [Dedicated](#dedicated)
@@ -30,8 +32,10 @@ This file contains definitions and example usage for "D" words found in the insp
 - [Discontent](#discontent)
 - [Discontented](#discontented)
 - [Discrete](#discrete)
+- [Disguise](#disguise)
 - [Distillation](#distillation)
 - [Divagate](#divagate)
+- [Divulging](#divulging)
 - [Dragging](#dragging)
 - [Droll](#droll)
 - [Duplicity](#duplicity)
@@ -54,6 +58,14 @@ This file contains definitions and example usage for "D" words found in the insp
 **Grammar**: Verb (base form); inflections: dabbles, dabbled, dabbling.
 **Synonyms**: toy with, experiment, flirt with, sample
 **Antonyms**: commit, specialize, devote, master
+
+## Dangling
+
+**Meaning**: Hanging loosely; incomplete or left unresolved.
+**Usage**: "The question remained dangling until the team met again."
+**Grammar**: Adjective; present participle of dangle.
+**Synonyms**: hanging, suspended, unresolved, incomplete
+**Antonyms**: secured, settled, completed, resolved
 
 ## Daunting
 
@@ -78,6 +90,14 @@ This file contains definitions and example usage for "D" words found in the insp
 **Grammar**: Noun and verb.
 **Synonyms**: daybreak, sunrise, morning; emerge (verb sense)
 **Antonyms**: dusk, nightfall, sunset
+
+## Deceivers
+
+**Meaning**: People who deliberately mislead, cheat, or lie to others.
+**Usage**: "Deceivers often rely on confusion to hide the truth."
+**Grammar**: Plural noun.
+**Synonyms**: frauds, tricksters, impostors, liars
+**Antonyms**: truth-tellers, honest people, allies, helpers
 
 ## Deception
 
@@ -255,6 +275,14 @@ This file contains definitions and example usage for "D" words found in the insp
 **Synonyms**: separate, distinct, individual, independent
 **Antonyms**: continuous, connected, blended, unified
 
+## Disguise
+
+**Meaning**: To hide a person's or thing's real identity or appearance; something worn to conceal it.
+**Usage**: "The actor used a disguise so that no one recognized her."
+**Grammar**: Verb, noun.
+**Synonyms**: conceal, mask, camouflage, cover
+**Antonyms**: reveal, expose, uncover, unmask
+
 ## Distillation
 
 **Meaning**: The process of purifying a liquid by heating it to create vapor and then cooling the vapor to create a liquid.
@@ -270,6 +298,14 @@ This file contains definitions and example usage for "D" words found in the insp
 **Grammar**: Verb (base form); inflections: divagates, divagated, divagating.
 **Synonyms**: digress, ramble, wander, stray
 **Antonyms**: focus, concentrate, stay, adhere
+
+## Divulging
+
+**Meaning**: Revealing information that was private, secret, or not meant to be shared.
+**Usage**: "Divulging a friend's private message can damage trust."
+**Grammar**: Verb (present participle of divulge); gerund.
+**Synonyms**: revealing, disclosing, sharing, exposing
+**Antonyms**: concealing, withholding, protecting, keeping secret
 
 ## Dragging
 

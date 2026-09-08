@@ -22,6 +22,7 @@ This file contains curated "I" vocabulary for English learning, with practical e
 - [Ineffable](#ineffable)
 - [Inevitable](#inevitable)
 - [Inevitably](#inevitably)
+- [Infidelity](#infidelity)
 - [Infomania](#infomania)
 - [Ingeminate](#ingeminate)
 - [Ingenuity](#ingenuity)
@@ -196,6 +197,14 @@ This file contains curated "I" vocabulary for English learning, with practical e
 **Grammar**: Adverb.
 **Synonyms**: unavoidably, certainly, surely, inexorably
 **Antonyms**: possibly, uncertainly, avoidably, improbably
+
+## Infidelity
+
+**Meaning**: Unfaithfulness or betrayal of trust, especially in a committed relationship.
+**Usage**: "Infidelity can cause deep pain and make rebuilding trust difficult."
+**Grammar**: Noun.
+**Synonyms**: unfaithfulness, betrayal, disloyalty, cheating
+**Antonyms**: fidelity, loyalty, faithfulness, commitment
 
 ## Infomania
 

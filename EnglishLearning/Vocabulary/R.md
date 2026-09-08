@@ -46,7 +46,9 @@ This file contains definitions and example usage for "R" words found in the insp
 - [Rhetoric](#rhetoric)
 - [Rigmarole](#rigmarole)
 - [Rogue](#rogue)
+- [Roguish](#roguish)
 - [Ruminate](#ruminate)
+- [Ruse](#ruse)
 
 <!-- Add vocabulary words here following the format:
 ## WordName
@@ -394,6 +396,14 @@ This file contains definitions and example usage for "R" words found in the insp
 **Synonyms**: maverick, rebel, renegade, misfit
 **Antonyms**: conformist, loyalist, rule-follower
 
+## Roguish
+
+**Meaning**: Mischievous, playful, or slightly dishonest in a charming way.
+**Usage**: "The child gave a roguish grin after playing a harmless trick."
+**Grammar**: Adjective.
+**Synonyms**: mischievous, cheeky, playful, impish
+**Antonyms**: serious, obedient, honest, well-behaved
+
 ## Ruminate
 
 **Meaning**: To think deeply and carefully about something; to reflect.
@@ -401,3 +411,11 @@ This file contains definitions and example usage for "R" words found in the insp
 **Grammar**: Verb; base form: ruminate, past tense: ruminated, present participle: ruminating.
 **Synonyms**: ponder, reflect, contemplate, meditate
 **Antonyms**: ignore, dismiss, skim, overlook
+
+## Ruse
+
+**Meaning**: A trick or cunning plan used to deceive someone.
+**Usage**: "The false invitation was a ruse to keep the surprise secret."
+**Grammar**: Noun.
+**Synonyms**: trick, ploy, scheme, deception
+**Antonyms**: honesty, openness, truth, sincerity
