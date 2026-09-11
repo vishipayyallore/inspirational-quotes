@@ -1,21 +1,5 @@
 # Words to Organize
 
-## Apparent
-
-**Meaning**: Seeming to be true or real; visible or obvious.
-**Usage**: "The cause of the delay was apparent after we reviewed the schedule."
-**Grammar**: Adjective.
-**Synonyms**: evident, obvious, visible, seeming
-**Antonyms**: hidden, obscure, unclear, doubtful
-
-## Arsenal
-
-**Meaning**: A collection of weapons, tools, skills, or resources kept for a purpose.
-**Usage**: "Her problem-solving arsenal included research, patience, and clear communication."
-**Grammar**: Noun.
-**Synonyms**: collection, toolkit, resources, armory
-**Antonyms**: lack, scarcity, deficiency, inadequacy
-
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
@@ -124,22 +108,6 @@
 **Antonyms**: aversion, indifference, disgust
 
 
-## Dangling
-
-**Meaning**: Hanging loosely; incomplete or left unresolved.
-**Usage**: "The question remained dangling until the team met again."
-**Grammar**: Adjective; present participle of dangle.
-**Synonyms**: hanging, suspended, unresolved, incomplete
-**Antonyms**: secured, settled, completed, resolved
-
-## Deceivers
-
-**Meaning**: People who deliberately mislead, cheat, or lie to others.
-**Usage**: "Deceivers often rely on confusion to hide the truth."
-**Grammar**: Plural noun.
-**Synonyms**: frauds, tricksters, impostors, liars
-**Antonyms**: truth-tellers, honest people, allies, helpers
-
 ## Defy
 
 **Meaning**: Resist or refuse to obey; challenge
@@ -158,14 +126,6 @@
 **Antonyms**: order, arrangement, harmony
 
 
-## Disguise
-
-**Meaning**: To hide a person's or thing's real identity or appearance; something worn to conceal it.
-**Usage**: "The actor used a disguise so that no one recognized her."
-**Grammar**: Verb, noun.
-**Synonyms**: conceal, mask, camouflage, cover
-**Antonyms**: reveal, expose, uncover, unmask
-
 ## Dissuade
 
 **Meaning**: To persuade someone not to do something.
@@ -183,14 +143,6 @@
 **Synonyms**: anguish, suffering, hardship
 **Antonyms**: comfort, ease, relief
 
-
-## Divulging
-
-**Meaning**: Revealing information that was private, secret, or not meant to be shared.
-**Usage**: "Divulging a friend's private message can damage trust."
-**Grammar**: Verb (present participle of divulge); gerund.
-**Synonyms**: revealing, disclosing, sharing, exposing
-**Antonyms**: concealing, withholding, protecting, keeping secret
 
 ## Dominant
 
@@ -245,14 +197,6 @@
 **Antonyms**: establish, preserve, foster
 
 
-## Espouse
-
-**Meaning**: To support, adopt, or believe strongly in an idea, cause, or belief.
-**Usage**: "The group chose to espouse fairness and honesty in every decision."
-**Grammar**: Verb.
-**Synonyms**: support, adopt, advocate, embrace
-**Antonyms**: oppose, reject, renounce, abandon
-
 ## Fatalistic
 
 **Meaning**: Believing that all events are decided by fate and cannot be changed.
@@ -261,14 +205,6 @@
 **Synonyms**: resigned, hopeless, deterministic
 **Antonyms**: hopeful, proactive, optimistic
 
-
-## Feigned
-
-**Meaning**: Pretended or faked, especially a feeling, action, or interest.
-**Usage**: "He gave a feigned smile although he was worried."
-**Grammar**: Adjective; past participle of feign.
-**Synonyms**: pretended, simulated, artificial, false
-**Antonyms**: genuine, sincere, real, authentic
 
 ## Fidelity
 
@@ -287,14 +223,6 @@
 **Synonyms**: wool, pile fabric, swindle
 **Antonyms**: honesty, fairness, reimburse
 
-
-## Forthrightness
-
-**Meaning**: The quality of being direct, honest, and straightforward.
-**Usage**: "Her forthrightness made the difficult conversation easier to understand."
-**Grammar**: Noun.
-**Synonyms**: honesty, candor, directness, openness
-**Antonyms**: evasiveness, deceit, indirectness, concealment
 
 ## FTO
 
@@ -430,14 +358,6 @@
 **Synonyms**: sluggishness, resistance, immobility
 **Antonyms**: responsiveness, agility, momentum
 
-
-## Infidelity
-
-**Meaning**: Unfaithfulness or betrayal of trust, especially in a committed relationship.
-**Usage**: "Infidelity can cause deep pain and make rebuilding trust difficult."
-**Grammar**: Noun.
-**Synonyms**: unfaithfulness, betrayal, disloyalty, cheating
-**Antonyms**: fidelity, loyalty, faithfulness, commitment
 
 ## Infiltrated
 
@@ -718,14 +638,6 @@
 **Antonyms**: raw high-dimensional data, no dimensionality reduction, feature expansion
 
 
-## Phony
-
-**Meaning**: Fake, false, or not genuine.
-**Usage**: "The phony excuse did not convince anyone."
-**Grammar**: Adjective, noun.
-**Synonyms**: fake, false, counterfeit, fraudulent
-**Antonyms**: genuine, authentic, real, sincere
-
 ## PI
 
 **Meaning**: Proportional-Integral; a controller type that combines proportional (Kp) and integral (Ki) gains.
@@ -930,14 +842,6 @@
 **Antonyms**: ally, partner, supporter
 
 
-## Roguish
-
-**Meaning**: Mischievous, playful, or slightly dishonest in a charming way.
-**Usage**: "The child gave a roguish grin after playing a harmless trick."
-**Grammar**: Adjective.
-**Synonyms**: mischievous, cheeky, playful, impish
-**Antonyms**: serious, obedient, honest, well-behaved
-
 ## Rung
 
 **Meaning**: A step of a ladder; also a level in a hierarchy
@@ -955,14 +859,6 @@
 **Synonyms**: weakling, dwarf, underling
 **Antonyms**: giant, leader, strongest
 
-
-## Ruse
-
-**Meaning**: A trick or cunning plan used to deceive someone.
-**Usage**: "The false invitation was a ruse to keep the surprise secret."
-**Grammar**: Noun.
-**Synonyms**: trick, ploy, scheme, deception
-**Antonyms**: honesty, openness, truth, sincerity
 
 ## Sabotaging
 
@@ -1233,14 +1129,6 @@
 **Synonyms**: overturn, knock down, overthrow
 **Antonyms**: stabilize, uphold, secure
 
-
-## Touted
-
-**Meaning**: Praised highly or promoted as being especially good.
-**Usage**: "The book was touted as a helpful guide for new learners."
-**Grammar**: Verb (past tense and past participle of tout).
-**Synonyms**: praised, promoted, advertised, acclaimed
-**Antonyms**: criticized, condemned, disparaged, downplayed
 
 ## Tow
 

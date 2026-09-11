@@ -33,6 +33,7 @@ This file contains definitions and example usage for "P" words found in the insp
 - [Phenomenon](#phenomenon)
 - [Phillumenist](#phillumenist)
 - [Phlegmatic](#phlegmatic)
+- [Phony](#phony)
 - [Piquant](#piquant)
 - [Pivot](#pivot)
 - [Pizzetta](#pizzetta)
@@ -314,6 +315,14 @@ This file contains definitions and example usage for "P" words found in the insp
 **Grammar**: Noun.
 **Synonyms**: context-dependent equivalent, related term
 **Antonyms**: context-dependent opposite, contrasting term
+
+## Phony
+
+**Meaning**: Fake, false, or not genuine.
+**Usage**: "The phony excuse did not convince anyone."
+**Grammar**: Adjective, noun.
+**Synonyms**: fake, false, counterfeit, fraudulent
+**Antonyms**: genuine, authentic, real, sincere
 
 ## Piquant
 
