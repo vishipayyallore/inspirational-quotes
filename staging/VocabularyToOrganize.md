@@ -45,6 +45,15 @@
 **Antonyms**: PMF at a single point, point probability only, non-cumulative measure
 
 
+## Champing
+
+**Meaning**: Very eager; biting at. In the phrase "champing at the bit," it means unable to wait to start.
+**Usage**: "The team is champing to try the new GPU."
+**Grammar**: Verb (present participle)
+**Synonyms**: eager, impatient, excited
+**Antonyms**: reluctant, hesitant, apathetic
+
+
 ## CHD
 
 **Meaning**: Coronary Heart Disease; a heart condition caused by narrowing or blockage in coronary arteries and a major cause of heart attacks.
@@ -99,6 +108,15 @@
 **Antonyms**: diverged, separated, dispersed
 
 
+## Coterie
+
+**Meaning**: A small, close, exclusive group.
+**Usage**: "A coterie of senior engineers decides the architecture."
+**Grammar**: Noun
+**Synonyms**: clique, inner circle, circle
+**Antonyms**: outsiders, general public, crowd
+
+
 ## Craving
 
 **Meaning**: Strong desire/want for something.
@@ -106,6 +124,15 @@
 **Grammar**: Noun, verb (present participle)
 **Synonyms**: longing, yearning, urge
 **Antonyms**: aversion, indifference, disgust
+
+
+## Crude
+
+**Meaning**: Rough, basic, or unrefined; it can also mean rude.
+**Usage**: "The crude baseline just predicts the mean."
+**Grammar**: Adjective
+**Synonyms**: rough, basic, unrefined
+**Antonyms**: refined, polished, sophisticated
 
 
 ## Defy
@@ -629,6 +656,15 @@
 **Antonyms**: unpave, obstruct, hinder
 
 
+## Persistent
+
+**Meaning**: Continuing, not giving up, and never stopping.
+**Usage**: "We are tracking a persistent bug and persistent model drift."
+**Grammar**: Adjective
+**Synonyms**: continuing, determined, enduring
+**Antonyms**: temporary, intermittent, yielding
+
+
 ## PCA
 
 **Meaning**: Principal Component Analysis, a statistical technique used to reduce data dimensions while preserving important variance.
@@ -788,6 +824,24 @@
 **Antonyms**: promoted, elevated, advanced
 
 
+## Relented
+
+**Meaning**: Finally gave in, softened, or became less strict.
+**Usage**: "After seeing the metrics, the lead relented and gave us more time."
+**Grammar**: Verb (past tense of relent)
+**Synonyms**: yielded, softened, conceded
+**Antonyms**: resisted, persisted, hardened
+
+
+## Reluctant
+
+**Meaning**: Not willing, hesitant, or holding back.
+**Usage**: "I was reluctant to deploy without more testing."
+**Grammar**: Adjective
+**Synonyms**: hesitant, unwilling, disinclined
+**Antonyms**: willing, eager, enthusiastic
+
+
 ## Remorse
 
 **Meaning**: Deep regret for doing something wrong.
@@ -822,6 +876,15 @@
 **Grammar**: Verb (present participle), adjective
 **Synonyms**: holding back, curbing, limiting
 **Antonyms**: releasing, encouraging, enabling
+
+
+## Retribution
+
+**Meaning**: Revenge or punishment for wrongdoing.
+**Usage**: "There is no retribution for failed experiments; that is how we learn."
+**Grammar**: Noun
+**Synonyms**: revenge, punishment, retaliation
+**Antonyms**: forgiveness, pardon, mercy
 
 
 ## Retrospect
