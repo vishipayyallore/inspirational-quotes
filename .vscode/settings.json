@@ -506,6 +506,10 @@
         "/^npx --yes markdownlint-cli2 \"Krishna-Niti/01-smile-and-survive-the-court\\.md\"$/": {
             "approve": true,
             "matchCommandLine": true
+        },
+        "/^cd \"c:/GitHub/inspirational-quotes\"; npx --yes markdownlint-cli2 \"Krishna-Niti/01-smile-and-survive-the-court\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
         }
     }
 }
