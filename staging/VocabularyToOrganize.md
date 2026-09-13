@@ -135,6 +135,15 @@
 **Antonyms**: refined, polished, sophisticated
 
 
+## Deception
+
+**Meaning**: The act of tricking, lying, or misleading someone.
+**Usage**: "No deception - that 99% was leakage, not real accuracy." - Honest evaluation matters more than polished claims.
+**Grammar**: Noun
+**Synonyms**: trickery, deceit, fraud
+**Antonyms**: honesty, truthfulness, transparency
+
+
 ## Defy
 
 **Meaning**: Resist or refuse to obey; challenge
