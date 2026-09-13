@@ -1,5 +1,14 @@
 # Words to Organize
 
+## Allayed
+
+**Meaning**: Calmed or reduced fear, worry, or concern.
+**Usage**: "The new metrics allayed stakeholder fears." - Clear evidence can quiet anxiety before it grows.
+**Grammar**: Verb (past tense of allay)
+**Synonyms**: calmed, eased, soothed
+**Antonyms**: intensified, aggravated, worsened
+
+
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
@@ -88,6 +97,24 @@
 **Grammar**: Verb form: cling -> clinging -> clung -> clung
 **Synonyms**: holding, gripping, sticking, adhering, depending
 **Antonyms**: Letting go, Releasing, Detaching
+
+
+## Con
+
+**Meaning**: A confidence trick or scam designed to deceive someone for personal gain.
+**Usage**: "The fake recruiter was a con, and the victim paid the price." - A deception that relies on trust and manipulation.
+**Grammar**: Noun
+**Synonyms**: scam, swindle, fraud
+**Antonyms**: honesty, integrity, fairness
+
+
+## Con Artists
+
+**Meaning**: People who deceive others for money, status, or personal gain.
+**Usage**: "The con artists used a fake pitch deck to steal investor trust." - Fraudsters rely on credibility and manipulation rather than truth.
+**Grammar**: Noun phrase
+**Synonyms**: fraudsters, swindlers, scammers
+**Antonyms**: honest people, whistleblowers, sincere actors
 
 
 ## Contender
@@ -180,6 +207,15 @@
 **Antonyms**: comfort, ease, relief
 
 
+## Diverted
+
+**Meaning**: Changed direction, redirected attention, or caused something to be distracted away from its original path.
+**Usage**: "Our focus got diverted by a side bug." - Interruptions can stall progress if not contained.
+**Grammar**: Verb (past tense, past participle)
+**Synonyms**: redirected, distracted, deflected
+**Antonyms**: focused, guided, directed
+
+
 ## Dominant
 
 **Meaning**: Most powerful, controlling, or prominent
@@ -223,6 +259,14 @@
 **Grammar**: Adverb
 **Synonyms**: experimentally, observationally, evidence-based
 **Antonyms**: theoretically, speculatively, hypothetically
+
+## Engrossed
+
+**Meaning**: Completely absorbed or deeply involved in something.
+**Usage**: "I was engrossed in debugging until 2 AM." - Deep focus can make time disappear when the work matters.
+**Grammar**: Adjective, verb (past participle)
+**Synonyms**: absorbed, absorbed, immersed
+**Antonyms**: distracted, detached, uninterested
 
 ## Eradicate
 
@@ -323,6 +367,24 @@
 **Antonyms**: instability, inconsistency, fluctuation
 
 
+## Hightailed
+
+**Meaning**: Ran away or escaped quickly.
+**Usage**: "We hightailed out of that bad approach." - Hurry can be a survival response when the plan becomes dangerous.
+**Grammar**: Verb (past tense/adjective form)
+**Synonyms**: fled, escaped, ran off
+**Antonyms**: stayed, lingered, waited
+
+
+## Hobnob
+
+**Meaning**: To socialize casually with important or influential people.
+**Usage**: "She hobnobbed with senior engineers to learn the roadmap." - Social access can open doors to information and opportunity.
+**Grammar**: Verb
+**Synonyms**: socialize, mingle, network
+**Antonyms**: avoid, isolate, shun
+
+
 ## Hunch
 
 **Meaning**: A feeling or guess based on intuition
@@ -339,6 +401,15 @@
 **Grammar**: Verb (past tense), adjective
 **Synonyms**: obstructed, hindered, blocked
 **Antonyms**: facilitated, aided, expedited
+
+
+## Implicated
+
+**Meaning**: Showed that someone was involved in wrongdoing or a crime.
+**Usage**: "Logs implicated the upstream service." - Evidence can connect a cause to a harmful outcome.
+**Grammar**: Verb (past tense, past participle)
+**Synonyms**: incriminated, connected, implicated
+**Antonyms**: exonerated, cleared, absolved
 
 
 ## Imperceptible
@@ -386,6 +457,15 @@
 **Antonyms**: N/A (physical quantity)
 
 
+## Inconspicuous
+
+**Meaning**: Not easily noticed; blending in so well that it is hard to spot.
+**Usage**: "The inconspicuous data leak was hard to detect." - Hidden issues often survive while the obvious ones are fixed.
+**Grammar**: Adjective
+**Synonyms**: subtle, unnoticed, unobtrusive
+**Antonyms**: conspicuous, noticeable, obvious
+
+
 ## Inertia
 
 **Meaning**: Resistance to change in motion or state; tendency to stay the same
@@ -402,6 +482,15 @@
 **Grammar**: Verb (past tense)
 **Synonyms**: penetrated, entered, seeped in
 **Antonyms**: withdrew, exited, evacuated
+
+
+## Intrigue
+
+**Meaning**: A strong feeling of curiosity or interest, often with a sense of mystery; also, a secret plot or scheme.
+**Usage**: "The data had intrigue - something did not add up." - Curiosity can reveal hidden patterns worth pursuing.
+**Grammar**: Noun, verb
+**Synonyms**: fascination, mystery, plot
+**Antonyms**: boredom, clarity, plainness
 
 
 ## Intuitively
@@ -959,6 +1048,15 @@
 **Antonyms**: praised, admired, respected
 
 
+## Scurried
+
+**Meaning**: Ran quickly with short, hurried steps; scampered.
+**Usage**: "The team scurried to fix prod before the demo." - Urgency can create fast, reactive motion.
+**Grammar**: Verb (past tense of scurry)
+**Synonyms**: hurried, scampered, dashed
+**Antonyms**: lingered, dawdled, sauntered
+
+
 ## Scrimped
 
 **Meaning**: Used as little as possible; was thrifty to the point of hardship
@@ -1065,6 +1163,15 @@
 **Grammar**: Adjective, verb (present participle)
 **Synonyms**: astonishing, shocking, immense
 **Antonyms**: ordinary, modest, manageable
+
+
+## Staked
+
+**Meaning**: Claimed, marked, or bet on something; also, put something at risk.
+**Usage**: "We staked our launch on this model." - A decision can expose a lot when based on one assumption.
+**Grammar**: Verb (past tense, past participle)
+**Synonyms**: bet, risked, committed
+**Antonyms**: withdrew, avoided, safeguarded
 
 
 ## Stern
@@ -1335,6 +1442,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: smack, strike, hit
 **Antonyms**: caress, miss, avoid
+
+
+## Wispy
+
+**Meaning**: Thin, light, and delicate, like a wisp of smoke.
+**Usage**: "A wispy correlation barely shows up in the data." - Sparse evidence may be present but too weak to trust.
+**Grammar**: Adjective
+**Synonyms**: thin, delicate, airy
+**Antonyms**: dense, heavy, solid
 
 
 ## Wistfully
