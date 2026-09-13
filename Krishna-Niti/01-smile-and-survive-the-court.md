@@ -1,838 +1,927 @@
-# Krishna Niti 01: Smile and Survive the Court
+# Krishna Niti 02 — Don't Expect Eagles to Live by Lamb Morality
 
-## The Passage
+## Source
 
-> "Courts are, unquestionably, the seats of politeness and good breeding; were they not so, they would be the seats of slaughter and desolation. Those who now smile upon and embrace, would affront and stab, each other, if manners did not interpose..."
->
-> — **Lord Chesterfield (1694–1773)**
+> “There is nothing very odd about lambs disliking birds of prey; it is only natural that they should. And it is no less natural that birds of prey should carry off lambs.”
 
----
-
-### Reading the Niti
-
-> **Source** — What the original passage is saying.
->
-> **Krishna Interpretation** — The lesson we draw through Krishna, Dharma, and the Gita.
->
-> **Practical Application** — How the principle can be applied in life, leadership, and work.
+— Friedrich Nietzsche
 
 ---
 
-## 1. Meaning in Simple Words
+# Reading the Niti
 
-Lord Chesterfield is saying that royal courts — places filled with **power, ambition, competition, ego, and conflicting interests** — function partly because people observe rules of politeness and good manners.
+## Source
 
-Without those restraints, disagreements could quickly become open hostility.
+Nietzsche uses the contrast between **lambs and birds of prey** as part of his broader discussion of morality, power, ressentiment, and how different kinds of beings evaluate strength and weakness.
 
-The same people who smile, shake hands, and speak respectfully may have competing interests underneath the surface.
+The metaphor is uncomfortable because it challenges the assumption that everyone will naturally operate according to the same moral framework.
 
-Manners **interpose** — they stand between disagreement and open conflict.
+## Krishna Interpretation
 
-The modern equivalent of the royal court can be:
+The practical lesson is not:
 
-- Corporate offices
-- Leadership teams
-- Politics
-- Professional networks
-- Social circles
-- Any environment where **power and ambition intersect**
+> “Become an eagle.”
+
+Nor is it:
+
+> “The strong are always right.”
 
 The deeper lesson is:
 
-> **Manners are not merely decoration. They are a mechanism of restraint.**
+> **Do not assume that everyone will behave according to the moral expectations you hold for yourself.**
 
-They allow people with competing interests to coexist, negotiate, disagree, and continue working together.
+A person may value fairness, loyalty, cooperation, and kindness while another person may be primarily motivated by status, advantage, competition, fear, or self-interest.
+
+Therefore, goodness must be accompanied by **discernment, capability, and boundaries**.
+
+Krishna's example is particularly relevant here.
+
+Krishna did not approach every person with the same expectation of behaviour. He understood **Prakriti**—the tendencies, motivations, capabilities, and patterns of people—and acted accordingly.
+
+He negotiated where negotiation was possible.
+
+He reasoned where reason could work.
+
+He warned where warning was necessary.
+
+He prepared for conflict when peaceful means were exhausted.
+
+The lesson is not cynicism.
+
+It is **clear seeing**.
+
+## Practical Application
+
+Do not judge people only by what they say they value.
+
+Observe:
+
+- What they repeatedly do
+- How they behave when there is pressure
+- How they behave when nobody is watching
+- How they treat people who have less power
+- How they respond when they do not get their way
+- Whether their promises match their behaviour
+- Whether they respect boundaries
+- Whether they change after being given reasonable feedback
+
+**Trust should be progressive, not automatic.**
+
+Be kind.
+
+But remain observant.
+
+Be open.
+
+But do not become unguarded.
+
+Be cooperative.
+
+But retain your agency.
 
 ---
 
-## 2. Key Words
+# 1. Meaning in Simple Words
 
-- **Courts** — Royal courts in Chesterfield's time. In modern life: workplaces, politics, leadership circles, and other environments involving power and influence.
-- **Good breeding** — Good upbringing, refinement, etiquette, and socially disciplined behaviour.
-- **Seats of slaughter and desolation** — Places that could descend into destruction and hostility.
-- **Affront** — To insult or offend someone openly.
-- **Interpose** — To come between two things and prevent or moderate what might otherwise happen.
+The lamb does not need to become a predator.
+
+But the lamb also cannot survive by pretending that predators do not exist.
+
+This is the practical lesson.
+
+You do not need to become manipulative because some people are manipulative.
+
+You do not need to become aggressive because some people are aggressive.
+
+You do not need to abandon goodness because some people exploit goodness.
+
+But you **do** need enough capability and awareness to protect yourself.
+
+> **Goodness without capability can become vulnerability.**
+
+> **Capability without ethics can become predation.**
+
+The goal is neither.
+
+The goal is **ethical strength**.
 
 ---
 
-## 3. Krishna Connection
+# 2. Key Words / Key Ideas
 
-Krishna repeatedly demonstrates the strategic value of **tact, diplomacy, restraint, and measured speech**.
+### Prakriti — Nature / Tendencies
 
-Before the Kurukshetra war, Krishna went to Hastinapura as a peace emissary.
+People have different tendencies, motivations, habits, and behavioural patterns.
 
-He entered an environment filled with competing interests and hostility, yet his first instrument was not force.
+Observe them rather than assuming that everyone thinks like you.
 
-It was **diplomacy**.
+### Viveka — Discernment
 
-He reasoned.
+The ability to distinguish:
+
+- Trustworthy from untrustworthy
+- Risk from opportunity
+- Kindness from manipulation
+- Cooperation from exploitation
+- Genuine change from temporary performance
+
+### Shakti — Capability / Power
+
+The capacity to act.
+
+Capability may come from:
+
+- Knowledge
+- Skill
+- Position
+- Financial independence
+- Relationships
+- Reputation
+- Communication
+- Technical competence
+- Decision-making ability
+
+### Maryada — Boundaries
+
+Knowing what you will and will not accept.
+
+Boundaries prevent kindness from becoming self-neglect.
+
+### Samyam — Self-Control
+
+The ability to use strength without becoming controlled by anger, ego, fear, or revenge.
+
+### Dharma
+
+The ethical principle that governs how capability should be used.
+
+Power alone is not the goal.
+
+**Right use of power is the goal.**
+
+---
+
+# 3. Krishna Connection
+
+Krishna's conduct demonstrates a sophisticated understanding of human nature.
+
+He did not confuse **hope with evidence**.
+
+He gave people opportunities to choose differently.
+
+But he did not build his entire strategy around the assumption that everyone would choose wisely.
+
+This distinction is important.
+
+### Krishna did not say
+
+> “Everyone is good, therefore trust everyone.”
+
+Nor did he teach:
+
+> “Everyone is bad, therefore trust nobody.”
+
+The practical middle path is:
+
+> **Understand people. Give reasonable opportunities. Observe behaviour. Adjust trust according to evidence. Prepare according to reality.**
+
+This is particularly visible in Krishna's dealings with the Kuru court.
 
 He negotiated.
 
-He maintained his composure.
+He appealed to reason.
 
-He pursued peace through diplomacy and negotiation before the conflict became unavoidable.
+He sought peace.
 
-This is an important distinction:
+He warned.
 
-> **Courtesy does not require trust.**
->
-> **Diplomacy does not require surrender.**
->
-> **Peacefulness does not require weakness.**
+He understood the motivations of the people involved.
 
-Krishna could remain diplomatic while fully understanding the intentions of the people around him.
+And when peaceful resolution failed, the Pandavas were not left without preparation.
 
-That is the Niti.
+The lesson for modern life is:
 
----
+> **Use discernment before reaction.**
 
-## 4. Three Rules for Self-Protection
+Do not hate the eagle.
 
-### Rule 1: Muskurahat Is an Astra — Not Surrender
+Do not become the eagle.
 
-A calm and pleasant manner can itself be a form of strength.
+Learn how the eagle behaves.
 
-When someone provokes you, they may consciously or unconsciously be inviting you to become emotional.
-
-Once you lose emotional control, you may:
-
-- Say something unnecessary
-- Reveal what you really think
-- Make accusations you cannot substantiate
-- Damage an important relationship
-- Give others material that can later be used against you
-
-Therefore, the objective is not to "win" the emotional moment.
-
-The objective is to **retain command of yourself**.
-
-#### Office Rule: Composure
-
-> **When provoked, lower your voice, slow your response, and remain composed.**
-
-Do not allow someone else's behaviour to determine yours.
-
-The person who maintains composure retains more options.
+Then protect yourself accordingly.
 
 ---
 
-### Rule 2: Vani Ka Anushasan — Discipline of Speech
+# 4. Three Rules for Self-Protection
 
-The Bhagavad Gita 17.15 describes disciplined speech using the expression:
+## Rule 1 — Understand Prakriti: Read Patterns, Not Promises
 
-> **anudvega-karam vākyam**
+Words tell you what someone wants you to hear.
 
-The broader teaching describes speech that is **non-agitating, truthful, pleasant, and beneficial**.
+Patterns tell you how they actually behave.
 
-This does not mean avoiding difficult truths.
+Do not form your judgement from one conversation.
 
-It means learning to communicate difficult truths **without unnecessary aggression**.
-
-Instead of:
-
-> "You are wrong."
-
-Consider:
-
-> "I see this differently. Let me explain why."
-
-Instead of:
-
-> "You created this problem."
-
-Consider:
-
-> "Let's identify where the process failed and how we can correct it."
-
-Instead of attacking the person, address the:
-
-- Issue
-- Decision
-- Evidence
-- Behaviour
-- Process
-- Impact
-
-#### Office Rule: Disciplined Speech
-
-> **Tell the truth without adding unnecessary hostility.**
-
-Same truth.
-
-Less friction.
-
-No unnecessary enemies.
-
----
-
-### Rule 3: Prevent the Slaughter Before It Starts
-
-Chesterfield's key word is **interpose**.
-
-Something must come between disagreement and destruction.
-
-In professional life, that "something" is often not merely politeness.
-
-It is:
-
-> **Politeness + Process**
-
-When ambiguity or disagreement begins increasing, introduce structure:
-
-> "Let's document the decision."
->
-> "Let's confirm the ownership."
->
-> "Let's capture the agreed next steps."
->
-> "Let's summarise this in writing so everyone has the same understanding."
->
-> "Let's align with the relevant stakeholders before proceeding."
-
-Written decisions, clear ownership, meeting notes, explicit priorities, and stakeholder alignment reduce the space available for later misunderstanding or reinterpretation.
-
-Escalation mechanisms such as management or HR should be used deliberately when the situation genuinely warrants them — not as the first response to ordinary disagreement.
-
-#### Office Rule: Process
-
-> **Do not wait for conflict to become personal. Introduce clarity and process early.**
-
-#### Protection Formula
-
-> **Manners + Process = Protection**
-
----
-
-## 5. Modern Example
-
-Imagine a Teams or Slack group with ten people.
-
-Someone makes an important mistake.
-
-### Without Discipline
-
-> "This happened because of YOU. You always make these mistakes."
-
-The technical problem has now become a **personal conflict**.
-
-The other person becomes defensive.
-
-People start choosing sides.
-
-The original problem becomes secondary.
-
-### With Discipline
-
-> "I can see where this went wrong. Let's correct it first and then identify what safeguard we need to prevent it happening again."
-
-The same problem is addressed.
-
-Accountability can still happen.
-
-But unnecessary hostility has not been introduced.
-
-That is strategic communication.
-
----
-
-## 6. Personality Development Lesson
-
-Soft skills are not "soft" in their consequences.
-
-Tone, listening, emotional regulation, diplomacy, and disciplined speech determine whether your technical competence creates:
-
-- Trust or resistance
-- Allies or adversaries
-- Influence or isolation
-- Cooperation or unnecessary conflict
-
-Technical strength without interpersonal discipline can create avoidable enemies.
-
-Interpersonal discipline allows technical strength to travel further.
-
-### Personality Rule
-
-> **Build Shakti to act and Samyam to not react.**
-
-Strength without self-control becomes aggression.
-
-Self-control without strength can become passivity.
-
-Maturity requires both.
-
----
-
-## 7. Leadership Lesson
-
-A leader does not need to eliminate disagreement.
-
-A leader needs to prevent disagreement from becoming **destructive**.
-
-Strong leaders can say:
-
-> "I disagree."
-
-without communicating:
-
-> "I disrespect you."
-
-They separate:
-
-- **Person ≠ Position**
-- **Disagreement ≠ Disloyalty**
-- **Assertiveness ≠ Aggression**
-- **Courtesy ≠ Weakness**
-
-That distinction is leadership maturity.
-
-### Leadership Rule
-
-> **Create an environment where disagreement can exist without becoming personal.**
-
-Set the tone.
-
-Clarify ownership.
-
-Make decisions transparent.
-
-Reward contribution.
-
-Address destructive behaviour early.
-
----
-
-## 8. Spiritual Lesson
-
-External manners can also be understood as an expression of **internal self-control**.
-
-Anyone can remain polite when everything is going their way.
-
-The real test comes when:
-
-- Ego is challenged
-- Someone insults you
-- Someone receives credit you wanted
-- Someone misunderstands you
-- Someone behaves unfairly
-- You possess the power to retaliate
-
-The disciplined person asks:
-
-> **What response serves my purpose — not my ego?**
-
-That is where manners become more than etiquette.
-
-They become **self-mastery**.
-
----
-
-## 9. The Niti
-
-> **Politeness is strategic restraint.**
-
-You can understand another person's intentions without becoming hostile.
-
-You can disagree without becoming disrespectful.
-
-You can protect yourself without becoming aggressive.
-
-You can remain courteous without becoming naive.
-
-A few principles should remain clear:
-
-> **Courtesy is not trust.**
->
-> **Politeness is not agreement.**
->
-> **Diplomacy is not surrender.**
-
----
-
-## 10. Personal Rule
-
-> **Be civil with everyone.**
->
-> **Trust selectively.**
->
-> **React slowly.**
->
-> **Observe carefully.**
->
-> **Speak deliberately.**
->
-> **Document when necessary.**
-
----
-
-## Core Takeaway
-
-> **Politeness is not weakness. It is strategy. It keeps ambition, disagreement, and competing interests from unnecessarily turning into conflict.**
-
-And when the environment becomes difficult:
-
-> **Be courteous without becoming naive.**
->
-> **Be calm without becoming weak.**
->
-> **Be diplomatic without surrendering your position.**
-
----
-
-## How to Apply This Niti
-
-The purpose of this Niti is not simply to "be polite."
-
-It is to develop a repeatable way of handling difficult situations.
-
-The pattern is:
-
-> **Pause → Observe → Respond → Clarify → Document → Escalate if necessary**
-
----
-
-## A. How to Apply It in the Office
-
-### 1. When Someone Challenges Your Idea
-
-Do not immediately defend yourself.
-
-Instead:
-
-> "I understand your concern. Let me explain the reasoning behind the approach."
-
-Then discuss:
-
-- Facts
-- Assumptions
-- Risks
-- Alternatives
-- Trade-offs
-
-#### Avoid
-
-> "You don't understand the architecture."
-
-#### Prefer
-
-> "There may be another architectural consideration here. Let me walk through it."
-
-**Principle:**
-
-> **Defend the idea without attacking the person.**
-
----
-
-### 2. When Someone Blames You
-
-Do not respond emotionally.
-
-Instead:
-
-> "Let's look at what happened and establish the facts first."
-
-Then establish:
-
-1. What was agreed?
-2. Who owned the decision?
-3. What actually happened?
-4. What evidence exists?
-5. What needs to be corrected?
-
-If appropriate:
-
-> "I'll document the timeline so we have a common understanding."
-
-**Principle:**
-
-> **Replace accusation with evidence.**
-
----
-
-### 3. When Someone Takes Credit for Your Work
-
-Do not immediately accuse them publicly.
-
-Create visibility before the problem becomes personal.
-
-#### Before the Project
-
-Clarify ownership:
-
-> "I'll own the architecture and technical decisions. Ravi will own implementation. Priya will coordinate delivery."
-
-#### During the Project
-
-Provide concise progress updates:
-
-> "Architecture is completed. The team resolved X and Y this week. The next milestone is Z."
-
-#### At Important Decisions
-
-Create a decision record:
-
-> "For reference, here is the decision, the alternatives considered, and the rationale."
-
-#### After Delivery
-
-Remain professional:
-
-> "Glad the project landed successfully. For future reference, here is the contribution breakdown and the key decisions from each workstream."
-
-**Principle:**
-
-> **Visibility + Evidence + Professionalism = Protection**
-
----
-
-### 4. When Someone Is Being Aggressive
-
-Do not mirror their aggression.
-
-Lower the temperature.
-
-Say:
-
-> "I want to resolve this, but let's keep the discussion focused on the issue."
-
-If necessary:
-
-> "Let's pause here and continue once we have the relevant facts."
-
-If the behaviour continues:
-
-> "I am happy to discuss the issue, but I am not comfortable continuing the conversation in this manner."
-
-**Principle:**
-
-> **Do not fight fire with fire.**
-
----
-
-### 5. When You Disagree with a Senior Person
-
-Respect the person without surrendering your position.
-
-Instead of:
-
-> "That won't work."
-
-Say:
-
-> "I understand the direction. My concern is the impact on X and Y. May I suggest an alternative?"
-
-If the decision remains unchanged:
-
-> "Understood. I'll proceed with the agreed direction."
-
-Where appropriate, document the decision.
-
-**Principle:**
-
-> **Respect authority. Preserve professional judgment.**
-
----
-
-### 6. When a Decision Is Ambiguous
-
-Do not guess.
+Look for repetition.
 
 Ask:
 
-> "Before I proceed, could we confirm the expected outcome, priority, and ownership?"
+- Is this behaviour recurring?
+- Does this person keep their commitments?
+- Do they respect boundaries?
+- Do they take responsibility?
+- Do they behave differently when power is involved?
+- Do their actions match their stated values?
 
-Then summarize:
+A single mistake should not define a person.
 
-> "Just to confirm my understanding: I will own X, Ravi will own Y, and we are targeting Friday."
+A repeated pattern should not be ignored.
 
-**Principle:**
-
-> **Clarity prevents conflict.**
-
----
-
-### 7. When a Conflict Is Becoming Serious
-
-Do not turn it into a personal battle.
-
-Move from emotion to process:
-
-> **Conversation → Clarification → Documentation → Alignment → Escalation**
-
-Use the minimum level necessary.
-
-Do not escalate merely because you are angry.
-
-Escalate when the issue requires:
-
-- Decision authority
-- Formal accountability
-- Risk management
-- Policy intervention
-- Protection from repeated harmful behaviour
-
-**Principle:**
-
-> **Process is stronger than personal confrontation.**
+> **Trust patterns more than promises—but leave room for people to prove that the pattern has changed.**
 
 ---
 
-## B. How to Apply It in Personal Life
+## Rule 2 — Do Not Build Your Identity Around “I Am Not an Eagle”
 
-The same principle applies outside work.
+It is easy to define yourself negatively:
 
-The "court" can be:
+> “I don't play politics.”
 
-- Family
-- Friendships
-- Neighbours
-- Community groups
-- Financial discussions
-- Social relationships
-- Difficult conversations
+> “I don't manipulate people.”
 
----
+> “I am too honest for these games.”
 
-### 1. When Someone Insults You
+> “I don't want power.”
 
-Your first responsibility is not to win the argument.
+These statements may sound principled.
 
-It is to control yourself.
+But they can also become excuses for remaining strategically weak.
 
-Pause.
+You do not need to become political in a manipulative sense.
 
-Do not immediately retaliate.
+But you should understand organisational dynamics.
 
-You can say:
+You do not need to manipulate.
 
-> "I understand that you are upset. Let's talk about the actual issue."
+But you should understand incentives.
 
-Or:
+You do not need to seek dominance.
 
-> "I am willing to discuss this, but not through insults."
+But you should have the capability to defend your position.
 
-**Principle:**
+You do not need to become aggressive.
 
-> **Protect your dignity without attacking theirs.**
+But you should be capable of being firm.
+
+> **Do not confuse ethical behaviour with strategic helplessness.**
 
 ---
 
-### 2. When a Family Member Disagrees With You
+## Rule 3 — Do Not Bleat Louder: Increase Your Agency
 
-Do not convert disagreement into disrespect.
+When people repeatedly take advantage of weakness, complaining louder is rarely the solution.
+
+Increase your agency.
+
+Build:
+
+- Capability
+- Credibility
+- Financial independence
+- Professional visibility
+- Communication skill
+- Documentation
+- Relationships
+- Decision-making ability
+- Emotional control
+- Alternatives
+
+The stronger your agency, the less dependent you become on another person's goodwill.
+
+> **Agency is stronger than repeated complaint.**
+
+Instead of asking only:
+
+> “Why are they treating me this way?”
+
+also ask:
+
+> “What capability, boundary, process, or alternative would reduce my dependence on their behaviour?”
+
+---
+
+# 5. Modern Example
+
+Imagine a professional who consistently helps colleagues.
+
+They solve problems.
+
+They share knowledge.
+
+They support others.
+
+But one colleague repeatedly takes credit for their work.
+
+Initially, the person thinks:
+
+> “I should not become political.”
+
+So they remain silent.
+
+The behaviour continues.
+
+They become frustrated.
+
+Eventually they conclude:
+
+> “People are selfish. I should stop helping everyone.”
+
+That is the wrong lesson.
+
+The better lesson is:
+
+### Step 1 — Observe the pattern
+
+Is this a one-time misunderstanding or repeated behaviour?
+
+### Step 2 — Make contribution visible
+
+Document decisions, ownership, deliverables, and outcomes.
+
+### Step 3 — Communicate directly
+
+> “For clarity, I’ll document the workstream and ownership so we have a common understanding.”
+
+### Step 4 — Establish boundaries
+
+Do not repeatedly provide invisible labour.
+
+### Step 5 — Use process
+
+If necessary, involve the appropriate stakeholder with facts rather than emotion.
+
+### Step 6 — Preserve your character
+
+Do not retaliate by taking credit from others.
+
+Do not become the same kind of person.
+
+The objective is not revenge.
+
+The objective is **protection and fairness**.
+
+---
+
+# 6. Personality Development Lesson
+
+One of the most important aspects of personality development is learning to combine:
+
+> **Kindness + Strength + Discernment**
+
+A mature personality does not need to choose between being:
+
+- Nice or strong
+- Honest or strategic
+- Compassionate or assertive
+- Trusting or observant
+
+These are false choices.
+
+You can be:
+
+> **Kind without being naive.**
+
+> **Honest without being careless.**
+
+> **Strategic without being manipulative.**
+
+> **Assertive without being aggressive.**
+
+> **Strong without becoming cruel.**
+
+Personality maturity means developing enough internal strength that you no longer need either extreme.
+
+You do not need to prove that you are good.
+
+You need to **live your values while maintaining the capability to protect them.**
+
+---
+
+# 7. Leadership Lesson
+
+A leader who assumes everyone is motivated by the same values will eventually be surprised.
+
+Effective leadership requires understanding different motivations.
+
+One person may respond to:
+
+- Purpose
+- Another to recognition
+- Another to responsibility
+- Another to autonomy
+- Another to incentives
+- Another to authority
+- Another to fear of consequences
+
+A leader should understand these differences without becoming manipulative.
+
+### Leadership requires three abilities
+
+#### 1. See clearly
+
+Understand the people and the system.
+
+#### 2. Act firmly
+
+Make decisions when necessary.
+
+#### 3. Remain ethical
+
+Do not allow power to corrupt your behaviour.
+
+A strong leader does not ask:
+
+> “How can I dominate everyone?”
+
+The better question is:
+
+> “How can I create an environment where good behaviour is rewarded, unacceptable behaviour has consequences, and people can succeed without unnecessary politics?”
+
+That is ethical power.
+
+---
+
+# 8. Spiritual Lesson
+
+The spiritual danger is not only becoming a victim.
+
+It is also becoming what you oppose.
+
+A person may initially suffer because others are manipulative.
+
+Then they become manipulative themselves.
+
+They may initially dislike aggression.
+
+Then they become aggressive because they believe:
+
+> “That is the only way to survive.”
+
+This is a subtle form of defeat.
+
+You have protected the body but damaged the character.
+
+The higher path is:
+
+> **See without hatred.**
+
+> **Protect without guilt.**
+
+> **Act without revenge.**
+
+> **Remain strong without becoming cruel.**
+
+Spiritual maturity does not mean becoming incapable of dealing with difficult people.
+
+It means dealing with them **without allowing their behaviour to dictate your character**.
+
+---
+
+# 9. The Third Path — The Protector
+
+There are three broad archetypes.
+
+| Archetype | Strength | Problem |
+|---|---|---|
+| **Lamb** | Good intention | Insufficient agency |
+| **Predator** | High agency | Insufficient ethical restraint |
+| **Protector** | Capability + compassion | Governed by discernment and Dharma |
+
+The first path says:
+
+> “I will remain good even if I cannot protect myself.”
+
+The second path says:
+
+> “I will become powerful enough that nobody can hurt me.”
+
+The third path says:
+
+> **“I will become capable enough to protect myself and others, while remaining governed by Dharma.”**
+
+This is the Krishna / Yogi path.
+
+### Capability
+
+Develop Shakti.
+
+### Compassion
+
+Do not lose humanity.
+
+### Discernment
+
+Understand people and situations clearly.
+
+### Self-Control
+
+Do not allow anger, ego, fear, or revenge to control your power.
+
+Therefore:
+
+> **Capability + Compassion + Discernment + Self-Control = Protection**
+
+The goal is not to become the predator.
+
+The goal is to become the **protector**.
+
+---
+
+# 10. The Niti
+
+> **Do not become a predator merely to escape becoming prey.**
+>
+> Build capability.
+>
+> Retain compassion.
+>
+> Use discernment.
+>
+> Maintain boundaries.
+>
+> Protect yourself without abandoning your values.
+>
+> Understand power without worshipping power.
+>
+> Read patterns without becoming cynical.
+>
+> Trust without becoming careless.
+>
+> Forgive without forgetting patterns.
+>
+> Be strong without becoming cruel.
+
+---
+
+# 11. Personal Rule
+
+> **I will remain good, but I will not remain helpless.**
+>
+> I will trust progressively.
+>
+> I will observe patterns.
+>
+> I will build capability.
+>
+> I will maintain boundaries.
+>
+> I will use process when goodwill is insufficient.
+>
+> I will protect myself without becoming what I protect myself against.
+
+---
+
+# Core Takeaway
+
+The lesson is not:
+
+> **Become an eagle.**
+
+The lesson is:
+
+> **Do not live like a helpless lamb simply because you want to remain good.**
+
+Develop enough:
+
+- Capability to act
+- Discernment to see
+- Boundaries to protect
+- Courage to speak
+- Self-control to remain ethical
+
+Your goodness becomes stronger when it is supported by capability.
+
+> **Goodness + Capability + Boundaries = Strength**
+
+---
+
+# How to Apply This Niti
+
+## A. Office
+
+### 1. When someone repeatedly takes credit
+
+Do not immediately accuse.
+
+First document contribution and ownership.
+
+Use:
+
+> “For clarity, I’ll capture the work completed, decisions made, and ownership for each item.”
+
+**Lesson:** Make your contribution visible without creating unnecessary conflict.
+
+---
+
+### 2. When someone's promises repeatedly differ from behaviour
+
+Do not keep resetting your expectations based on promises.
+
+Observe the pattern.
+
+Use:
+
+> “I’ll plan based on the current commitment and track the dependency accordingly.”
+
+**Lesson:** Trust evidence, not repeated assurances.
+
+---
+
+### 3. When someone says, “Just trust me.”
+
+Do not automatically become suspicious.
+
+But do not abandon verification either.
+
+Use:
+
+> “Absolutely. Let’s also document the agreement so we are aligned.”
+
+**Lesson:** Documentation is not distrust. It is clarity.
+
+---
+
+### 4. When you encounter organisational politics
+
+Do not declare:
+
+> “I don't play politics.”
+
+Instead:
+
+> “I understand the stakeholders, incentives, decision paths, and risks—but I will operate ethically.”
+
+**Lesson:** Organisational awareness is not manipulation.
+
+---
+
+### 5. When your contribution is being marginalised
+
+Increase visibility.
+
+Share:
+
+- Outcomes
+- Decisions
+- Deliverables
+- Ownership
+- Risks
+- Dependencies
+
+Do not rely entirely on people voluntarily recognising your contribution.
+
+**Lesson:** Good work should be visible enough to be understood.
+
+---
+
+### 6. When you need to say no
+
+Do not apologise excessively.
+
+Use:
+
+> “I won't be able to take this on within the current priorities. If this becomes the priority, we can revisit the existing commitments.”
+
+**Lesson:** Boundaries protect your ability to deliver.
+
+---
+
+### 7. When someone tries to intimidate you
+
+Do not match aggression with aggression.
+
+Slow down.
+
+Ask for specifics.
+
+Use:
+
+> “Let's keep this focused on the issue. Please tell me specifically what needs to be addressed.”
+
+**Lesson:** Calmness is strength when supported by capability.
+
+---
+
+### 8. When the system itself is unhealthy
+
+Do not spend all your energy complaining about the system.
+
+Ask:
+
+- What can I control?
+- What can I document?
+- What boundaries can I establish?
+- What alternatives can I build?
+- What capability would reduce my dependence?
+
+**Lesson:** Increase agency instead of increasing helplessness.
+
+---
+
+# B. Personal Life
+
+### 1. When someone repeatedly breaks their word
+
+Do not immediately declare them a bad person.
+
+Observe the pattern.
+
+Then adjust your trust.
+
+> “I understand. I'll plan independently so I'm not dependent on this commitment.”
+
+**Lesson:** Forgiveness does not require blind dependence.
+
+---
+
+### 2. When someone takes advantage of your kindness
+
+Do not become bitter.
+
+Change the boundary.
+
+> “I am happy to help when I can, but I won't be able to continue doing this repeatedly.”
+
+**Lesson:** Kindness needs boundaries.
+
+---
+
+### 3. When someone pressures you for an immediate decision
+
+Create space.
+
+> “Let me think about it and get back to you.”
+
+**Lesson:** Pressure should not remove your ability to think.
+
+---
+
+### 4. When someone repeatedly crosses a boundary
+
+Do not endlessly explain the same boundary.
+
+State the consequence.
+
+> “I have already explained my position. If this continues, I will step away from the situation.”
+
+**Lesson:** A boundary without consequence is often only a request.
+
+---
+
+### 5. When trust has been broken
+
+Do not confuse forgiveness with restoration of trust.
+
+You may forgive someone while changing the level of access you give them.
+
+**Lesson:** Forgiveness can release resentment; discernment determines future access.
+
+---
+
+### 6. When someone becomes aggressive
+
+Do not automatically become aggressive in return.
+
+Create distance.
+
+Reduce emotional engagement.
+
+Seek support where appropriate.
+
+**Lesson:** You do not need to mirror another person's behaviour.
+
+---
+
+### 7. When your good nature is repeatedly used against you
+
+Do not change your values.
+
+Change your availability.
+
+> “I want to help, but I cannot keep taking responsibility for something that is not mine.”
+
+**Lesson:** Protect the value without allowing exploitation of the value.
+
+---
+
+### 8. When walking away is the wiser option
+
+Not every battle deserves your energy.
+
+Sometimes the strongest action is to disengage.
+
+> “This situation is no longer productive for me, so I am choosing to step away.”
+
+**Lesson:** Power includes the ability not to participate.
+
+---
+
+# Examples
+
+## Polite but Not Naive
+
+> “I understand your point. Let me verify the details before I commit.”
+
+---
+
+## Trusting but Observant
+
+> “I am happy to proceed, and I'll also document the agreement so we're aligned.”
+
+---
+
+## Kind but Boundaried
+
+> “I want to help, but I cannot take ownership of this repeatedly.”
+
+---
+
+## Strong but Not Aggressive
+
+> “I disagree with the approach. Let's focus on the facts and decide based on the outcome we need.”
+
+---
+
+## Strategic but Ethical
+
+> “I understand the stakeholder dynamics. I'll work through the appropriate channels and keep the decision transparent.”
+
+---
+
+## Calm Under Pressure
+
+> “I don't want to respond impulsively. Give me some time to review this properly.”
+
+---
+
+## Protecting Without Revenge
+
+> “I will take the necessary steps to protect my position, but I have no interest in creating unnecessary conflict.”
+
+---
+
+## Increasing Agency
 
 Instead of:
 
-> "You never listen to me."
+> “Why does nobody respect me?”
 
-Say:
+Ask:
 
-> "I understand your concern. I see the situation differently because of these reasons."
-
-Listen.
-
-Explain.
-
-Agree where possible.
-
-Maintain your position where necessary.
-
-**Principle:**
-
-> **Disagreement does not require disrespect.**
+> “What capability, boundary, visibility, or process would make my position stronger?”
 
 ---
 
-### 3. When Someone Asks You for Something You Cannot Do
+# Remember
 
-You do not need to say yes merely to remain polite.
+> **Do not expect everyone to think like you.**
 
-Say:
+> **Do not assume every promise will become action.**
 
-> "I understand why you are asking, but I won't be able to do that."
+> **Do not confuse kindness with helplessness.**
 
-Or:
+> **Do not confuse awareness of politics with participation in dirty politics.**
 
-> "I appreciate you asking. Unfortunately, I cannot commit to this."
+> **Do not advertise weakness as virtue.**
 
-No long justification is always necessary.
+> **Do not become a predator merely because predators exist.**
 
-**Principle:**
+> **Do not allow another person's behaviour to determine your character.**
 
-> **Courtesy and boundaries can coexist.**
+Build capability.
 
----
+Maintain compassion.
 
-### 4. When Someone Wants an Immediate Answer
+Use discernment.
 
-Do not allow urgency to force an emotional decision.
+Protect your boundaries.
 
-Say:
-
-> "Let me think about it and get back to you."
-
-Or:
-
-> "I don't want to make a decision in a hurry. I'll review it and let you know."
-
-**Principle:**
-
-> **A pause is often protection.**
+Remain ethical.
 
 ---
 
-### 5. When Trust Has Been Broken
+# Final Principle
 
-Forgiveness does not require immediate restoration of trust.
-
-You can remain civil while becoming more careful.
-
-> "I have no desire to hold this against you, but I will need some time before I can trust the situation the same way."
-
-You can forgive internally while changing the level of access you give someone.
-
-**Principle:**
-
-> **Be courteous. Let trust be earned through behaviour.**
-
----
-
-### 6. When a Neighbour or Community Dispute Arises
-
-Do not begin with accusation.
-
-Start with facts:
-
-> "Let's understand exactly what happened."
-
-Then:
-
-> "What can we do to prevent this from happening again?"
-
-If the problem continues:
-
-> "Let's record the issue and involve the appropriate committee."
-
-If necessary:
-
-> "Let's follow the formal process rather than arguing about it personally."
-
-**Principle:**
-
-> **Move from emotion to process.**
-
----
-
-### 7. When Someone Repeatedly Crosses Your Boundary
-
-Politeness does not mean endless tolerance.
-
-The first time:
-
-> "I'd prefer that we don't do this."
-
-If repeated:
-
-> "I've already mentioned this. Please respect the boundary."
-
-If still repeated:
-
-> "Since this continues, I will need to change how I handle this situation."
-
-**Principle:**
-
-> **A boundary becomes meaningful when it has a consequence.**
-
----
-
-## Examples
-
-### Politeness as Strategy
-
-Instead of saying:
-
-> "Your proposal will not work."
-
-Say:
-
-> "I see the value in your proposal. Could we also consider how it would affect the budget and timeline?"
-
-This keeps the discussion focused on the decision rather than turning it into a personal conflict.
-
----
-
-### Courteous Without Being Naive
-
-> "Thank you for the offer. I will review the details before I make a decision."
-
-Courtesy does not require immediate trust or commitment.
-
----
-
-### Calm Without Being Weak
-
-> "I understand that this is urgent, but I cannot approve it without the required information."
-
-Composure and boundaries can exist together.
-
----
-
-### Diplomatic Without Surrendering Your Position
-
-> "I respect your view. However, I believe this approach creates too much risk, so I recommend we proceed with the original plan."
-
-Respecting another person's position does not require abandoning your own.
-
----
-
-## Remember
-
-> **Manners + Process = Protection.**
-
-When challenged:
-
-> **Pause before reacting.**
-
-When disagreeing:
-
-> **Attack the issue, not the person.**
-
-When uncertain:
-
-> **Create clarity.**
-
-When trust is incomplete:
-
-> **Be courteous, but trust progressively.**
-
-When boundaries are crossed:
-
-> **Be firm without becoming hostile.**
-
-When conflict escalates:
-
-> **Move from emotion to process.**
-
-And above all:
-
-> **Be strong enough to protect yourself without becoming the source of the conflict.**
-
----
-
-## Final Principle
-
-> **Politeness is not about pleasing everyone.**
+> **Be good without being helpless.**
 >
-> **It is about retaining self-control, preserving dignity, reducing unnecessary conflict, and keeping your options open.**
+> **Be kind without being naive.**
 >
-> **The smile is not surrender.**
+> **Be strong without becoming predatory.**
 >
-> **The calm is not weakness.**
+> **See clearly without becoming cynical.**
 >
-> **The courtesy is not blindness.**
+> **Build capability without worshipping power.**
 >
-> **The process is your protection.**
+> **Protect yourself without becoming what you defend yourself against.**
 
-### Krishna Niti 01
-
-> **Smile. Stay calm. Speak with discipline. Observe carefully. Use process. Protect yourself without becoming hostile.**
