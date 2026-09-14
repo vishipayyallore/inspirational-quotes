@@ -403,15 +403,6 @@
 **Antonyms**: facilitated, aided, expedited
 
 
-## Implicated
-
-**Meaning**: Showed that someone was involved in wrongdoing or a crime.
-**Usage**: "Logs implicated the upstream service." - Evidence can connect a cause to a harmful outcome.
-**Grammar**: Verb (past tense, past participle)
-**Synonyms**: incriminated, connected, implicated
-**Antonyms**: exonerated, cleared, absolved
-
-
 ## Imperceptible
 
 **Meaning**: So slight you can't notice it
@@ -419,6 +410,15 @@
 **Grammar**: Adjective
 **Synonyms**: undetectable, subtle, indistinguishable
 **Antonyms**: perceptible, obvious, noticeable
+
+
+## Implicated
+
+**Meaning**: Showed that someone was involved in wrongdoing or a crime.
+**Usage**: "Logs implicated the upstream service." - Evidence can connect a cause to a harmful outcome.
+**Grammar**: Verb (past tense, past participle)
+**Synonyms**: incriminated, connected, implicated
+**Antonyms**: exonerated, cleared, absolved
 
 
 ## Implication
@@ -448,15 +448,6 @@
 **Antonyms**: exoneration, vindication, omission
 
 
-## Inductance
-
-**Meaning**: Property of an electrical conductor by which a change in current induces an EMF
-**Usage**: "The coil's inductance opposes sudden changes in current in the motor circuit."
-**Grammar**: Noun
-**Synonyms**: electrical inductance, coil property
-**Antonyms**: N/A (physical quantity)
-
-
 ## Inconspicuous
 
 **Meaning**: Not easily noticed; blending in so well that it is hard to spot.
@@ -464,6 +455,15 @@
 **Grammar**: Adjective
 **Synonyms**: subtle, unnoticed, unobtrusive
 **Antonyms**: conspicuous, noticeable, obvious
+
+
+## Inductance
+
+**Meaning**: Property of an electrical conductor by which a change in current induces an EMF
+**Usage**: "The coil's inductance opposes sudden changes in current in the motor circuit."
+**Grammar**: Noun
+**Synonyms**: electrical inductance, coil property
+**Antonyms**: N/A (physical quantity)
 
 
 ## Inertia
@@ -754,15 +754,6 @@
 **Antonyms**: unpave, obstruct, hinder
 
 
-## Persistent
-
-**Meaning**: Continuing, not giving up, and never stopping.
-**Usage**: "We are tracking a persistent bug and persistent model drift."
-**Grammar**: Adjective
-**Synonyms**: continuing, determined, enduring
-**Antonyms**: temporary, intermittent, yielding
-
-
 ## PCA
 
 **Meaning**: Principal Component Analysis, a statistical technique used to reduce data dimensions while preserving important variance.
@@ -770,6 +761,15 @@
 **Grammar**: Proper noun (abbreviation; statistical term)
 **Synonyms**: principal components method, dimensionality reduction technique, feature extraction method
 **Antonyms**: raw high-dimensional data, no dimensionality reduction, feature expansion
+
+
+## Persistent
+
+**Meaning**: Continuing, not giving up, and never stopping.
+**Usage**: "We are tracking a persistent bug and persistent model drift."
+**Grammar**: Adjective
+**Synonyms**: continuing, determined, enduring
+**Antonyms**: temporary, intermittent, yielding
 
 
 ## PI
@@ -1048,15 +1048,6 @@
 **Antonyms**: praised, admired, respected
 
 
-## Scurried
-
-**Meaning**: Ran quickly with short, hurried steps; scampered.
-**Usage**: "The team scurried to fix prod before the demo." - Urgency can create fast, reactive motion.
-**Grammar**: Verb (past tense of scurry)
-**Synonyms**: hurried, scampered, dashed
-**Antonyms**: lingered, dawdled, sauntered
-
-
 ## Scrimped
 
 **Meaning**: Used as little as possible; was thrifty to the point of hardship
@@ -1064,6 +1055,15 @@
 **Grammar**: Verb (past tense of scrimp)
 **Synonyms**: economized, skimped, pinched pennies
 **Antonyms**: splurged, squandered, lavished
+
+
+## Scurried
+
+**Meaning**: Ran quickly with short, hurried steps; scampered.
+**Usage**: "The team scurried to fix prod before the demo." - Urgency can create fast, reactive motion.
+**Grammar**: Verb (past tense of scurry)
+**Synonyms**: hurried, scampered, dashed
+**Antonyms**: lingered, dawdled, sauntered
 
 
 ## Shattered
