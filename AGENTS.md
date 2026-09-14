@@ -28,6 +28,8 @@ Add `-ShowMismatches` to see current vs. correct order; add `-OutFile "Logs/veri
 
 ## Vocabulary agent rules
 
+- Before staging a word, search all `EnglishLearning/Vocabulary/A.md` through `Z.md`. If it exists in a letter file, do not add it to staging; otherwise add one complete canonical entry to `staging/VocabularyToOrganize.md`.
+- Keep `staging/VocabularyToOrganize.md` in strict alphabetical order by `## WordName` headings. Do not append dated or raw duplicate lists; merge any new detail into the existing canonical staging entry.
 - Check the full vocabulary set before adding a new word to avoid duplicates or near-duplicate spellings.
 - Put the entry in the file that matches the word's first letter and verify the exact insertion point against neighboring words.
 - Preserve all five fields (`Meaning`, `Usage`, `Grammar`, `Synonyms`, `Antonyms`) when possible; if one is missing, add only that field cleanly without rewriting unrelated content.

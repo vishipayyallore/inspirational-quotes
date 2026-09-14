@@ -74,6 +74,7 @@ These rules keep explanations useful and auditable while protecting internal rea
 
 When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 
+0. **Staging Gate**: Search all letter files (`A.md` through `Z.md`) before adding a word to `staging/VocabularyToOrganize.md`. Add only words absent from the letter files, as one complete canonical `## WordName` entry placed in strict alphabetical order; do not append dated or raw duplicate lists.
 1. **Complete Alphabet Coverage**: ALL 26 alphabet files (A.md through Z.md) exist and are ready for content
 2. **Alphabetical Organization**: ALL vocabulary words within each file MUST be in strict alphabetical order
 3. **Duplicate Check First**: Before adding a word, search the entire vocabulary folder to confirm the word does not already exist under a different file or as a near-duplicate spelling
@@ -130,7 +131,7 @@ When working with vocabulary files (`EnglishLearning/Vocabulary/*.md`):
 - Keep `Scripts/Debug.md` under 50 lines; use it only as a quick reference with pointers to detailed logs in `Logs/`
 - If a user asks to add a word and the word already exists, update the existing entry instead of duplicating it
 - If the user provides one or more of `Meaning`, `Usage`, `Grammar`, `Synonyms`, or `Antonyms`, preserve what was given and add only missing fields when it can be done cleanly without changing the intended word
-- When processing a dated list in `staging/VocabularyToOrganize.md`, first check every listed word for exact, case-insensitive, punctuation-normalized, and obvious inflection duplicates across staging and all letter files. Keep the existing complete entry as canonical, transfer only missing entries, and remove consumed definitions and list items from staging.
+- When processing staged vocabulary, first check every word for exact, case-insensitive, punctuation-normalized, and obvious inflection duplicates across staging and all letter files. Keep the existing complete entry as canonical, transfer only missing entries, and remove the consumed staging entry.
 - Distinguish base words from inflected forms by the user's requested spelling and existing heading; do not silently replace one with the other.
 - After adding an entry, update its letter file's quick-navigation list and `_VocabularyDefinitions.md` summary. Run the verifier with `-Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary"`, save a timestamped result in `Logs/`, and record the command and outcome in `Scripts/Debug.md`.
 
