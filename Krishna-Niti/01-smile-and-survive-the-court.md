@@ -236,7 +236,7 @@ That is strategic communication.
 
 ---
 
-## 6. Personality Development Lesson
+## 6. Personality Development Lesson **-- Here**
 
 Soft skills are not "soft" in their consequences.
 

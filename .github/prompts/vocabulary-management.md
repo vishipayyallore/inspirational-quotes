@@ -18,6 +18,7 @@ You are working with an inspirational quotes repository that includes English le
 
 - Search the entire `EnglishLearning/Vocabulary/` folder before adding a word
 - If the word already exists, update the existing entry instead of creating a duplicate
+- When a word is absent from `A.md` through `Z.md`, add it once to `staging/VocabularyToOrganize.md` as a complete `## WordName` entry in strict alphabetical order. Do not append dated or raw duplicate lists.
 - If the user supplies a partial entry, preserve the given text and add only missing fields among `Meaning`, `Usage`, `Grammar`, `Synonyms`, and `Antonyms` when that can be done cleanly
 
 ### 2. Verification Process
