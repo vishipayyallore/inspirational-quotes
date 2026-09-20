@@ -99,6 +99,15 @@
 **Antonyms**: N/A (proper noun)
 
 
+## Citadel
+
+**Meaning**: A strong fortress or secure place; a protected core area.
+**Usage**: "Our data citadel is secure and guarded." - Strong controls can protect the most valuable part of a system.
+**Grammar**: Noun
+**Synonyms**: fortress, stronghold, refuge
+**Antonyms**: vulnerability, exposure, openness
+
+
 ## Clinched
 
 **Meaning**: Secured or finalized something successfully.
@@ -153,6 +162,15 @@
 **Antonyms**: noncontender, spectator, bystander
 
 
+## Counters
+
+**Meaning**: Tables or surfaces in a shop; also argues against or opposes something.
+**Usage**: "This counters the argument that a bigger model is always better." - Evidence can challenge a broad claim.
+**Grammar**: Noun (plural), verb (third-person singular)
+**Synonyms**: opposes, refutes, challenges
+**Antonyms**: supports, confirms, agrees
+
+
 ## Converged
 
 **Meaning**: Came together from different directions to meet at one point. In ML/AI, it means an algorithm reached a stable solution.
@@ -198,6 +216,15 @@
 **Antonyms**: honesty, truthfulness, transparency
 
 
+## Decoy
+
+**Meaning**: A fake thing used to trick or distract someone.
+**Usage**: "That feature was a decoy." - An apparently useful signal can divert attention from the real cause.
+**Grammar**: Noun, verb
+**Synonyms**: lure, distraction, bait
+**Antonyms**: truth, guide, disclosure
+
+
 ## Decoyed
 
 **Meaning**: Lured or tricked into a trap by a fake target or distraction.
@@ -205,6 +232,15 @@
 **Grammar**: Verb (past tense, past participle)
 **Synonyms**: lured, deceived, enticed
 **Antonyms**: warned, protected, alerted
+
+
+## Detour
+
+**Meaning**: A longer route taken by going around something.
+**Usage**: "We took a detour to clean data before modeling." - A temporary change of route can prevent larger problems later.
+**Grammar**: Noun, verb
+**Synonyms**: diversion, bypass, alternate route
+**Antonyms**: direct route, shortcut, straight path
 
 
 ## Defy
@@ -320,6 +356,15 @@
 **Grammar**: Adjective
 **Synonyms**: resigned, hopeless, deterministic
 **Antonyms**: hopeful, proactive, optimistic
+
+
+## Feign
+
+**Meaning**: To pretend or fake an emotion, action, or condition.
+**Usage**: "Feign confidence in the interview." - Pretending to feel confident is different from developing real confidence.
+**Grammar**: Verb
+**Synonyms**: pretend, simulate, fake
+**Antonyms**: reveal, express, disclose
 
 
 ## Fidelity
@@ -482,6 +527,15 @@
 **Grammar**: Noun
 **Synonyms**: inward collapse, cave-in, inward burst
 **Antonyms**: explosion, expansion, outward burst
+
+
+## Impulse
+
+**Meaning**: A sudden urge to do something without thinking carefully first.
+**Usage**: "I had an impulse to retrain the model without checking the data." - Pausing can prevent a hasty technical decision.
+**Grammar**: Noun
+**Synonyms**: urge, instinct, inclination
+**Antonyms**: deliberation, restraint, reflection
 
 
 ## Imputation
