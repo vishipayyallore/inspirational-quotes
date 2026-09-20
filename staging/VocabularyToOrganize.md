@@ -9,6 +9,15 @@
 **Antonyms**: intensified, aggravated, worsened
 
 
+## Amused
+
+**Meaning**: Found something funny or entertaining.
+**Usage**: "I was amused by the model's funny prediction." - Humor can make an unexpected result easier to remember.
+**Grammar**: Adjective, verb (past tense of amuse)
+**Synonyms**: entertained, entertained, delighted
+**Antonyms**: bored, annoyed, irritated
+
+
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
@@ -25,6 +34,15 @@
 **Grammar**: Verb (past tense of beget)
 **Synonyms**: caused, produced, generated
 **Antonyms**: prevented, suppressed, halted
+
+
+## Beguile
+
+**Meaning**: To charm, attract, or trick someone in an appealing way.
+**Usage**: "Vanity metrics beguile new data scientists." - Attractive appearances can hide misleading substance.
+**Grammar**: Verb
+**Synonyms**: charm, enchant, deceive
+**Antonyms**: repel, enlighten, disillusion
 
 
 ## Bowlines
@@ -117,6 +135,15 @@
 **Antonyms**: honest people, whistleblowers, sincere actors
 
 
+## Confide
+
+**Meaning**: To tell a secret or private matter to someone you trust.
+**Usage**: "I confided my imposter syndrome to my mentor." - Trust makes it easier to speak honestly about private concerns.
+**Grammar**: Verb
+**Synonyms**: disclose, reveal, entrust
+**Antonyms**: conceal, withhold, hide
+
+
 ## Contender
 
 **Meaning**: A person/company competing for a position or title
@@ -169,6 +196,15 @@
 **Grammar**: Noun
 **Synonyms**: trickery, deceit, fraud
 **Antonyms**: honesty, truthfulness, transparency
+
+
+## Decoyed
+
+**Meaning**: Lured or tricked into a trap by a fake target or distraction.
+**Usage**: "The model was decoyed by noisy features." - Irrelevant signals can pull a system toward the wrong explanation.
+**Grammar**: Verb (past tense, past participle)
+**Synonyms**: lured, deceived, enticed
+**Antonyms**: warned, protected, alerted
 
 
 ## Defy
@@ -349,6 +385,15 @@
 **Antonyms**: outdoors, exterior
 
 
+## Herrings
+
+**Meaning**: Red herrings; things that mislead or distract from the real issue.
+**Usage**: "That outlier was a red herring; the real bug was leakage." - A distracting clue can hide the true cause of a problem.
+**Grammar**: Noun (plural)
+**Synonyms**: distractions, decoys, misdirections
+**Antonyms**: evidence, clues, revelations
+
+
 ## Heuristics
 
 **Meaning**: Practical problem-solving methods using experience, not perfect rules. Shortcuts to find good solutions fast. (In ML: Rules of thumb to guide search/optimization.)
@@ -466,6 +511,15 @@
 **Antonyms**: N/A (physical quantity)
 
 
+## Ineptitude
+
+**Meaning**: Lack of skill, ability, or competence.
+**Usage**: "Deployment failed due to ineptitude in infra." - Weak execution can turn a manageable task into a production failure.
+**Grammar**: Noun
+**Synonyms**: incompetence, ineffectiveness, incapacity
+**Antonyms**: competence, skill, proficiency
+
+
 ## Inertia
 
 **Meaning**: Resistance to change in motion or state; tendency to stay the same
@@ -491,6 +545,15 @@
 **Grammar**: Noun, verb
 **Synonyms**: fascination, mystery, plot
 **Antonyms**: boredom, clarity, plainness
+
+
+## Intrigued
+
+**Meaning**: Curious, interested, or eager to know more.
+**Usage**: "I was intrigued by how the LLM reasoned." - Curiosity encourages closer examination of an unfamiliar result.
+**Grammar**: Adjective, verb (past tense of intrigue)
+**Synonyms**: curious, fascinated, interested
+**Antonyms**: bored, indifferent, uninterested
 
 
 ## Intuitively
@@ -725,6 +788,24 @@
 **Grammar**: Verb (past tense), adjective
 **Synonyms**: cut, chipped, stolen
 **Antonyms**: intact, uncut, returned
+
+
+## Nonchalance
+
+**Meaning**: A calm, casual attitude that shows little worry or concern.
+**Usage**: "He showed nonchalance even when prod was down." - Composure can remain visible during pressure.
+**Grammar**: Noun
+**Synonyms**: composure, calmness, unconcern
+**Antonyms**: anxiety, concern, agitation
+
+
+## Nuance
+
+**Meaning**: A small or subtle difference in meaning, feeling, or expression.
+**Usage**: "The nuance between precision and recall matters." - Fine distinctions can change how a technical result is understood.
+**Grammar**: Noun
+**Synonyms**: subtlety, distinction, shade
+**Antonyms**: bluntness, simplicity, obviousness
 
 
 ## Orchard
@@ -1021,6 +1102,15 @@
 **Antonyms**: giant, leader, strongest
 
 
+## Siege
+
+**Meaning**: Surrounding attack or sustained pressure from all sides.
+**Usage**: "We were under siege from JIRA tickets before launch." - A constant stream of demands can feel like an organized assault.
+**Grammar**: Noun
+**Synonyms**: assault, blockade, encirclement
+**Antonyms**: relief, peace, protection
+
+
 ## Sabotaging
 
 **Meaning**: Deliberately destroying or obstructing something
@@ -1100,6 +1190,15 @@
 **Grammar**: Noun (plural), verb (third-person singular)
 **Synonyms**: traps, pitfalls, nets
 **Antonyms**: safeguards, protections, escapes
+
+
+## Snatch
+
+**Meaning**: To grab or take something quickly.
+**Usage**: "Snatch the best GPU before others take it." - Acting quickly can secure a limited opportunity.
+**Grammar**: Verb, noun
+**Synonyms**: grab, seize, nab
+**Antonyms**: release, return, relinquish
 
 
 ## Sneaky
