@@ -99,15 +99,6 @@
 **Antonyms**: PMF at a single point, point probability only, non-cumulative measure
 
 
-## Charming
-
-**Meaning**: Very pleasant, attractive, or likeable.
-**Usage**: "The charming presenter made the technical demo easy to follow." - A pleasant manner can make communication more engaging.
-**Grammar**: Adjective, verb (present participle of charm)
-**Synonyms**: pleasant, attractive, likeable
-**Antonyms**: unpleasant, unattractive, disagreeable
-
-
 ## Champing
 
 **Meaning**: Very eager; biting at. In the phrase "champing at the bit," it means unable to wait to start.
@@ -115,6 +106,15 @@
 **Grammar**: Verb (present participle)
 **Synonyms**: eager, impatient, excited
 **Antonyms**: reluctant, hesitant, apathetic
+
+
+## Charming
+
+**Meaning**: Very pleasant, attractive, or likeable.
+**Usage**: "The charming presenter made the technical demo easy to follow." - A pleasant manner can make communication more engaging.
+**Grammar**: Adjective, verb (present participle of charm)
+**Synonyms**: pleasant, attractive, likeable
+**Antonyms**: unpleasant, unattractive, disagreeable
 
 
 ## CHD
@@ -664,15 +664,6 @@
 **Antonyms**: competence, skill, proficiency
 
 
-## Infamous
-
-**Meaning**: Famous for a bad reason; notorious.
-**Usage**: "The infamous bug caused repeated production outages." - A harmful event can make a problem widely known.
-**Grammar**: Adjective
-**Synonyms**: notorious, disreputable, scandalous
-**Antonyms**: reputable, honorable, celebrated
-
-
 ## Inertia
 
 **Meaning**: Resistance to change in motion or state; tendency to stay the same
@@ -680,6 +671,15 @@
 **Grammar**: Noun
 **Synonyms**: sluggishness, resistance, immobility
 **Antonyms**: responsiveness, agility, momentum
+
+
+## Infamous
+
+**Meaning**: Famous for a bad reason; notorious.
+**Usage**: "The infamous bug caused repeated production outages." - A harmful event can make a problem widely known.
+**Grammar**: Adjective
+**Synonyms**: notorious, disreputable, scandalous
+**Antonyms**: reputable, honorable, celebrated
 
 
 ## Infiltrated
@@ -1157,6 +1157,15 @@
 **Antonyms**: reckless, imprudent, careless
 
 
+## Rallied
+
+**Meaning**: Came together, recovered, or gathered strength.
+**Usage**: "The team rallied after the failure." - Shared effort can help a group recover from a setback.
+**Grammar**: Verb (past tense of rally)
+**Synonyms**: united, recovered, regrouped
+**Antonyms**: scattered, weakened, surrendered
+
+
 ## Recluse
 
 **Meaning**: A person who lives alone and avoids people.
@@ -1271,15 +1280,6 @@
 **Grammar**: Noun
 **Synonyms**: step, level, tier
 **Antonyms**: bottom, base, nadir
-
-
-## Rallied
-
-**Meaning**: Came together, recovered, or gathered strength.
-**Usage**: "The team rallied after the failure." - Shared effort can help a group recover from a setback.
-**Grammar**: Verb (past tense of rally)
-**Synonyms**: united, recovered, regrouped
-**Antonyms**: scattered, weakened, surrendered
 
 
 ## Runt
