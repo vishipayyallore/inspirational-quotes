@@ -45,6 +45,15 @@
 **Antonyms**: repel, enlighten, disillusion
 
 
+## Boredom
+
+**Meaning**: The feeling of being bored or having no interest.
+**Usage**: "Boredom can make a long debugging session feel even longer." - Meaningful goals can restore attention when work feels dull.
+**Grammar**: Noun
+**Synonyms**: tedium, weariness, ennui
+**Antonyms**: interest, excitement, engagement
+
+
 ## Bowlines
 
 **Meaning**: A strong knot used in sailing/boating.
@@ -162,15 +171,6 @@
 **Antonyms**: noncontender, spectator, bystander
 
 
-## Counters
-
-**Meaning**: Tables or surfaces in a shop; also argues against or opposes something.
-**Usage**: "This counters the argument that a bigger model is always better." - Evidence can challenge a broad claim.
-**Grammar**: Noun (plural), verb (third-person singular)
-**Synonyms**: opposes, refutes, challenges
-**Antonyms**: supports, confirms, agrees
-
-
 ## Converged
 
 **Meaning**: Came together from different directions to meet at one point. In ML/AI, it means an algorithm reached a stable solution.
@@ -187,6 +187,15 @@
 **Grammar**: Noun
 **Synonyms**: clique, inner circle, circle
 **Antonyms**: outsiders, general public, crowd
+
+
+## Counters
+
+**Meaning**: Tables or surfaces in a shop; also argues against or opposes something.
+**Usage**: "This counters the argument that a bigger model is always better." - Evidence can challenge a broad claim.
+**Grammar**: Noun (plural), verb (third-person singular)
+**Synonyms**: opposes, refutes, challenges
+**Antonyms**: supports, confirms, agrees
 
 
 ## Craving
@@ -1156,15 +1165,6 @@
 **Antonyms**: giant, leader, strongest
 
 
-## Siege
-
-**Meaning**: Surrounding attack or sustained pressure from all sides.
-**Usage**: "We were under siege from JIRA tickets before launch." - A constant stream of demands can feel like an organized assault.
-**Grammar**: Noun
-**Synonyms**: assault, blockade, encirclement
-**Antonyms**: relief, peace, protection
-
-
 ## Sabotaging
 
 **Meaning**: Deliberately destroying or obstructing something
@@ -1201,6 +1201,15 @@
 **Antonyms**: splurged, squandered, lavished
 
 
+## Scramble
+
+**Meaning**: To rush or hurry; also to mix things up or move in confused haste.
+**Usage**: "There was a last-minute scramble before the demo." - Time pressure can create fast but disorganized work.
+**Grammar**: Verb, noun
+**Synonyms**: rush, hurry, jostle
+**Antonyms**: organize, relax, proceed calmly
+
+
 ## Scurried
 
 **Meaning**: Ran quickly with short, hurried steps; scampered.
@@ -1226,6 +1235,15 @@
 **Grammar**: Adjective
 **Synonyms**: shoe-wearing, booted, hoof-shod
 **Antonyms**: barefoot, unshod, bare
+
+
+## Siege
+
+**Meaning**: A surrounding attack or a state of pressure from all sides.
+**Usage**: "We were under siege from JIRA tickets before launch." - Constant demands can create the feeling of an organized assault.
+**Grammar**: Noun
+**Synonyms**: assault, blockade, encirclement
+**Antonyms**: relief, peace, protection
 
 
 ## Slumped
@@ -1534,6 +1552,15 @@
 **Antonyms**: stillness, steadiness, composure
 
 
+## Ulterior
+
+**Meaning**: Hidden or secret, especially when referring to a motive.
+**Usage**: "There was no ulterior motive; I just want to improve metrics." - A stated purpose can be contrasted with a concealed intention.
+**Grammar**: Adjective
+**Synonyms**: hidden, secret, covert
+**Antonyms**: open, stated, transparent
+
+
 ## Unanimous
 
 **Meaning**: Everyone agrees; complete agreement with no disagreement.
@@ -1613,6 +1640,15 @@
 **Grammar**: Adverb
 **Synonyms**: longingly, nostalgically, yearningly
 **Antonyms**: contentedly, cheerfully, indifferently
+
+
+## Witticisms
+
+**Meaning**: Clever and funny remarks.
+**Usage**: "His witticisms kept the retrospective meeting fun." - Quick humor can make a serious discussion more engaging.
+**Grammar**: Noun (plural)
+**Synonyms**: quips, repartee, wisecracks
+**Antonyms**: dullness, seriousness, silence
 
 
 ## Yanked
