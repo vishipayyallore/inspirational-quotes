@@ -18,6 +18,24 @@
 **Antonyms**: bored, annoyed, irritated
 
 
+## Astonished
+
+**Meaning**: Very surprised or shocked.
+**Usage**: "I was astonished to see 0.99 AUC on the first try." - An unexpectedly strong result can cause great surprise.
+**Grammar**: Adjective, verb (past participle of astonish)
+**Synonyms**: amazed, stunned, shocked
+**Antonyms**: unsurprised, calm, unimpressed
+
+
+## Averted
+
+**Meaning**: Prevented or avoided a danger or bad outcome.
+**Usage**: "Disaster was averted by the rollback." - Prompt corrective action can prevent a serious failure.
+**Grammar**: Verb (past tense and past participle of avert)
+**Synonyms**: prevented, avoided, forestalled
+**Antonyms**: caused, invited, allowed
+
+
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
@@ -88,6 +106,15 @@
 **Grammar**: Verb (present participle)
 **Synonyms**: eager, impatient, excited
 **Antonyms**: reluctant, hesitant, apathetic
+
+
+## Charming
+
+**Meaning**: Very pleasant, attractive, or likeable.
+**Usage**: "The charming presenter made the technical demo easy to follow." - A pleasant manner can make communication more engaging.
+**Grammar**: Adjective, verb (present participle of charm)
+**Synonyms**: pleasant, attractive, likeable
+**Antonyms**: unpleasant, unattractive, disagreeable
 
 
 ## CHD
@@ -162,6 +189,33 @@
 **Antonyms**: conceal, withhold, hide
 
 
+## Conniving
+
+**Meaning**: Scheming, cunning, or secretly planning something dishonest.
+**Usage**: "The conniving teammates were playing the blame game." - Secretly manipulative behavior can damage trust.
+**Grammar**: Adjective, verb (present participle of connive)
+**Synonyms**: scheming, devious, calculating
+**Antonyms**: honest, sincere, straightforward
+
+
+## Consequences
+
+**Meaning**: Results or effects that happen after an action.
+**Usage**: "Every deployment decision has consequences for users and the team." - Actions can produce important later results.
+**Grammar**: Noun (plural)
+**Synonyms**: results, effects, outcomes
+**Antonyms**: causes, origins, beginnings
+
+
+## Contemplating
+
+**Meaning**: Thinking deeply about something or considering it carefully.
+**Usage**: "I am contemplating whether to use a transformer or XGBoost." - Careful consideration helps guide a technical choice.
+**Grammar**: Verb (present participle of contemplate)
+**Synonyms**: considering, pondering, reflecting
+**Antonyms**: ignoring, dismissing, neglecting
+
+
 ## Contender
 
 **Meaning**: A person/company competing for a position or title
@@ -205,6 +259,15 @@
 **Grammar**: Noun, verb (present participle)
 **Synonyms**: longing, yearning, urge
 **Antonyms**: aversion, indifference, disgust
+
+
+## Crippled
+
+**Meaning**: Damaged badly or made unable to work effectively.
+**Usage**: "The pipeline was crippled by bad data." - Severe data problems can prevent a system from functioning.
+**Grammar**: Verb (past tense and past participle), adjective
+**Synonyms**: disabled, impaired, debilitated
+**Antonyms**: strengthened, repaired, enabled
 
 
 ## Crude
@@ -358,6 +421,15 @@
 **Antonyms**: establish, preserve, foster
 
 
+## Fatal
+
+**Meaning**: Causing death, deadly, or extremely serious.
+**Usage**: "A fatal error occurred in production." - A severe system failure can prevent successful operation.
+**Grammar**: Adjective
+**Synonyms**: deadly, lethal, disastrous
+**Antonyms**: harmless, safe, minor
+
+
 ## Fatalistic
 
 **Meaning**: Believing that all events are decided by fate and cannot be changed.
@@ -401,6 +473,15 @@
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: fashion eCommerce brand, online fashion retailer
 **Antonyms**: N/A (organization name)
+
+
+## Glorious
+
+**Meaning**: Magnificent, great, or very impressive.
+**Usage**: "The team celebrated a glorious recovery after the difficult release." - An impressive achievement can inspire pride.
+**Grammar**: Adjective
+**Synonyms**: magnificent, splendid, illustrious
+**Antonyms**: ordinary, poor, disgraceful
 
 
 ## Halo Effect
@@ -592,6 +673,15 @@
 **Antonyms**: responsiveness, agility, momentum
 
 
+## Infamous
+
+**Meaning**: Famous for a bad reason; notorious.
+**Usage**: "The infamous bug caused repeated production outages." - A harmful event can make a problem widely known.
+**Grammar**: Adjective
+**Synonyms**: notorious, disreputable, scandalous
+**Antonyms**: reputable, honorable, celebrated
+
+
 ## Infiltrated
 
 **Meaning**: Entered gradually and secretly
@@ -599,6 +689,15 @@
 **Grammar**: Verb (past tense)
 **Synonyms**: penetrated, entered, seeped in
 **Antonyms**: withdrew, exited, evacuated
+
+
+## Intervene
+
+**Meaning**: To step in to stop a problem or provide help.
+**Usage**: "The senior engineer had to intervene to fix the merge conflict." - Timely assistance can resolve a problem before it grows.
+**Grammar**: Verb
+**Synonyms**: mediate, intercede, step in
+**Antonyms**: ignore, withdraw, abstain
 
 
 ## Intrigue
@@ -880,6 +979,15 @@
 **Antonyms**: barren land, wasteland
 
 
+## Patriot
+
+**Meaning**: A person who loves and supports their country.
+**Usage**: "The patriot supported policies intended to strengthen the country." - Patriotism expresses loyalty and support for one's nation.
+**Grammar**: Noun
+**Synonyms**: nationalist, loyalist, citizen
+**Antonyms**: traitor, disloyalist, enemy
+
+
 ## Pauper
 
 **Meaning**: A very poor person; someone with no money or means.
@@ -905,6 +1013,15 @@
 **Grammar**: Proper noun (abbreviation; statistical term)
 **Synonyms**: principal components method, dimensionality reduction technique, feature extraction method
 **Antonyms**: raw high-dimensional data, no dimensionality reduction, feature expansion
+
+
+## Peasant
+
+**Meaning**: A poor farmer; historically, a common person of low social status.
+**Usage**: "The historical account described how the peasant worked the land." - The word often appears in discussions of older rural societies.
+**Grammar**: Noun
+**Synonyms**: farmer, farmworker, commoner
+**Antonyms**: aristocrat, noble, landowner
 
 
 ## Persistent
@@ -1038,6 +1155,15 @@
 **Grammar**: Adjective
 **Synonyms**: wise, cautious, judicious
 **Antonyms**: reckless, imprudent, careless
+
+
+## Rallied
+
+**Meaning**: Came together, recovered, or gathered strength.
+**Usage**: "The team rallied after the failure." - Shared effort can help a group recover from a setback.
+**Grammar**: Verb (past tense of rally)
+**Synonyms**: united, recovered, regrouped
+**Antonyms**: scattered, weakened, surrendered
 
 
 ## Recluse
@@ -1586,6 +1712,15 @@
 **Grammar**: Adverb
 **Synonyms**: unknowingly, inadvertently, unintentionally
 **Antonyms**: knowingly, deliberately, intentionally
+
+
+## Uttered
+
+**Meaning**: Spoke or said something.
+**Usage**: "She uttered a clear warning before the deployment." - The verb describes producing spoken words.
+**Grammar**: Verb (past tense and past participle of utter)
+**Synonyms**: said, spoke, expressed
+**Antonyms**: concealed, withheld, silenced
 
 
 ## Vigorously
