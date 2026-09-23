@@ -216,6 +216,15 @@
 **Antonyms**: honest people, whistleblowers, sincere actors
 
 
+## Concealing
+
+**Meaning**: Hiding something or keeping it secret.
+**Usage**: "He was concealing the failure logs until the audit was complete." - Hidden information can delay trust and clarity.
+**Grammar**: Verb (present participle of conceal), adjective
+**Synonyms**: hiding, masking, covering
+**Antonyms**: revealing, exposing, disclosing
+
+
 ## Confide
 
 **Meaning**: To tell a secret or private matter to someone you trust.
@@ -331,6 +340,15 @@
 **Grammar**: Adjective
 **Synonyms**: rough, basic, unrefined
 **Antonyms**: refined, polished, sophisticated
+
+
+## Dangle
+
+**Meaning**: To hang or swing loosely; also to offer something tempting.
+**Usage**: "The key kept dangling from the lock." - Loose objects can swing in a way that draws attention.
+**Grammar**: Verb
+**Synonyms**: hang, swing, dangle from
+**Antonyms**: secure, fasten, hold
 
 
 ## Deception
@@ -450,6 +468,15 @@
 **Antonyms**: subordinate, minor, weak
 
 
+## Exhaust
+
+**Meaning**: To drain or tire someone completely; also the fumes or gas released by an engine.
+**Usage**: "The sprint exhausted the team." / "The exhaust system was leaking smoke." - The same word can describe weariness or mechanical output.
+**Grammar**: Verb, noun
+**Synonyms**: drain, tire, deplete
+**Antonyms**: refresh, energize, restore
+
+
 ## Easily
 
 **Meaning**: With little effort or difficulty
@@ -554,6 +581,15 @@
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: fashion eCommerce brand, online fashion retailer
 **Antonyms**: N/A (organization name)
+
+
+## Garrisoned
+
+**Meaning**: Stationed soldiers or guards in a place to protect it; fortified or guarded.
+**Usage**: "The war room was garrisoned before launch." - Security can be concentrated around a critical operation.
+**Grammar**: Verb (past tense, past participle)
+**Synonyms**: stationed, guarded, fortified
+**Antonyms**: abandoned, unguarded, exposed
 
 
 ## Glorious
@@ -770,6 +806,15 @@
 **Grammar**: Verb (past tense)
 **Synonyms**: penetrated, entered, seeped in
 **Antonyms**: withdrew, exited, evacuated
+
+
+## Inflame
+
+**Meaning**: To make someone angry, passionate, or more intense; also to set on fire.
+**Usage**: "The rumor inflamed the entire team." - Strong emotion can intensify a situation quickly.
+**Grammar**: Verb
+**Synonyms**: anger, provoke, ignite
+**Antonyms**: calm, soothe, reduce
 
 
 ## Insincere
