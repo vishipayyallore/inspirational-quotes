@@ -1,5 +1,14 @@
 # Words to Organize
 
+## Accrue
+
+**Meaning**: To increase gradually or accumulate over time.
+**Usage**: "Tech debt accrues when tests are skipped." - Small issues can build up into a larger burden.
+**Grammar**: Verb
+**Synonyms**: accumulate, build up, gather
+**Antonyms**: diminish, decrease, dissipate
+
+
 ## Allayed
 
 **Meaning**: Calmed or reduced fear, worry, or concern.
@@ -61,6 +70,33 @@
 **Grammar**: Verb
 **Synonyms**: charm, enchant, deceive
 **Antonyms**: repel, enlighten, disillusion
+
+
+## Bloodies
+
+**Meaning**: Causes something to become covered with blood or to bleed.
+**Usage**: "The crash bloodied his arm." - Contact with a hard surface can leave a visible injury.
+**Grammar**: Verb (third-person singular of bloody/bloodies)
+**Synonyms**: wounds, stains with blood, makes bleed
+**Antonyms**: heals, cleans, bandages
+
+
+## Blunt
+
+**Meaning**: Direct and frank, without softening the message; also not sharp at the tip.
+**Usage**: "He was blunt about the defect." - Honest wording can be useful even when it is not gentle.
+**Grammar**: Adjective, verb
+**Synonyms**: direct, frank, candid
+**Antonyms**: tactful, softened, gentle
+
+
+## Blurt
+
+**Meaning**: To say something suddenly and without thinking.
+**Usage**: "He blurted out the answer before the moderator finished the question." - Panic or emotion can cause impulsive speech.
+**Grammar**: Verb
+**Synonyms**: blurt out, spit out, exclaim
+**Antonyms**: restrain, hold back, hesitate
 
 
 ## Boredom
@@ -180,6 +216,15 @@
 **Antonyms**: honest people, whistleblowers, sincere actors
 
 
+## Concealing
+
+**Meaning**: Hiding something or keeping it secret.
+**Usage**: "He was concealing the failure logs until the audit was complete." - Hidden information can delay trust and clarity.
+**Grammar**: Verb (present participle of conceal), adjective
+**Synonyms**: hiding, masking, covering
+**Antonyms**: revealing, exposing, disclosing
+
+
 ## Confide
 
 **Meaning**: To tell a secret or private matter to someone you trust.
@@ -196,6 +241,24 @@
 **Grammar**: Adjective, verb (present participle of connive)
 **Synonyms**: scheming, devious, calculating
 **Antonyms**: honest, sincere, straightforward
+
+
+## Coarse
+
+**Meaning**: Rough, not smooth; also rude or lacking refinement.
+**Usage**: "The coarse fabric felt rough on the skin." - Texture and tone can both be described as coarse.
+**Grammar**: Adjective
+**Synonyms**: rough, crude, unrefined
+**Antonyms**: smooth, refined, polished
+
+
+## Conservative
+
+**Meaning**: Careful, traditional, and unwilling to take unnecessary risks; also a cautious estimate.
+**Usage**: "A conservative estimate of ROI is safer than a hopeful one." - Risk-aware planning values prudence over hype.
+**Grammar**: Adjective, noun
+**Synonyms**: cautious, traditional, prudent
+**Antonyms**: risky, bold, liberal
 
 
 ## Consequences
@@ -279,6 +342,15 @@
 **Antonyms**: refined, polished, sophisticated
 
 
+## Dangle
+
+**Meaning**: To hang or swing loosely; also to offer something tempting.
+**Usage**: "The key kept dangling from the lock." - Loose objects can swing in a way that draws attention.
+**Grammar**: Verb
+**Synonyms**: hang, swing, dangle from
+**Antonyms**: secure, fasten, hold
+
+
 ## Deception
 
 **Meaning**: The act of tricking, lying, or misleading someone.
@@ -304,6 +376,15 @@
 **Grammar**: Verb (past tense, past participle)
 **Synonyms**: lured, deceived, enticed
 **Antonyms**: warned, protected, alerted
+
+
+## Deluded
+
+**Meaning**: Holding a false belief, especially one that is self-deceptive.
+**Usage**: "He was deluded that 100% accuracy was realistic." - Wishful thinking can hide the limits of a model.
+**Grammar**: Adjective, verb (past participle of delude)
+**Synonyms**: fooled, misled, deceived
+**Antonyms**: realistic, clear-eyed, grounded
 
 
 ## Detour
@@ -333,6 +414,15 @@
 **Antonyms**: order, arrangement, harmony
 
 
+## Disastrous
+
+**Meaning**: Extremely harmful, terrible, or causing disaster.
+**Usage**: "The rollback prevented a disastrous outage." - Severe outcomes can result from poor risk management.
+**Grammar**: Adjective
+**Synonyms**: catastrophic, terrible, ruinous
+**Antonyms**: beneficial, successful, favorable
+
+
 ## Dissuade
 
 **Meaning**: To persuade someone not to do something.
@@ -351,6 +441,15 @@
 **Antonyms**: comfort, ease, relief
 
 
+## Distrust
+
+**Meaning**: To doubt or not trust someone or something.
+**Usage**: "The team distrusts the new data source until it is validated." - Suspicion can slow adoption without evidence.
+**Grammar**: Noun, verb
+**Synonyms**: skepticism, suspicion, doubt
+**Antonyms**: trust, confidence, faith
+
+
 ## Diverted
 
 **Meaning**: Changed direction, redirected attention, or caused something to be distracted away from its original path.
@@ -367,6 +466,15 @@
 **Grammar**: Adjective
 **Synonyms**: prevailing, commanding, predominant
 **Antonyms**: subordinate, minor, weak
+
+
+## Exhaust
+
+**Meaning**: To drain or tire someone completely; also the fumes or gas released by an engine.
+**Usage**: "The sprint exhausted the team." / "The exhaust system was leaking smoke." - The same word can describe weariness or mechanical output.
+**Grammar**: Verb, noun
+**Synonyms**: drain, tire, deplete
+**Antonyms**: refresh, energize, restore
 
 
 ## Easily
@@ -473,6 +581,15 @@
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: fashion eCommerce brand, online fashion retailer
 **Antonyms**: N/A (organization name)
+
+
+## Garrisoned
+
+**Meaning**: Stationed soldiers or guards in a place to protect it; fortified or guarded.
+**Usage**: "The war room was garrisoned before launch." - Security can be concentrated around a critical operation.
+**Grammar**: Verb (past tense, past participle)
+**Synonyms**: stationed, guarded, fortified
+**Antonyms**: abandoned, unguarded, exposed
 
 
 ## Glorious
@@ -691,6 +808,24 @@
 **Antonyms**: withdrew, exited, evacuated
 
 
+## Inflame
+
+**Meaning**: To make someone angry, passionate, or more intense; also to set on fire.
+**Usage**: "The rumor inflamed the entire team." - Strong emotion can intensify a situation quickly.
+**Grammar**: Verb
+**Synonyms**: anger, provoke, ignite
+**Antonyms**: calm, soothe, reduce
+
+
+## Insincere
+
+**Meaning**: Not genuine; fake or pretending.
+**Usage**: "The praise sounded insincere." - Empty praise often feels hollow to listeners.
+**Grammar**: Adjective
+**Synonyms**: fake, false, phony
+**Antonyms**: sincere, genuine, honest
+
+
 ## Intervene
 
 **Meaning**: To step in to stop a problem or provide help.
@@ -734,6 +869,24 @@
 **Grammar**: Adverb
 **Synonyms**: irreversibly, permanently, definitively
 **Antonyms**: reversibly, temporarily, conditionally
+
+
+## Jeopardized
+
+**Meaning**: Put something at risk or in danger.
+**Usage**: "Bad data jeopardized the launch." - A single weak input can damage a whole plan.
+**Grammar**: Verb (past tense and past participle of jeopardize)
+**Synonyms**: endangered, risked, threatened
+**Antonyms**: protected, secured, safeguarded
+
+
+## Jeopardized
+
+**Meaning**: Put something at risk or in danger.
+**Usage**: "Bad data jeopardized the launch." - A single weak input can damage a whole plan.
+**Grammar**: Verb (past tense and past participle of jeopardize)
+**Synonyms**: endangered, risked, threatened
+**Antonyms**: protected, secured, safeguarded
 
 
 ## Jockeying
@@ -1085,6 +1238,16 @@
 **Grammar**: Verb
 **Synonyms**: favor, choose, opt for
 **Antonyms**: dislike, reject, avoid
+
+
+## Premier
+
+**Meaning**: First in importance, best, or leading; also a prime minister or top leader.
+**Usage**: "This was the premier model in the benchmark." - The top choice often sets the standard for others.
+**Grammar**: Adjective, noun
+**Synonyms**: first, chief, top
+**Antonyms**: secondary, inferior, last
+
 
 ## Presume
 
@@ -1685,6 +1848,15 @@
 **Grammar**: Adjective
 **Synonyms**: hidden, secret, covert
 **Antonyms**: open, stated, transparent
+
+
+## Unabashedly
+
+**Meaning**: Without shame; openly and boldly.
+**Usage**: "He unabashedly copied the Kaggle notebook and then shared the source." - Open behavior can still be honest when it is transparent.
+**Grammar**: Adverb
+**Synonyms**: brazenly, openly, shamelessly
+**Antonyms**: ashamedly, discreetly, timidly
 
 
 ## Unanimous
