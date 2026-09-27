@@ -9,6 +9,24 @@
 **Antonyms**: diminish, decrease, dissipate
 
 
+## Adore
+
+**Meaning**: Love deeply.
+**Usage**: "Many people adore leaders who combine strength with compassion." - Deep admiration often grows when power is exercised with care.
+**Grammar**: Verb
+**Synonyms**: love, cherish, admire, revere
+**Antonyms**: hate, detest, despise, loathe
+
+
+## Afflicts
+
+**Meaning**: Causes pain or suffering.
+**Usage**: "Resentment afflicts the person who carries it long after the conflict ends." - Lingering anger can cause continuing emotional pain.
+**Grammar**: Verb (third-person singular of afflict)
+**Synonyms**: troubles, torments, burdens, harms
+**Antonyms**: comforts, relieves, heals, soothes
+
+
 ## Allayed
 
 **Meaning**: Calmed or reduced fear, worry, or concern.
@@ -153,6 +171,15 @@
 **Antonyms**: unpleasant, unattractive, disagreeable
 
 
+## Chastised
+
+**Meaning**: Scolded or punished for a mistake.
+**Usage**: "The commander chastised the officer for abusing his authority." - The officer was strongly criticized for improper conduct.
+**Grammar**: Verb (past tense and past participle of chastise)
+**Synonyms**: scolded, reprimanded, rebuked, punished
+**Antonyms**: praised, commended, rewarded, applauded
+
+
 ## CHD
 
 **Meaning**: Coronary Heart Disease; a heart condition caused by narrowing or blockage in coronary arteries and a major cause of heart attacks.
@@ -223,6 +250,15 @@
 **Grammar**: Verb (present participle of conceal), adjective
 **Synonyms**: hiding, masking, covering
 **Antonyms**: revealing, exposing, disclosing
+
+
+## Condescension
+
+**Meaning**: Acting superior and looking down on others.
+**Usage**: "Her condescension weakened the team because people felt belittled rather than respected." - A superior attitude can damage trust.
+**Grammar**: Noun
+**Synonyms**: patronizing behavior, superiority, disdain, haughtiness
+**Antonyms**: respect, humility, equality, courtesy
 
 
 ## Confide
@@ -313,6 +349,15 @@
 **Grammar**: Noun (plural), verb (third-person singular)
 **Synonyms**: opposes, refutes, challenges
 **Antonyms**: supports, confirms, agrees
+
+
+## Coups
+
+**Meaning**: Sudden overthrows of governments or other forceful grabs for power; pronounced "coos."
+**Usage**: "The failed coups revealed deep divisions within the military." - The attempts sought to seize political power suddenly.
+**Grammar**: Noun (plural of coup)
+**Synonyms**: overthrows, takeovers, power grabs, seizures
+**Antonyms**: successions, restorations, stability, continuity
 
 
 ## Craving
@@ -495,6 +540,15 @@
 **Antonyms**: shortened, compressed, compact
 
 
+## Emasculate
+
+**Meaning**: To make weak or less powerful; traditionally, to make less masculine or manly.
+**Usage**: "The ruler tried to emasculate the council by stripping away its authority." - Removing power can leave a group unable to act effectively.
+**Grammar**: Verb
+**Synonyms**: weaken, disempower, enfeeble, undermine
+**Antonyms**: strengthen, empower, fortify, invigorate
+
+
 ## Emphatic
 
 **Meaning**: Said or done in a strong, forceful way to show importance.
@@ -599,6 +653,15 @@
 **Grammar**: Adjective
 **Synonyms**: magnificent, splendid, illustrious
 **Antonyms**: ordinary, poor, disgraceful
+
+
+## Guillotine
+
+**Meaning**: A device designed to cut off a person's head, especially associated with executions during the French Revolution.
+**Usage**: "The guillotine became a powerful symbol of the French Revolution." - The historical device came to represent violent political change.
+**Grammar**: Noun
+**Synonyms**: execution device, beheading machine, decapitator
+**Antonyms**: reprieve, pardon, mercy
 
 
 ## Halo Effect
@@ -817,6 +880,15 @@
 **Antonyms**: calm, soothe, reduce
 
 
+## Ingratitude
+
+**Meaning**: A lack of thankfulness; the state of being ungrateful.
+**Usage**: "His ingratitude hurt those who had supported him through difficult times." - Failing to appreciate help can damage relationships.
+**Grammar**: Noun
+**Synonyms**: thanklessness, ungratefulness, lack of appreciation
+**Antonyms**: gratitude, thankfulness, appreciation
+
+
 ## Insincere
 
 **Meaning**: Not genuine; fake or pretending.
@@ -860,6 +932,15 @@
 **Grammar**: Adverb
 **Synonyms**: instinctively, naturally, spontaneously
 **Antonyms**: analytically, deliberately, methodically
+
+
+## Irreconcilable
+
+**Meaning**: Cannot be fixed or brought into agreement; totally opposed.
+**Usage**: "Their views on the use of power seemed irreconcilable." - The opposing positions could not be made compatible.
+**Grammar**: Adjective
+**Synonyms**: incompatible, conflicting, opposed, unresolvable
+**Antonyms**: compatible, reconcilable, harmonious, agreeable
 
 
 ## Irrevocably
@@ -1121,6 +1202,15 @@
 **Grammar**: Noun
 **Synonyms**: subtlety, distinction, shade
 **Antonyms**: bluntness, simplicity, obviousness
+
+
+## Oppressive
+
+**Meaning**: Cruel, harsh, dominating, or heavily burdensome.
+**Usage**: "The oppressive regime punished anyone who questioned its authority." - Harsh control restricted freedom and caused suffering.
+**Grammar**: Adjective
+**Synonyms**: tyrannical, cruel, repressive, burdensome
+**Antonyms**: liberating, fair, humane, lenient
 
 
 ## Orchard
@@ -1400,6 +1490,15 @@
 **Antonyms**: deplete, drain, exhaust
 
 
+## Resentment
+
+**Meaning**: Anger caused by being treated unfairly; a lasting grudge.
+**Usage**: "Unaddressed condescension can turn disappointment into resentment." - Repeated disrespect may create lasting anger.
+**Grammar**: Noun
+**Synonyms**: bitterness, indignation, grievance, grudge
+**Antonyms**: forgiveness, goodwill, contentment, acceptance
+
+
 ## Restraining
 
 **Meaning**: Holding back or preventing
@@ -1425,6 +1524,15 @@
 **Grammar**: Noun
 **Synonyms**: hindsight, review, reflection
 **Antonyms**: foresight, anticipation, prediction
+
+
+## Revive
+
+**Meaning**: Bring back to life, consciousness, strength, or activity; restart.
+**Usage**: "The reform helped revive public trust after years of oppressive rule." - Effective change can restore something that had weakened or disappeared.
+**Grammar**: Verb
+**Synonyms**: restore, renew, resuscitate, restart
+**Antonyms**: extinguish, suppress, weaken, end
 
 
 ## Rival
@@ -1508,6 +1616,15 @@
 **Antonyms**: lingered, dawdled, sauntered
 
 
+## Seethes
+
+**Meaning**: Boils with anger inside; feels very angry while remaining outwardly quiet.
+**Usage**: "He seethes in silence after being publicly chastised." - Intense anger can remain hidden beneath a calm appearance.
+**Grammar**: Verb (third-person singular of seethe)
+**Synonyms**: fumes, simmers, rages, bristles
+**Antonyms**: calms, relaxes, cools, settles
+
+
 ## Shattered
 
 **Meaning**: Broken into pieces; completely devastated emotionally
@@ -1587,6 +1704,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: glitter, shine, twinkle
 **Antonyms**: dullness, dimness, fade
+
+
+## Splendid
+
+**Meaning**: Excellent, very beautiful, or grand.
+**Usage**: "The restored hall looked splendid during the celebration." - Its beauty and grandeur impressed everyone present.
+**Grammar**: Adjective
+**Synonyms**: magnificent, excellent, glorious, superb
+**Antonyms**: dreadful, poor, ordinary, unimpressive
 
 
 ## Spurious
@@ -1796,6 +1922,15 @@
 **Antonyms**: plateaus, high ground, open field
 
 
+## Trick
+
+**Meaning**: A deception or action intended to fool someone; also, to fool or deceive.
+**Usage**: "The promise of easy power was a trick designed to win his trust." - Deception can hide a harmful motive behind an attractive offer.
+**Grammar**: Noun, verb
+**Synonyms**: deception, ruse, prank, deceive
+**Antonyms**: honesty, truth, sincerity, candor
+
+
 ## Trite
 
 **Meaning**: Overused and lacking originality.
@@ -1893,6 +2028,15 @@
 **Grammar**: Verb (past tense and past participle of utter)
 **Synonyms**: said, spoke, expressed
 **Antonyms**: concealed, withheld, silenced
+
+
+## Vengeance
+
+**Meaning**: Revenge or payback for harm.
+**Usage**: "His desire for vengeance grew after the betrayal." - The wish to repay harm can become a powerful motive.
+**Grammar**: Noun
+**Synonyms**: revenge, retaliation, retribution, payback
+**Antonyms**: forgiveness, mercy, reconciliation, pardon
 
 
 ## Vigorously
