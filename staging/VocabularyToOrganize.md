@@ -162,6 +162,15 @@
 **Antonyms**: reluctant, hesitant, apathetic
 
 
+## Charmed
+
+**Meaning**: Delighted, attracted, feeling lucky / magical.
+**Usage**: "She was charmed by the team's warm welcome." - She felt delighted by their friendliness.
+**Grammar**: Adjective, verb (past tense and past participle of charm)
+**Synonyms**: delighted, enchanted, captivated, fortunate
+**Antonyms**: displeased, repelled, disenchanted, unlucky
+
+
 ## Charming
 
 **Meaning**: Very pleasant, attractive, or likeable.
@@ -259,6 +268,15 @@
 **Grammar**: Noun
 **Synonyms**: patronizing behavior, superiority, disdain, haughtiness
 **Antonyms**: respect, humility, equality, courtesy
+
+
+## Confederate
+
+**Meaning**: Partner in crime / scheme. Or ally in civil war context.
+**Usage**: "The investigator identified the fraudster's confederate." - A confederate is an associate who helps with a scheme.
+**Grammar**: Noun (countable); also adjective meaning allied or united; capitalized for the American Civil War Confederacy.
+**Synonyms**: accomplice, associate, ally, collaborator
+**Antonyms**: opponent, adversary, enemy
 
 
 ## Confide
@@ -680,6 +698,15 @@
 **Grammar**: Adverb
 **Synonyms**: severely, sternly, brutally
 **Antonyms**: gently, kindly, mildly
+
+
+## Hatchet
+
+**Meaning**: Small axe. Phrase "bury the hatchet" = make peace.
+**Usage**: "The colleagues decided to bury the hatchet and work together again." - They agreed to end their disagreement.
+**Grammar**: Noun (countable); "bury the hatchet" is an idiom.
+**Synonyms**: small axe, hand axe; reconcile, make peace (bury the hatchet)
+**Antonyms**: No direct antonym for the tool; quarrel, continue a feud (opposites of bury the hatchet)
 
 
 ## Hay
@@ -1204,6 +1231,15 @@
 **Antonyms**: bluntness, simplicity, obviousness
 
 
+## Obscures
+
+**Meaning**: Hides, makes unclear, blocks view.
+**Usage**: "Complex code obscures the logic." - Complexity makes the underlying logic harder to understand.
+**Grammar**: Verb (third-person singular present of obscure)
+**Synonyms**: hides, conceals, clouds, masks
+**Antonyms**: reveals, clarifies, exposes, illuminates
+
+
 ## Oppressive
 
 **Meaning**: Cruel, harsh, dominating, or heavily burdensome.
@@ -1292,6 +1328,15 @@
 **Grammar**: Adjective
 **Synonyms**: crucial, critical, key
 **Antonyms**: trivial, minor, insignificant
+
+
+## Pleasantly
+
+**Meaning**: In a nice, enjoyable way.
+**Usage**: "She greeted the new colleague pleasantly." - Her greeting was friendly and agreeable.
+**Grammar**: Adverb
+**Synonyms**: agreeably, enjoyably, amiably
+**Antonyms**: unpleasantly, disagreeably, harshly
 
 
 ## Plunge
@@ -1760,6 +1805,15 @@
 **Antonyms**: withdrew, avoided, safeguarded
 
 
+## Steeped
+
+**Meaning**: Deeply soaked in, full of. Immersed.
+**Usage**: "Steeped in legacy code." - Describes being deeply immersed in an older codebase.
+**Grammar**: Verb (past tense and past participle of steep), adjective; often followed by "in".
+**Synonyms**: soaked, saturated, immersed, imbued
+**Antonyms**: dry (literal); unfamiliar, uninvolved (figurative)
+
+
 ## Stern
 
 **Meaning**: 1. Serious/strict 2. Back part of a ship
@@ -2010,6 +2064,15 @@
 **Grammar**: Adjective
 **Synonyms**: relentless, persistent, unforgiving
 **Antonyms**: lenient, yielding, merciful
+
+
+## Untapped
+
+**Meaning**: Not used yet, potential not explored.
+**Usage**: "Untapped dataset." - Describes data whose potential has not yet been explored or used.
+**Grammar**: Adjective
+**Synonyms**: unused, unexplored, unexploited, undeveloped
+**Antonyms**: used, explored, exploited, developed
 
 
 ## Unwittingly
