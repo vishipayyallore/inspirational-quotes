@@ -63,6 +63,15 @@
 **Antonyms**: caused, invited, allowed
 
 
+## Awry
+
+**Meaning**: Wrong, crooked, or not as planned.
+**Usage**: "The plan went awry when the supplies arrived late." - Something has gone awry when it does not proceed as intended.
+**Grammar**: Adjective, adverb
+**Synonyms**: wrong, askew, amiss
+**Antonyms**: right, straight, as planned
+
+
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
@@ -133,6 +142,15 @@
 **Grammar**: Noun (plural)
 **Synonyms**: bowline knots, fixed loops, loop knots
 **Antonyms**: N/A (knot noun)
+
+
+## Broth
+
+**Meaning**: A thin soup or liquid made by simmering meat, vegetables, or other ingredients in water.
+**Usage**: "She simmered vegetables in broth to make a light soup." - Broth adds flavor and liquid to soups and other dishes.
+**Grammar**: Noun
+**Synonyms**: stock, bouillon, soup base
+**Antonyms**: N/A (food noun)
 
 
 ## BSE
@@ -450,6 +468,15 @@
 **Antonyms**: warned, protected, alerted
 
 
+## Decrepit
+
+**Meaning**: Very old and worn out, often in poor or broken condition.
+**Usage**: "The decrepit fortress needed extensive repairs." - The adjective describes something weakened by age or neglect.
+**Grammar**: Adjective
+**Synonyms**: dilapidated, rundown, deteriorated
+**Antonyms**: sturdy, sound, well-maintained
+
+
 ## Deluded
 
 **Meaning**: Holding a false belief, especially one that is self-deceptive.
@@ -682,6 +709,15 @@
 **Antonyms**: weak, ordinary, manageable
 
 
+## Fortress
+
+**Meaning**: A strong, fortified building or place designed for defense; figuratively, a secure refuge.
+**Usage**: "The stone fortress protected the town from attack." - A fortress provides a strong defensive position.
+**Grammar**: Noun
+**Synonyms**: citadel, stronghold, bastion
+**Antonyms**: vulnerability, open ground, undefended place
+
+
 ## FTO
 
 **Meaning**: Fashion Trends Online (eCommerce)
@@ -878,6 +914,15 @@
 **Grammar**: Noun
 **Synonyms**: attribution, assignment, estimation
 **Antonyms**: exoneration, vindication, omission
+
+
+## Incapacitated
+
+**Meaning**: Unable to act, work, or function normally, often because of illness or injury.
+**Usage**: "The injury left the pilot incapacitated." - The person was unable to carry out normal duties.
+**Grammar**: Adjective; verb (past tense and past participle of incapacitate)
+**Synonyms**: disabled, unable, debilitated
+**Antonyms**: capable, able, functioning
 
 
 ## Inconspicuous
@@ -1348,6 +1393,15 @@
 **Antonyms**: temporary, intermittent, yielding
 
 
+## Persuaded
+
+**Meaning**: Convinced someone to believe something or do something.
+**Usage**: "She persuaded the council to reconsider its decision." - She used reasons or influence to change their minds.
+**Grammar**: Verb (past tense and past participle of persuade)
+**Synonyms**: convinced, influenced, won over
+**Antonyms**: dissuaded, discouraged, deterred
+
+
 ## PI
 
 **Meaning**: Proportional-Integral; a controller type that combines proportional (Kp) and integral (Ki) gains.
@@ -1391,6 +1445,15 @@
 **Grammar**: Proper noun (abbreviation; probability term)
 **Synonyms**: point probability function, discrete probability function, mass function
 **Antonyms**: CDF (cumulative probability), PDF (continuous density), interval-only estimate
+
+
+## Posterity
+
+**Meaning**: All future generations of people.
+**Usage**: "The archive preserved these letters for posterity." - The records were kept for people in the future.
+**Grammar**: Noun
+**Synonyms**: future generations, descendants, successors
+**Antonyms**: ancestors, forebears, predecessors
 
 
 ## PPF
@@ -1509,6 +1572,15 @@
 **Antonyms**: scattered, weakened, surrendered
 
 
+## Realm
+
+**Meaning**: A kingdom or a particular area of power, activity, or interest.
+**Usage**: "Data science is a rapidly changing realm." - Here, realm means a field or area of activity.
+**Grammar**: Noun
+**Synonyms**: domain, field, kingdom
+**Antonyms**: N/A (area or domain noun)
+
+
 ## Recluse
 
 **Meaning**: A person who lives alone and avoids people.
@@ -1587,6 +1659,15 @@
 **Grammar**: Verb
 **Synonyms**: refill, restore, renew
 **Antonyms**: deplete, drain, exhaust
+
+
+## Resent
+
+**Meaning**: To feel anger or bitterness about being treated unfairly or about something regarded as an injury.
+**Usage**: "She resented being blamed for a mistake she did not make." - The verb describes lingering anger about perceived unfair treatment.
+**Grammar**: Verb
+**Synonyms**: begrudge, feel bitter about, take offense at
+**Antonyms**: appreciate, welcome, forgive
 
 
 ## Resentment
@@ -1686,6 +1767,15 @@
 **Grammar**: Adjective, verb (past participle)
 **Synonyms**: drained, exhausted, depleted
 **Antonyms**: energized, revived, strengthened
+
+
+## Scapegoat
+
+**Meaning**: A person or group unfairly blamed for the mistakes or problems of others; also, to blame such a person or group.
+**Usage**: "The team made the newest employee a scapegoat for a failure caused by everyone." - The blame was unfairly placed on one person.
+**Grammar**: Noun, verb
+**Synonyms**: fall guy, patsy, blame
+**Antonyms**: exonerate, absolve, vindicate
 
 
 ## Scoffed
@@ -1803,6 +1893,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: nap, doze, catnap
 **Antonyms**: wake, rise, alertness
+
+
+## Sovereigns
+
+**Meaning**: Kings or rulers who hold supreme authority, especially over a kingdom or state.
+**Usage**: "The sovereigns met to discuss the future of their kingdoms." - The plural noun refers to rulers with supreme power.
+**Grammar**: Noun (plural of sovereign)
+**Synonyms**: monarchs, rulers, heads of state
+**Antonyms**: subjects, citizens, commoners
 
 
 ## Sparkle
