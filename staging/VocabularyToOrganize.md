@@ -306,6 +306,15 @@
 **Antonyms**: smooth, refined, polished
 
 
+## Combat
+
+**Meaning**: To fight or take action against something; also, a fight or battle.
+**Usage**: "The team worked together to combat the threat." - The verb describes taking action against a danger.
+**Grammar**: Verb, noun
+**Synonyms**: fight, battle, oppose
+**Antonyms**: surrender, yield, submit
+
+
 ## Conservative
 
 **Meaning**: Careful, traditional, and unwilling to take unnecessary risks; also a cautious estimate.
@@ -567,6 +576,15 @@
 **Antonyms**: strengthen, empower, fortify, invigorate
 
 
+## Emerge
+
+**Meaning**: To come out, appear, or become known.
+**Usage**: "After regrouping, the team emerged ready to face its challenge." - The verb describes coming out of a difficult period in a stronger position.
+**Grammar**: Verb
+**Synonyms**: appear, arise, surface
+**Antonyms**: disappear, vanish, recede
+
+
 ## Emphatic
 
 **Meaning**: Said or done in a strong, forceful way to show importance.
@@ -644,6 +662,24 @@
 **Grammar**: Noun, verb
 **Synonyms**: wool, pile fabric, swindle
 **Antonyms**: honesty, fairness, reimburse
+
+
+## Foe
+
+**Meaning**: An enemy or opponent.
+**Usage**: "The determined team refused to underestimate its foe." - A foe is someone or something that opposes another.
+**Grammar**: Noun
+**Synonyms**: enemy, opponent, adversary
+**Antonyms**: ally, friend, supporter
+
+
+## Formidable
+
+**Meaning**: Inspiring respect or fear because of great strength, power, or difficulty.
+**Usage**: "They faced a formidable opponent and kept their resolve." - The adjective describes someone difficult to overcome.
+**Grammar**: Adjective
+**Synonyms**: powerful, imposing, daunting
+**Antonyms**: weak, ordinary, manageable
 
 
 ## FTO
@@ -1455,6 +1491,15 @@
 **Antonyms**: reckless, imprudent, careless
 
 
+## Ragtag
+
+**Meaning**: Made up of a varied, untidy, or loosely organized group.
+**Usage**: "A ragtag group joined forces to defend its home." - The adjective describes a group that is mixed or not uniform.
+**Grammar**: Adjective
+**Synonyms**: motley, disorganized, mixed
+**Antonyms**: uniform, organized, orderly
+
+
 ## Rallied
 
 **Meaning**: Came together, recovered, or gathered strength.
@@ -1471,6 +1516,15 @@
 **Grammar**: Noun
 **Synonyms**: hermit, loner, solitary
 **Antonyms**: socialite, extrovert, participant
+
+## Recuperate
+
+**Meaning**: To recover health, strength, or energy after illness, injury, or a setback.
+**Usage**: "The group took time to recuperate after its difficult defeat." - The verb describes regaining strength after hardship.
+**Grammar**: Verb
+**Synonyms**: recover, heal, regain strength
+**Antonyms**: weaken, decline, deteriorate
+
 
 ## Reinforces
 
@@ -1551,6 +1605,15 @@
 **Grammar**: Verb (present participle), adjective
 **Synonyms**: holding back, curbing, limiting
 **Antonyms**: releasing, encouraging, enabling
+
+
+## Retreated
+
+**Meaning**: Moved back or withdrew, especially from a fight or difficult situation.
+**Usage**: "The group retreated to regroup before returning to the challenge." - The verb describes pulling back temporarily.
+**Grammar**: Verb (past tense and past participle of retreat)
+**Synonyms**: withdrew, fell back, pulled back
+**Antonyms**: advanced, approached, stood firm
 
 
 ## Retribution
@@ -1895,6 +1958,15 @@
 **Antonyms**: uncertain, risky, doubtful
 
 
+## Surefooted
+
+**Meaning**: Confident and steady in movement or action; unlikely to stumble or make mistakes.
+**Usage**: "She remained surefooted while leading the group through uncertainty." - The adjective describes steadiness and confidence.
+**Grammar**: Adjective
+**Synonyms**: steady, confident, assured
+**Antonyms**: uncertain, unsteady, hesitant
+
+
 ## SVD
 
 **Meaning**: Singular Value Decomposition, a matrix factorization method where $A = U \Sigma V^T$.
@@ -2100,6 +2172,15 @@
 **Grammar**: Noun
 **Synonyms**: revenge, retaliation, retribution, payback
 **Antonyms**: forgiveness, mercy, reconciliation, pardon
+
+
+## Victorious
+
+**Meaning**: Having won a contest or conflict; successful.
+**Usage**: "The group emerged victorious after a difficult struggle." - The adjective describes having won.
+**Grammar**: Adjective
+**Synonyms**: triumphant, winning, successful
+**Antonyms**: defeated, unsuccessful, beaten
 
 
 ## Vigorously
