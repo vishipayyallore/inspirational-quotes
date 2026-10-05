@@ -72,6 +72,15 @@
 **Antonyms**: right, straight, as planned
 
 
+## Banquet
+
+**Meaning**: A large, formal meal or feast, often held for many guests.
+**Usage**: "The envoys attended a banquet at the palace." - A banquet is a grand meal shared at a special gathering.
+**Grammar**: Noun
+**Synonyms**: feast, formal dinner, celebratory meal
+**Antonyms**: N/A (no direct antonym)
+
+
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
@@ -124,6 +133,15 @@
 **Grammar**: Verb
 **Synonyms**: blurt out, spit out, exclaim
 **Antonyms**: restrain, hold back, hesitate
+
+
+## Blustery
+
+**Meaning**: Very windy and stormy; also, loud and aggressively forceful in speech.
+**Usage**: "The blustery weather kept the ships in harbor." - The adjective describes strong, gusting winds.
+**Grammar**: Adjective
+**Synonyms**: windy, stormy, blustering, bombastic
+**Antonyms**: calm, still, mild, restrained
 
 
 ## Boredom
@@ -567,6 +585,15 @@
 **Antonyms**: subordinate, minor, weak
 
 
+## Doused
+
+**Meaning**: Extinguished with liquid, especially water; also soaked or covered with liquid.
+**Usage**: "They doused the campfire with water before leaving." - Pouring water put out the fire.
+**Grammar**: Verb; past tense and past participle of douse; also used adjectivally.
+**Synonyms**: extinguished, soaked, drenched
+**Antonyms**: ignited, kindled, dried
+
+
 ## Exhaust
 
 **Meaning**: To drain or tire someone completely; also the fumes or gas released by an engine.
@@ -612,6 +639,15 @@
 **Antonyms**: disappear, vanish, recede
 
 
+## Emissaries
+
+**Meaning**: Messengers or official representatives sent on a mission; plural of emissary.
+**Usage**: "The queen sent emissaries to negotiate peace." - The representatives carried her message and negotiated on her behalf.
+**Grammar**: Plural noun; singular: emissary.
+**Synonyms**: envoys, delegates, representatives
+**Antonyms**: N/A (no direct antonym)
+
+
 ## Emphatic
 
 **Meaning**: Said or done in a strong, forceful way to show importance.
@@ -628,6 +664,15 @@
 **Grammar**: Adverb
 **Synonyms**: experimentally, observationally, evidence-based
 **Antonyms**: theoretically, speculatively, hypothetically
+
+
+## Encampment
+
+**Meaning**: A temporary camp or the place where an army or group stays.
+**Usage**: "The scouts returned to the encampment before sunset." - The word names the group's temporary camp.
+**Grammar**: Noun
+**Synonyms**: camp, campsite, bivouac, military camp
+**Antonyms**: dispersal, departure, permanent settlement
 
 ## Engrossed
 
@@ -1177,6 +1222,15 @@
 **Antonyms**: repelled, deterred, discouraged
 
 
+## Maneuver
+
+**Meaning**: A skillful or strategic move; also, to move or guide something with skill.
+**Usage**: "The captain maneuvered the ship through the narrow channel." - The verb describes guiding something carefully through a difficult situation.
+**Grammar**: Noun, verb
+**Synonyms**: tactic, strategic move, maneuvering
+**Antonyms**: blunder, misstep, clumsy move
+
+
 ## Mantle
 
 **Meaning**: 1. A cloak or covering. 2. A role or responsibility someone takes on. 3. In geology, the Earth layer between crust and core.
@@ -1339,6 +1393,15 @@
 **Antonyms**: barren land, wasteland
 
 
+## Outcompeting
+
+**Meaning**: Doing better than rivals or gaining an advantage over competitors.
+**Usage**: "The team kept improving its service to outcompete its rivals." - The verb describes performing better than competing teams.
+**Grammar**: Verb, present participle or gerund of outcompete.
+**Synonyms**: outperforming, surpassing, beating
+**Antonyms**: underperforming, lagging behind, losing to
+
+
 ## Patriot
 
 **Meaning**: A person who loves and supports their country.
@@ -1499,6 +1562,24 @@
 **Grammar**: Noun
 **Synonyms**: assumption, supposition, audacity
 **Antonyms**: proof, certainty, humility
+
+
+## Pretender
+
+**Meaning**: Someone who falsely claims a right, title, or position, especially a throne.
+**Usage**: "The pretender claimed the throne, but the council rejected his claim." - The noun describes someone asserting a title without a recognized right to it.
+**Grammar**: Noun
+**Synonyms**: claimant, impostor, usurper
+**Antonyms**: rightful heir, legitimate ruler, incumbent
+
+
+## Proclaim
+
+**Meaning**: To announce officially or publicly; to declare something firmly or loudly.
+**Usage**: "The ruler proclaimed the new law before the assembled crowd." - The announcement was made publicly and with authority.
+**Grammar**: Verb; base form. Third-person singular: proclaims; past tense: proclaimed; present participle: proclaiming.
+**Synonyms**: announce, declare, make known
+**Antonyms**: conceal, suppress, deny
 
 
 ## Proclaimed
@@ -1877,6 +1958,15 @@
 **Antonyms**: release, return, relinquish
 
 
+## Sneak
+
+**Meaning**: To go or move quietly and secretly to avoid being noticed.
+**Usage**: "The scout tried to sneak into the camp unseen." - The verb describes moving secretly and quietly.
+**Grammar**: Verb; also a noun for a person who acts secretly.
+**Synonyms**: creep, slip, skulk
+**Antonyms**: stride openly, announce, reveal
+
+
 ## Sneaky
 
 **Meaning**: Acting secretly or in a way to avoid notice; underhanded
@@ -2046,6 +2136,15 @@
 **Grammar**: Adverb
 **Synonyms**: consecutively, sequentially, serially
 **Antonyms**: simultaneously, randomly, sporadically
+
+
+## Summon
+
+**Meaning**: To call or order someone to come; to request someone's presence with authority.
+**Usage**: "The king summoned his advisers to the council chamber." - He ordered them to come to the meeting.
+**Grammar**: Verb
+**Synonyms**: call, order, convene
+**Antonyms**: dismiss, send away, release
 
 
 ## Surefire
@@ -2352,4 +2451,3 @@
 **Grammar**: Verb (past tense of yank)
 **Synonyms**: pulled, jerked, tugged
 **Antonyms**: pushed, released, eased
-
