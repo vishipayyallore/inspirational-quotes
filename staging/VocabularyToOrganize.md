@@ -36,6 +36,15 @@
 **Antonyms**: intensified, aggravated, worsened
 
 
+## Allaying
+
+**Meaning**: Reducing or calming fear, worry, or concern.
+**Usage**: "Her steady explanation was allaying the team's fears." - Reassurance can gradually reduce anxiety.
+**Grammar**: Verb (present participle of allay)
+**Synonyms**: easing, calming, soothing
+**Antonyms**: intensifying, aggravating, worsening
+
+
 ## Amused
 
 **Meaning**: Found something funny or entertaining.
@@ -43,6 +52,15 @@
 **Grammar**: Adjective, verb (past tense of amuse)
 **Synonyms**: entertained, entertained, delighted
 **Antonyms**: bored, annoyed, irritated
+
+
+## Apparently
+
+**Meaning**: Seemingly or as far as one can tell from the available evidence.
+**Usage**: "Apparently, the quiet room was not as empty as it seemed." - The word signals that something appears true but may not be certain.
+**Grammar**: Adverb
+**Synonyms**: seemingly, evidently, it appears
+**Antonyms**: certainly, undoubtedly, plainly
 
 
 ## Astonished
@@ -72,6 +90,15 @@
 **Antonyms**: right, straight, as planned
 
 
+## Banal
+
+**Meaning**: So ordinary, predictable, or unoriginal that it is boring; stronger than merely bland.
+**Usage**: "The speech repeated banal advice without offering a fresh idea." - Banal describes something dull because it is overly familiar or unoriginal.
+**Grammar**: Adjective
+**Synonyms**: trite, clichéd, commonplace
+**Antonyms**: original, fresh, striking
+
+
 ## Banquet
 
 **Meaning**: A large, formal meal or feast, often held for many guests.
@@ -79,6 +106,15 @@
 **Grammar**: Noun
 **Synonyms**: feast, formal dinner, celebratory meal
 **Antonyms**: N/A (no direct antonym)
+
+
+## Barometer
+
+**Meaning**: An instrument that measures atmospheric pressure; figuratively, an indicator of changing conditions.
+**Usage**: "Attendance became a barometer of the town's interest in the festival." - Figuratively, a barometer signals a broader change.
+**Grammar**: Noun
+**Synonyms**: pressure gauge, indicator, measure
+**Antonyms**: N/A (instrument or indicator)
 
 
 ## Beamed
@@ -324,6 +360,15 @@
 **Antonyms**: conceal, withhold, hide
 
 
+## Conforms
+
+**Meaning**: Follows rules or expectations, or matches a standard.
+**Usage**: "The design conforms to the safety requirements." - It meets the stated rules or standard.
+**Grammar**: Verb (third-person singular present of conform)
+**Synonyms**: complies, obeys, matches
+**Antonyms**: disobeys, resists, differs
+
+
 ## Conniving
 
 **Meaning**: Scheming, cunning, or secretly planning something dishonest.
@@ -522,6 +567,15 @@
 **Antonyms**: obey, comply, submit
 
 
+## Devastating
+
+**Meaning**: Causing great destruction, damage, or emotional shock.
+**Usage**: "The devastating news left the family in shock." - The word describes an impact that is extremely destructive or upsetting.
+**Grammar**: Adjective, verb (present participle of devastate)
+**Synonyms**: destructive, overwhelming, heartbreaking
+**Antonyms**: minor, comforting, restorative
+
+
 ## Disarray
 
 **Meaning**: A state of disorder or confusion.
@@ -565,6 +619,15 @@
 **Grammar**: Noun, verb
 **Synonyms**: skepticism, suspicion, doubt
 **Antonyms**: trust, confidence, faith
+
+
+## Diversionary
+
+**Meaning**: Intended to distract attention from the real purpose or issue.
+**Usage**: "The diversionary announcement drew attention away from the investigation." - It serves as a distraction rather than addressing the main matter.
+**Grammar**: Adjective
+**Synonyms**: distracting, misleading, decoy
+**Antonyms**: direct, revealing, focused
 
 
 ## Diverted
@@ -727,6 +790,15 @@
 **Antonyms**: disloyalty, infidelity, inaccuracy
 
 
+## Fierce
+
+**Meaning**: Very strong, intense, or aggressive.
+**Usage**: "The fierce storm forced the ships to return to shore." - Fierce describes great strength or intensity.
+**Grammar**: Adjective
+**Synonyms**: intense, powerful, ferocious
+**Antonyms**: gentle, mild, calm
+
+
 ## Fleece
 
 **Meaning**: 1. The wool of a sheep. 2. A soft, warm fabric. 3. As a verb, to cheat someone out of money.
@@ -781,6 +853,33 @@
 **Antonyms**: abandoned, unguarded, exposed
 
 
+## Gesture
+
+**Meaning**: A movement of the hand or body, or an action that expresses an idea or feeling.
+**Usage**: "He offered a small gesture of thanks." - A gesture can communicate a message without words.
+**Grammar**: Noun, verb
+**Synonyms**: sign, motion, signal
+**Antonyms**: N/A (a movement or communicative action)
+
+
+## Gestures
+
+**Meaning**: Movements of the hands or body, often used to communicate.
+**Usage**: "Her gestures helped the audience understand the directions." - The plural refers to more than one expressive movement.
+**Grammar**: Noun (plural of gesture), verb (third-person singular present of gesture)
+**Synonyms**: motions, signals, signs
+**Antonyms**: N/A (communicative movements)
+
+
+## Glazed
+
+**Meaning**: Having a glassy, dull, or unfocused appearance; also, covered with a smooth, shiny coating.
+**Usage**: "His eyes looked glazed after the long lecture." - Here, glazed means dull and unfocused.
+**Grammar**: Adjective, verb (past tense and past participle of glaze)
+**Synonyms**: glassy, unfocused, coated
+**Antonyms**: alert, focused, uncoated
+
+
 ## Glorious
 
 **Meaning**: Magnificent, great, or very impressive.
@@ -788,6 +887,15 @@
 **Grammar**: Adjective
 **Synonyms**: magnificent, splendid, illustrious
 **Antonyms**: ordinary, poor, disgraceful
+
+
+## Grayer
+
+**Meaning**: More gray or dull in color, mood, or appearance; figuratively, less clear-cut.
+**Usage**: "The sky looked grayer as the storm approached." - The comparative form describes something becoming more gray or gloomy.
+**Grammar**: Adjective (comparative of gray)
+**Synonyms**: duller, gloomier, less clear
+**Antonyms**: brighter, clearer, more vivid
 
 
 ## Guillotine
@@ -862,6 +970,15 @@
 **Antonyms**: exact methods, exhaustive search, strict algorithms
 
 
+## Hexing
+
+**Meaning**: Cursing someone or supposedly placing a spell on them.
+**Usage**: "In the folktale, the sorcerer was hexing the king's enemies." - Hexing refers to casting a curse in a story or superstition.
+**Grammar**: Verb (present participle or gerund of hex)
+**Synonyms**: cursing, bewitching, enchanting
+**Antonyms**: blessing, protecting, reassuring
+
+
 ## Hexis
 
 **Meaning**: A stable state or disposition, esp. in philosophy
@@ -896,6 +1013,15 @@
 **Grammar**: Noun, verb
 **Synonyms**: intuition, inkling, suspicion
 **Antonyms**: certainty, proof, verification
+
+
+## Hypnotic
+
+**Meaning**: Like hypnosis; holding attention so strongly that it is difficult to look away.
+**Usage**: "The dancer's hypnotic movements held the audience's attention." - Hypnotic describes something fascinating or absorbing.
+**Grammar**: Adjective
+**Synonyms**: mesmerizing, captivating, entrancing
+**Antonyms**: distracting, dull, uninteresting
 
 
 ## Impeded
@@ -1060,6 +1186,15 @@
 **Antonyms**: ignore, withdraw, abstain
 
 
+## Intimidated
+
+**Meaning**: Made to feel afraid, nervous, or less confident.
+**Usage**: "She felt intimidated by the unfamiliar audience at first." - The experience reduced her confidence.
+**Grammar**: Verb (past tense and past participle of intimidate), adjective
+**Synonyms**: frightened, unnerved, daunted
+**Antonyms**: encouraged, reassured, emboldened
+
+
 ## Intrigue
 
 **Meaning**: A strong feeling of curiosity or interest, often with a sense of mystery; also, a secret plot or scheme.
@@ -1213,9 +1348,27 @@
 **Antonyms**: N/A (object/shape noun)
 
 
+## Lulled
+
+**Meaning**: Calmed or made to feel safe, sometimes lowering alertness; past tense of lull.
+**Usage**: "The steady music lulled the guard into a sense of safety." - A calm feeling can make someone less watchful.
+**Grammar**: Verb (past tense and past participle of lull)
+**Synonyms**: soothed, calmed, pacified
+**Antonyms**: alarmed, disturbed, alerted
+
+
+## Lulling
+
+**Meaning**: Calming or making someone feel sleepy or less alert.
+**Usage**: "The soft rhythm was lulling the crowd into a quiet mood." - Lulling describes an ongoing calming effect.
+**Grammar**: Verb (present participle or gerund of lull), adjective
+**Synonyms**: soothing, calming, quieting
+**Antonyms**: alarming, stirring, alerting
+
+
 ## Lured
 
-**Meaning**: Tempted or enticed into doing something.
+**Meaning**: Tempted or enticed into doing something, sometimes into a trap.
 **Usage**: "The ad lured customers with a 50% discount."
 **Grammar**: Verb (past tense of lure)
 **Synonyms**: enticed, tempted, attracted
@@ -1247,6 +1400,15 @@
 **Grammar**: Noun
 **Synonyms**: saying, aphorism, principle
 **Antonyms**: nonsense, contradiction, fallacy
+
+
+## Mayhem
+
+**Meaning**: Great disorder, confusion, or violent chaos.
+**Usage**: "The sudden power failure caused mayhem in the station." - Mayhem describes a situation of extreme disorder.
+**Grammar**: Noun
+**Synonyms**: chaos, havoc, turmoil
+**Antonyms**: order, calm, peace
 
 
 ## Mealy
@@ -1375,6 +1537,15 @@
 **Antonyms**: reveals, clarifies, exposes, illuminates
 
 
+## Obsequiousness
+
+**Meaning**: Excessive eagerness to please or flatter someone powerful.
+**Usage**: "His obsequiousness toward the director made his praise seem insincere." - The noun describes overly submissive flattery.
+**Grammar**: Noun
+**Synonyms**: sycophancy, servility, fawning
+**Antonyms**: assertiveness, frankness, independence
+
+
 ## Oppressive
 
 **Meaning**: Cruel, harsh, dominating, or heavily burdensome.
@@ -1411,6 +1582,15 @@
 **Antonyms**: traitor, disloyalist, enemy
 
 
+## Paranoid
+
+**Meaning**: Extremely or unreasonably suspicious, often believing others intend harm.
+**Usage**: "He became paranoid that every colleague was plotting against him." - The adjective describes suspicion that goes beyond reasonable caution.
+**Grammar**: Adjective
+**Synonyms**: suspicious, distrustful, fearful
+**Antonyms**: trusting, confident, unworried
+
+
 ## Pauper
 
 **Meaning**: A very poor person; someone with no money or means.
@@ -1445,6 +1625,15 @@
 **Grammar**: Noun
 **Synonyms**: farmer, farmworker, commoner
 **Antonyms**: aristocrat, noble, landowner
+
+
+## Perpetrated
+
+**Meaning**: Committed or carried out, especially a harmful or criminal act.
+**Usage**: "The fraud was perpetrated by someone with access to the accounts." - Perpetrated emphasizes carrying out a wrongful act.
+**Grammar**: Verb (past tense and past participle of perpetrate)
+**Synonyms**: committed, carried out, executed
+**Antonyms**: prevented, stopped, thwarted
 
 
 ## Persistent
@@ -1662,6 +1851,15 @@
 **Antonyms**: N/A (area or domain noun)
 
 
+## Recitations
+
+**Meaning**: Repeated spoken performances, often recited from memory.
+**Usage**: "The students practiced their recitations before the ceremony." - A recitation is a spoken repetition of learned material.
+**Grammar**: Noun (plural of recitation)
+**Synonyms**: repetitions, readings, declamations
+**Antonyms**: improvisations, extemporaneous speech
+
+
 ## Recluse
 
 **Meaning**: A person who lives alone and avoids people.
@@ -1677,6 +1875,15 @@
 **Grammar**: Verb
 **Synonyms**: recover, heal, regain strength
 **Antonyms**: weaken, decline, deteriorate
+
+
+## Reign
+
+**Meaning**: To rule as a king, queen, or other sovereign; also, the period during which a ruler governs.
+**Usage**: "The queen's reign lasted for several decades." - As a noun, reign refers to a ruler's time in power.
+**Grammar**: Noun, verb
+**Synonyms**: rule, govern, sovereignty
+**Antonyms**: serve, obey, abdicate
 
 
 ## Reinforces
@@ -1902,6 +2109,15 @@
 **Grammar**: Verb (third-person singular of seethe)
 **Synonyms**: fumes, simmers, rages, bristles
 **Antonyms**: calms, relaxes, cools, settles
+
+
+## Seldom
+
+**Meaning**: Not often; rarely.
+**Usage**: "She seldom misses the morning train." - Seldom describes something that happens infrequently.
+**Grammar**: Adverb
+**Synonyms**: rarely, infrequently, hardly ever
+**Antonyms**: often, frequently, regularly
 
 
 ## Shattered
@@ -2406,6 +2622,15 @@
 **Grammar**: Verb (third-person singular)
 **Synonyms**: declines, diminishes, fades
 **Antonyms**: grows, strengthens, increases
+
+
+## Wariness
+
+**Meaning**: Caution or distrust, especially when danger or deception may be present.
+**Usage**: "Her wariness made her check the offer before accepting it." - Wariness is careful attention prompted by possible risk.
+**Grammar**: Noun (from wary)
+**Synonyms**: caution, vigilance, prudence
+**Antonyms**: trust, confidence, carelessness
 
 
 ## Whack
