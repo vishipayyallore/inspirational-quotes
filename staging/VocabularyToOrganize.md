@@ -441,6 +441,15 @@
 **Antonyms**: diverged, separated, dispersed
 
 
+## Coop
+
+**Meaning**: An enclosure for chickens; informally, a shortened form of cooperate. In "cooped up," it means confined in a small space.
+**Usage**: "The chickens returned to the coop at sunset." / "The children felt cooped up indoors." - Coop names the enclosure; cooped up means confined.
+**Grammar**: Noun; verb in "coop up" (confine); informal shortening of cooperate in some contexts.
+**Synonyms**: pen, enclosure, cage; collaborate, work together
+**Antonyms**: freedom, release; compete, oppose
+
+
 ## Coterie
 
 **Meaning**: A small, close, exclusive group.
@@ -549,6 +558,15 @@
 **Antonyms**: realistic, clear-eyed, grounded
 
 
+## Despair
+
+**Meaning**: A complete loss of hope; a feeling that nothing can improve.
+**Usage**: "After the citadel was ravaged, the people felt despair." - Despair describes their hopelessness after a severe loss.
+**Grammar**: Noun; verb (to lose or give up hope)
+**Synonyms**: hopelessness, anguish, despondency
+**Antonyms**: hope, confidence, optimism
+
+
 ## Detour
 
 **Meaning**: A longer route taken by going around something.
@@ -637,6 +655,15 @@
 **Grammar**: Verb (past tense, past participle)
 **Synonyms**: redirected, distracted, deflected
 **Antonyms**: focused, guided, directed
+
+
+## Docile
+
+**Meaning**: Quiet, obedient, and easy to control.
+**Usage**: "The docile horse followed the handler's instructions." - Docile describes an animal that is calm and easy to manage.
+**Grammar**: Adjective
+**Synonyms**: obedient, gentle, submissive
+**Antonyms**: unruly, defiant, disobedient
 
 
 ## Dominant
@@ -950,6 +977,15 @@
 **Grammar**: Noun
 **Synonyms**: fireside, fireplace, home
 **Antonyms**: outdoors, exterior
+
+
+## Hefty
+
+**Meaning**: Heavy or large in size, strength, or amount.
+**Usage**: "They faced hefty stakes if they lost the citadel." - Hefty emphasizes how large or serious the stakes were.
+**Grammar**: Adjective
+**Synonyms**: heavy, substantial, considerable
+**Antonyms**: light, small, minor
 
 
 ## Herrings
@@ -1267,6 +1303,15 @@
 **Antonyms**: yielding, conceding, retreating
 
 
+## Jugular
+
+**Meaning**: A major vein in the neck. In "go for the jugular," to attack someone's weakest or most vital point.
+**Usage**: "In the debate, she went for the jugular by challenging his weakest argument." - The expression means to target the most vulnerable point.
+**Grammar**: Noun; adjective in anatomical use
+**Synonyms**: neck vein; vulnerable point, weakest point (figurative)
+**Antonyms**: N/A (anatomical term); strong point (figurative)
+
+
 ## KPI
 
 **Meaning**: Key Performance Indicator; a measurable value that shows how effectively a person, process, or system is performing.
@@ -1391,6 +1436,15 @@
 **Grammar**: Noun, verb
 **Synonyms**: cloak, covering, responsibility
 **Antonyms**: exposure, relinquishment, abandonment
+
+
+## Marauds
+
+**Meaning**: Raids, loots, or roams around attacking; the third-person singular form of maraud.
+**Usage**: "In the tale, the raiding band marauds across the countryside." - Marauds describes roaming while carrying out raids.
+**Grammar**: Verb (third-person singular of maraud); related noun: marauder
+**Synonyms**: raids, plunders, loots
+**Antonyms**: protects, guards, preserves
 
 
 ## Maxim
@@ -1842,6 +1896,15 @@
 **Antonyms**: scattered, weakened, surrendered
 
 
+## Ravaged
+
+**Meaning**: Severely damaged, destroyed, or ruined.
+**Usage**: "The storm ravaged the citadel, leaving much of it in ruins." - Ravaged describes severe damage.
+**Grammar**: Verb (past tense and past participle of ravage); also adjective
+**Synonyms**: devastated, ruined, wrecked
+**Antonyms**: repaired, restored, preserved
+
+
 ## Realm
 
 **Meaning**: A kingdom or a particular area of power, activity, or interest.
@@ -2147,6 +2210,15 @@
 **Antonyms**: relief, peace, protection
 
 
+## Slew
+
+**Meaning**: A large number or quantity; also the past tense of slay, meaning killed.
+**Usage**: "The team faced a slew of challenges." / "In the tale, the hero slew the dragon." - Slew is a noun in the first sentence and a verb in the second.
+**Grammar**: Noun; verb (simple past of slay)
+**Synonyms**: multitude, host, killed
+**Antonyms**: handful, few; spared (verb sense)
+
+
 ## Slumped
 
 **Meaning**: Collapsed, bent forward, or declined suddenly.
@@ -2271,6 +2343,15 @@
 **Grammar**: Verb (past tense, past participle)
 **Synonyms**: bet, risked, committed
 **Antonyms**: withdrew, avoided, safeguarded
+
+
+## Stakes
+
+**Meaning**: What can be won or lost in a situation; also, wooden poles or posts.
+**Usage**: "The stakes were high: they could win the contest or lose their home." / "The fence was held up by wooden stakes." - Stakes can refer to risk or to physical posts.
+**Grammar**: Noun (plural of stake)
+**Synonyms**: risks, consequences, posts
+**Antonyms**: certainty, security; N/A (wooden posts)
 
 
 ## Steeped

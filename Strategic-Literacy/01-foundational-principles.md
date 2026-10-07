@@ -18,10 +18,10 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. In life, the crooked escape unscathed; it’s the straight ones who face the hammer. - Anonymous
 > 1. Such is life’s irony — the crooked thrive in comfort, while the straight bear the blows of integrity. - Anonymous
 > 1. The crooked stay untouched; the straight are hammered. That’s the irony of life. - Anonymous
-> 1. Life’s sad truth: the crooked go free, while the straight are hammered down. - Anonymous - **Here**
+> 1. Life’s sad truth: the crooked go free, while the straight are hammered down. - Anonymous
 
 ```text
-**🌸 The Law of Karma 🌸**
+🌸 The Law of Karma 🌸
 
 🌿 Karma and Kindness
 
@@ -29,7 +29,7 @@ When we do good for others with a genuine heart, goodness always returns — som
 
 And when we do wrong to others, that too finds its way back — in this life, or the next, or the one after, **until the score is settled**. 🌸
 
-**— Viswanatha Swamy P K**
+— Viswanatha Swamy P K
 ```
 
 ## Power and Influence Wisdom
@@ -39,13 +39,13 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Always** make those above you feel comfortably superior. - Anonymous
 > 1. **Always** say less than necessary. - Anonymous
 > 1. **So much depends** on reputation; guard it with your life. - Anonymous
-> 1. **Court attention** at all costs. - Anonymous
+> 1. **Court attention** at all costs. - Anonymous - **Here**
 > 1. **Win through your actions**, never through argument. - Anonymous
 > 1. **Infection** avoid the unhappy, unlucky, lazy, and inactive. - Anonymous
 > 1. **Mirror** the desires and values of those you wish to influence. - Anonymous
 > 1. **Never** appear too perfect; occasionally reveal small flaws. - Anonymous
 > 1. **Speak** less than necessary; the more you say, the more common you appear. - Anonymous
-> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous - **Here**
+> 1. **Make** your reputation unassailable; guard it with your life. - Anonymous
 > 1. **Draw** attention to your accomplishments subtly, letting others praise you. - Anonymous
 
 ## Mastery in 30 Minutes a Day
