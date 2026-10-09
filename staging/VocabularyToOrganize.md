@@ -1627,13 +1627,13 @@
 **Antonyms**: underperforming, lagging behind, losing to
 
 
-## Patriot
+## Paradox
 
-**Meaning**: A person who loves and supports their country.
-**Usage**: "The patriot supported policies intended to strengthen the country." - Patriotism expresses loyalty and support for one's nation.
+**Meaning**: A statement or situation that seems contradictory but may still be true.
+**Usage**: "Less is more." - This paradox suggests that having or using less can sometimes produce a better result.
 **Grammar**: Noun
-**Synonyms**: nationalist, loyalist, citizen
-**Antonyms**: traitor, disloyalist, enemy
+**Synonyms**: contradiction, puzzle, seeming inconsistency
+**Antonyms**: consistency, straightforward statement, clear-cut truth
 
 
 ## Paranoid
@@ -1643,6 +1643,15 @@
 **Grammar**: Adjective
 **Synonyms**: suspicious, distrustful, fearful
 **Antonyms**: trusting, confident, unworried
+
+
+## Patriot
+
+**Meaning**: A person who loves and supports their country.
+**Usage**: "The patriot supported policies intended to strengthen the country." - Patriotism expresses loyalty and support for one's nation.
+**Grammar**: Noun
+**Synonyms**: nationalist, loyalist, citizen
+**Antonyms**: traitor, disloyalist, enemy
 
 
 ## Pauper
