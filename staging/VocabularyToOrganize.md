@@ -144,6 +144,15 @@
 **Antonyms**: repel, enlighten, disillusion
 
 
+## Betray
+
+**Meaning**: To cheat someone, break trust, or give away a secret.
+**Usage**: "A leader may betray wary citizens and become a tyrannical sovereign." - The 06-Aug-2026 Betrayal / Power theme links Wary (12-Aug Wariness) -> Betray -> Tyrannical Sovereigns (15-Aug).
+**Grammar**: Verb
+**Synonyms**: deceive, cheat, violate trust, divulge
+**Antonyms**: honor, trust, protect, keep secret
+
+
 ## Bloodies
 
 **Meaning**: Causes something to become covered with blood or to bleed.
@@ -2127,6 +2136,15 @@
 **Grammar**: Adjective, verb (past participle)
 **Synonyms**: drained, exhausted, depleted
 **Antonyms**: energized, revived, strengthened
+
+
+## Scandalous
+
+**Meaning**: Shocking or shameful in a way that causes public anger.
+**Usage**: "The scandalous abuse of power sparked public anger." - In the 06-Aug-2026 Betrayal / Power theme, shameful misuse of authority causes public outrage.
+**Grammar**: Adjective
+**Synonyms**: shocking, shameful, outrageous, disgraceful
+**Antonyms**: respectable, honorable, proper, innocuous
 
 
 ## Scapegoat
