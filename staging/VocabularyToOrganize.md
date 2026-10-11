@@ -72,6 +72,24 @@
 **Antonyms**: unsurprised, calm, unimpressed
 
 
+## Astonishment
+
+**Meaning**: A feeling of great surprise.
+**Usage**: "The unexpected decision filled the court with astonishment." - The word describes a strong reaction to something surprising.
+**Grammar**: Noun
+**Synonyms**: amazement, surprise, wonder
+**Antonyms**: indifference, composure, calm
+
+
+## Avaricious
+
+**Meaning**: Having an extreme desire to gain or keep wealth.
+**Usage**: "The avaricious official took more than his share of the royal treasury." - The adjective describes excessive greed for wealth.
+**Grammar**: Adjective
+**Synonyms**: greedy, covetous, grasping
+**Antonyms**: generous, charitable, selfless
+
+
 ## Averted
 
 **Meaning**: Prevented or avoided a danger or bad outcome.
@@ -97,6 +115,15 @@
 **Grammar**: Adjective
 **Synonyms**: trite, clichéd, commonplace
 **Antonyms**: original, fresh, striking
+
+
+## Banished
+
+**Meaning**: Sent away from a place, often as punishment; exiled.
+**Usage**: "The ruler banished the courtier from the kingdom." - The courtier was forced to leave as punishment.
+**Grammar**: Verb (past tense and past participle of banish); also used as an adjective
+**Synonyms**: exiled, expelled, sent away
+**Antonyms**: welcomed, recalled, reinstated
 
 
 ## Banquet
@@ -232,6 +259,15 @@
 **Grammar**: Proper noun (abbreviation; statistical term)
 **Synonyms**: cumulative probability function, distribution accumulator, cumulative probability curve
 **Antonyms**: PMF at a single point, point probability only, non-cumulative measure
+
+
+## Chamberlain
+
+**Meaning**: An official who manages a ruler's household.
+**Usage**: "The chamberlain prepared the royal household for the visiting guests." - The chamberlain oversees household arrangements.
+**Grammar**: Noun
+**Synonyms**: steward, household officer, palace official
+**Antonyms**: N/A (official title)
 
 
 ## Champing
@@ -468,6 +504,15 @@
 **Antonyms**: outsiders, general public, crowd
 
 
+## Councillor
+
+**Meaning**: A member of a council who may advise a ruler.
+**Usage**: "The councillor advised the monarch before the council meeting." - The councillor offers guidance in a formal role.
+**Grammar**: Noun
+**Synonyms**: adviser, council member, counselor
+**Antonyms**: N/A (role or title)
+
+
 ## Counters
 
 **Meaning**: Tables or surfaces in a shop; also argues against or opposes something.
@@ -565,6 +610,15 @@
 **Grammar**: Adjective, verb (past participle of delude)
 **Synonyms**: fooled, misled, deceived
 **Antonyms**: realistic, clear-eyed, grounded
+
+
+## Depose
+
+**Meaning**: To remove a ruler from power or from the throne.
+**Usage**: "The nobles conspired to depose the king." - They planned to remove him from power.
+**Grammar**: Verb
+**Synonyms**: overthrow, unseat, dethrone
+**Antonyms**: enthrone, crown, appoint
 
 
 ## Despair
@@ -780,6 +834,24 @@
 **Grammar**: Adjective, verb (past participle)
 **Synonyms**: absorbed, absorbed, immersed
 **Antonyms**: distracted, detached, uninterested
+
+## Ennobled
+
+**Meaning**: Given noble rank or raised to a higher social status.
+**Usage**: "The monarch ennobled the loyal servant for years of service." - The servant was granted noble status.
+**Grammar**: Verb (past tense and past participle of ennoble); also used as an adjective
+**Synonyms**: elevated, honored, titled
+**Antonyms**: degraded, disgraced, demoted
+
+
+## Enthrone
+
+**Meaning**: To place someone on a throne as a ruler.
+**Usage**: "The council agreed to enthrone the rightful heir." - They agreed to install the heir as monarch.
+**Grammar**: Verb
+**Synonyms**: crown, install, seat
+**Antonyms**: depose, dethrone, remove
+
 
 ## Eradicate
 
@@ -1114,6 +1186,15 @@
 **Antonyms**: explosion, expansion, outward burst
 
 
+## Impudence
+
+**Meaning**: Rude or disrespectful behavior; a lack of proper respect.
+**Usage**: "The courtier's impudence offended the queen." - The courtier behaved with disrespect.
+**Grammar**: Noun
+**Synonyms**: insolence, disrespect, audacity
+**Antonyms**: respect, courtesy, politeness
+
+
 ## Impulse
 
 **Meaning**: A sudden urge to do something without thinking carefully first.
@@ -1204,6 +1285,15 @@
 **Antonyms**: calm, soothe, reduce
 
 
+## Ingrate
+
+**Meaning**: A person who is ungrateful.
+**Usage**: "The ingrate accepted the court's gifts but never thanked anyone." - The person showed no gratitude for what was given.
+**Grammar**: Noun
+**Synonyms**: thankless person, unappreciative person
+**Antonyms**: grateful person, appreciator
+
+
 ## Ingratitude
 
 **Meaning**: A lack of thankfulness; the state of being ungrateful.
@@ -1256,6 +1346,15 @@
 **Grammar**: Adjective, verb (past tense of intrigue)
 **Synonyms**: curious, fascinated, interested
 **Antonyms**: bored, indifferent, uninterested
+
+
+## Intriguers
+
+**Meaning**: People who secretly make plans, especially to gain power or influence.
+**Usage**: "The intriguers plotted to weaken the ruler's authority." - The word describes people secretly planning against someone.
+**Grammar**: Plural noun; singular: intriguer
+**Synonyms**: plotters, schemers, conspirators
+**Antonyms**: loyalists, honest supporters, allies
 
 
 ## Intuitively
@@ -1591,6 +1690,15 @@
 **Antonyms**: bluntness, simplicity, obviousness
 
 
+## Nunnery
+
+**Meaning**: A place where nuns live and follow a religious life.
+**Usage**: "After leaving the royal court, she entered a nunnery." - The word names a community where nuns live.
+**Grammar**: Noun
+**Synonyms**: convent, abbey, religious house
+**Antonyms**: N/A (a type of place)
+
+
 ## Obscures
 
 **Meaning**: Hides, makes unclear, blocks view.
@@ -1598,6 +1706,15 @@
 **Grammar**: Verb (third-person singular present of obscure)
 **Synonyms**: hides, conceals, clouds, masks
 **Antonyms**: reveals, clarifies, exposes, illuminates
+
+
+## Obscurity
+
+**Meaning**: The state of being unknown or not widely noticed.
+**Usage**: "After the rebellion, the former courtier lived in obscurity." - The courtier was no longer known or prominent.
+**Grammar**: Noun
+**Synonyms**: anonymity, lack of fame, insignificance
+**Antonyms**: fame, prominence, renown
 
 
 ## Obsequiousness
@@ -1697,6 +1814,15 @@
 **Grammar**: Noun
 **Synonyms**: farmer, farmworker, commoner
 **Antonyms**: aristocrat, noble, landowner
+
+
+## Peril
+
+**Meaning**: Serious or immediate danger.
+**Usage**: "The kingdom was in peril when its defenses failed." - The kingdom faced a serious threat.
+**Grammar**: Noun
+**Synonyms**: danger, jeopardy, risk
+**Antonyms**: safety, security, protection
 
 
 ## Perpetrated
@@ -1850,6 +1976,15 @@
 **Grammar**: Verb (past tense of proclaim)
 **Synonyms**: declared, announced, pronounced
 **Antonyms**: concealed, denied, retracted
+
+## Profligates
+
+**Meaning**: People who spend money wastefully or behave in an uncontrolled way.
+**Usage**: "The profligates squandered the royal fortune on lavish parties." - The word describes people known for reckless excess.
+**Grammar**: Plural noun; singular: profligate
+**Synonyms**: spendthrifts, wastrels, libertines
+**Antonyms**: frugal people, prudent spenders
+
 
 ## Propel
 
@@ -2327,6 +2462,15 @@
 **Antonyms**: dreadful, poor, ordinary, unimpressive
 
 
+## Splendor
+
+**Meaning**: Great beauty or impressive magnificence.
+**Usage**: "The palace displayed its splendor during the royal celebration." - The word describes its impressive beauty and grandeur.
+**Grammar**: Noun
+**Synonyms**: magnificence, grandeur, brilliance
+**Antonyms**: plainness, simplicity, ordinariness
+
+
 ## Spurious
 
 **Meaning**: Not genuine, authentic, or true; false but made to appear real.
@@ -2352,6 +2496,15 @@
 **Grammar**: Verb (present participle)
 **Synonyms**: wriggling, twisting, fidgeting
 **Antonyms**: stillness, composure, steadiness
+
+
+## Stables
+
+**Meaning**: Buildings where horses are kept.
+**Usage**: "The groom led the horses back to the stables." - The stables provide shelter for the horses.
+**Grammar**: Plural noun; singular: stable
+**Synonyms**: horse barns, stable buildings, horse shelters
+**Antonyms**: N/A (a type of building)
 
 
 ## Staggering
@@ -2406,6 +2559,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: reek, smell, stench
 **Antonyms**: fragrance, aroma, freshness
+
+
+## Straits
+
+**Meaning**: A difficult situation; also, a narrow sea passage.
+**Usage**: "The kingdom was in dire straits after losing its allies." - The kingdom was in a difficult situation.
+**Grammar**: Plural noun; singular: strait
+**Synonyms**: difficulties, predicament; channel, narrows (sea passage)
+**Antonyms**: ease, security (difficult-situation sense); N/A (sea-passage sense)
 
 
 ## Stratified
