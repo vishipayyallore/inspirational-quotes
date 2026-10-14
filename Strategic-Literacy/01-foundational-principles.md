@@ -65,7 +65,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Trust slowly and watch actions closely; true intentions reveal themselves over time, beyond words and appearances. – Viswanatha Swamy P K
 > 1. Trust is revealed over time, not in appearances. Be cautious, for true intentions surface through consistent actions, not mere words. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation of true intentions; Do not believe in appearances alone, as actions over time are the real measure. – Viswanatha Swamy P K
-> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K - **Here**
+> 1. Trust is not granted by words or appearances but earned through consistent actions over time. – Viswanatha Swamy P K
 > 1. Trust is a slow revelation; appearances and words can deceive, but actions are the true measure over time. – Viswanatha Swamy P K
 > 1. Words and appearances can mask intentions; only actions over time will reveal who can truly be trusted. – Viswanatha Swamy P K
 > 1. Words and appearances often disguise intentions; only actions reveal who can truly be trusted. – Viswanatha Swamy P K
@@ -77,7 +77,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## Life Lessons
 
-> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous
+> 1. **Life is unfair**. Accept that and immediately you will feel more free. - Anonymous - **Here**
 > 1. Understand what true freedom is. **Freedom is not about money**. Freedom is about the ability to choose what you do with your time. - Anonymous
 > 1. No one owes you a chance. You can be talented and hardworking, but that does not mean people will just hand you opportunities. **Create your own**. - Anonymous
 > 1. Being **"busy"** does not mean you are progressing. It is easy to fill your day with tasks; the hard part is doing work that **actually moves you forward**. - Anonymous
