@@ -171,10 +171,19 @@
 **Antonyms**: repel, enlighten, disillusion
 
 
+## Benefactor
+
+**Meaning**: A person who gives help, support, or money to someone or something.
+**Usage**: "A benefactor offered the fugitive a safe place to hide." - A benefactor provides help, including in the 09-Aug-2026 Escape / Predicament theme.
+**Grammar**: Noun
+**Synonyms**: donor, supporter, patron, helper
+**Antonyms**: opponent, detractor, adversary
+
+
 ## Betray
 
 **Meaning**: To cheat someone, break trust, or give away a secret.
-**Usage**: "A leader may betray wary citizens and become a tyrannical sovereign." - The 06-Aug-2026 Betrayal / Power theme links Wary (12-Aug Wariness) -> Betray -> Tyrannical Sovereigns (15-Aug).
+**Usage**: "A leader may betray wary citizens and become a tyrannical sovereign." - The 06-Aug-2026 Betrayal / Power theme links Wary (12-Aug Wariness) -> Betray -> Tyrannical Sovereigns (15-Aug); Betray recurs in the 09-Aug-2026 Escape / Predicament theme.
 **Grammar**: Verb
 **Synonyms**: deceive, cheat, violate trust, divulge
 **Antonyms**: honor, trust, protect, keep secret
@@ -232,6 +241,15 @@
 **Grammar**: Noun (plural)
 **Synonyms**: bowline knots, fixed loops, loop knots
 **Antonyms**: N/A (knot noun)
+
+
+## Brandishing
+
+**Meaning**: Waving or displaying something, especially a weapon, in a threatening way.
+**Usage**: "The guard chased the fugitives while brandishing a pike." - In the 09-Aug-2026 Escape / Predicament theme, brandishing means waving the weapon threateningly.
+**Grammar**: Verb (present participle of brandish)
+**Synonyms**: waving, flourishing, displaying
+**Antonyms**: lowering, concealing, sheathing
 
 
 ## Broth
@@ -525,7 +543,7 @@
 ## Coups
 
 **Meaning**: Sudden overthrows of governments or other forceful grabs for power; pronounced "coos."
-**Usage**: "The failed coups revealed deep divisions within the military." - The attempts sought to seize political power suddenly.
+**Usage**: "The failed coups revealed deep divisions within the military." - The attempts sought to seize political power suddenly; Coups also appears in the 09-Aug-2026 Escape / Predicament word list.
 **Grammar**: Noun (plural of coup)
 **Synonyms**: overthrows, takeovers, power grabs, seizures
 **Antonyms**: successions, restorations, stability, continuity
@@ -765,6 +783,15 @@
 **Antonyms**: arduously, difficultly, laboriously
 
 
+## Eject
+
+**Meaning**: To throw or force someone or something out.
+**Usage**: "The owner tried to eject the person who had squatted in the empty building." - Eject means to force someone to leave; the word is part of the 09-Aug-2026 Escape / Predicament theme.
+**Grammar**: Verb
+**Synonyms**: expel, remove, drive out
+**Antonyms**: admit, welcome, retain
+
+
 ## Elongated
 
 **Meaning**: Made longer or stretched out.
@@ -826,6 +853,16 @@
 **Grammar**: Noun
 **Synonyms**: camp, campsite, bivouac, military camp
 **Antonyms**: dispersal, departure, permanent settlement
+
+
+## Encumbered
+
+**Meaning**: Weighed down, burdened, or hindered.
+**Usage**: "Encumbered by heavy bags, she struggled to escape." - The 09-Aug-2026 Escape / Predicament theme uses encumbered for being burdened or blocked.
+**Grammar**: Adjective; also the past tense and past participle of encumber
+**Synonyms**: burdened, weighed down, hampered, hindered
+**Antonyms**: unburdened, free, unimpeded
+
 
 ## Engrossed
 
@@ -943,6 +980,15 @@
 **Antonyms**: vulnerability, open ground, undefended place
 
 
+## Fowl
+
+**Meaning**: Birds, especially domestic birds such as chickens and ducks.
+**Usage**: "The farmer moved the fowl into a safe pen." - Fowl refers to birds such as chickens or ducks.
+**Grammar**: Noun (can refer to one or more birds)
+**Synonyms**: poultry, domestic birds, birds
+**Antonyms**: N/A (animal category)
+
+
 ## FTO
 
 **Meaning**: Fashion Trends Online (eCommerce)
@@ -995,6 +1041,15 @@
 **Grammar**: Adjective
 **Synonyms**: magnificent, splendid, illustrious
 **Antonyms**: ordinary, poor, disgraceful
+
+
+## Gouged
+
+**Meaning**: Cut or scooped out deeply; also, charged someone an unfairly high price.
+**Usage**: "The sharp point gouged a deep mark in the wood." - Gouged describes cutting or scooping out a deep hollow.
+**Grammar**: Verb (past tense and past participle of gouge)
+**Synonyms**: carved, scooped, cut out, overcharged
+**Antonyms**: filled, smoothed, charged fairly
 
 
 ## Grayer
@@ -1067,6 +1122,15 @@
 **Grammar**: Adjective
 **Synonyms**: heavy, substantial, considerable
 **Antonyms**: light, small, minor
+
+
+## Heron
+
+**Meaning**: A long-legged bird that lives near water.
+**Usage**: "A heron stood quietly at the edge of the pond." - A heron is a long-legged water bird.
+**Grammar**: Noun
+**Synonyms**: wading bird, water bird
+**Antonyms**: N/A (bird name)
 
 
 ## Herrings
@@ -1193,6 +1257,15 @@
 **Grammar**: Noun
 **Synonyms**: insolence, disrespect, audacity
 **Antonyms**: respect, courtesy, politeness
+
+
+## Impudent
+
+**Meaning**: Rude or disrespectful, especially in a boldly confident way.
+**Usage**: "The impudent remark offended the guard." - Impudent is the adjective related to Impudence, noted on 08-Aug.
+**Grammar**: Adjective
+**Synonyms**: insolent, disrespectful, cheeky, audacious
+**Antonyms**: respectful, polite, courteous
 
 
 ## Impulse
@@ -1861,6 +1934,15 @@
 **Antonyms**: open-loop control, on-off control, uncontrolled system
 
 
+## Pike
+
+**Meaning**: A long, sharp-pointed spear; also, a type of freshwater fish.
+**Usage**: "The guard stood brandishing a pike." - In the 09-Aug-2026 Escape / Predicament theme, pike means a sharp spear; it can also name a fish.
+**Grammar**: Noun
+**Synonyms**: spear, lance; freshwater fish
+**Antonyms**: N/A (weapon or fish name)
+
+
 ## Pivotal
 
 **Meaning**: Critically important; something that something else turns on
@@ -1913,6 +1995,15 @@
 **Grammar**: Proper noun (abbreviation; statistical term)
 **Synonyms**: inverse CDF, quantile function, percentile function
 **Antonyms**: CDF, PDF, direct probability mapping
+
+
+## Predicament
+
+**Meaning**: A difficult or tricky situation.
+**Usage**: "With pursuers nearby and no clear exit, she faced a predicament." - Predicament names the difficult situation at the center of the 09-Aug-2026 Escape / Predicament theme.
+**Grammar**: Noun
+**Synonyms**: dilemma, difficulty, bind, quandary
+**Antonyms**: solution, advantage, ease
 
 
 ## Prefer
@@ -2031,6 +2122,15 @@
 **Antonyms**: reckless, imprudent, careless
 
 
+## Pursuers
+
+**Meaning**: People who chase or follow someone in order to catch them.
+**Usage**: "The fugitives hid while their pursuers searched the building." - The 09-Aug-2026 Escape / Predicament theme continues the 08-Aug Intriguers sequence: Pursuers -> Predicament -> Brandishing a pike -> Eject.
+**Grammar**: Noun (plural of pursuer)
+**Synonyms**: chasers, trackers, hunters
+**Antonyms**: fugitives, escapees, those being pursued
+
+
 ## Ragtag
 
 **Meaning**: Made up of a varied, untidy, or loosely organized group.
@@ -2061,7 +2161,7 @@
 ## Realm
 
 **Meaning**: A kingdom or a particular area of power, activity, or interest.
-**Usage**: "Data science is a rapidly changing realm." - Here, realm means a field or area of activity.
+**Usage**: "Data science is a rapidly changing realm." - Here, realm means a field or area of activity. It recurs in the 09-Aug-2026 theme and is also listed for 08-Aug and 15-Aug.
 **Grammar**: Noun
 **Synonyms**: domain, field, kingdom
 **Antonyms**: N/A (area or domain noun)
@@ -2426,6 +2526,15 @@
 **Antonyms**: open, honest, straightforward
 
 
+## Snuck
+
+**Meaning**: Went somewhere secretly or quietly; the past tense of sneak.
+**Usage**: "She snuck out before the pursuers found her." - Snuck is the past tense of sneak in the 09-Aug-2026 Escape / Predicament theme.
+**Grammar**: Verb (past tense and past participle of sneak)
+**Synonyms**: crept, slipped away, sneaked
+**Antonyms**: entered openly, announced, revealed
+
+
 ## Snooze
 
 **Meaning**: To sleep lightly, or to delay an alarm.
@@ -2478,6 +2587,15 @@
 **Grammar**: Adjective
 **Synonyms**: false, bogus, counterfeit
 **Antonyms**: genuine, authentic, valid
+
+
+## Squatted
+
+**Meaning**: Sat in a low crouch; also, occupied an empty building or place without permission.
+**Usage**: "They squatted in the empty building while avoiding the pursuers." - Squatted can mean crouched down or illegally occupied an empty place.
+**Grammar**: Verb (past tense and past participle of squat)
+**Synonyms**: crouched, hunkered down, occupied illegally
+**Antonyms**: stood, vacated, left
 
 
 ## Squelching
@@ -2559,6 +2677,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: reek, smell, stench
 **Antonyms**: fragrance, aroma, freshness
+
+
+## Strain
+
+**Meaning**: Pressure or stress; as a verb, to stretch or pull something hard.
+**Usage**: "The strain of escaping the pursuers made the climb harder." - Strain can mean pressure or stress, and it can also describe stretching or pulling hard.
+**Grammar**: Noun, verb
+**Synonyms**: pressure, stress, tension; stretch, pull
+**Antonyms**: ease, relaxation; loosen
 
 
 ## Straits
