@@ -54,6 +54,15 @@
 **Antonyms**: bored, annoyed, irritated
 
 
+## Anxiety
+
+**Meaning**: Worry, nervousness, or unease about something uncertain.
+**Usage**: "Anxiety spread through the court as the ruler prepared to name an heir." - Worry can grow when the future is uncertain.
+**Grammar**: Noun
+**Synonyms**: worry, unease, apprehension
+**Antonyms**: calm, confidence, ease
+
+
 ## Apparently
 
 **Meaning**: Seemingly or as far as one can tell from the available evidence.
@@ -63,10 +72,19 @@
 **Antonyms**: certainly, undoubtedly, plainly
 
 
+## Ascending
+
+**Meaning**: Going up, rising, or moving to a higher position.
+**Usage**: "The prince was ascending the steps toward the throne." - He was moving upward toward the king's seat.
+**Grammar**: Verb (present participle of ascend), adjective
+**Synonyms**: rising, climbing, mounting
+**Antonyms**: descending, falling, declining
+
+
 ## Astonished
 
 **Meaning**: Very surprised or shocked.
-**Usage**: "I was astonished to see 0.99 AUC on the first try." - An unexpectedly strong result can cause great surprise.
+**Usage**: "The vassals were astonished when the ruler bestowed a title on their leader." - This revisits the related word Astonishment from 08-Aug-2026.
 **Grammar**: Adjective, verb (past participle of astonish)
 **Synonyms**: amazed, stunned, shocked
 **Antonyms**: unsurprised, calm, unimpressed
@@ -79,6 +97,15 @@
 **Grammar**: Noun
 **Synonyms**: amazement, surprise, wonder
 **Antonyms**: indifference, composure, calm
+
+
+## Astutely
+
+**Meaning**: In a clever, perceptive, and shrewd way.
+**Usage**: "The counselor astutely recognized that the vassals' loyalty depended on fair treatment." - The counselor showed good judgment.
+**Grammar**: Adverb
+**Synonyms**: shrewdly, cleverly, perceptively
+**Antonyms**: foolishly, unwisely, carelessly
 
 
 ## Avaricious
@@ -178,6 +205,15 @@
 **Grammar**: Noun
 **Synonyms**: donor, supporter, patron, helper
 **Antonyms**: opponent, detractor, adversary
+
+
+## Bestowed
+
+**Meaning**: Gave or presented something, especially a gift or honor.
+**Usage**: "The ruler bestowed a title on the loyal vassal." - The ruler granted an honor.
+**Grammar**: Verb (past tense and past participle of bestow)
+**Synonyms**: granted, awarded, conferred
+**Antonyms**: withheld, denied, took away
 
 
 ## Betray
@@ -423,6 +459,15 @@
 **Antonyms**: conceal, withhold, hide
 
 
+## Confided
+
+**Meaning**: Told something private or secret to someone trusted.
+**Usage**: "The heir confided his anxiety to a trusted counselor." - He shared a private worry in confidence.
+**Grammar**: Verb (past tense and past participle of confide)
+**Synonyms**: shared, disclosed, revealed
+**Antonyms**: concealed, withheld, kept secret
+
+
 ## Conforms
 
 **Meaning**: Follows rules or expectations, or matches a standard.
@@ -484,6 +529,15 @@
 **Grammar**: Verb (present participle of contemplate)
 **Synonyms**: considering, pondering, reflecting
 **Antonyms**: ignoring, dismissing, neglecting
+
+
+## Contempt
+
+**Meaning**: A strong feeling of disrespect or dislike, viewing someone or something as unworthy of respect.
+**Usage**: "The ruler's contempt for the vassals weakened their loyalty." - Looking down on people can damage trust.
+**Grammar**: Noun
+**Synonyms**: scorn, disdain, disrespect
+**Antonyms**: respect, admiration, esteem
 
 
 ## Contender
@@ -741,7 +795,7 @@
 ## Docile
 
 **Meaning**: Quiet, obedient, and easy to control.
-**Usage**: "The docile horse followed the handler's instructions." - Docile describes an animal that is calm and easy to manage.
+**Usage**: "The docile horse followed the handler's instructions." - Docile describes an animal that is calm and easy to manage; this repeats the word from 10-Sep-2026.
 **Grammar**: Adjective
 **Synonyms**: obedient, gentle, submissive
 **Antonyms**: unruly, defiant, disobedient
@@ -763,6 +817,15 @@
 **Grammar**: Verb; past tense and past participle of douse; also used adjectivally.
 **Synonyms**: extinguished, soaked, drenched
 **Antonyms**: ignited, kindled, dried
+
+
+## Dwellings
+
+**Meaning**: Houses or other places where people live.
+**Usage**: "The villagers returned to their dwellings after the royal proclamation." - Dwellings are the homes where people reside.
+**Grammar**: Noun (plural of dwelling)
+**Synonyms**: homes, residences, abodes
+**Antonyms**: workplaces, public spaces, open land
 
 
 ## Exhaust
@@ -962,6 +1025,15 @@
 **Antonyms**: ally, friend, supporter
 
 
+## Foment
+
+**Meaning**: To stir up or encourage trouble, conflict, or rebellion.
+**Usage**: "The advisor tried to foment rebellion among the vassals." - The advisor encouraged unrest.
+**Grammar**: Verb
+**Synonyms**: incite, provoke, stir up
+**Antonyms**: calm, discourage, quell
+
+
 ## Formidable
 
 **Meaning**: Inspiring respect or fear because of great strength, power, or difficulty.
@@ -1005,6 +1077,15 @@
 **Grammar**: Verb (past tense, past participle)
 **Synonyms**: stationed, guarded, fortified
 **Antonyms**: abandoned, unguarded, exposed
+
+
+## Generosity
+
+**Meaning**: The quality of being willing to give, share, or help kindly.
+**Usage**: "The ruler's generosity toward the vassals strengthened their loyalty." - Kind giving can build trust.
+**Grammar**: Noun
+**Synonyms**: kindness, liberality, openhandedness
+**Antonyms**: selfishness, stinginess, greed
 
 
 ## Gesture
@@ -1221,6 +1302,15 @@
 **Grammar**: Adjective
 **Synonyms**: undetectable, subtle, indistinguishable
 **Antonyms**: perceptible, obvious, noticeable
+
+
+## Imperial
+
+**Meaning**: Relating to an empire or emperor; also grand or majestic.
+**Usage**: "The imperial throne stood beneath a grand canopy." - Imperial can describe something associated with an emperor or impressive in scale.
+**Grammar**: Adjective
+**Synonyms**: royal, emperor's, majestic
+**Antonyms**: ordinary, humble, nonroyal
 
 
 ## Implicated
@@ -1754,6 +1844,15 @@
 **Antonyms**: anxiety, concern, agitation
 
 
+## Nonetheless
+
+**Meaning**: Despite what was just said or done; however, still.
+**Usage**: "The claim was disputed; nonetheless, the ruler bestowed the honor." - The action happened despite the dispute.
+**Grammar**: Adverb
+**Synonyms**: nevertheless, still, however
+**Antonyms**: therefore, consequently, accordingly
+
+
 ## Nuance
 
 **Meaning**: A small or subtle difference in meaning, feeling, or expression.
@@ -1815,6 +1914,15 @@
 **Grammar**: Noun
 **Synonyms**: grove, fruit farm, plantation
 **Antonyms**: barren land, wasteland
+
+
+## Ought
+
+**Meaning**: Should or be morally or practically expected to do something.
+**Usage**: "A ruler ought to treat the vassals fairly." - Ought expresses a duty or sensible course of action.
+**Grammar**: Modal verb
+**Synonyms**: should, must, be expected to
+**Antonyms**: should not, need not, be forbidden to
 
 
 ## Outcompeting
@@ -2063,7 +2171,7 @@
 ## Proclaimed
 
 **Meaning**: Announced officially or publicly
-**Usage**: "I used Proclaimed in a sentence today to improve my vocabulary." - Practice sentence for daily speaking and writing.
+**Usage**: "The ruler proclaimed the heir's rise to the throne." - This past-tense form of Proclaim is revisited on 05-Sep.
 **Grammar**: Verb (past tense of proclaim)
 **Synonyms**: declared, announced, pronounced
 **Antonyms**: concealed, denied, retracted
@@ -2580,6 +2688,15 @@
 **Antonyms**: plainness, simplicity, ordinariness
 
 
+## Splintered
+
+**Meaning**: Broke into small, sharp pieces; also divided into separate groups.
+**Usage**: "The old wooden throne splintered during the conflict." - It broke into sharp fragments.
+**Grammar**: Verb (past tense and past participle of splinter), adjective
+**Synonyms**: shattered, fragmented, divided
+**Antonyms**: united, joined, intact
+
+
 ## Spurious
 
 **Meaning**: Not genuine, authentic, or true; false but made to appear real.
@@ -2796,6 +2913,15 @@
 **Antonyms**: steady, resist, stabilize
 
 
+## Swoop
+
+**Meaning**: To dive or descend suddenly, often to attack or grab something.
+**Usage**: "The eagle swooped down to seize its prey." - It dived suddenly from above.
+**Grammar**: Verb, noun
+**Synonyms**: dive, plunge, pounce
+**Antonyms**: rise, ascend, retreat
+
+
 ## Tangles
 
 **Meaning**: Twists together in a messy way; also, complicated problems.
@@ -2812,6 +2938,24 @@
 **Grammar**: Noun, verb (present participle)
 **Synonyms**: leather curing, sunbathing, bronzing
 **Antonyms**: paling, untanned skin, rawhide state
+
+
+## Tendered
+
+**Meaning**: Offered or formally presented something.
+**Usage**: "The envoy tendered the ruler a formal offer of peace." - The envoy presented the offer formally.
+**Grammar**: Verb (past tense and past participle of tender)
+**Synonyms**: offered, presented, submitted
+**Antonyms**: withdrew, withheld, refused
+
+
+## Throne
+
+**Meaning**: A ceremonial seat for a king or queen; also, royal power or authority.
+**Usage**: "The heir ascended the throne after the ruler's proclamation." - Throne can refer to both the monarch's seat and the power of kingship.
+**Grammar**: Noun
+**Synonyms**: royal seat, kingship, sovereignty
+**Antonyms**: common seat, subordination, loss of power
 
 
 ## Tightrope
@@ -2983,6 +3127,15 @@
 **Grammar**: Noun
 **Synonyms**: revenge, retaliation, retribution, payback
 **Antonyms**: forgiveness, mercy, reconciliation, pardon
+
+
+## Vassals
+
+**Meaning**: People who served a lord or king and owed them loyalty.
+**Usage**: "The king's vassals gathered to hear the new proclamation." - Vassals served and remained loyal to their ruler.
+**Grammar**: Noun (plural of vassal)
+**Synonyms**: retainers, subjects, liegemen
+**Antonyms**: overlords, rulers, sovereigns
 
 
 ## Victorious
