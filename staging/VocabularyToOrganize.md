@@ -171,6 +171,15 @@
 **Antonyms**: repel, enlighten, disillusion
 
 
+## Benefactor
+
+**Meaning**: A person who gives help, support, or money to someone or something.
+**Usage**: "A benefactor offered the fugitive a safe place to hide." - A benefactor provides help, including in the 09-Aug-2026 Escape / Predicament theme.
+**Grammar**: Noun
+**Synonyms**: donor, supporter, patron, helper
+**Antonyms**: opponent, detractor, adversary
+
+
 ## Betray
 
 **Meaning**: To cheat someone, break trust, or give away a secret.
@@ -2116,7 +2125,7 @@
 ## Pursuers
 
 **Meaning**: People who chase or follow someone in order to catch them.
-**Usage**: "The fugitives hid while their pursuers searched the building." - Pursuers are the people chasing someone in the 09-Aug-2026 Escape / Predicament theme.
+**Usage**: "The fugitives hid while their pursuers searched the building." - The 09-Aug-2026 Escape / Predicament theme continues the 08-Aug Intriguers sequence: Pursuers -> Predicament -> Brandishing a pike -> Eject.
 **Grammar**: Noun (plural of pursuer)
 **Synonyms**: chasers, trackers, hunters
 **Antonyms**: fugitives, escapees, those being pursued
