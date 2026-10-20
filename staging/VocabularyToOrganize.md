@@ -81,6 +81,15 @@
 **Antonyms**: irrationality, illogic, fallacy
 
 
+## Ascendancy
+
+**Meaning**: A position of growing power, influence, or control over others.
+**Usage**: "The young ruler's ascendancy began when the nobles chose him as their leader." - Ascendancy describes a rise to a position of dominance.
+**Grammar**: Noun
+**Synonyms**: dominance, supremacy, influence
+**Antonyms**: decline, subordination, weakness
+
+
 ## Ascending
 
 **Meaning**: Going up, rising, or moving to a higher position.
@@ -351,6 +360,15 @@
 **Antonyms**: reluctant, hesitant, apathetic
 
 
+## Chaps
+
+**Meaning**: Informal plural of chap, meaning men or guys.
+**Usage**: "The chaps gathered outside the station after work." - Chaps is an informal way to refer to a group of men.
+**Grammar**: Plural noun; singular: chap; informal
+**Synonyms**: guys, men, fellows
+**Antonyms**: N/A (no direct antonym)
+
+
 ## Charmed
 
 **Meaning**: Delighted, attracted, feeling lucky / magical.
@@ -520,6 +538,15 @@
 **Grammar**: Adjective
 **Synonyms**: rough, crude, unrefined
 **Antonyms**: smooth, refined, polished
+
+
+## Coincidence
+
+**Meaning**: An occurrence of two or more events at the same time or place by chance.
+**Usage**: "Meeting my old friend at the station was a coincidence." - The meeting happened by chance rather than by plan.
+**Grammar**: Noun
+**Synonyms**: chance, happenstance, accidental occurrence
+**Antonyms**: design, intention, plan
 
 
 ## Combat
@@ -900,6 +927,15 @@
 **Antonyms**: strengthen, empower, fortify, invigorate
 
 
+## Emblem
+
+**Meaning**: A symbol or design that represents an idea, group, or organization.
+**Usage**: "The dove became an emblem of peace." - The dove stood for the idea of peace.
+**Grammar**: Noun
+**Synonyms**: symbol, badge, insignia
+**Antonyms**: N/A (no direct antonym)
+
+
 ## Emerge
 
 **Meaning**: To come out, appear, or become known.
@@ -925,6 +961,15 @@
 **Grammar**: Adjective
 **Synonyms**: forceful, assertive, unequivocal
 **Antonyms**: weak, tentative, ambiguous
+
+
+## Empirical
+
+**Meaning**: Based on observation or experiment rather than theory alone.
+**Usage**: "The researcher used empirical evidence from repeated experiments." - The conclusion was based on observed results.
+**Grammar**: Adjective
+**Synonyms**: evidence-based, observational, experimental
+**Antonyms**: theoretical, speculative, conjectural
 
 
 ## Empirically
@@ -978,6 +1023,15 @@
 **Grammar**: Verb
 **Synonyms**: crown, install, seat
 **Antonyms**: depose, dethrone, remove
+
+
+## Enthronement
+
+**Meaning**: The ceremony or act of placing someone on a throne as a ruler.
+**Usage**: "The city held a ceremony for the new ruler's enthronement." - The ceremony formally marked the ruler's accession.
+**Grammar**: Noun
+**Synonyms**: coronation, accession, installation
+**Antonyms**: deposition, dethronement, removal
 
 
 ## Eradicate
@@ -1106,6 +1160,15 @@
 **Antonyms**: N/A (organization name)
 
 
+## Gadget
+
+**Meaning**: A small, useful device or tool, often designed for a particular purpose.
+**Usage**: "She used a small gadget to open the jar." - The gadget was a handy tool for a specific task.
+**Grammar**: Noun
+**Synonyms**: device, tool, contraption
+**Antonyms**: N/A (no direct antonym)
+
+
 ## Garrisoned
 
 **Meaning**: Stationed soldiers or guards in a place to protect it; fortified or guarded.
@@ -1203,6 +1266,15 @@
 **Grammar**: Noun phrase
 **Synonyms**: cognitive bias, spillover effect, positive bias
 **Antonyms**: horn effect, neutral judgment, objective assessment
+
+
+## Harmonised
+
+**Meaning**: Brought into agreement or made to work well together; British spelling of harmonized.
+**Usage**: "The two schedules were harmonised to avoid conflicts." - The schedules were adjusted to fit together.
+**Grammar**: Verb (past tense and past participle of harmonise); also used as an adjective
+**Synonyms**: aligned, coordinated, reconciled
+**Antonyms**: conflicted, clashed, disagreed
 
 
 ## Harshly
@@ -1745,6 +1817,15 @@
 **Antonyms**: blunder, misstep, clumsy move
 
 
+## Manifestations
+
+**Meaning**: Visible signs, forms, or expressions of something; plural of manifestation.
+**Usage**: "The symptoms were early manifestations of the illness." - The symptoms were visible signs that the illness was developing.
+**Grammar**: Plural noun; singular: manifestation
+**Synonyms**: signs, expressions, indications
+**Antonyms**: absence, concealment, invisibility
+
+
 ## Mantle
 
 **Meaning**: 1. A cloak or covering. 2. A role or responsibility someone takes on. 3. In geology, the Earth layer between crust and core.
@@ -2013,6 +2094,15 @@
 **Grammar**: Noun
 **Synonyms**: nationalist, loyalist, citizen
 **Antonyms**: traitor, disloyalist, enemy
+
+
+## Patronage
+
+**Meaning**: Support or funding given by a patron; also, the practice of giving jobs or favors to supporters.
+**Usage**: "The politician was criticized for distributing public jobs through patronage." - In this sense, patronage means rewarding supporters with positions or favors.
+**Grammar**: Noun
+**Synonyms**: sponsorship, backing, favoritism
+**Antonyms**: opposition, neglect, merit-based appointment
 
 
 ## Pauper
@@ -3217,6 +3307,15 @@
 **Grammar**: Verb (past tense and past participle of utter)
 **Synonyms**: said, spoke, expressed
 **Antonyms**: concealed, withheld, silenced
+
+
+## Vagaries
+
+**Meaning**: Unpredictable changes or unexpected events; plural of vagary.
+**Usage**: "The hikers adapted to the vagaries of the weather." - Vagaries are the unpredictable changes in conditions.
+**Grammar**: Plural noun; singular: vagary
+**Synonyms**: fluctuations, whims, unpredictabilities
+**Antonyms**: stability, regularity, predictability
 
 
 ## Vengeance
