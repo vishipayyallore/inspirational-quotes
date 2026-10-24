@@ -109,7 +109,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Feedback Is a Gift** → Even the harshest feedback can teach you something valuable. Seek it out. - Anonymous
 > 1. **You are Always Replaceable** → Focus on making an impact, not being irreplaceable. Impact builds a legacy. - Anonymous
 > 1. **Perfection Slows You Down** → Aim for progress, not perfection. Done is better than perfect. - Anonymous
-> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous - **Here**
+> 1. **Career Progress Is Not Linear** → Side steps, failures, and pivots often lead to the biggest wins. - Anonymous
 > 1. **No One Will Hand You Success** → Take ownership. Push for opportunities. No one’s going to care more about your career than you. - Anonymous
 > 1. **A great leader can make work amazing** → They inspire and motivate you every day. - Anonymous
 > 1. **But a big pay check can open doors too** → Financial security can be life-changing. - Anonymous
@@ -117,7 +117,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
-> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
+> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous - **Here**
 > 1. Results matter more than effort; advocate for your accomplishments.
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. Focus on developing skills, not clinging to job titles.
