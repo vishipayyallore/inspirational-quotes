@@ -117,6 +117,15 @@
 **Antonyms**: indifference, composure, calm
 
 
+## Astore
+
+**Meaning**: Unconfirmed proper noun; the intended reference may be the place Astore or the name Astorre, so its meaning needs confirmation.
+**Usage**: "Astore appears in the note, but its intended reference is unclear." - Records the uncertain term without assigning it an unsupported meaning.
+**Grammar**: Proper noun (intended reference unconfirmed)
+**Synonyms**: N/A
+**Antonyms**: N/A
+
+
 ## Astutely
 
 **Meaning**: In a clever, perceptive, and shrewd way.
@@ -1295,6 +1304,15 @@
 **Antonyms**: No direct antonym for the tool; quarrel, continue a feud (opposites of bury the hatchet)
 
 
+## Hauled
+
+**Meaning**: Pulled or dragged something with effort, often over a distance.
+**Usage**: "The workers hauled the supplies up the steep path." - Hauled describes pulling a heavy load with effort.
+**Grammar**: Verb (past tense and past participle of haul)
+**Synonyms**: dragged, pulled, towed
+**Antonyms**: pushed, released, let go
+
+
 ## Hay
 
 **Meaning**: Dried grass used as animal feed.
@@ -1401,6 +1419,15 @@
 **Grammar**: Adjective
 **Synonyms**: mesmerizing, captivating, entrancing
 **Antonyms**: distracting, dull, uninteresting
+
+
+## Inadvertently
+
+**Meaning**: Unintentionally or by mistake.
+**Usage**: "She inadvertently left the gate open while carrying the supplies." - The action happened without her intending it.
+**Grammar**: Adverb
+**Synonyms**: accidentally, unintentionally, unwittingly
+**Antonyms**: intentionally, deliberately, knowingly
 
 
 ## Impeded
@@ -1745,6 +1772,15 @@
 **Antonyms**: scarcity, shortage, depletion
 
 
+## Loftily
+
+**Meaning**: In a superior, arrogant, or haughty manner.
+**Usage**: "The adviser spoke loftily to the villagers, as if their concerns did not matter." - Loftily describes a dismissive, self-important manner.
+**Grammar**: Adverb
+**Synonyms**: arrogantly, haughtily, superciliously
+**Antonyms**: humbly, modestly, meekly
+
+
 ## Loiter
 
 **Meaning**: To stand around with no purpose.
@@ -1907,6 +1943,24 @@
 **Antonyms**: slow, gradual, stagnant
 
 
+## Misperception
+
+**Meaning**: A mistaken understanding or interpretation of something.
+**Usage**: "The rumor created a misperception about the ruler's decision." - The word describes an understanding that does not match the facts.
+**Grammar**: Noun
+**Synonyms**: misunderstanding, misconception, misinterpretation
+**Antonyms**: accurate understanding, insight, correct perception
+
+
+## Monstrously
+
+**Meaning**: To an extreme or shocking degree; also, in a hideous or cruel manner.
+**Usage**: "The neglected fortress was monstrously large and difficult to defend." - Here, monstrously emphasizes an extreme size.
+**Grammar**: Adverb
+**Synonyms**: terribly, hideously, outrageously
+**Antonyms**: mildly, pleasantly, kindly
+
+
 ## Mortality
 
 **Meaning**: The state of being subject to death; in statistics, the incidence of death within a population.
@@ -1979,6 +2033,15 @@
 **Antonyms**: therefore, consequently, accordingly
 
 
+## Notoriously
+
+**Meaning**: In a way that is widely known, especially for something bad or undesirable.
+**Usage**: "The notoriously cruel official lost the people's trust." - The adverb emphasizes that the cruelty was widely known.
+**Grammar**: Adverb
+**Synonyms**: infamously, disreputably, widely known for
+**Antonyms**: honorably, admirably, favorably
+
+
 ## Novices
 
 **Meaning**: Beginners or people who are new to a subject or activity.
@@ -2031,6 +2094,15 @@
 **Grammar**: Noun
 **Synonyms**: sycophancy, servility, fawning
 **Antonyms**: assertiveness, frankness, independence
+
+
+## Obsession
+
+**Meaning**: A persistent preoccupation with something that is difficult to stop thinking about.
+**Usage**: "His obsession with winning kept him from noticing the team's exhaustion." - The word describes a thought or interest that dominates someone's attention.
+**Grammar**: Noun
+**Synonyms**: fixation, preoccupation, compulsion
+**Antonyms**: indifference, detachment, unconcern
 
 
 ## Oppressive
@@ -3183,6 +3255,15 @@
 **Antonyms**: standstill, stagnation, immobility
 
 
+## Treason
+
+**Meaning**: Betrayal of one's country, ruler, or cause.
+**Usage**: "The adviser was accused of treason after secretly aiding the enemy." - Treason is a serious act of disloyalty to one's country or ruler.
+**Grammar**: Noun
+**Synonyms**: betrayal, treachery, disloyalty
+**Antonyms**: loyalty, allegiance, fidelity
+
+
 ## Trenches
 
 **Meaning**: Long narrow ditches; often for defense in war
@@ -3217,6 +3298,15 @@
 **Grammar**: Proper noun (abbreviation; media analytics term)
 **Synonyms**: audience rating, viewership metric, broadcast rating
 **Antonyms**: low viewership, poor ratings, audience drop
+
+
+## Trumped-up
+
+**Meaning**: Falsely invented or fabricated, especially when describing a charge or accusation.
+**Usage**: "The official faced trumped-up charges designed to silence his criticism." - The charges were made up rather than supported by facts.
+**Grammar**: Adjective
+**Synonyms**: fabricated, false, concocted
+**Antonyms**: genuine, truthful, substantiated
 
 
 ## Tugging
@@ -3316,6 +3406,33 @@
 **Grammar**: Plural noun; singular: vagary
 **Synonyms**: fluctuations, whims, unpredictabilities
 **Antonyms**: stability, regularity, predictability
+
+
+## Vain
+
+**Meaning**: Excessively proud of one's appearance or achievements; also, unsuccessful or without useful result.
+**Usage**: "She tried in vain to persuade the council to change its decision." - In this use, vain means unsuccessful.
+**Grammar**: Adjective
+**Synonyms**: conceited, self-important; futile, fruitless
+**Antonyms**: humble, modest; effective, successful
+
+
+## Vanity
+
+**Meaning**: Excessive pride in one's appearance or achievements; also, the quality of being futile or pointless.
+**Usage**: "His vanity made him seek praise for every small achievement." - Here, vanity means excessive self-admiration.
+**Grammar**: Noun
+**Synonyms**: conceit, self-importance, pride; futility, pointlessness
+**Antonyms**: humility, modesty; usefulness, purpose
+
+
+## Vaunting
+
+**Meaning**: Boasting about or displaying one's achievements or qualities proudly.
+**Usage**: "The vaunting noble praised his own victories at every gathering." - Vaunting describes boastful self-praise.
+**Grammar**: Verb (present participle of vaunt); also used as an adjective
+**Synonyms**: boasting, bragging, self-promoting
+**Antonyms**: modest, humble, self-effacing
 
 
 ## Vengeance
