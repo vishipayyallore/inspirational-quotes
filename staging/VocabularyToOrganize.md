@@ -11,7 +11,7 @@
 
 ## Adore
 
-**Meaning**: Love deeply.
+**Meaning**: To love deeply or regard with deep admiration; to worship.
 **Usage**: "Many people adore leaders who combine strength with compassion." - Deep admiration often grows when power is exercised with care.
 **Grammar**: Verb
 **Synonyms**: love, cherish, admire, revere
@@ -52,6 +52,15 @@
 **Grammar**: Adjective, verb (past tense of amuse)
 **Synonyms**: entertained, entertained, delighted
 **Antonyms**: bored, annoyed, irritated
+
+
+## Amusement
+
+**Meaning**: Enjoyment or entertainment that makes something fun.
+**Usage**: "The jester's clever story brought amusement to the court." - Amusement is the enjoyment people feel when entertained.
+**Grammar**: Noun
+**Synonyms**: entertainment, fun, enjoyment, diversion
+**Antonyms**: boredom, tedium, dullness
 
 
 ## Anxiety
@@ -241,6 +250,15 @@
 **Grammar**: Noun
 **Synonyms**: donor, supporter, patron, helper
 **Antonyms**: opponent, detractor, adversary
+
+
+## Bestow
+
+**Meaning**: To give or present something, especially as an honor or gift.
+**Usage**: "The ruler chose to bestow a title on the loyal courtier." - The ruler granted the courtier an honor.
+**Grammar**: Verb; past tense and past participle: bestowed; present participle: bestowing.
+**Synonyms**: grant, award, confer, present
+**Antonyms**: withhold, deny, revoke
 
 
 ## Bestowed
@@ -810,6 +828,15 @@
 **Antonyms**: beneficial, successful, favorable
 
 
+## Dispenser
+
+**Meaning**: A person who gives out or distributes things.
+**Usage**: "The dispenser provided water to everyone waiting outside." - The dispenser gave water to a group of people.
+**Grammar**: Noun
+**Synonyms**: distributor, supplier, provider
+**Antonyms**: recipient, receiver
+
+
 ## Dissuade
 
 **Meaning**: To persuade someone not to do something.
@@ -1106,6 +1133,15 @@
 **Antonyms**: succeed, flourish, thrive
 
 
+## Flatter
+
+**Meaning**: To praise someone, often insincerely, to gain favor.
+**Usage**: "The courtier tried to flatter the ruler to gain favor." - The praise was intended to win approval.
+**Grammar**: Verb; past tense and past participle: flattered; present participle: flattering.
+**Synonyms**: praise, compliment, fawn on
+**Antonyms**: criticize, disparage, insult
+
+
 ## Fleece
 
 **Meaning**: 1. The wool of a sheep. 2. A soft, warm fabric. 3. As a verb, to cheat someone out of money.
@@ -1239,6 +1275,15 @@
 **Grammar**: Adjective
 **Synonyms**: magnificent, splendid, illustrious
 **Antonyms**: ordinary, poor, disgraceful
+
+
+## Godsend
+
+**Meaning**: An unexpectedly helpful person or thing; a welcome piece of good fortune.
+**Usage**: "Her neighbor's offer of help was a godsend during the move." - The unexpected help made a difficult task easier.
+**Grammar**: Noun
+**Synonyms**: blessing, boon, lifesaver
+**Antonyms**: misfortune, setback, burden
 
 
 ## Gouged
@@ -1709,6 +1754,15 @@
 **Antonyms**: protected, secured, safeguarded
 
 
+## Jester
+
+**Meaning**: A performer traditionally employed to entertain a royal court.
+**Usage**: "The jester entertained the court with jokes and stories." - A jester amused people at the ruler's court.
+**Grammar**: Noun
+**Synonyms**: entertainer, comedian, fool
+**Antonyms**: spectator, audience member
+
+
 ## Jockeying
 
 **Meaning**: Maneuvering for position or advantage
@@ -2006,6 +2060,15 @@
 **Antonyms**: clarify, organize, straighten
 
 
+## Naive
+
+**Meaning**: Inexperienced or too trusting, often because of limited knowledge or judgment.
+**Usage**: "The naive newcomer trusted every promise without checking the facts." - Inexperience made the newcomer too trusting.
+**Grammar**: Adjective
+**Synonyms**: innocent, inexperienced, trusting, gullible
+**Antonyms**: experienced, worldly, cautious, discerning
+
+
 ## Nicked
 
 **Meaning**: Cut or damaged slightly; also British slang for stolen
@@ -2069,6 +2132,15 @@
 **Antonyms**: N/A (a type of place)
 
 
+## Obscure
+
+**Meaning**: As a verb, to hide or make something unclear; as an adjective, not known or not easily understood.
+**Usage**: "A layer of dust can obscure the inscription." - The dust can make the writing difficult to see.
+**Grammar**: Verb and adjective
+**Synonyms**: hide, conceal, cloud; unknown, little-known
+**Antonyms**: reveal, clarify; famous, well-known
+
+
 ## Obscures
 
 **Meaning**: Hides, makes unclear, blocks view.
@@ -2105,6 +2177,15 @@
 **Antonyms**: indifference, detachment, unconcern
 
 
+## Obvious
+
+**Meaning**: Easy to see, recognize, or understand.
+**Usage**: "It was obvious from the open gate that someone had arrived." - The open gate made the arrival easy to notice.
+**Grammar**: Adjective
+**Synonyms**: clear, evident, apparent
+**Antonyms**: obscure, hidden, unclear
+
+
 ## Oppressive
 
 **Meaning**: Cruel, harsh, dominating, or heavily burdensome.
@@ -2139,6 +2220,15 @@
 **Grammar**: Verb, present participle or gerund of outcompete.
 **Synonyms**: outperforming, surpassing, beating
 **Antonyms**: underperforming, lagging behind, losing to
+
+
+## Overt
+
+**Meaning**: Open and not hidden or secret.
+**Usage**: "The disagreement was overt, so everyone in the room noticed it." - The disagreement was expressed openly.
+**Grammar**: Adjective
+**Synonyms**: open, public, apparent
+**Antonyms**: covert, hidden, secret
 
 
 ## Paradox
@@ -2464,6 +2554,15 @@
 **Antonyms**: reckless, imprudent, careless
 
 
+## Puff up
+
+**Meaning**: To inflate or make something swell; figuratively, to make someone proud or arrogant.
+**Usage**: "Constant praise can puff up a person's pride." - Excessive praise can make someone conceited.
+**Grammar**: Phrasal verb
+**Synonyms**: inflate, swell, make conceited
+**Antonyms**: deflate, humble
+
+
 ## Pursuers
 
 **Meaning**: People who chase or follow someone in order to catch them.
@@ -2489,6 +2588,15 @@
 **Grammar**: Verb (past tense of rally)
 **Synonyms**: united, recovered, regrouped
 **Antonyms**: scattered, weakened, surrendered
+
+
+## Rancor
+
+**Meaning**: Deep, lasting bitterness or resentment.
+**Usage**: "The advisers settled their disagreement without rancor." - They resolved the conflict without lasting bitterness.
+**Grammar**: Noun
+**Synonyms**: bitterness, resentment, animosity, hostility
+**Antonyms**: goodwill, forgiveness, amity
 
 
 ## Ravaged
@@ -3147,6 +3255,24 @@
 **Antonyms**: uncertain, unsteady, hesitant
 
 
+## Surly
+
+**Meaning**: Bad-tempered, rude, or unfriendly.
+**Usage**: "The surly guard answered the visitors with a frown." - The guard's manner was unfriendly.
+**Grammar**: Adjective
+**Synonyms**: gruff, irritable, unfriendly
+**Antonyms**: friendly, pleasant, amiable
+
+
+## Surpass
+
+**Meaning**: To go beyond or do better than someone or something.
+**Usage**: "With steady practice, she hoped to surpass her previous result." - She aimed to do better than before.
+**Grammar**: Verb
+**Synonyms**: exceed, outdo, outperform
+**Antonyms**: fall short, trail, underperform
+
+
 ## SVD
 
 **Meaning**: Singular Value Decomposition, a matrix factorization method where $A = U \Sigma V^T$.
@@ -3217,6 +3343,15 @@
 **Grammar**: Noun
 **Synonyms**: royal seat, kingship, sovereignty
 **Antonyms**: common seat, subordination, loss of power
+
+
+## Thrust
+
+**Meaning**: To push suddenly or forcefully; also, a forceful push forward.
+**Usage**: "She thrust the door open to reach the room." - She pushed the door with force.
+**Grammar**: Verb and noun; past tense: thrust; present participle: thrusting.
+**Synonyms**: push, shove, propel
+**Antonyms**: pull, withdraw, retreat
 
 
 ## Tightrope

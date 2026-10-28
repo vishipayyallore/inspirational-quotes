@@ -117,14 +117,14 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. **Your job affects your whole life** → Work influences happiness and well-being. - Anonymous
 > 1. **The right choice can make you happier and healthier** → Good leadership boosts morale and reduces stress. - Anonymous
 > 1. **It is okay if your priorities change over time** → Adapt as your needs and goals evolve. - Anonymous
-> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous - **Here**
+> 1. **Your boss could be the NUMBER 1 reason** → you stay or leave your job. - Anonymous
 > 1. Results matter more than effort; advocate for your accomplishments.
 > 1. Companies prioritize profits, not personal loyalty; prioritize your own career.
 > 1. Focus on developing skills, not clinging to job titles.
 > 1. Leaders are fallible; respectfully challenge when necessary.
 > 1. Networking is essential for career advancement.
 > 1. Prioritize your well-being and energy; avoid burnout.
-> 1. Growth occurs outside your comfort zone.
+> 1. Growth occurs outside your comfort zone. - **Here**
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. Prioritize progress over perfection; done is better than perfect.
