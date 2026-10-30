@@ -124,7 +124,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Leaders are fallible; respectfully challenge when necessary.
 > 1. Networking is essential for career advancement.
 > 1. Prioritize your well-being and energy; avoid burnout.
-> 1. Growth occurs outside your comfort zone. - **Here**
+> 1. Growth occurs outside your comfort zone.
 > 1. Feedback, even harsh feedback, offers valuable learning opportunities.
 > 1. Focus on making an impact, not on being irreplaceable.
 > 1. Prioritize progress over perfection; done is better than perfect.
@@ -132,7 +132,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Take ownership of your career; proactively pursue opportunities.
 > 1. Great leaders inspire and motivate.
 > 1. Prioritize what matters most to you at each stage of your life.
-> 1. Financial security can significantly improve your life.
+> 1. Financial security can significantly improve your life. - **Here**
 > 1. Your career significantly influences your overall well-being.
 > 1. The right career choice enhances happiness and health.
 > 1. Adapt your priorities as your needs and goals evolve.
