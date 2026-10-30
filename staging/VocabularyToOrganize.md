@@ -45,6 +45,15 @@
 **Antonyms**: intensifying, aggravating, worsening
 
 
+## Amenities
+
+**Meaning**: Useful facilities, services, or comforts provided in a place.
+**Usage**: "The hotel offers amenities such as a gym, a pool, and free Wi-Fi." - These facilities make a stay more comfortable.
+**Grammar**: Plural noun; singular: amenity
+**Synonyms**: facilities, comforts, conveniences
+**Antonyms**: inconveniences, hardships, deficiencies
+
+
 ## Amused
 
 **Meaning**: Found something funny or entertaining.
@@ -63,6 +72,15 @@
 **Antonyms**: boredom, tedium, dullness
 
 
+## Amusing
+
+**Meaning**: Funny, entertaining, or able to make someone smile or laugh.
+**Usage**: "The speaker shared an amusing story before beginning the lecture." - The story entertained the audience.
+**Grammar**: Adjective; also the present participle of amuse
+**Synonyms**: funny, entertaining, humorous
+**Antonyms**: boring, serious, tedious
+
+
 ## Anxiety
 
 **Meaning**: Worry, nervousness, or unease about something uncertain.
@@ -79,6 +97,15 @@
 **Grammar**: Adverb
 **Synonyms**: seemingly, evidently, it appears
 **Antonyms**: certainly, undoubtedly, plainly
+
+
+## Arbitrary
+
+**Meaning**: Based on personal choice or whim rather than a clear reason, rule, or system.
+**Usage**: "The researcher avoided arbitrary thresholds by explaining each selection." - Every choice was supported by a reason.
+**Grammar**: Adjective
+**Synonyms**: random, subjective, capricious
+**Antonyms**: reasoned, systematic, justified
 
 
 ## Argumentation
@@ -774,6 +801,15 @@
 **Antonyms**: realistic, clear-eyed, grounded
 
 
+## Denoising
+
+**Meaning**: The process of removing unwanted noise, errors, or interference to make information clearer.
+**Usage**: "Denoising the recording made the speaker's voice easier to understand." - Removing interference improved clarity.
+**Grammar**: Noun, gerund; present participle of denoise
+**Synonyms**: noise reduction, filtering, cleaning
+**Antonyms**: distortion, interference, noise addition
+
+
 ## Depose
 
 **Meaning**: To remove a ruler from power or from the throne.
@@ -864,6 +900,15 @@
 **Antonyms**: persuade, encourage, urge
 
 
+## Distracted
+
+**Meaning**: Unable to focus because attention has been drawn elsewhere.
+**Usage**: "She became distracted by repeated notifications while studying." - The interruptions pulled her attention away from her work.
+**Grammar**: Adjective; verb (past tense and past participle of distract)
+**Synonyms**: unfocused, inattentive, preoccupied
+**Antonyms**: focused, attentive, concentrated
+
+
 ## Distress
 
 **Meaning**: Extreme pain, sorrow, or danger.
@@ -925,6 +970,15 @@
 **Grammar**: Verb; past tense and past participle of douse; also used adjectivally.
 **Synonyms**: extinguished, soaked, drenched
 **Antonyms**: ignited, kindled, dried
+
+
+## Drew
+
+**Meaning**: The past tense of draw; sketched, pulled, attracted, or reached a conclusion.
+**Usage**: "The researcher drew a diagram and then drew a conclusion from the results." - Drew can describe making a picture or forming a conclusion.
+**Grammar**: Verb (past tense of draw)
+**Synonyms**: sketched, pulled, attracted
+**Antonyms**: erased, pushed, repelled
 
 
 ## Dwellings
@@ -1502,6 +1556,15 @@
 **Antonyms**: certainty, proof, verification
 
 
+## Hype
+
+**Meaning**: Intense publicity or exaggerated promotion intended to create excitement or interest.
+**Usage**: "The product received more hype than its actual performance justified." - Promotion created expectations beyond the evidence.
+**Grammar**: Noun, verb
+**Synonyms**: publicity, promotion, exaggeration
+**Antonyms**: understatement, restraint, realism
+
+
 ## Hypnotic
 
 **Meaning**: Like hypnosis; holding attention so strongly that it is difficult to look away.
@@ -1851,6 +1914,15 @@
 **Grammar**: Verb (past tense and past participle of latch); adjective
 **Synonyms**: fastened, secured, closed
 **Antonyms**: unlatched, opened, released
+
+
+## Leap
+
+**Meaning**: To jump or make a large, sudden movement or advance; also, such a jump or advance.
+**Usage**: "The discovery marked a major leap forward in the research." - It represented sudden and significant progress.
+**Grammar**: Verb, noun
+**Synonyms**: jump, bound, advance
+**Antonyms**: fall, retreat, decline
 
 
 ## Lexis
@@ -2742,6 +2814,15 @@
 **Antonyms**: weaken, decline, deteriorate
 
 
+## Reframed
+
+**Meaning**: Presented or considered something from a new perspective.
+**Usage**: "The teacher reframed the failure as an opportunity to learn." - A different perspective changed how the experience was understood.
+**Grammar**: Verb (past tense and past participle of reframe)
+**Synonyms**: reinterpreted, repositioned, reconsidered
+**Antonyms**: preserved, maintained, left unchanged
+
+
 ## Reign
 
 **Meaning**: To rule as a king, queen, or other sovereign; also, the period during which a ruler governs.
@@ -2875,6 +2956,15 @@
 **Grammar**: Verb
 **Synonyms**: restore, renew, resuscitate, restart
 **Antonyms**: extinguish, suppress, weaken, end
+
+
+## Rigorous
+
+**Meaning**: Extremely thorough, careful, precise, and strict.
+**Usage**: "The study used a rigorous method to test every claim." - Careful procedures made the findings more reliable.
+**Grammar**: Adjective
+**Synonyms**: thorough, strict, exacting
+**Antonyms**: careless, lax, superficial
 
 
 ## Rival
@@ -3480,6 +3570,15 @@
 **Antonyms**: safe route, certainty, stability
 
 
+## Tolerant
+
+**Meaning**: Willing to accept different views, behaviors, or conditions with patience and fairness.
+**Usage**: "A tolerant discussion allows people to disagree without disrespect." - Acceptance makes constructive dialogue possible.
+**Grammar**: Adjective
+**Synonyms**: accepting, patient, open-minded
+**Antonyms**: intolerant, impatient, prejudiced
+
+
 ## Topple
 
 **Meaning**: Fall over or cause to fall over; overthrow
@@ -3577,6 +3676,15 @@
 **Grammar**: Noun
 **Synonyms**: chaos, upheaval, disorder
 **Antonyms**: calm, order, stability
+
+
+## Tweet
+
+**Meaning**: A short message posted on the social platform formerly called Twitter, now X; also, a short, high bird sound.
+**Usage**: "She shared the announcement in a tweet." - The message was published as a short social-media post.
+**Grammar**: Noun, verb
+**Synonyms**: post, chirp, message
+**Antonyms**: silence, deletion, suppression
 
 
 ## Twitch
