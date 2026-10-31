@@ -45,6 +45,15 @@
 **Antonyms**: intensifying, aggravating, worsening
 
 
+## Amenities
+
+**Meaning**: Useful facilities, services, or comforts provided in a place.
+**Usage**: "The hotel offers amenities such as a gym, a pool, and free Wi-Fi." - These facilities make a stay more comfortable.
+**Grammar**: Plural noun; singular: amenity
+**Synonyms**: facilities, comforts, conveniences
+**Antonyms**: inconveniences, hardships, deficiencies
+
+
 ## Amused
 
 **Meaning**: Found something funny or entertaining.
@@ -63,6 +72,15 @@
 **Antonyms**: boredom, tedium, dullness
 
 
+## Amusing
+
+**Meaning**: Funny, entertaining, or able to make someone smile or laugh.
+**Usage**: "The speaker shared an amusing story before beginning the lecture." - The story entertained the audience.
+**Grammar**: Adjective; also the present participle of amuse
+**Synonyms**: funny, entertaining, humorous
+**Antonyms**: boring, serious, tedious
+
+
 ## Anxiety
 
 **Meaning**: Worry, nervousness, or unease about something uncertain.
@@ -79,6 +97,15 @@
 **Grammar**: Adverb
 **Synonyms**: seemingly, evidently, it appears
 **Antonyms**: certainly, undoubtedly, plainly
+
+
+## Arbitrary
+
+**Meaning**: Based on personal choice or whim rather than a clear reason, rule, or system.
+**Usage**: "The researcher avoided arbitrary thresholds by explaining each selection." - Every choice was supported by a reason.
+**Grammar**: Adjective
+**Synonyms**: random, subjective, capricious
+**Antonyms**: reasoned, systematic, justified
 
 
 ## Argumentation
@@ -277,6 +304,15 @@
 **Grammar**: Verb
 **Synonyms**: deceive, cheat, violate trust, divulge
 **Antonyms**: honor, trust, protect, keep secret
+
+
+## Bid
+
+**Meaning**: An offer, an attempt to achieve something, or a command; also, to offer a price or make an attempt.
+**Usage**: "The prince made a bid for the throne." - His bid was an attempt to gain power.
+**Grammar**: Noun, verb
+**Synonyms**: offer, attempt, command
+**Antonyms**: refusal, withdrawal, surrender
 
 
 ## Bloodies
@@ -765,6 +801,15 @@
 **Antonyms**: realistic, clear-eyed, grounded
 
 
+## Denoising
+
+**Meaning**: The process of removing unwanted noise, errors, or interference to make information clearer.
+**Usage**: "Denoising the recording made the speaker's voice easier to understand." - Removing interference improved clarity.
+**Grammar**: Noun, gerund; present participle of denoise
+**Synonyms**: noise reduction, filtering, cleaning
+**Antonyms**: distortion, interference, noise addition
+
+
 ## Depose
 
 **Meaning**: To remove a ruler from power or from the throne.
@@ -828,6 +873,15 @@
 **Antonyms**: beneficial, successful, favorable
 
 
+## Discreetly
+
+**Meaning**: In a careful, quiet, or private way that avoids attracting attention.
+**Usage**: "The messenger discreetly delivered the warning to the queen." - He acted quietly so others would not notice.
+**Grammar**: Adverb
+**Synonyms**: quietly, privately, tactfully
+**Antonyms**: openly, conspicuously, indiscreetly
+
+
 ## Dispenser
 
 **Meaning**: A person who gives out or distributes things.
@@ -844,6 +898,15 @@
 **Grammar**: Verb
 **Synonyms**: deter, discourage, disincline
 **Antonyms**: persuade, encourage, urge
+
+
+## Distracted
+
+**Meaning**: Unable to focus because attention has been drawn elsewhere.
+**Usage**: "She became distracted by repeated notifications while studying." - The interruptions pulled her attention away from her work.
+**Grammar**: Adjective; verb (past tense and past participle of distract)
+**Synonyms**: unfocused, inattentive, preoccupied
+**Antonyms**: focused, attentive, concentrated
 
 
 ## Distress
@@ -907,6 +970,15 @@
 **Grammar**: Verb; past tense and past participle of douse; also used adjectivally.
 **Synonyms**: extinguished, soaked, drenched
 **Antonyms**: ignited, kindled, dried
+
+
+## Drew
+
+**Meaning**: The past tense of draw; sketched, pulled, attracted, or reached a conclusion.
+**Usage**: "The researcher drew a diagram and then drew a conclusion from the results." - Drew can describe making a picture or forming a conclusion.
+**Grammar**: Verb (past tense of draw)
+**Synonyms**: sketched, pulled, attracted
+**Antonyms**: erased, pushed, repelled
 
 
 ## Dwellings
@@ -1097,6 +1169,15 @@
 **Antonyms**: hopeful, proactive, optimistic
 
 
+## Feeble
+
+**Meaning**: Weak and lacking physical strength, force, or effectiveness.
+**Usage**: "The exhausted soldier made a feeble attempt to lift the gate." - His effort lacked enough strength to succeed.
+**Grammar**: Adjective
+**Synonyms**: weak, frail, ineffective
+**Antonyms**: strong, robust, powerful
+
+
 ## Feign
 
 **Meaning**: To pretend or fake an emotion, action, or condition.
@@ -1223,6 +1304,15 @@
 **Antonyms**: abandoned, unguarded, exposed
 
 
+## Gauche
+
+**Meaning**: Socially awkward, clumsy, or lacking grace and sophistication.
+**Usage**: "His gauche interruption embarrassed everyone at the formal banquet." - The interruption showed poor social judgment.
+**Grammar**: Adjective
+**Synonyms**: awkward, clumsy, unsophisticated
+**Antonyms**: graceful, polished, sophisticated
+
+
 ## Generosity
 
 **Meaning**: The quality of being willing to give, share, or help kindly.
@@ -1340,6 +1430,15 @@
 **Antonyms**: gently, kindly, mildly
 
 
+## Hasten
+
+**Meaning**: To make something happen sooner or to move more quickly.
+**Usage**: "The warning hastened the guards' return to the citadel." - It caused them to hurry back.
+**Grammar**: Verb
+**Synonyms**: hurry, accelerate, expedite
+**Antonyms**: delay, slow, hinder
+
+
 ## Hatchet
 
 **Meaning**: Small axe. Phrase "bury the hatchet" = make peace.
@@ -1455,6 +1554,15 @@
 **Grammar**: Noun, verb
 **Synonyms**: intuition, inkling, suspicion
 **Antonyms**: certainty, proof, verification
+
+
+## Hype
+
+**Meaning**: Intense publicity or exaggerated promotion intended to create excitement or interest.
+**Usage**: "The product received more hype than its actual performance justified." - Promotion created expectations beyond the evidence.
+**Grammar**: Noun, verb
+**Synonyms**: publicity, promotion, exaggeration
+**Antonyms**: understatement, restraint, realism
 
 
 ## Hypnotic
@@ -1799,6 +1907,24 @@
 **Antonyms**: celebrates, rejoices, praises
 
 
+## Latched
+
+**Meaning**: Fastened or closed with a latch; also, attached firmly to something.
+**Usage**: "The guard checked that the palace gate was securely latched." - The gate was fastened shut.
+**Grammar**: Verb (past tense and past participle of latch); adjective
+**Synonyms**: fastened, secured, closed
+**Antonyms**: unlatched, opened, released
+
+
+## Leap
+
+**Meaning**: To jump or make a large, sudden movement or advance; also, such a jump or advance.
+**Usage**: "The discovery marked a major leap forward in the research." - It represented sudden and significant progress.
+**Grammar**: Verb, noun
+**Synonyms**: jump, bound, advance
+**Antonyms**: fall, retreat, decline
+
+
 ## Lexis
 
 **Meaning**: The total set of words in a language
@@ -1977,6 +2103,15 @@
 **Grammar**: Noun
 **Synonyms**: fear of large objects, fear of large things
 **Antonyms**: fearlessness, confidence, composure
+
+
+## Merciful
+
+**Meaning**: Showing mercy, kindness, or forgiveness toward someone.
+**Usage**: "The merciful ruler forgave the repentant prisoner." - The ruler chose compassion instead of harsh punishment.
+**Grammar**: Adjective
+**Synonyms**: compassionate, forgiving, lenient
+**Antonyms**: cruel, merciless, unforgiving
 
 
 ## Metaphor
@@ -2186,6 +2321,15 @@
 **Antonyms**: obscure, hidden, unclear
 
 
+## Odious
+
+**Meaning**: Extremely unpleasant, hateful, or deserving strong dislike.
+**Usage**: "The people rejected the minister's odious cruelty." - His hateful behavior caused intense disgust.
+**Grammar**: Adjective
+**Synonyms**: hateful, disgusting, repulsive
+**Antonyms**: pleasant, admirable, delightful
+
+
 ## Oppressive
 
 **Meaning**: Cruel, harsh, dominating, or heavily burdensome.
@@ -2213,6 +2357,15 @@
 **Antonyms**: should not, need not, be forbidden to
 
 
+## Outcharm
+
+**Meaning**: To be more charming or appealing than another person.
+**Usage**: "The young courtier tried to outcharm every rival at the banquet." - He attempted to win more admiration than the others.
+**Grammar**: Verb
+**Synonyms**: captivate more, surpass in charm, overshadow
+**Antonyms**: repel, alienate, be outcharmed
+
+
 ## Outcompeting
 
 **Meaning**: Doing better than rivals or gaining an advantage over competitors.
@@ -2220,6 +2373,24 @@
 **Grammar**: Verb, present participle or gerund of outcompete.
 **Synonyms**: outperforming, surpassing, beating
 **Antonyms**: underperforming, lagging behind, losing to
+
+
+## Outdo
+
+**Meaning**: To perform better than or surpass someone or something.
+**Usage**: "Each contender tried to outdo the others with a stronger proposal." - They competed to perform better than their rivals.
+**Grammar**: Verb
+**Synonyms**: surpass, outperform, exceed
+**Antonyms**: underperform, trail, fall short
+
+
+## Outsmart
+
+**Meaning**: To defeat or gain an advantage over someone by being cleverer.
+**Usage**: "The hero outsmarted the villain by anticipating the trap." - Clever planning allowed the hero to win.
+**Grammar**: Verb
+**Synonyms**: outwit, outthink, deceive
+**Antonyms**: be outwitted, be deceived, misjudge
 
 
 ## Overt
@@ -2643,6 +2814,15 @@
 **Antonyms**: weaken, decline, deteriorate
 
 
+## Reframed
+
+**Meaning**: Presented or considered something from a new perspective.
+**Usage**: "The teacher reframed the failure as an opportunity to learn." - A different perspective changed how the experience was understood.
+**Grammar**: Verb (past tense and past participle of reframe)
+**Synonyms**: reinterpreted, repositioned, reconsidered
+**Antonyms**: preserved, maintained, left unchanged
+
+
 ## Reign
 
 **Meaning**: To rule as a king, queen, or other sovereign; also, the period during which a ruler governs.
@@ -2778,6 +2958,15 @@
 **Antonyms**: extinguish, suppress, weaken, end
 
 
+## Rigorous
+
+**Meaning**: Extremely thorough, careful, precise, and strict.
+**Usage**: "The study used a rigorous method to test every claim." - Careful procedures made the findings more reliable.
+**Grammar**: Adjective
+**Synonyms**: thorough, strict, exacting
+**Antonyms**: careless, lax, superficial
+
+
 ## Rival
 
 **Meaning**: A person/company competing with another
@@ -2866,6 +3055,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: rush, hurry, jostle
 **Antonyms**: organize, relax, proceed calmly
+
+
+## Scruples
+
+**Meaning**: Moral doubts or principles that make someone hesitate to do something wrong.
+**Usage**: "Her scruples prevented her from joining the dishonest scheme." - Her conscience stopped her from acting unethically.
+**Grammar**: Plural noun; singular: scruple
+**Synonyms**: conscience, principles, moral doubts
+**Antonyms**: unscrupulousness, amorality, disregard
 
 
 ## Scurried
@@ -3019,6 +3217,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: glitter, shine, twinkle
 **Antonyms**: dullness, dimness, fade
+
+
+## Spiteful
+
+**Meaning**: Wanting to hurt, upset, or offend someone because of anger or resentment.
+**Usage**: "The spiteful courtier spread a cruel rumor after losing favor." - Resentment motivated the attempt to cause harm.
+**Grammar**: Adjective
+**Synonyms**: malicious, vindictive, mean
+**Antonyms**: kind, forgiving, benevolent
 
 
 ## Splendid
@@ -3363,6 +3570,15 @@
 **Antonyms**: safe route, certainty, stability
 
 
+## Tolerant
+
+**Meaning**: Willing to accept different views, behaviors, or conditions with patience and fairness.
+**Usage**: "A tolerant discussion allows people to disagree without disrespect." - Acceptance makes constructive dialogue possible.
+**Grammar**: Adjective
+**Synonyms**: accepting, patient, open-minded
+**Antonyms**: intolerant, impatient, prejudiced
+
+
 ## Topple
 
 **Meaning**: Fall over or cause to fall over; overthrow
@@ -3460,6 +3676,15 @@
 **Grammar**: Noun
 **Synonyms**: chaos, upheaval, disorder
 **Antonyms**: calm, order, stability
+
+
+## Tweet
+
+**Meaning**: A short message posted on the social platform formerly called Twitter, now X; also, a short, high bird sound.
+**Usage**: "She shared the announcement in a tweet." - The message was published as a short social-media post.
+**Grammar**: Noun, verb
+**Synonyms**: post, chirp, message
+**Antonyms**: silence, deletion, suppression
 
 
 ## Twitch
