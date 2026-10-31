@@ -132,7 +132,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Take ownership of your career; proactively pursue opportunities.
 > 1. Great leaders inspire and motivate.
 > 1. Prioritize what matters most to you at each stage of your life.
-> 1. Financial security can significantly improve your life. - **Here**
+> 1. Financial security can significantly improve your life.
 > 1. Your career significantly influences your overall well-being.
 > 1. The right career choice enhances happiness and health.
 > 1. Adapt your priorities as your needs and goals evolve.
@@ -142,7 +142,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
-> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra - **Here**
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra

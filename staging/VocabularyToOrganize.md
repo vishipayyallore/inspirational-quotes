@@ -54,6 +54,15 @@
 **Antonyms**: inconveniences, hardships, deficiencies
 
 
+## Annihilate
+
+**Meaning**: To destroy completely or wipe out.
+**Usage**: "The fire threatened to annihilate the old library." - Annihilate means to destroy something entirely.
+**Grammar**: Verb
+**Synonyms**: destroy, obliterate, eliminate
+**Antonyms**: preserve, protect, create
+
+
 ## Amused
 
 **Meaning**: Found something funny or entertaining.
@@ -432,6 +441,15 @@
 **Antonyms**: N/A (no direct antonym)
 
 
+## Charlatan
+
+**Meaning**: A person who falsely claims to have special knowledge or skill; a fraud.
+**Usage**: "The charlatan claimed to be an expert but could not support his advice." - A charlatan pretends to have expertise.
+**Grammar**: Noun
+**Synonyms**: fraud, impostor, quack
+**Antonyms**: expert, professional, authority
+
+
 ## Charmed
 
 **Meaning**: Delighted, attracted, feeling lucky / magical.
@@ -756,6 +774,24 @@
 **Antonyms**: secure, fasten, hold
 
 
+## Dazzled
+
+**Meaning**: Blinded by a bright light or brilliance; strongly impressed.
+**Usage**: "The visitors were dazzled by the palace's golden hall." - Dazzled can describe being overwhelmed by beauty or brightness.
+**Grammar**: Adjective; verb (past tense and past participle of dazzle)
+**Synonyms**: impressed, amazed, bedazzled
+**Antonyms**: unimpressed, unaffected, underwhelmed
+
+
+## Deceiver
+
+**Meaning**: A person who cheats, lies, or misleads others.
+**Usage**: "The deceiver hid the truth to gain the court's trust." - A deceiver deliberately misleads people.
+**Grammar**: Noun
+**Synonyms**: liar, trickster, fraud
+**Antonyms**: truth-teller, honest person, trustworthy person
+
+
 ## Deception
 
 **Meaning**: The act of tricking, lying, or misleading someone.
@@ -1042,6 +1078,15 @@
 **Grammar**: Noun
 **Synonyms**: symbol, badge, insignia
 **Antonyms**: N/A (no direct antonym)
+
+
+## Embrace
+
+**Meaning**: To hug someone; to accept or welcome something willingly.
+**Usage**: "She embraced the visitor and welcomed his proposal." - Embrace can mean to hug or to accept an idea willingly.
+**Grammar**: Verb, noun
+**Synonyms**: hug, accept, welcome
+**Antonyms**: reject, refuse, repel
 
 
 ## Emerge
@@ -1493,15 +1538,6 @@
 **Antonyms**: N/A (bird name)
 
 
-## Herrings
-
-**Meaning**: Red herrings; things that mislead or distract from the real issue.
-**Usage**: "That outlier was a red herring; the real bug was leakage." - A distracting clue can hide the true cause of a problem.
-**Grammar**: Noun (plural)
-**Synonyms**: distractions, decoys, misdirections
-**Antonyms**: evidence, clues, revelations
-
-
 ## Heuristics
 
 **Meaning**: Practical problem-solving methods using experience, not perfect rules. Shortcuts to find good solutions fast. (In ML: Rules of thumb to guide search/optimization.)
@@ -1572,6 +1608,15 @@
 **Grammar**: Adjective
 **Synonyms**: mesmerizing, captivating, entrancing
 **Antonyms**: distracting, dull, uninteresting
+
+
+## Hypocrite
+
+**Meaning**: A person who claims to have certain beliefs or virtues but acts contrary to them.
+**Usage**: "The hypocrite preached honesty while secretly telling lies." - A hypocrite's actions contradict their stated principles.
+**Grammar**: Noun
+**Synonyms**: pretender, two-faced person, fraud
+**Antonyms**: sincere person, honest person, genuine person
 
 
 ## Inadvertently
@@ -2770,6 +2815,15 @@
 **Antonyms**: goodwill, forgiveness, amity
 
 
+## Rankest
+
+**Meaning**: The most foul, disgusting, or offensive.
+**Usage**: "The rankest odor filled the abandoned room." - Rankest is the superlative form of rank, meaning extremely foul.
+**Grammar**: Adjective (superlative of rank)
+**Synonyms**: foulest, most disgusting, most offensive
+**Antonyms**: freshest, cleanest, most pleasant
+
+
 ## Ravaged
 
 **Meaning**: Severely damaged, destroyed, or ruined.
@@ -2812,6 +2866,15 @@
 **Grammar**: Verb
 **Synonyms**: recover, heal, regain strength
 **Antonyms**: weaken, decline, deteriorate
+
+
+## Red Herring
+
+**Meaning**: A misleading clue or detail intended to distract from the real issue.
+**Usage**: "The suspicious clue was a red herring that distracted investigators from the real issue." - A red herring diverts attention from what matters.
+**Grammar**: Noun phrase
+**Synonyms**: distraction, decoy, misdirection
+**Antonyms**: relevant clue, evidence, lead
 
 
 ## Reframed
@@ -2884,6 +2947,15 @@
 **Grammar**: Verb (third-person singular)
 **Synonyms**: redirects, realigns, refocuses
 **Antonyms**: disorients, misaligns, confuses
+
+
+## Repentant
+
+**Meaning**: Feeling sorry or guilty for having done something wrong.
+**Usage**: "The repentant adviser confessed the lie and apologized." - The adviser regretted the wrongdoing.
+**Grammar**: Adjective
+**Synonyms**: remorseful, contrite, penitent
+**Antonyms**: unrepentant, unapologetic, remorseless
 
 
 ## Replenish
@@ -3379,6 +3451,15 @@
 **Grammar**: Plural noun; singular: strait
 **Synonyms**: difficulties, predicament; channel, narrows (sea passage)
 **Antonyms**: ease, security (difficult-situation sense); N/A (sea-passage sense)
+
+
+## Stratagems
+
+**Meaning**: Cunning plans or tricks used to gain an advantage or achieve a goal.
+**Usage**: "The advisers devised several stratagems to outwit their rivals." - Stratagems are clever plans intended to gain an advantage.
+**Grammar**: Noun (plural); singular: stratagem
+**Synonyms**: tactics, schemes, ploys
+**Antonyms**: candor, directness, straightforwardness
 
 
 ## Stratified
