@@ -149,7 +149,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
-> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra - **Here**
+> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
@@ -159,7 +159,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Perseverance
 
 > 1. Value those who appreciate your efforts and reciprocate kindness. - Anonymous
-> 1. Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill
+> 1. Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill - **Here**
 > 1. Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll
 > 1. Do not trust words. Trust Actions. - Anonymous
 > 1. Do not watch the clock; do what it does. Keep going. - Sam Levenson
