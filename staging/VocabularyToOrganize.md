@@ -9,6 +9,24 @@
 **Antonyms**: diminish, decrease, dissipate
 
 
+## Accumulated
+
+**Meaning**: Gathered or built up gradually over time.
+**Usage**: "The savings accumulated over several years." - They grew little by little.
+**Grammar**: Verb (past tense and past participle of accumulate); also used as an adjective
+**Synonyms**: gathered, collected, amassed
+**Antonyms**: scattered, depleted, diminished
+
+
+## Acquaintance
+
+**Meaning**: A person you know, but who is not usually a close friend.
+**Usage**: "I met an acquaintance at the public forum." - The person was known to me, though we were not close.
+**Grammar**: Noun
+**Synonyms**: contact, associate, familiar person
+**Antonyms**: stranger, close friend
+
+
 ## Adore
 
 **Meaning**: To love deeply or regard with deep admiration; to worship.
@@ -108,6 +126,15 @@
 **Antonyms**: certainly, undoubtedly, plainly
 
 
+## Appeased
+
+**Meaning**: Calmed or satisfied, often by giving someone what they wanted.
+**Usage**: "The apology appeased the frustrated guests." - It helped calm their anger.
+**Grammar**: Verb (past tense and past participle of appease)
+**Synonyms**: calmed, soothed, pacified
+**Antonyms**: angered, provoked, inflamed
+
+
 ## Arbitrary
 
 **Meaning**: Based on personal choice or whim rather than a clear reason, rule, or system.
@@ -124,6 +151,15 @@
 **Grammar**: Noun
 **Synonyms**: reasoning, debate, advocacy
 **Antonyms**: irrationality, illogic, fallacy
+
+
+## Aristocracy
+
+**Meaning**: Government by nobles; also, the noble or privileged upper class.
+**Usage**: "The aristocracy held considerable influence over the kingdom." - The term can describe either the ruling system or its elite class.
+**Grammar**: Noun
+**Synonyms**: nobility, upper class, privileged class
+**Antonyms**: common people, democracy
 
 
 ## Ascendancy
@@ -252,6 +288,15 @@
 **Antonyms**: N/A (instrument or indicator)
 
 
+## Basal
+
+**Meaning**: Basic or fundamental; forming a base or lowest layer.
+**Usage**: "The basal layer supports the structure above it." - Basal describes something at the foundation.
+**Grammar**: Adjective
+**Synonyms**: basic, fundamental, foundational
+**Antonyms**: advanced, superficial, upper-level
+
+
 ## Beamed
 
 **Meaning**: Smiled widely. Also: sent out signals.
@@ -351,6 +396,15 @@
 **Antonyms**: restrain, hold back, hesitate
 
 
+## Blustering
+
+**Meaning**: Speaking loudly and aggressively, often making bold but empty threats.
+**Usage**: "The blustering official threatened action but offered no plan." - The threats sounded forceful but lacked substance.
+**Grammar**: Adjective; also the present participle of bluster
+**Synonyms**: bombastic, blustery, swaggering
+**Antonyms**: quiet, restrained, modest
+
+
 ## Blustery
 
 **Meaning**: Very windy and stormy; also, loud and aggressively forceful in speech.
@@ -378,6 +432,15 @@
 **Antonyms**: N/A (knot noun)
 
 
+## Braggart
+
+**Meaning**: A person who boasts too much about their achievements or abilities.
+**Usage**: "The braggart kept boasting about his victories." - He repeatedly praised himself.
+**Grammar**: Noun
+**Synonyms**: boaster, show-off, bragger
+**Antonyms**: modest person, humble person
+
+
 ## Brandishing
 
 **Meaning**: Waving or displaying something, especially a weapon, in a threatening way.
@@ -403,6 +466,15 @@
 **Grammar**: Proper noun (abbreviation)
 **Synonyms**: Bombay Stock Exchange, stock exchange
 **Antonyms**: N/A (institution name)
+
+
+## Calamity
+
+**Meaning**: A great disaster that causes serious harm or distress.
+**Usage**: "The flood was a calamity for the village." - It brought widespread damage and hardship.
+**Grammar**: Noun
+**Synonyms**: disaster, catastrophe, tragedy
+**Antonyms**: blessing, good fortune, success
 
 
 ## CDF
@@ -549,6 +621,15 @@
 **Antonyms**: revealing, exposing, disclosing
 
 
+## Condemn
+
+**Meaning**: To express strong disapproval of someone or something; also, to sentence someone to punishment.
+**Usage**: "The council condemned the official's dishonest conduct." - It publicly declared strong disapproval.
+**Grammar**: Verb
+**Synonyms**: denounce, censure, criticize
+**Antonyms**: praise, approve, commend
+
+
 ## Condescension
 
 **Meaning**: Acting superior and looking down on others.
@@ -657,6 +738,15 @@
 **Antonyms**: causes, origins, beginnings
 
 
+## Console
+
+**Meaning**: To comfort someone who is sad or distressed.
+**Usage**: "She tried to console her friend after the loss." - She offered comfort during a time of sorrow.
+**Grammar**: Verb
+**Synonyms**: comfort, reassure, soothe
+**Antonyms**: distress, upset, discourage
+
+
 ## Contemplating
 
 **Meaning**: Thinking deeply about something or considering it carefully.
@@ -763,6 +853,15 @@
 **Grammar**: Adjective
 **Synonyms**: rough, basic, unrefined
 **Antonyms**: refined, polished, sophisticated
+
+
+## Curt
+
+**Meaning**: Brief and abrupt in speech, often seeming rude or unfriendly.
+**Usage**: "His curt reply ended the conversation." - The answer was very short and sounded unfriendly.
+**Grammar**: Adjective
+**Synonyms**: abrupt, brusque, terse
+**Antonyms**: courteous, warm, gracious
 
 
 ## Dangle
@@ -925,6 +1024,15 @@
 **Grammar**: Noun
 **Synonyms**: distributor, supplier, provider
 **Antonyms**: recipient, receiver
+
+
+## Disown
+
+**Meaning**: To reject or deny a relationship with someone, or to refuse responsibility for something.
+**Usage**: "She disowned the claim that she had approved the plan." - She denied having any connection to it.
+**Grammar**: Verb
+**Synonyms**: reject, renounce, disavow
+**Antonyms**: acknowledge, claim, accept
 
 
 ## Dissuade
@@ -1196,6 +1304,15 @@
 **Antonyms**: establish, preserve, foster
 
 
+## Evasively
+
+**Meaning**: In a way that avoids answering directly or clearly.
+**Usage**: "He answered evasively when asked where the funds had gone." - He avoided giving a direct answer.
+**Grammar**: Adverb
+**Synonyms**: indirectly, vaguely, elusively
+**Antonyms**: directly, clearly, openly
+
+
 ## Fatal
 
 **Meaning**: Causing death, deadly, or extremely serious.
@@ -1302,6 +1419,15 @@
 **Grammar**: Adjective
 **Synonyms**: powerful, imposing, daunting
 **Antonyms**: weak, ordinary, manageable
+
+
+## Forum
+
+**Meaning**: A public place or meeting where people discuss ideas or issues.
+**Usage**: "The citizens gathered in the forum to debate the proposal." - The forum provided a place for public discussion.
+**Grammar**: Noun
+**Synonyms**: meeting place, assembly, discussion platform
+**Antonyms**: private gathering, closed meeting
 
 
 ## Fortress
@@ -1455,6 +1581,15 @@
 **Grammar**: Noun phrase
 **Synonyms**: cognitive bias, spillover effect, positive bias
 **Antonyms**: horn effect, neutral judgment, objective assessment
+
+
+## Harem
+
+**Meaning**: In some historical societies, the household of a ruler or other man, including wives or concubines who lived together.
+**Usage**: "The story described the ruler's harem within the palace." - Here, harem refers to the household and its residents.
+**Grammar**: Noun
+**Synonyms**: household, women's quarters
+**Antonyms**: N/A (no direct antonym)
 
 
 ## Harmonised
@@ -1815,6 +1950,15 @@
 **Grammar**: Adjective
 **Synonyms**: fake, false, phony
 **Antonyms**: sincere, genuine, honest
+
+
+## Insolent
+
+**Meaning**: Rudely disrespectful or boldly impolite.
+**Usage**: "The insolent remark offended the listeners." - The remark showed disrespect.
+**Grammar**: Adjective
+**Synonyms**: disrespectful, impudent, impertinent
+**Antonyms**: respectful, polite, courteous
 
 
 ## Intervene
@@ -2375,6 +2519,15 @@
 **Antonyms**: pleasant, admirable, delightful
 
 
+## Oft-told
+
+**Meaning**: Told many times, especially of a familiar story or account.
+**Usage**: "The oft-told tale was familiar to everyone in the village." - The story had been repeated many times.
+**Grammar**: Adjective
+**Synonyms**: frequently told, familiar, repeated
+**Antonyms**: new, unheard-of, rarely told
+
+
 ## Oppressive
 
 **Meaning**: Cruel, harsh, dominating, or heavily burdensome.
@@ -2463,6 +2616,15 @@
 **Grammar**: Adjective
 **Synonyms**: suspicious, distrustful, fearful
 **Antonyms**: trusting, confident, unworried
+
+
+## Patricians
+
+**Meaning**: Members of the privileged upper class in ancient Rome.
+**Usage**: "The patricians held political influence in ancient Rome." - The word refers to members of Rome's elite class.
+**Grammar**: Plural noun; singular: patrician
+**Synonyms**: Roman nobles, aristocrats, upper class
+**Antonyms**: plebeians, commoners
 
 
 ## Patriot
@@ -2958,6 +3120,15 @@
 **Antonyms**: unrepentant, unapologetic, remorseless
 
 
+## Repented
+
+**Meaning**: Felt regret for wrongdoing and changed one's behavior.
+**Usage**: "He repented of his mistake and apologized." - He felt sorry and sought to make a change.
+**Grammar**: Verb (past tense and past participle of repent)
+**Synonyms**: regretted, was remorseful, atoned
+**Antonyms**: persisted, remained unrepentant, justified
+
+
 ## Replenish
 
 **Meaning**: Fill up again; restore to a former level
@@ -3037,6 +3208,15 @@
 **Grammar**: Adjective
 **Synonyms**: thorough, strict, exacting
 **Antonyms**: careless, lax, superficial
+
+
+## Riot
+
+**Meaning**: A violent public disturbance involving a crowd.
+**Usage**: "The protest turned into a riot after violence broke out." - The crowd's disorder became violent.
+**Grammar**: Noun; also a verb meaning to take part in a riot
+**Synonyms**: uprising, disturbance, violent disorder
+**Antonyms**: peace, order, calm
 
 
 ## Rival
@@ -3219,6 +3399,15 @@
 **Antonyms**: rose, straightened, rebounded
 
 
+## Snapped
+
+**Meaning**: Spoke sharply or suddenly; also, broke suddenly with a sharp sound.
+**Usage**: "She snapped at him, and the dry branch snapped in the wind." - The word describes both sharp speech and sudden breaking.
+**Grammar**: Verb (past tense and past participle of snap)
+**Synonyms**: retorted, barked, broke
+**Antonyms**: spoke gently, mended, joined
+
+
 ## Snares
 
 **Meaning**: Traps, or things that catch and hold you.
@@ -3291,6 +3480,24 @@
 **Antonyms**: dullness, dimness, fade
 
 
+## Speculated
+
+**Meaning**: Guessed or formed a theory without having conclusive proof.
+**Usage**: "They speculated about the cause before the investigation was complete." - Their explanation was not yet supported by conclusive evidence.
+**Grammar**: Verb (past tense and past participle of speculate)
+**Synonyms**: guessed, conjectured, theorized
+**Antonyms**: confirmed, verified, proved
+
+
+## Sphinxlike
+
+**Meaning**: Mysterious or unreadable in expression, like the face of a sphinx.
+**Usage**: "The judge kept a sphinxlike expression during the hearing." - The judge's face revealed little.
+**Grammar**: Adjective
+**Synonyms**: enigmatic, inscrutable, unreadable
+**Antonyms**: expressive, open, transparent
+
+
 ## Spiteful
 
 **Meaning**: Wanting to hurt, upset, or offend someone because of anger or resentment.
@@ -3334,6 +3541,15 @@
 **Grammar**: Adjective
 **Synonyms**: false, bogus, counterfeit
 **Antonyms**: genuine, authentic, valid
+
+
+## Sour
+
+**Meaning**: Having a sharp, acidic taste; also, bad-tempered or unpleasant in mood.
+**Usage**: "The fruit tasted sour, and the delay left him in a sour mood." - Sour describes both taste and mood.
+**Grammar**: Adjective; also a verb meaning to become or make sour
+**Synonyms**: tart, acidic, bitter
+**Antonyms**: sweet, pleasant, cheerful
 
 
 ## Squatted
@@ -3849,6 +4065,15 @@
 **Antonyms**: stability, regularity, predictability
 
 
+## Vague
+
+**Meaning**: Not clear, precise, or definite; hazy.
+**Usage**: "The instructions were vague, so the team asked for clarification." - They were not clear enough to follow confidently.
+**Grammar**: Adjective
+**Synonyms**: unclear, hazy, imprecise
+**Antonyms**: clear, precise, specific
+
+
 ## Vain
 
 **Meaning**: Excessively proud of one's appearance or achievements; also, unsuccessful or without useful result.
@@ -3856,6 +4081,15 @@
 **Grammar**: Adjective
 **Synonyms**: conceited, self-important; futile, fruitless
 **Antonyms**: humble, modest; effective, successful
+
+
+## Valor
+
+**Meaning**: Great courage, especially when facing danger in battle.
+**Usage**: "The soldier was honored for his valor in battle." - He showed courage despite the danger.
+**Grammar**: Noun
+**Synonyms**: bravery, courage, heroism
+**Antonyms**: cowardice, fearfulness, timidity
 
 
 ## Vanity
@@ -3921,6 +4155,15 @@
 **Antonyms**: invincible, unbeatable, unconquerable
 
 
+## Vowing
+
+**Meaning**: Making a serious promise or pledge.
+**Usage**: "She was vowing to keep the promise she had made." - She was making a firm commitment.
+**Grammar**: Verb (present participle of vow); also used as a gerund
+**Synonyms**: promising, pledging, swearing
+**Antonyms**: renouncing, breaking a promise, withdrawing
+
+
 ## Wanes
 
 **Meaning**: Decreases in size or intensity
@@ -3973,6 +4216,15 @@
 **Grammar**: Noun (plural)
 **Synonyms**: quips, repartee, wisecracks
 **Antonyms**: dullness, seriousness, silence
+
+
+## Wrath
+
+**Meaning**: Extreme anger.
+**Usage**: "The ruler's unjust decision stirred the people's wrath." - The decision caused intense anger.
+**Grammar**: Noun
+**Synonyms**: fury, rage, ire
+**Antonyms**: calm, peace, goodwill
 
 
 ## Yanked
