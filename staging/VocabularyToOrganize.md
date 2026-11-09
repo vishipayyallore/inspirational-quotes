@@ -954,6 +954,15 @@
 **Antonyms**: secure, fasten, hold
 
 
+## Data Mining
+
+**Meaning**: Notes on describing data distributions: a unimodal frequency curve has one peak. A symmetric distribution is bell-shaped with Mean = Median = Mode. A positively skewed distribution has a long right tail and Mean > Median > Mode; a negatively skewed distribution has a long left tail and Mode > Median > Mean. Quantiles divide sorted data into equal parts. Quartiles are the three points (Q1, Q2, Q3) that divide data into four equal parts; percentiles are the 99 points that divide data into 100 parts, and Q1 is the 25th percentile. The interquartile range covers the middle 50% of data. The mean is the average (sum / N); the median is the middle sorted value (Q2, or the 50th percentile); and the mode is the most frequent value and the peak of a frequency curve. IQR = Q3 - Q1; potential outliers are below Q1 - 1.5 × IQR or above Q3 + 1.5 × IQR.
+**Usage**: "Use the distribution's shape, mean, median, mode, and IQR to summarize the data and identify potential outliers."
+**Grammar**: Noun (technical term)
+**Synonyms**: statistical data analysis, data exploration
+**Antonyms**: none
+
+
 ## Dazzled
 
 **Meaning**: Blinded by a bright light or brilliance; strongly impressed.
