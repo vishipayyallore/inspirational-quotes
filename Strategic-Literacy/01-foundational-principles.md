@@ -159,14 +159,14 @@ And when we do wrong to others, that too finds its way back — in this life, or
 ## Perseverance
 
 > 1. Value those who appreciate your efforts and reciprocate kindness. - Anonymous
-> 1. Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill - **Here**
+> 1. Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill
 > 1. Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll
 > 1. Do not trust words. Trust Actions. - Anonymous
 > 1. Do not watch the clock; do what it does. Keep going. - Sam Levenson
 > 1. The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela
 > 1. It always seems impossible until it is done. - Nelson Mandela
 > 1. The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh
-> 1. Fall seven times, stand up eight. - Japanese Proverb
+> 1. Fall seven times, stand up eight. - Japanese Proverb - **Here**
 > 1. Strength grows in the moments when you think you can not go on but you keep going anyway. - Anonymous
 > 1. When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford
 > 1. The journey of a thousand miles begins with a single step. - Lao Tzu
