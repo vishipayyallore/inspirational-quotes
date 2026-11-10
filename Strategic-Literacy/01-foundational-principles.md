@@ -139,8 +139,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra - **Here**
-> 1. Courage is essential for overcoming life's challenges. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Courage is essential for overcoming life's challenges. - Panchatantra - **Here**
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
@@ -166,14 +166,14 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela
 > 1. It always seems impossible until it is done. - Nelson Mandela
 > 1. The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh
-> 1. Fall seven times, stand up eight. - Japanese Proverb - **Seven**
+> 1. Fall seven times, stand up eight. - Japanese Proverb
 > 1. Strength grows in the moments when you think you can not go on but you keep going anyway. - Anonymous
 > 1. When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford
 > 1. The journey of a thousand miles begins with a single step. - Lao Tzu
 > 1. If you are going through hell, keep going. - Winston Churchill
 > 1. The harder the battle, the sweeter the victory. - Les Brown
 > 1. If you want to lift yourself up, lift up someone else. - Booker T. Washington
-> 1. When you feel like giving up, remember why you started. - Anonymous
+> 1. When you feel like giving up, remember why you started. - Anonymous - **Seven**
 > 1. Perseverance is not a long race; it is many short races one after the other. - Walter Elliot
 > 1. The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will. - Vince Lombardi
 > 1. Success is stumbling from failure to failure with no loss of enthusiasm. - Winston Churchill
