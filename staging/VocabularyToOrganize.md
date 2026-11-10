@@ -18,6 +18,15 @@
 **Antonyms**: scattered, depleted, diminished
 
 
+## Accused
+
+**Meaning**: A person formally charged with a crime.
+**Usage**: "The accused musketeer waited for the royal court's judgment." - The word names the person facing an accusation.
+**Grammar**: Noun; also an adjective meaning charged with an offense
+**Synonyms**: defendant, suspect, alleged offender
+**Antonyms**: N/A (no direct antonym; acquitted and exonerated describe opposite legal outcomes)
+
+
 ## Acquaintance
 
 **Meaning**: A person you know, but who is not usually a close friend.
@@ -160,6 +169,15 @@
 **Grammar**: Noun
 **Synonyms**: nobility, upper class, privileged class
 **Antonyms**: common people, democracy
+
+
+## Arrogant
+
+**Meaning**: Having an exaggerated sense of one's importance and looking down on others.
+**Usage**: "The arrogant courtier treated the palace servants as if they were beneath him." - His pride showed a lack of respect for others.
+**Grammar**: Adjective
+**Synonyms**: haughty, conceited, overbearing
+**Antonyms**: humble, modest, respectful
 
 
 ## Ascendancy
@@ -594,6 +612,15 @@
 **Antonyms**: praised, commended, rewarded, applauded
 
 
+## Chateau
+
+**Meaning**: A large French country house, castle, or mansion.
+**Usage**: "The nobles gathered at the chateau for the royal celebration." - The chateau was an impressive country residence.
+**Grammar**: Noun
+**Synonyms**: castle, mansion, manor
+**Antonyms**: hut, cottage, shack
+
+
 ## CHD
 
 **Meaning**: Coronary Heart Disease; a heart condition caused by narrowing or blockage in coronary arteries and a major cause of heart attacks.
@@ -738,6 +765,15 @@
 **Antonyms**: conceals, withholds, hides
 
 
+## Confinement
+
+**Meaning**: The state of being kept within limits or held in a restricted place; imprisonment.
+**Usage**: "The accused spent a year in confinement at the fortress." - The person was kept from moving about freely.
+**Grammar**: Noun
+**Synonyms**: imprisonment, detention, captivity
+**Antonyms**: freedom, release, liberty
+
+
 ## Conforms
 
 **Meaning**: Follows rules or expectations, or matches a standard.
@@ -790,6 +826,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: fight, battle, oppose
 **Antonyms**: surrender, yield, submit
+
+
+## Commemorate
+
+**Meaning**: To honor the memory of a person or event, often with a ceremony or monument.
+**Usage**: "The ruler raised a monument to commemorate the victory." - The monument helped people remember and honor the event.
+**Grammar**: Verb
+**Synonyms**: honor, celebrate, remember
+**Antonyms**: forget, disregard, dishonor
 
 
 ## Committed
@@ -889,6 +934,15 @@
 **Grammar**: Noun
 **Synonyms**: adviser, council member, counselor
 **Antonyms**: N/A (role or title)
+
+
+## Countenance
+
+**Meaning**: A person's face or facial expression.
+**Usage**: "Her countenance revealed surprise when the palace gates opened." - Her expression showed how she felt.
+**Grammar**: Noun; also a verb meaning to tolerate or approve
+**Synonyms**: face, expression, look
+**Antonyms**: N/A (no direct antonym)
 
 
 ## Counters
@@ -1428,6 +1482,15 @@
 **Grammar**: Verb (past tense and past participle of evoke)
 **Synonyms**: recalled, summoned, elicited
 **Antonyms**: suppressed, erased, dispelled
+
+
+## Extravagant
+
+**Meaning**: Spending too much or using more than necessary; excessively lavish.
+**Usage**: "The king's extravagant feast drained the royal treasury." - The feast cost far more than was reasonable.
+**Grammar**: Adjective
+**Synonyms**: lavish, excessive, wasteful
+**Antonyms**: modest, frugal, economical
 
 
 ## Fatal
@@ -2015,6 +2078,15 @@
 **Antonyms**: conspicuous, noticeable, obvious
 
 
+## Indispensable
+
+**Meaning**: Absolutely necessary; impossible to do without.
+**Usage**: "The map proved indispensable to the musketeer crossing unfamiliar grounds." - The map was essential to his journey.
+**Grammar**: Adjective
+**Synonyms**: essential, necessary, vital
+**Antonyms**: unnecessary, optional, expendable
+
+
 ## Inductance
 
 **Meaning**: Property of an electrical conductor by which a change in current induces an EMF
@@ -2076,6 +2148,15 @@
 **Grammar**: Noun
 **Synonyms**: thankless person, unappreciative person
 **Antonyms**: grateful person, appreciator
+
+
+## Ingratiate
+
+**Meaning**: To try to make oneself liked or accepted, often through flattery.
+**Usage**: "The courtier tried to ingratiate himself with the queen by praising her judgment." - He used flattery to gain her favor.
+**Grammar**: Verb; commonly used as "ingratiate oneself with"
+**Synonyms**: curry favor, flatter, court
+**Antonyms**: alienate, offend, antagonize
 
 
 ## Impenetrable
@@ -2265,6 +2346,15 @@
 **Grammar**: Verb (past tense and past participle of latch); adjective
 **Synonyms**: fastened, secured, closed
 **Antonyms**: unlatched, opened, released
+
+
+## Lavishness
+
+**Meaning**: Extreme luxury or extravagance, especially in spending or display.
+**Usage**: "The palace's lavishness contrasted with the hardship beyond its gates." - The palace displayed extreme luxury.
+**Grammar**: Noun
+**Synonyms**: opulence, extravagance, splendor
+**Antonyms**: simplicity, frugality, austerity
 
 
 ## Leap
@@ -2546,6 +2636,15 @@
 **Antonyms**: clarify, organize, straighten
 
 
+## Musketeer
+
+**Meaning**: A soldier armed with a musket, especially one of the French king's historical royal guards.
+**Usage**: "The musketeer guarded the palace entrance with his musket." - He was a soldier armed with a firearm.
+**Grammar**: Noun
+**Synonyms**: soldier, guardsman, infantryman
+**Antonyms**: civilian, noncombatant
+
+
 ## Naive
 
 **Meaning**: Inexperienced or too trusting, often because of limited knowledge or judgment.
@@ -2717,6 +2816,24 @@
 **Antonyms**: barren land, wasteland
 
 
+## Orient
+
+**Meaning**: To find or establish direction or position; also, the east or an eastern region.
+**Usage**: "The map helped the travelers orient themselves toward the east." - It helped them determine their position and direction.
+**Grammar**: Verb; also a noun
+**Synonyms**: position, align, situate
+**Antonyms**: disorient, confuse
+
+
+## Ostensible
+
+**Meaning**: Appearing or claimed to be true, though it may not be the real reason or situation.
+**Usage**: "His ostensible reason for visiting the palace was to pay tribute." - That was the stated reason, though his true motive was uncertain.
+**Grammar**: Adjective
+**Synonyms**: apparent, seeming, purported
+**Antonyms**: actual, genuine, real
+
+
 ## Ought
 
 **Meaning**: Should or be morally or practically expected to do something.
@@ -2751,6 +2868,15 @@
 **Grammar**: Verb
 **Synonyms**: surpass, outperform, exceed
 **Antonyms**: underperform, trail, fall short
+
+
+## Outdone
+
+**Meaning**: Surpassed or performed better than someone or something.
+**Usage**: "The king felt outdone by the neighboring ruler's celebration." - The other celebration was more impressive.
+**Grammar**: Verb (past participle of outdo); also used as an adjective
+**Synonyms**: surpassed, exceeded, outperformed
+**Antonyms**: underperformed, fell short, was surpassed
 
 
 ## Outsmart
@@ -3074,6 +3200,15 @@
 **Grammar**: Plural noun; singular: profligate
 **Synonyms**: spendthrifts, wastrels, libertines
 **Antonyms**: frugal people, prudent spenders
+
+
+## Promenade
+
+**Meaning**: A leisurely walk, or a public place intended for walking.
+**Usage**: "The royal guests took a promenade through the palace gardens." - They enjoyed a leisurely walk along the garden paths.
+**Grammar**: Noun; also a verb meaning to take or lead a leisurely walk
+**Synonyms**: stroll, walk, walkway
+**Antonyms**: N/A (no direct antonym)
 
 
 ## Pronouncement
@@ -3579,6 +3714,15 @@
 **Antonyms**: barefoot, unshod, bare
 
 
+## Shrubbery
+
+**Meaning**: A group or area of shrubs and small bushes.
+**Usage**: "The musketeer hid behind the shrubbery near the garden wall." - The bushes provided a place to conceal himself.
+**Grammar**: Noun; usually uncountable
+**Synonyms**: bushes, shrubs, bushes and plants
+**Antonyms**: open ground, bare land
+
+
 ## Siege
 
 **Meaning**: A surrounding attack or a state of pressure from all sides.
@@ -3685,6 +3829,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: nap, doze, catnap
 **Antonyms**: wake, rise, alertness
+
+
+## Solitary
+
+**Meaning**: Alone or existing, happening, or done without others.
+**Usage**: "The accused spent a solitary night in the tower." - The person was alone for the night.
+**Grammar**: Adjective
+**Synonyms**: alone, isolated, lone
+**Antonyms**: accompanied, together, social
 
 
 ## Sovereigns
@@ -4155,6 +4308,15 @@
 **Antonyms**: standstill, stagnation, immobility
 
 
+## Transgression
+
+**Meaning**: The act of breaking or going beyond a rule, law, or moral limit.
+**Usage**: "The court treated the broken oath as a serious transgression." - The oath-breaking violated an accepted rule.
+**Grammar**: Noun
+**Synonyms**: violation, offense, breach
+**Antonyms**: obedience, compliance, observance
+
+
 ## Treason
 
 **Meaning**: Betrayal of one's country, ruler, or cause.
@@ -4171,6 +4333,15 @@
 **Grammar**: Noun (plural)
 **Synonyms**: ditches, furrows, front lines
 **Antonyms**: plateaus, high ground, open field
+
+
+## Tribute
+
+**Meaning**: A gift, payment, or expression of praise given to show respect or honor.
+**Usage**: "The ruler offered tribute in honor of the fallen guards." - The gift showed respect for their service.
+**Grammar**: Noun; also a verb meaning to honor or praise
+**Synonyms**: offering, homage, honor
+**Antonyms**: insult, disrespect, criticism
 
 
 ## Trick
@@ -4378,6 +4549,15 @@
 **Grammar**: Noun (plural of vassal)
 **Synonyms**: retainers, subjects, liegemen
 **Antonyms**: overlords, rulers, sovereigns
+
+
+## Versailles
+
+**Meaning**: The famous French palace near Paris, often associated with royal power and luxury.
+**Usage**: "Versailles became a lasting symbol of the French monarchy's wealth and splendor." - The palace represents the grandeur of royal life.
+**Grammar**: Proper noun
+**Synonyms**: Palace of Versailles, French royal palace
+**Antonyms**: N/A (proper noun)
 
 
 ## Victorious
