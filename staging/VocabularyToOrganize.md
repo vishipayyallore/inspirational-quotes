@@ -225,6 +225,15 @@
 **Antonyms**: reduced, diminished, decreased
 
 
+## Aura
+
+**Meaning**: A distinctive atmosphere or quality that seems to surround a person or place.
+**Usage**: "The queen had an aura of quiet authority." - Her presence conveyed a particular feeling.
+**Grammar**: Noun
+**Synonyms**: atmosphere, presence, impression
+**Antonyms**: ordinariness, plainness
+
+
 ## Avaricious
 
 **Meaning**: Having an extreme desire to gain or keep wealth.
@@ -241,6 +250,15 @@
 **Grammar**: Verb (past tense and past participle of avert)
 **Synonyms**: prevented, avoided, forestalled
 **Antonyms**: caused, invited, allowed
+
+
+## Awe
+
+**Meaning**: A feeling of wonder mixed with respect, admiration, or sometimes fear; also, to inspire this feeling.
+**Usage**: "The ancient temple filled visitors with awe." - Its scale and history inspired deep wonder.
+**Grammar**: Noun; also a verb
+**Synonyms**: wonder, reverence, amazement
+**Antonyms**: contempt, indifference
 
 
 ## Awry
@@ -268,6 +286,15 @@
 **Grammar**: Verb (past tense and past participle of banish); also used as an adjective
 **Synonyms**: exiled, expelled, sent away
 **Antonyms**: welcomed, recalled, reinstated
+
+
+## Banishment
+
+**Meaning**: The act of forcing someone to leave a place or country, often as punishment; exile.
+**Usage**: "The Roman emperor's decree imposed banishment on the senator." - The senator was forced to live away from Rome.
+**Grammar**: Noun
+**Synonyms**: exile, expulsion, deportation
+**Antonyms**: return, welcome, restoration
 
 
 ## Banquet
@@ -396,6 +423,15 @@
 **Antonyms**: restrain, hold back, hesitate
 
 
+## Blustered
+
+**Meaning**: Spoke loudly and aggressively, often making bold but empty threats.
+**Usage**: "The general blustered about victory but offered no plan." - His forceful words lacked substance.
+**Grammar**: Verb (past tense and past participle of bluster)
+**Synonyms**: ranted, thundered, swaggered
+**Antonyms**: spoke calmly, yielded, reassured
+
+
 ## Blustering
 
 **Meaning**: Speaking loudly and aggressively, often making bold but empty threats.
@@ -439,6 +475,15 @@
 **Grammar**: Noun
 **Synonyms**: boaster, show-off, bragger
 **Antonyms**: modest person, humble person
+
+
+## Bragged
+
+**Meaning**: Spoke boastfully about one's achievements or possessions.
+**Usage**: "The athlete bragged about his victory." - He spoke with excessive pride about what he had achieved.
+**Grammar**: Verb (past tense and past participle of brag)
+**Synonyms**: boasted, vaunted, crowed
+**Antonyms**: downplayed, admitted, spoke modestly
 
 
 ## Brandishing
@@ -648,6 +693,24 @@
 **Antonyms**: opponent, adversary, enemy
 
 
+## Confer
+
+**Meaning**: To grant or award something, such as a title or honor; also, to discuss something with another person.
+**Usage**: "The council will confer the honor after its members confer privately." - Confer can mean both to award and to discuss.
+**Grammar**: Verb
+**Synonyms**: grant, bestow, consult, discuss
+**Antonyms**: withhold, revoke, avoid discussion
+
+
+## Conferred
+
+**Meaning**: Granted or awarded something, such as a title or honor; also, discussed or consulted together.
+**Usage**: "After conferring with the council, the ruler conferred a title on the general." - The council discussed the matter before the ruler granted the title.
+**Grammar**: Verb (past tense and past participle of confer)
+**Synonyms**: bestowed, granted, consulted, deliberated
+**Antonyms**: withheld, revoked, acted independently
+
+
 ## Confide
 
 **Meaning**: To tell a secret or private matter to someone you trust.
@@ -664,6 +727,15 @@
 **Grammar**: Verb (past tense and past participle of confide)
 **Synonyms**: shared, disclosed, revealed
 **Antonyms**: concealed, withheld, kept secret
+
+
+## Confides
+
+**Meaning**: Shares a secret or private matter with someone trusted.
+**Usage**: "She confides in her mentor when she needs advice." - She trusts her mentor with private information.
+**Grammar**: Verb (third-person singular present of confide)
+**Synonyms**: confesses, discloses, entrusts
+**Antonyms**: conceals, withholds, hides
 
 
 ## Conforms
@@ -718,6 +790,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: fight, battle, oppose
 **Antonyms**: surrender, yield, submit
+
+
+## Committed
+
+**Meaning**: Dedicated to a person, cause, or task; also, carried out or perpetrated, especially when referring to a crime.
+**Usage**: "The official committed a crime but remained committed to reform." - The first use means carried out; the second means dedicated.
+**Grammar**: Adjective; also the past tense and past participle of commit
+**Synonyms**: devoted, dedicated, perpetrated
+**Antonyms**: uncommitted, disloyal, prevented
 
 
 ## Conservative
@@ -873,6 +954,15 @@
 **Antonyms**: secure, fasten, hold
 
 
+## Data Mining
+
+**Meaning**: Notes on describing data distributions: a unimodal frequency curve has one peak. A symmetric distribution is bell-shaped with Mean = Median = Mode. A positively skewed distribution has a long right tail and Mean > Median > Mode; a negatively skewed distribution has a long left tail and Mode > Median > Mean. Quantiles divide sorted data into equal parts. Quartiles are the three points (Q1, Q2, Q3) that divide data into four equal parts; percentiles are the 99 points that divide data into 100 parts, and Q1 is the 25th percentile. The interquartile range covers the middle 50% of data. The mean is the average (sum / N); the median is the middle sorted value (Q2, or the 50th percentile); and the mode is the most frequent value and the peak of a frequency curve. IQR = Q3 - Q1; potential outliers are below Q1 - 1.5 × IQR or above Q3 + 1.5 × IQR.
+**Usage**: "Use the distribution's shape, mean, median, mode, and IQR to summarize the data and identify potential outliers."
+**Grammar**: Noun (technical term)
+**Synonyms**: statistical data analysis, data exploration
+**Antonyms**: none
+
+
 ## Dazzled
 
 **Meaning**: Blinded by a bright light or brilliance; strongly impressed.
@@ -1015,6 +1105,24 @@
 **Grammar**: Adverb
 **Synonyms**: quietly, privately, tactfully
 **Antonyms**: openly, conspicuously, indiscreetly
+
+
+## Discrepancy
+
+**Meaning**: A difference between things that should match, agree, or be consistent.
+**Usage**: "The clerk noticed a discrepancy between the two records." - The records contained a mismatch.
+**Grammar**: Noun
+**Synonyms**: difference, mismatch, inconsistency
+**Antonyms**: agreement, consistency, match
+
+
+## Disdainful
+
+**Meaning**: Showing contempt or a feeling of superiority toward someone or something.
+**Usage**: "The courtier gave a disdainful glance to the visiting envoy." - The glance showed disrespect and contempt.
+**Grammar**: Adjective
+**Synonyms**: contemptuous, scornful, dismissive
+**Antonyms**: respectful, admiring, appreciative
 
 
 ## Dispenser
@@ -1313,6 +1421,15 @@
 **Antonyms**: directly, clearly, openly
 
 
+## Evoked
+
+**Meaning**: Brought a feeling, memory, or image to mind.
+**Usage**: "The old melody evoked memories of home." - Hearing it brought those memories back.
+**Grammar**: Verb (past tense and past participle of evoke)
+**Synonyms**: recalled, summoned, elicited
+**Antonyms**: suppressed, erased, dispelled
+
+
 ## Fatal
 
 **Meaning**: Causing death, deadly, or extremely serious.
@@ -1448,6 +1565,15 @@
 **Antonyms**: N/A (animal category)
 
 
+## Frivolous
+
+**Meaning**: Not serious or important; silly or lacking a sensible purpose.
+**Usage**: "The court dismissed the frivolous complaint." - It did not deserve serious consideration.
+**Grammar**: Adjective
+**Synonyms**: silly, trivial, flippant
+**Antonyms**: serious, important, weighty
+
+
 ## FTO
 
 **Meaning**: Fashion Trends Online (eCommerce)
@@ -1554,6 +1680,15 @@
 **Grammar**: Verb (past tense and past participle of gouge)
 **Synonyms**: carved, scooped, cut out, overcharged
 **Antonyms**: filled, smoothed, charged fairly
+
+
+## Grandeur
+
+**Meaning**: Impressive beauty, scale, or majesty.
+**Usage**: "The grandeur of the Greek temple impressed travelers." - Its size and beauty inspired admiration.
+**Grammar**: Noun
+**Synonyms**: magnificence, splendor, majesty
+**Antonyms**: plainness, modesty, insignificance
 
 
 ## Grayer
@@ -1725,6 +1860,15 @@
 **Grammar**: Noun, verb
 **Synonyms**: intuition, inkling, suspicion
 **Antonyms**: certainty, proof, verification
+
+
+## Hurled
+
+**Meaning**: Threw something with great force.
+**Usage**: "The soldier hurled the spear toward the target." - He threw it forcefully.
+**Grammar**: Verb (past tense and past participle of hurl)
+**Synonyms**: threw, launched, flung
+**Antonyms**: caught, received, placed gently
 
 
 ## Hype
@@ -1934,6 +2078,15 @@
 **Antonyms**: grateful person, appreciator
 
 
+## Impenetrable
+
+**Meaning**: Impossible or very difficult to enter, pass through, or understand.
+**Usage**: "The fortress walls seemed impenetrable." - They appeared impossible to break through.
+**Grammar**: Adjective
+**Synonyms**: inaccessible, impregnable, incomprehensible
+**Antonyms**: accessible, penetrable, understandable
+
+
 ## Ingratitude
 
 **Meaning**: A lack of thankfulness; the state of being ungrateful.
@@ -1941,6 +2094,15 @@
 **Grammar**: Noun
 **Synonyms**: thanklessness, ungratefulness, lack of appreciation
 **Antonyms**: gratitude, thankfulness, appreciation
+
+
+## Inscrutable
+
+**Meaning**: Impossible or very difficult to understand or interpret.
+**Usage**: "The ruler's inscrutable expression revealed nothing." - No one could tell what the ruler was thinking.
+**Grammar**: Adjective
+**Synonyms**: enigmatic, mysterious, unreadable
+**Antonyms**: understandable, clear, transparent
 
 
 ## Insincere
@@ -2537,6 +2699,15 @@
 **Antonyms**: liberating, fair, humane, lenient
 
 
+## Oracle
+
+**Meaning**: A person or source believed to give wise guidance or predictions about the future; in ancient Greece, also the place or message associated with such prophecy.
+**Usage**: "At Delphi, the oracle delivered a prophecy." - The oracle was believed to communicate a divine prediction.
+**Grammar**: Noun
+**Synonyms**: prophet, seer, diviner
+**Antonyms**: skeptic, disbeliever
+
+
 ## Orchard
 
 **Meaning**: A farm where fruit trees are grown.
@@ -2598,6 +2769,15 @@
 **Grammar**: Adjective
 **Synonyms**: open, public, apparent
 **Antonyms**: covert, hidden, secret
+
+
+## Oysters
+
+**Meaning**: Marine mollusks with rough, two-part shells; some kinds can produce pearls.
+**Usage**: "Some oysters can produce pearls." - A few species form pearls inside their shells.
+**Grammar**: Plural noun; singular: oyster
+**Synonyms**: bivalves, shellfish
+**Antonyms**: N/A
 
 
 ## Paradox
@@ -2834,6 +3014,15 @@
 **Antonyms**: secondary, inferior, last
 
 
+## Prerogatives
+
+**Meaning**: Special rights or powers belonging to a person because of their role, rank, or office.
+**Usage**: "The king's prerogatives were limited by the council." - His rank gave him certain powers, but not unlimited ones.
+**Grammar**: Plural noun; singular: prerogative
+**Synonyms**: privileges, rights, powers
+**Antonyms**: duties, restrictions, obligations
+
+
 ## Presume
 
 **Meaning**: Assume something is true without proof
@@ -2885,6 +3074,15 @@
 **Grammar**: Plural noun; singular: profligate
 **Synonyms**: spendthrifts, wastrels, libertines
 **Antonyms**: frugal people, prudent spenders
+
+
+## Pronouncement
+
+**Meaning**: A formal or official statement, especially one made publicly.
+**Usage**: "The ruler's pronouncement ended the debate." - The official statement settled the matter.
+**Grammar**: Noun
+**Synonyms**: declaration, announcement, proclamation
+**Antonyms**: question, retraction, silence
 
 
 ## Propel
@@ -2984,6 +3182,15 @@
 **Grammar**: Adjective (superlative of rank)
 **Synonyms**: foulest, most disgusting, most offensive
 **Antonyms**: freshest, cleanest, most pleasant
+
+
+## Rapt
+
+**Meaning**: Completely absorbed or fascinated by something.
+**Usage**: "The students listened with rapt attention to the story." - They were fully absorbed in it.
+**Grammar**: Adjective
+**Synonyms**: engrossed, absorbed, captivated
+**Antonyms**: distracted, bored, inattentive
 
 
 ## Ravaged
@@ -3327,6 +3534,15 @@
 **Antonyms**: lingered, dawdled, sauntered
 
 
+## Seaweed
+
+**Meaning**: Algae that grow in the sea, often in large strands or leaflike forms.
+**Usage**: "Seaweed covered the rocks at low tide." - Marine algae were left visible as the water receded.
+**Grammar**: Noun (usually uncountable)
+**Synonyms**: marine algae, sea algae
+**Antonyms**: N/A
+
+
 ## Seethes
 
 **Meaning**: Boils with anger inside; feels very angry while remaining outwardly quiet.
@@ -3379,6 +3595,15 @@
 **Grammar**: Noun
 **Synonyms**: doubt, disbelief, distrust
 **Antonyms**: trust, confidence, credulity
+
+
+## Slandered
+
+**Meaning**: Made a false spoken statement that harmed someone's reputation.
+**Usage**: "The courtier slandered his rival by spreading a false accusation." - The lie damaged the rival's reputation.
+**Grammar**: Verb (past tense and past participle of slander)
+**Synonyms**: defamed, maligned, libeled
+**Antonyms**: praised, vindicated, defended
 
 
 ## Slew
@@ -3552,6 +3777,15 @@
 **Antonyms**: sweet, pleasant, cheerful
 
 
+## Squander
+
+**Meaning**: To waste money, time, or another resource carelessly or foolishly.
+**Usage**: "The heir squandered his fortune on luxuries." - He wasted his money without good judgment.
+**Grammar**: Verb
+**Synonyms**: waste, fritter away, dissipate
+**Antonyms**: save, conserve, invest
+
+
 ## Squatted
 
 **Meaning**: Sat in a low crouch; also, occupied an empty building or place without permission.
@@ -3658,6 +3892,15 @@
 **Grammar**: Noun, verb
 **Synonyms**: pressure, stress, tension; stretch, pull
 **Antonyms**: ease, relaxation; loosen
+
+
+## Strains
+
+**Meaning**: Stresses or tensions; types or varieties; also, passages of music.
+**Usage**: "The strains of a flute melody drifted through the palace." - Here, strains means musical notes or passages.
+**Grammar**: Plural noun; also the third-person singular present of strain
+**Synonyms**: tensions, varieties, melodies
+**Antonyms**: ease, harmony, silence
 
 
 ## Straits
@@ -3802,6 +4045,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: dive, plunge, pounce
 **Antonyms**: rise, ascend, retreat
+
+
+## Tamed
+
+**Meaning**: Made less wild or easier to control.
+**Usage**: "The trainer tamed the horse through patient care." - The horse became accustomed to people and easier to manage.
+**Grammar**: Verb (past tense and past participle of tame); also an adjective
+**Synonyms**: domesticated, subdued, controlled
+**Antonyms**: wild, untamed, uncontrolled
 
 
 ## Tangles

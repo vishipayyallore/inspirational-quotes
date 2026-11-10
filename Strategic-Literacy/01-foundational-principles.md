@@ -139,7 +139,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 ## The Wisdom of the Panchatantra
 
-> 1. Avoid meddling in the affairs of others. - Panchatantra
+> 1. Avoid meddling in the affairs of others. - Panchatantra - **Here**
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
@@ -149,7 +149,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
 > 1. Target the source of the enemy's power. - Panchatantra
-> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra - **Here**
+> 1. Strike at the enemy's source of strength to defeat him. - Panchatantra
 > 1. To achieve victory, one must neutralize the enemy's primary source of strength. - Panchatantra
 > 1. Greed is destructive. - Panchatantra
 > 1. Excessive desire for wealth or possessions is harmful. - Panchatantra
@@ -166,7 +166,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela
 > 1. It always seems impossible until it is done. - Nelson Mandela
 > 1. The only way to achieve the impossible is to believe it is possible. - Charles Kingsleigh
-> 1. Fall seven times, stand up eight. - Japanese Proverb
+> 1. Fall seven times, stand up eight. - Japanese Proverb - **Seven**
 > 1. Strength grows in the moments when you think you can not go on but you keep going anyway. - Anonymous
 > 1. When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford
 > 1. The journey of a thousand miles begins with a single step. - Lao Tzu
