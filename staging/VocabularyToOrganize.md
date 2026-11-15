@@ -675,6 +675,15 @@
 **Antonyms**: honesty, integrity, fairness
 
 
+## Con artist
+
+**Meaning**: A person who deceives others to obtain money or personal gain.
+**Usage**: "A con artist posed as a patron and tried to sell the royal court a forged Renaissance portrait." - The artist's story ends with the fraud being exposed.
+**Grammar**: Noun
+**Synonyms**: fraudster, swindler, scammer
+**Antonyms**: honest person, benefactor, philanthropist
+
+
 ## Con Artists
 
 **Meaning**: People who deceive others for money, status, or personal gain.
@@ -1251,6 +1260,15 @@
 **Antonyms**: focused, guided, directed
 
 
+## Divinities
+
+**Meaning**: Gods or other divine beings.
+**Usage**: "The painter covered the palace ceiling with scenes of divinities." - The plural refers to more than one god or divine being.
+**Grammar**: Plural noun; singular: divinity
+**Synonyms**: gods, deities, celestial beings
+**Antonyms**: mortals, humans
+
+
 ## Docile
 
 **Meaning**: Quiet, obedient, and easy to control.
@@ -1563,6 +1581,24 @@
 **Grammar**: Verb; past tense and past participle: flattered; present participle: flattering.
 **Synonyms**: praise, compliment, fawn on
 **Antonyms**: criticize, disparage, insult
+
+
+## Flattering
+
+**Meaning**: Praising someone, often to please them or gain their approval.
+**Usage**: "The courtier's flattering praise pleased the vain king and won the artist an audience." - The praise was meant to please the king.
+**Grammar**: Verb (present participle of flatter); also used as an adjective
+**Synonyms**: complimentary, praising, laudatory
+**Antonyms**: critical, disparaging, insulting
+
+
+## Flaunting
+
+**Meaning**: Showing something off proudly or conspicuously, often to impress others.
+**Usage**: "The duke was flaunting the royal artist's portrait at the court." - He displayed it proudly to attract attention.
+**Grammar**: Verb (present participle of flaunt); also used as a gerund
+**Synonyms**: showing off, displaying, parading
+**Antonyms**: hiding, concealing, downplaying
 
 
 ## Fleece
@@ -2573,6 +2609,15 @@
 **Antonyms**: slow, gradual, stagnant
 
 
+## Mightiest
+
+**Meaning**: Most powerful or strongest.
+**Usage**: "The mightiest patrons competed to commission the royal artist." - Mightiest describes those with the greatest power or influence.
+**Grammar**: Adjective; superlative of mighty
+**Synonyms**: strongest, most powerful, most influential
+**Antonyms**: weakest, least powerful, most powerless
+
+
 ## Misperception
 
 **Meaning**: A mistaken understanding or interpretation of something.
@@ -2951,6 +2996,15 @@
 **Antonyms**: opposition, neglect, merit-based appointment
 
 
+## Patrons
+
+**Meaning**: People who support, fund, or commission artists or other creators.
+**Usage**: "The patrons funded the royal artist's Renaissance-inspired paintings." - Their support enabled the artist to create the work.
+**Grammar**: Plural noun; singular: patron
+**Synonyms**: sponsors, benefactors, supporters
+**Antonyms**: opponents, detractors, adversaries
+
+
 ## Pauper
 
 **Meaning**: A very poor person; someone with no money or means.
@@ -3111,6 +3165,24 @@
 **Grammar**: Proper noun (abbreviation; statistical term)
 **Synonyms**: inverse CDF, quantile function, percentile function
 **Antonyms**: CDF, PDF, direct probability mapping
+
+
+## Pre-eminence
+
+**Meaning**: The state of being superior or more important than others.
+**Usage**: "The royal artist earned pre-eminence among the painters of the court." - The artist became recognized as the leading painter.
+**Grammar**: Noun
+**Synonyms**: superiority, distinction, prominence
+**Antonyms**: inferiority, obscurity, insignificance
+
+
+## Precarious
+
+**Meaning**: Unstable, uncertain, or likely to become dangerous.
+**Usage**: "The artist's position became precarious when a patron discovered the forged portrait." - The artist's place at court was no longer secure.
+**Grammar**: Adjective
+**Synonyms**: risky, unstable, uncertain
+**Antonyms**: safe, secure, stable
 
 
 ## Predicament
@@ -3442,6 +3514,15 @@
 **Grammar**: Noun
 **Synonyms**: regret, contrition, penitence
 **Antonyms**: indifference, remorselessness, pride
+
+
+## Renaissance
+
+**Meaning**: A revival of art, literature, and learning, especially in Europe from the 14th to the 17th century.
+**Usage**: "The patrons funded a Renaissance-style portrait, but a con artist tried to pass off a forgery." - The period is associated with renewed artistic and intellectual activity.
+**Grammar**: Noun; often capitalized when referring to the historical period
+**Synonyms**: rebirth, revival, renewal
+**Antonyms**: decline, stagnation, regression
 
 
 ## Reorients
@@ -3856,6 +3937,15 @@
 **Grammar**: Verb, noun
 **Synonyms**: glitter, shine, twinkle
 **Antonyms**: dullness, dimness, fade
+
+
+## Spectacle
+
+**Meaning**: An impressive or striking sight or public display.
+**Usage**: "The royal artist's unveiling became a spectacle that captivated the king and court." - This opens the 31-Jul-2026 royal-artist story.
+**Grammar**: Noun
+**Synonyms**: display, pageant, show
+**Antonyms**: ordinary sight, understatement, inconspicuousness
 
 
 ## Speculated
@@ -4518,7 +4608,7 @@
 ## Vanity
 
 **Meaning**: Excessive pride in one's appearance or achievements; also, the quality of being futile or pointless.
-**Usage**: "His vanity made him seek praise for every small achievement." - Here, vanity means excessive self-admiration.
+**Usage**: "Proud of the spectacle, the king's vanity led him to invite wealthy patrons to the next exhibition." - This links the 31-Jul-2026 royal-artist story from spectacle to patrons.
 **Grammar**: Noun
 **Synonyms**: conceit, self-importance, pride; futility, pointlessness
 **Antonyms**: humility, modesty; usefulness, purpose
