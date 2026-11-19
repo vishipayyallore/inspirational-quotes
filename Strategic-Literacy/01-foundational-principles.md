@@ -20,18 +20,6 @@ I am collecting the Inspirational Quotes / Wisdom from different sources.
 > 1. The crooked stay untouched; the straight are hammered. That’s the irony of life. - Anonymous
 > 1. Life’s sad truth: the crooked go free, while the straight are hammered down. - Anonymous
 
-```text
-🌸 The Law of Karma 🌸
-
-🌿 Karma and Kindness
-
-When we do good for others with a genuine heart, goodness always returns — sometimes in ways we least expect. ✨
-
-And when we do wrong to others, that too finds its way back — in this life, or the next, or the one after, **until the score is settled**. 🌸
-
-— Viswanatha Swamy P K
-```
-
 ## Power and Influence Wisdom
 
 > 1. **Never** outshine the Master. - Anonymous
@@ -136,6 +124,20 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Your career significantly influences your overall well-being.
 > 1. The right career choice enhances happiness and health.
 > 1. Adapt your priorities as your needs and goals evolve.
+
+## The Law of Karma
+
+```text
+🌸 The Law of Karma 🌸
+
+🌿 Karma and Kindness
+
+When we do good for others with a genuine heart, goodness always returns — sometimes in ways we least expect. ✨
+
+And when we do wrong to others, that too finds its way back — in this life, or the next, or the one after, **until the score is settled**. 🌸
+
+— Viswanatha Swamy P K
+```
 
 ## The Wisdom of the Panchatantra
 
