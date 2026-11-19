@@ -182,14 +182,14 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. You may have to fight a battle more than once to win it. - Margaret Thatcher
 > 1. The key to success is to focus on goals, not obstacles. - Anonymous
 > 1. In the middle of difficulty lies opportunity. - Albert Einstein
-> 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius - **Seven**
+> 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
 > 1. Persistence is the most powerful force on earth, it can move mountains. - Albert Einstein
 > 1. Never give up on something that you can not go a day without thinking about. - Anonymous
 > 1. Success does not come from what you do occasionally, it comes from what you do consistently. - Marie Forleo
 > 1. Do not be discouraged. it is often the last key in the bunch that opens the lock. - Anonymous
 > 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher
 > 1. The secret of getting ahead is getting started. - Mark Twain
-> 1. It is friends who makes you rich, not money - Swami Chinmayananda
+> 1. It is friends who makes you rich, not money - Swami Chinmayananda - **Seven**
 
 ## Success
 

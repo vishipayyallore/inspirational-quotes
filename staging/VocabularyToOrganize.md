@@ -180,6 +180,15 @@
 **Antonyms**: humble, modest, respectful
 
 
+## Articulated
+
+**Meaning**: Clearly expressed; also, joined by joints.
+**Usage**: "The ambassador articulated the treaty's terms beside an articulated figure in the royal gallery." - The first use means expressed clearly; the second describes something joined at movable points.
+**Grammar**: Adjective; also the past tense and past participle of the verb articulate.
+**Synonyms**: clearly stated, expressed, jointed, hinged
+**Antonyms**: inarticulate, unexpressed, rigid
+
+
 ## Ascendancy
 
 **Meaning**: A position of growing power, influence, or control over others.
@@ -540,6 +549,15 @@
 **Antonyms**: blessing, good fortune, success
 
 
+## Caroms
+
+**Meaning**: Bounces off a surface; also, a billiard rebound.
+**Usage**: "The billiard ball caroms off the cushion in the palace game room." - The ball rebounds from one surface and continues moving.
+**Grammar**: Verb, third-person singular of carom; also a plural noun for billiard rebounds.
+**Synonyms**: rebounds, ricochets, banks
+**Antonyms**: stops, sticks
+
+
 ## CDF
 
 **Meaning**: Cumulative Distribution Function; gives the probability that a random variable is less than or equal to a specific value.
@@ -880,6 +898,15 @@
 **Grammar**: Verb
 **Synonyms**: comfort, reassure, soothe
 **Antonyms**: distress, upset, discourage
+
+
+## Consummate
+
+**Meaning**: Showing perfect or complete skill; as a verb, to complete or bring to fulfillment, including a marriage.
+**Usage**: "The royal painter showed consummate skill in every detail of the portrait." - Consummate describes exceptional mastery.
+**Grammar**: Adjective; also a verb meaning to complete or fulfill.
+**Synonyms**: masterful, accomplished, perfect, complete
+**Antonyms**: inept, unskilled, incomplete
 
 
 ## Contemplating
@@ -1997,6 +2024,15 @@
 **Antonyms**: sincere person, honest person, genuine person
 
 
+## Illustrious
+
+**Meaning**: Famous and respected, especially for achievements.
+**Usage**: "The illustrious artist's royal portraits were admired across the kingdom." - The artist was widely known and honored.
+**Grammar**: Adjective.
+**Synonyms**: distinguished, eminent, celebrated, renowned
+**Antonyms**: obscure, unknown, undistinguished
+
+
 ## Inadvertently
 
 **Meaning**: Unintentionally or by mistake.
@@ -2958,6 +2994,15 @@
 **Grammar**: Noun
 **Synonyms**: contradiction, puzzle, seeming inconsistency
 **Antonyms**: consistency, straightforward statement, clear-cut truth
+
+
+## Paragon
+
+**Meaning**: A perfect example or model of excellence.
+**Usage**: "The royal portrait was a paragon of Renaissance artistry." - It was an outstanding example of artistic excellence.
+**Grammar**: Noun.
+**Synonyms**: exemplar, model, ideal, epitome
+**Antonyms**: poor example, failure
 
 
 ## Paranoid

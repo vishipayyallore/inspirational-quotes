@@ -42,8 +42,8 @@ Action(s) taken:
 Outcome / verification:
 `pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260906-1319.txt"` -> All 26 vocabulary files OK.
 
-Reasoning summary: Organized the 24-Aug-2026 vocabulary batch, preserving existing canonical entries for Elicit, Pragmatic, and Rhetoric.
-- Added 14 unique words to their alphabet files and updated navigation and the master index
-- Removed the consumed copies from staging
-Outcome / verification:
-`pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20260908-065711.txt"` -> All 26 vocabulary files OK.
+24-Aug batch: Added 14 unique words, preserved Elicit, Pragmatic, and Rhetoric, and removed consumed staging entries; see `Logs/verify-20260908-065711.txt` (all 26 OK).
+
+Reasoning summary: Added only the missing 28-Jul-2026 words to staging and retained existing canonical entries.
+Action(s) taken: Added Articulated, Caroms, Consummate, Illustrious, and Paragon in alphabetical order.
+`pwsh -NoProfile -ExecutionPolicy Bypass -File "Scripts/Verify-Vocabulary.ps1" -Root "c:/GitHub/inspirational-quotes/EnglishLearning/Vocabulary" -OutFile "Logs/verify-20261119-staging-vocabulary.txt"` -> All 26 vocabulary files OK.
