@@ -143,8 +143,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
-> 1. Be wary of the sweet words of a swindler. - Panchatantra - **Here**
-> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Be wary of the sweet words of a swindler. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra - **Here**
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
@@ -189,7 +189,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Do not be discouraged. it is often the last key in the bunch that opens the lock. - Anonymous
 > 1. Courage does not always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' - Mary Anne Radmacher
 > 1. The secret of getting ahead is getting started. - Mark Twain
-> 1. It is friends who makes you rich, not money - Swami Chinmayananda - **Seven**
+> 1. It is friends who makes you rich, not money - Swami Chinmayananda
 
 ## Success
 
@@ -199,7 +199,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
 > 1. You miss 100% of the shots you do not take. - Wayne Gretzky
 > 1. The best way to get started is to quit talking and begin doing. - Walt Disney
-> 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau
+> 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau - **Seven**
 > 1. Opportunities do not happen, you create them. - Chris Grosser
 > 1. Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 > 1. The best revenge is massive success. - Frank Sinatra
