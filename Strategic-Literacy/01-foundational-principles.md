@@ -143,8 +143,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
-> 1. Be wary of the sweet words of a swindler. - Panchatantra - **Here**
-> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Be wary of the sweet words of a swindler. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra - **Here**
 > 1. Wit can overcome even the most powerful adversaries. - Panchatantra
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
@@ -182,7 +182,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. You may have to fight a battle more than once to win it. - Margaret Thatcher
 > 1. The key to success is to focus on goals, not obstacles. - Anonymous
 > 1. In the middle of difficulty lies opportunity. - Albert Einstein
-> 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius - **Seven**
+> 1. Our greatest glory is not in never falling, but in rising every time we fall. - Confucius
 > 1. Persistence is the most powerful force on earth, it can move mountains. - Albert Einstein
 > 1. Never give up on something that you can not go a day without thinking about. - Anonymous
 > 1. Success does not come from what you do occasionally, it comes from what you do consistently. - Marie Forleo
@@ -199,7 +199,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
 > 1. You miss 100% of the shots you do not take. - Wayne Gretzky
 > 1. The best way to get started is to quit talking and begin doing. - Walt Disney
-> 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau
+> 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau - **Seven**
 > 1. Opportunities do not happen, you create them. - Chris Grosser
 > 1. Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 > 1. The best revenge is massive success. - Frank Sinatra
