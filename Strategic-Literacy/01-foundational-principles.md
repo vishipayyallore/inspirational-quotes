@@ -144,8 +144,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Avoid meddling in the affairs of others. - Panchatantra
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
-> 1. Greed inevitably leads to misery. - Panchatantra - **Here**
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Greed inevitably leads to misery. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra - **Here**
 > 1. Gather all the facts before accepting what you are told. - Panchatantra
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
@@ -199,14 +199,14 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
 > 1. You miss 100% of the shots you do not take. - Wayne Gretzky
 > 1. The best way to get started is to quit talking and begin doing. - Walt Disney
-> 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau - **Seven**
+> 1. Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau
 > 1. Opportunities do not happen, you create them. - Chris Grosser
 > 1. Success is the sum of small efforts, repeated day in and day out. - Robert Collier
 > 1. The best revenge is massive success. - Frank Sinatra
 > 1. Do not wait for opportunity. Create it. - Anonymous
 > 1. You do not have to be great to start, but you have to start to be great. - Zig Ziglar
 > 1. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer
-> 1. The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt
+> 1. The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt - **Seven**
 > 1. Do your thing and do not care if they like it. - Tina Fey
 > 1. Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds. - Orison Swett Marden
 > 1. Do not prioritize your schedule, but schedule your priorities. - Anonymous

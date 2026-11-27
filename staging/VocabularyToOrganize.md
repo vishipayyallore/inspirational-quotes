@@ -111,7 +111,7 @@
 ## Amusing
 
 **Meaning**: Funny, entertaining, or able to make someone smile or laugh.
-**Usage**: "The speaker shared an amusing story before beginning the lecture." - The story entertained the audience.
+**Usage**: "The speaker shared an amusing story before beginning the lecture." - The story entertained the audience; this word was included in the 29-Jul-2026 list.
 **Grammar**: Adjective; also the present participle of amuse
 **Synonyms**: funny, entertaining, humorous
 **Antonyms**: boring, serious, tedious
@@ -660,7 +660,7 @@
 ## Citadel
 
 **Meaning**: A strong fortress or secure place; a protected core area.
-**Usage**: "Our data citadel is secure and guarded." - Strong controls can protect the most valuable part of a system.
+**Usage**: "Our data citadel is secure and guarded." - Strong controls can protect the most valuable part of a system; this word was included in the 29-Jul-2026 list.
 **Grammar**: Noun
 **Synonyms**: fortress, stronghold, refuge
 **Antonyms**: vulnerability, exposure, openness
@@ -997,6 +997,15 @@
 **Grammar**: Noun (plural of coup)
 **Synonyms**: overthrows, takeovers, power grabs, seizures
 **Antonyms**: successions, restorations, stability, continuity
+
+
+## Courtesan
+
+**Meaning**: A woman who was a companion or lover of a person at a royal or wealthy court.
+**Usage**: "The courtesan was often seen among the courtiers at the palace." - A courtesan was associated with court life; this word is linked to Courtiers in the 28-Jul list and was included in the 29-Jul-2026 list.
+**Grammar**: Noun
+**Synonyms**: court companion, mistress, paramour
+**Antonyms**: N/A (no direct antonym)
 
 
 ## Craving
@@ -1646,6 +1655,15 @@
 **Antonyms**: ally, friend, supporter
 
 
+## Foibles
+
+**Meaning**: Minor weaknesses, faults, or unusual habits in a person's character.
+**Usage**: "Her small foibles made her seem more approachable." - Foibles are minor personal quirks or weaknesses; this word was included in the 29-Jul-2026 list.
+**Grammar**: Noun (plural)
+**Synonyms**: quirks, shortcomings, frailties
+**Antonyms**: strengths, virtues, merits
+
+
 ## Foment
 
 **Meaning**: To stir up or encourage trouble, conflict, or rebellion.
@@ -1694,10 +1712,19 @@
 ## Frivolous
 
 **Meaning**: Not serious or important; silly or lacking a sensible purpose.
-**Usage**: "The court dismissed the frivolous complaint." - It did not deserve serious consideration.
+**Usage**: "The court dismissed the frivolous complaint." - It did not deserve serious consideration; this word was included in the 29-Jul-2026 list and also appears in the 14-Sep list.
 **Grammar**: Adjective
 **Synonyms**: silly, trivial, flippant
 **Antonyms**: serious, important, weighty
+
+
+## Frown
+
+**Meaning**: To draw the eyebrows together or make a facial expression showing disapproval or displeasure.
+**Usage**: "She began to frown when she heard the unfair decision." - Her expression showed disapproval; this word was included in the 29-Jul-2026 list.
+**Grammar**: Verb; also a noun for the facial expression
+**Synonyms**: scowl, grimace, glower
+**Antonyms**: smile, grin
 
 
 ## FTO
@@ -2400,6 +2427,15 @@
 **Grammar**: Proper noun (abbreviation; analytics/business term)
 **Synonyms**: metric, benchmark, performance measure
 **Antonyms**: guesswork, unmeasured output, undefined target
+
+
+## Labyrinth
+
+**Meaning**: A maze or a complex network of passages or connected parts.
+**Usage**: "The old palace contained a labyrinth of narrow corridors." - The corridors formed a confusing, maze-like network; this word was included in the 29-Jul-2026 list.
+**Grammar**: Noun
+**Synonyms**: maze, maze-like network, network
+**Antonyms**: straight path, simplicity
 
 
 ## Laments
@@ -3129,6 +3165,15 @@
 **Grammar**: Verb (past tense and past participle of persuade)
 **Synonyms**: convinced, influenced, won over
 **Antonyms**: dissuaded, discouraged, deterred
+
+
+## Pertinent
+
+**Meaning**: Relevant or directly related to the matter being considered.
+**Usage**: "Please include only pertinent details in your report." - The details should relate directly to the subject; this word was included in the 29-Jul-2026 list.
+**Grammar**: Adjective
+**Synonyms**: relevant, applicable, germane
+**Antonyms**: irrelevant, unrelated, immaterial
 
 
 ## PI
@@ -4443,6 +4488,15 @@
 **Antonyms**: standstill, stagnation, immobility
 
 
+## Transgressing
+
+**Meaning**: Breaking or violating a rule, law, or boundary.
+**Usage**: "The official was punished for transgressing the rules." - The official violated the rules; this word was included in the 29-Jul-2026 list.
+**Grammar**: Verb (present participle of transgress)
+**Synonyms**: violating, breaking, infringing
+**Antonyms**: obeying, complying, observing
+
+
 ## Transgression
 
 **Meaning**: The act of breaking or going beyond a rule, law, or moral limit.
@@ -4576,6 +4630,15 @@
 **Grammar**: Adjective
 **Synonyms**: united, agreed, collective
 **Antonyms**: divided, split, dissenting
+
+
+## Underling
+
+**Meaning**: A person in a subordinate or junior position, especially at work.
+**Usage**: "The manager asked an underling to deliver the sealed letter." - The person held a lower-ranking position; this word was included in the 29-Jul-2026 list.
+**Grammar**: Noun
+**Synonyms**: subordinate, junior, assistant
+**Antonyms**: superior, supervisor, leader
 
 
 ## Unrelenting
