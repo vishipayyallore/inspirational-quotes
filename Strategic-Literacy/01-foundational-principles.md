@@ -145,8 +145,8 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Courage is essential for overcoming life's challenges. - Panchatantra
 > 1. Be wary of the sweet words of a swindler. - Panchatantra
 > 1. Greed inevitably leads to misery. - Panchatantra
-> 1. Wit can overcome even the most powerful adversaries. - Panchatantra - **Here**
-> 1. Gather all the facts before accepting what you are told. - Panchatantra
+> 1. Wit can overcome even the most powerful adversaries. - Panchatantra
+> 1. Gather all the facts before accepting what you are told. - Panchatantra - **Here**
 > 1. One's true nature will eventually be revealed. - Panchatantra
 > 1. Beware of the cunning and powerful. - Panchatantra
 > 1. Give your word with care, and keep it with honor. - Panchatantra
@@ -206,7 +206,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 > 1. Do not wait for opportunity. Create it. - Anonymous
 > 1. You do not have to be great to start, but you have to start to be great. - Zig Ziglar
 > 1. Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer
-> 1. The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt - **Seven**
+> 1. The only limit to our realization of tomorrow is our doubts of today. - Franklin D. Roosevelt
 > 1. Do your thing and do not care if they like it. - Tina Fey
 > 1. Success is not measured by what you accomplish, but the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds. - Orison Swett Marden
 > 1. Do not prioritize your schedule, but schedule your priorities. - Anonymous
@@ -216,7 +216,7 @@ And when we do wrong to others, that too finds its way back — in this life, or
 
 > 1. Happiness is not something readymade. It comes from your own actions. - Dalai Lama XIV
 > 1. It is better to be happy than to be right. - Anonymous
-> 1. Do not let small things ruin your happiness. Choose to be happy instead. - Anonymous
+> 1. Do not let small things ruin your happiness. Choose to be happy instead. - Anonymous - **Seven**
 > 1. Sometimes it is better to let things go than to hold on to them. - Anonymous
 > 1. The greatest wealth is health. - Virgil
 > 1. Happiness is not by chance, but by choice. - Jim Rohn
